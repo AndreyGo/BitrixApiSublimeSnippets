@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::__SetComplexVar(${1:varName},${2:value},${3:&\$arVars})]]></content>
+	<tabTrigger>CWizardBase::__SetComplexVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::GetUserInfo(${1:id},${2:path},${3:\$arParams = array()})]]></content>
+	<tabTrigger>CBlogUser::GetUserInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

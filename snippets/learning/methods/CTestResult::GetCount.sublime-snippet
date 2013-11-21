@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestResult::GetCount(${1:ATTEMPT_ID})]]></content>
+	<tabTrigger>CTestResult::GetCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

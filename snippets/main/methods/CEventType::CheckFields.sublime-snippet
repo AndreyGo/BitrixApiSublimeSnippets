@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventType::CheckFields(${1:\$arFields = array()},${2:\$action = "ADD"},${3:\$ID = array()})]]></content>
+	<tabTrigger>CEventType::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetStateParameters(${1:workflowId},${2:\$arStateParameters = array()})]]></content>
+	<tabTrigger>SetStateParameters</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

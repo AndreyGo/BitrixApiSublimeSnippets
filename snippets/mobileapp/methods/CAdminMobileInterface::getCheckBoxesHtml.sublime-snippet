@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileInterface::getCheckBoxesHtml(${1:arCB},${2:\$strTitle = ''},${3:\$arChecked = array()},${4:\$arParams = array()})]]></content>
+	<tabTrigger>CAdminMobileInterface::getCheckBoxesHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

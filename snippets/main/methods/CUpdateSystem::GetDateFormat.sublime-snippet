@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::GetDateFormat(${1:\$strDBFormat = false})]]></content>
+	<tabTrigger>CUpdateSystem::GetDateFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

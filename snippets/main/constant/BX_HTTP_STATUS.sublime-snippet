@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_HTTP_STATUS]]></content>
+	<tabTrigger>BX_HTTP_STATUS</tabTrigger>
+	<description>Bitrix CHTTP::SetStatus</description>
+	<scope>source.php</scope>
+</snippet>

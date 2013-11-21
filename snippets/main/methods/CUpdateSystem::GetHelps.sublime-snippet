@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::GetHelps(${1:&strError},${2:\$arSelected = false})]]></content>
+	<tabTrigger>CUpdateSystem::GetHelps</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

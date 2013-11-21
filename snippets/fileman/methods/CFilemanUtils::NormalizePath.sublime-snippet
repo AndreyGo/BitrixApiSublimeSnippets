@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtils::NormalizePath(${1:path})]]></content>
+	<tabTrigger>CFilemanUtils::NormalizePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

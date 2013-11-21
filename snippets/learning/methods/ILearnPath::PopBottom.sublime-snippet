@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnPath::PopBottom()]]></content>
+	<tabTrigger>ILearnPath::PopBottom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

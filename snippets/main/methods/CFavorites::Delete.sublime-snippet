@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFavorites::Delete(${1:ID})]]></content>
+	<tabTrigger>CFavorites::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::ShowHTMLEditControl(${1:name},${2:content},${3:\$arParams = Array()})]]></content>
+	<tabTrigger>CFileMan::ShowHTMLEditControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

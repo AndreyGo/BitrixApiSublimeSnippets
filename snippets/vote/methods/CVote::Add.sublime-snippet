@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::Add(${1:arFields},${2:\$strUploadDir = false})]]></content>
+	<tabTrigger>CVote::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

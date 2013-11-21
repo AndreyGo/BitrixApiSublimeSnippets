@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::EmailsFromStringToArray(${1:emails},${2:\$res = null})]]></content>
+	<tabTrigger>CTicket::EmailsFromStringToArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

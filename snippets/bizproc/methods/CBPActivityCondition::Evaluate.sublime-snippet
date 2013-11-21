@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivityCondition::Evaluate(${1:CBPActivity ownerActivity})]]></content>
+	<tabTrigger>CBPActivityCondition::Evaluate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CList::is_readonly(${1:field_id})]]></content>
+	<tabTrigger>CList::is_readonly</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

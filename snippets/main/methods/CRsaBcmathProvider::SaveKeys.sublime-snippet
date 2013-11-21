@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::SaveKeys(${1:arKeys})]]></content>
+	<tabTrigger>CRsaBcmathProvider::SaveKeys</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

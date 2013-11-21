@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogAdmin::OnBuildGlobalMenu(${1:&aGlobalMenu},${2:&\$aModuleMenu})]]></content>
+	<tabTrigger>CCatalogAdmin::OnBuildGlobalMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

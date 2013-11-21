@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchParameters::_main(${1:arParam})]]></content>
+	<tabTrigger>CSearchParameters::_main</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXSaleProductProvider::GetStoresCount(${1:\$arFields = array()})]]></content>
+	<tabTrigger>IBXSaleProductProvider::GetStoresCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

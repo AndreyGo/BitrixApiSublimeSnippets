@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::GetList(${1:\$arOrder = array()},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>ILearnLesson::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

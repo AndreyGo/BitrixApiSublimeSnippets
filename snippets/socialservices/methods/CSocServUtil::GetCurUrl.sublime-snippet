@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServUtil::GetCurUrl(${1:\$addParam=""},${2:\$removeParam=false})]]></content>
+	<tabTrigger>CSocServUtil::GetCurUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

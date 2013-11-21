@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::Unlink()]]></content>
+	<tabTrigger>CControllerClient::Unlink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

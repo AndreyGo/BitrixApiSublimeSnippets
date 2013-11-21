@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::__AddGroupsCache(${1:intID},${2:\$arGroups = array()})]]></content>
+	<tabTrigger>CCatalogDiscountSave::__AddGroupsCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

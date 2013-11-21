@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::ParserUserfields(${1:&text},${2:&\$obj},${3:\$type="html"})]]></content>
+	<tabTrigger>forumTextParser::ParserUserfields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

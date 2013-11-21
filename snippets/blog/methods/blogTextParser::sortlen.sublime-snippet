@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser::sortlen(${1:a},${2:b})]]></content>
+	<tabTrigger>blogTextParser::sortlen</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

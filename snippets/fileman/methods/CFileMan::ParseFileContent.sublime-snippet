@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::ParseFileContent(${1:filesrc},${2:\$bCheckProlog = false})]]></content>
+	<tabTrigger>CFileMan::ParseFileContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

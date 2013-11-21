@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceMeasure::GetPHPFilesMark()]]></content>
+	<tabTrigger>CPerfomanceMeasure::GetPHPFilesMark</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

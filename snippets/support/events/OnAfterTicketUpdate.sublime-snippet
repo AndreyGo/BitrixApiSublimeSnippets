@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterTicketUpdate]]></content>
+	<tabTrigger>OnAfterTicketUpdate</tabTrigger>
+	<description>Bitrix CTicket::Set</description>
+	<scope>source.php</scope>
+</snippet>

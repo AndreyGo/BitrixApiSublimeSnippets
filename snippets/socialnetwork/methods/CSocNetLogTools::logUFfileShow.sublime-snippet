@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::logUFfileShow(${1:arResult},${2:arParams})]]></content>
+	<tabTrigger>CSocNetLogTools::logUFfileShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

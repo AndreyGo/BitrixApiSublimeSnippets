@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::SetOptions(${1:arOptions})]]></content>
+	<tabTrigger>CSearch::SetOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

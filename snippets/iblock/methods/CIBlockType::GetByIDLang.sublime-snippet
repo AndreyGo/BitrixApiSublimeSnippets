@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockType::GetByIDLang(${1:ID},${2:LID},${3:\$bFindAny = true})]]></content>
+	<tabTrigger>CIBlockType::GetByIDLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

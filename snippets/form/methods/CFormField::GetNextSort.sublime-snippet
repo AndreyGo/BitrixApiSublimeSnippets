@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormField::GetNextSort(${1:WEB_FORM_ID})]]></content>
+	<tabTrigger>CFormField::GetNextSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

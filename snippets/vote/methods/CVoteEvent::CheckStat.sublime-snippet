@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteEvent::CheckStat(${1:arParams},${2:\$bForseCheckStat = false})]]></content>
+	<tabTrigger>CVoteEvent::CheckStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

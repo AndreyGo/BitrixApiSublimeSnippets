@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetJSFunctionsForFields(${1:parameterDocumentType},${2:objectName},${3:\$arDocumentFields = array()},${4:\$arDocumentFieldTypes = array()})]]></content>
+	<tabTrigger>GetJSFunctionsForFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

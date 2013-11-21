@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::MakeSQL(${1:query},${2:strSqlWhere},${3:strSort},${4:bIncSites},${5:bStem})]]></content>
+	<tabTrigger>CSearch::MakeSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

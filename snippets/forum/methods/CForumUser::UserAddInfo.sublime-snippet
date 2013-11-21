@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::UserAddInfo(${1:\$arOrder = array()},${2:\$arFilter = Array()},${3:\$mode = false},${4:\$iNum = 0},${5:\$check_permission = true},${6:\$arNavigation = array()})]]></content>
+	<tabTrigger>CForumUser::UserAddInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

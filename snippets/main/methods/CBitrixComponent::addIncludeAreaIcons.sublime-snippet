@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::addIncludeAreaIcons(${1:arIcons})]]></content>
+	<tabTrigger>CBitrixComponent::addIncludeAreaIcons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

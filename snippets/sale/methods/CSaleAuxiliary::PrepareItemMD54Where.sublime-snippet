@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAuxiliary::PrepareItemMD54Where(${1:val},${2:key},${3:operation},${4:negative},${5:field},${6:&\$arField},${7:&\$arFilter})]]></content>
+	<tabTrigger>CSaleAuxiliary::PrepareItemMD54Where</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetRatingsConfigs]]></content>
+	<tabTrigger>OnGetRatingsConfigs</tabTrigger>
+	<description>Bitrix CRatings::GetRatingConfigs</description>
+	<scope>source.php</scope>
+</snippet>

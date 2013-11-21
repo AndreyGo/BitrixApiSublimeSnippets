@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetCookieDomain()]]></content>
+	<tabTrigger>CMain::GetCookieDomain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

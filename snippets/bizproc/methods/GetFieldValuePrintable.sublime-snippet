@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFieldValuePrintable(${1:parameterDocumentId},${2:fieldName},${3:fieldType},${4:fieldValue},${5:\$arFieldType = null})]]></content>
+	<tabTrigger>GetFieldValuePrintable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

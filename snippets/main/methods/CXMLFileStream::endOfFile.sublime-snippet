@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLFileStream::endOfFile()]]></content>
+	<tabTrigger>CXMLFileStream::endOfFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

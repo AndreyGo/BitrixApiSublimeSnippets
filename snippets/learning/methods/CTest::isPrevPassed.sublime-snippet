@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTest::isPrevPassed(${1:ID},${2:SCORE})]]></content>
+	<tabTrigger>CTest::isPrevPassed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

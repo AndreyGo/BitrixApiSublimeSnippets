@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeRegionDelete]]></content>
+	<tabTrigger>OnBeforeRegionDelete</tabTrigger>
+	<description>Bitrix CSaleLocation::DeleteRegion</description>
+	<scope>source.php</scope>
+</snippet>

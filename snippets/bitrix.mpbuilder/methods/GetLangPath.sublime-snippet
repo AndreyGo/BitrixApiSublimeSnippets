@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLangPath(${1:file},${2:m_dir})]]></content>
+	<tabTrigger>GetLangPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

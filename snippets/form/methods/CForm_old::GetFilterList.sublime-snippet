@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetFilterList(${1:WEB_FORM_ID},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CForm_old::GetFilterList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

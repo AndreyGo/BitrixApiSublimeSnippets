@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::AddFindFields(${1:entity_id},${2:&\$arFindFields})]]></content>
+	<tabTrigger>CUserTypeManager::AddFindFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

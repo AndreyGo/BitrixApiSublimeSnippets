@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetErrorState(${1:\$bVarsFromForm = False})]]></content>
+	<tabTrigger>SetErrorState</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

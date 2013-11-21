@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServOdnoklassniki::Authorize()]]></content>
+	<tabTrigger>CSocServOdnoklassniki::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

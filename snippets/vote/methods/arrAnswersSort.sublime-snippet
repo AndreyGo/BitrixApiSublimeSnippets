@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[arrAnswersSort(${1:&arr},${2:\$order="desc"})]]></content>
+	<tabTrigger>arrAnswersSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

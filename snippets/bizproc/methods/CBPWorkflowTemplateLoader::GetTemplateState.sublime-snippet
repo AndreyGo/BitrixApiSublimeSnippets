@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::GetTemplateState(${1:workflowTemplateId},${2:\$stateName = ""})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::GetTemplateState</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

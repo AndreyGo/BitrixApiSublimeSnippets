@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleGroupAccessToSite::Add(${1:arFields})]]></content>
+	<tabTrigger>CSaleGroupAccessToSite::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

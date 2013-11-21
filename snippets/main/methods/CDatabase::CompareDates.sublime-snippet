@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::CompareDates(${1:date1},${2:date2})]]></content>
+	<tabTrigger>CDatabase::CompareDates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

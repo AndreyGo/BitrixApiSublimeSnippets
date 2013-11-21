@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_FormatDateMessage(${1:value},${2:messages})]]></content>
+	<tabTrigger>_FormatDateMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::OnBeforeIndexDelete(${1:strWhere})]]></content>
+	<tabTrigger>CSocNetSearchReindex::OnBeforeIndexDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

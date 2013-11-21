@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::ClearCoupon()]]></content>
+	<tabTrigger>CCatalogDiscount::ClearCoupon</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

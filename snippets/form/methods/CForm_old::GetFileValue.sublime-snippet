@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetFileValue(${1:RESULT_ID},${2:ANSWER_ID})]]></content>
+	<tabTrigger>CForm_old::GetFileValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

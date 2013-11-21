@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatEvent_GetCreatedBy(${1:arFields},${2:arParams},${3:bMail},${4:\$bFirstCaps = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatEvent_GetCreatedBy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

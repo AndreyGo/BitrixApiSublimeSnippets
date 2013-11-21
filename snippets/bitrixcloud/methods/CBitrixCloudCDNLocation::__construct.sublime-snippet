@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocation::__construct(${1:name},${2:proto},${3:prefixes})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocation::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

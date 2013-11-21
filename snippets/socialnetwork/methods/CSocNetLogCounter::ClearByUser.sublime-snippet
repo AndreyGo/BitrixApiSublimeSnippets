@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogCounter::ClearByUser(${1:user_id},${2:\$site_id = SITE_ID},${3:\$code = "**"},${4:\$page_size = 0},${5:\$page_last_date_1 = ""})]]></content>
+	<tabTrigger>CSocNetLogCounter::ClearByUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

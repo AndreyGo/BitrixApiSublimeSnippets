@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSectionPropertyLink::GetArray(${1:IBLOCK_ID},${2:\$SECTION_ID = 0},${3:\$bNewSection = false})]]></content>
+	<tabTrigger>CIBlockSectionPropertyLink::GetArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

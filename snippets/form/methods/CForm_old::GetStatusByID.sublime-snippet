@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetStatusByID(${1:ID})]]></content>
+	<tabTrigger>CForm_old::GetStatusByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

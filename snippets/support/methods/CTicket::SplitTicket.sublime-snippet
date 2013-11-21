@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::SplitTicket(${1:arParam})]]></content>
+	<tabTrigger>CTicket::SplitTicket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

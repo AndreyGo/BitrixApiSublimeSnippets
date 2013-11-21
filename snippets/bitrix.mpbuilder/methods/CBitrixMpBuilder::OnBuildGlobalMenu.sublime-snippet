@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixMpBuilder::OnBuildGlobalMenu(${1:&aGlobalMenu},${2:&\$aModuleMenu})]]></content>
+	<tabTrigger>CBitrixMpBuilder::OnBuildGlobalMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

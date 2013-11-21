@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__CreateMenuItem(${1:arPage})]]></content>
+	<tabTrigger>CWizard::__CreateMenuItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

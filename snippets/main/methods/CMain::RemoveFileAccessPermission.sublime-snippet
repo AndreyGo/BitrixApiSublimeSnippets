@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::RemoveFileAccessPermission(${1:path},${2:\$arGroups=false})]]></content>
+	<tabTrigger>CMain::RemoveFileAccessPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::_ReplaceTaskURL(${1:str},${2:documentType})]]></content>
+	<tabTrigger>CBPDocument::_ReplaceTaskURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

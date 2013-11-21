@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fGetUserShoppingCart(${1:arProduct},${2:LID},${3:recalcOrder})]]></content>
+	<tabTrigger>fGetUserShoppingCart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::InsertSpaces(${1:sText},${2:\$iMaxChar=80})]]></content>
+	<tabTrigger>CUpdateSystem::InsertSpaces</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

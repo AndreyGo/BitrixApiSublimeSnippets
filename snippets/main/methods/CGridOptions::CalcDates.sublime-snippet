@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::CalcDates(${1:field_id},${2:aInput},${3:&\$aRes})]]></content>
+	<tabTrigger>CGridOptions::CalcDates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

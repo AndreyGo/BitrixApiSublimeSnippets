@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ToFloat(${1:str})]]></content>
+	<tabTrigger>CIBlockCMLImport::ToFloat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

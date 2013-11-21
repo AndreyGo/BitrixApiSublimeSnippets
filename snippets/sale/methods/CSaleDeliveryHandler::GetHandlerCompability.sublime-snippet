@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::GetHandlerCompability(${1:arOrder},${2:arHandler},${3:\$SITE_ID = SITE_ID})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::GetHandlerCompability</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

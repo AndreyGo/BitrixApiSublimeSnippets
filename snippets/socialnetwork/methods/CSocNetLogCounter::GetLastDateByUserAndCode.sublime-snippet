@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogCounter::GetLastDateByUserAndCode(${1:user_id},${2:\$site_id = SITE_ID},${3:\$code = "**"})]]></content>
+	<tabTrigger>CSocNetLogCounter::GetLastDateByUserAndCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

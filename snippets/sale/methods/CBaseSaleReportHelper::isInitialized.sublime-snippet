@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::isInitialized()]]></content>
+	<tabTrigger>CBaseSaleReportHelper::isInitialized</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

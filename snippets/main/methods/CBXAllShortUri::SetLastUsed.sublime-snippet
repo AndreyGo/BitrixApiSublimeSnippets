@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXAllShortUri::SetLastUsed(${1:id})]]></content>
+	<tabTrigger>CBXAllShortUri::SetLastUsed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::BuildChangeType(${1:Params})]]></content>
+	<tabTrigger>CMedialib::BuildChangeType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

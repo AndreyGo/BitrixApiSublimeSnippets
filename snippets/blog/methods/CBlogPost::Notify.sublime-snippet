@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::Notify(${1:arPost},${2:arBlog},${3:arParams})]]></content>
+	<tabTrigger>CBlogPost::Notify</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

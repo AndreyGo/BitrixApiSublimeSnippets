@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDelivery::Update(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CSaleDelivery::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

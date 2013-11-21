@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscountActionApply::ApplyBasketDiscount(${1:&arOrder},${2:func},${3:dblValue},${4:strUnit})]]></content>
+	<tabTrigger>CSaleDiscountActionApply::ApplyBasketDiscount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_extractFile(${1:&arEntry},${2:path},${3:removePath},${4:removeAllPath},${5:&\$arParams})]]></content>
+	<tabTrigger>CZip::_extractFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

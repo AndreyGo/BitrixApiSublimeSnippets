@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::attachLangToColumnTree(${1:&tree},${2:initEntity},${3:helper_class},${4:\$preTitle = array()})]]></content>
+	<tabTrigger>CReport::attachLangToColumnTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

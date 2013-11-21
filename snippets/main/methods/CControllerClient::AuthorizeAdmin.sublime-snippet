@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::AuthorizeAdmin(${1:\$arParams = Array()})]]></content>
+	<tabTrigger>CControllerClient::AuthorizeAdmin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

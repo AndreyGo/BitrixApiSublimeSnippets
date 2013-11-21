@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumShowError(${1:arError},${2:\$bShowErrorCode = false})]]></content>
+	<tabTrigger>ForumShowError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

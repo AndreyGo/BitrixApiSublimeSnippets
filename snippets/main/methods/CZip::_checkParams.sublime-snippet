@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_checkParams(${1:&arParams},${2:arDefaultValues})]]></content>
+	<tabTrigger>CZip::_checkParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

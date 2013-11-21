@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageStartInstall::CPackageStartInstall(${1:package},${2:arSelected})]]></content>
+	<tabTrigger>CPackageStartInstall::CPackageStartInstall</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

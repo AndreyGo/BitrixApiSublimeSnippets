@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetComponentMenu(${1:mode},${2:arButtons})]]></content>
+	<tabTrigger>CIBlock::GetComponentMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

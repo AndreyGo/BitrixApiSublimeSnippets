@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSnippets::Delete(${1:Params})]]></content>
+	<tabTrigger>CSnippets::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

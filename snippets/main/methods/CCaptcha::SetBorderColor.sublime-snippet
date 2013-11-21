@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetBorderColor(${1:arColor})]]></content>
+	<tabTrigger>CCaptcha::SetBorderColor</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

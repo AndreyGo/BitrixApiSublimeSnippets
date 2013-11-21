@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnParsePermissionsFromFilter::DetermineRequestedUserId(${1:arFilter},${2:loggedUserId})]]></content>
+	<tabTrigger>CLearnParsePermissionsFromFilter::DetermineRequestedUserId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

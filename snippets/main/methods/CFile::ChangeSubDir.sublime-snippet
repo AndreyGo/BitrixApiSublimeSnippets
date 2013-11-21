@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ChangeSubDir(${1:module_id},${2:old_subdir},${3:new_subdir})]]></content>
+	<tabTrigger>CFile::ChangeSubDir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

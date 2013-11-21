@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::StartWorkflowParametersShow(${1:templateId},${2:arWorkflowParameters},${3:formName},${4:bVarsFromForm},${5:\$documentType = null})]]></content>
+	<tabTrigger>CBPDocument::StartWorkflowParametersShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::MakeNewDir(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::MakeNewDir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

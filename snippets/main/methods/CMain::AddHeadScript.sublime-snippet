@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddHeadScript(${1:src},${2:\$additional=false})]]></content>
+	<tabTrigger>CMain::AddHeadScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::OnFileSave(${1:&arFile},${2:strFileName},${3:strSavePath},${4:\$bForceMD5 = false},${5:\$bSkipExt = false})]]></content>
+	<tabTrigger>CCloudStorage::OnFileSave</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

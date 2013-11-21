@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::GetNextStartDate(${1:CHANNEL_ID})]]></content>
+	<tabTrigger>CVote::GetNextStartDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

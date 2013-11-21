@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::DeleteRelation(${1:senderUserID},${2:targetUserID})]]></content>
+	<tabTrigger>CSocNetUserRelations::DeleteRelation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

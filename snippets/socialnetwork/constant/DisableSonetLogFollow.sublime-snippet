@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisableSonetLogFollow]]></content>
+	<tabTrigger>DisableSonetLogFollow</tabTrigger>
+	<description>Bitrix CSocNetLogCounter::GetSubSelect</description>
+	<scope>source.php</scope>
+</snippet>

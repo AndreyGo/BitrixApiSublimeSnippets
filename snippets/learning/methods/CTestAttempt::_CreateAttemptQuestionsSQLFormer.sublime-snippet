@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::_CreateAttemptQuestionsSQLFormer(${1:ATTEMPT_ID},${2:arTest},${3:clauseAllChildsLessons},${4:courseLessonId})]]></content>
+	<tabTrigger>CTestAttempt::_CreateAttemptQuestionsSQLFormer</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

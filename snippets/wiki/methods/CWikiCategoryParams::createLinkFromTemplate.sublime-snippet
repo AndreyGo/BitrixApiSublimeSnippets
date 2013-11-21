@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiCategoryParams::createLinkFromTemplate(${1:\$sTemplate=""})]]></content>
+	<tabTrigger>CWikiCategoryParams::createLinkFromTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

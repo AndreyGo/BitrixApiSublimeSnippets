@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::OnBeforeLangDelete(${1:lang})]]></content>
+	<tabTrigger>CForumNew::OnBeforeLangDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

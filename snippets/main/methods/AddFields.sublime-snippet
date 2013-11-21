@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddFields(${1:arFields})]]></content>
+	<tabTrigger>AddFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

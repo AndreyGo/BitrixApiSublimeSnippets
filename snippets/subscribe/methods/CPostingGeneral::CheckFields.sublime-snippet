@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingGeneral::CheckFields(${1:arFields},${2:ID})]]></content>
+	<tabTrigger>CPostingGeneral::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

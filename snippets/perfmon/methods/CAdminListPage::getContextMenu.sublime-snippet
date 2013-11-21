@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListPage::getContextMenu()]]></content>
+	<tabTrigger>CAdminListPage::getContextMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

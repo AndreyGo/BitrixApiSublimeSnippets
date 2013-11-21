@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::isResultStatusChangeAccess()]]></content>
+	<tabTrigger>CFormOutput::isResultStatusChangeAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

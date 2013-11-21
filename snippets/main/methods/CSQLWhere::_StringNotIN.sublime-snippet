@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSQLWhere::_StringNotIN(${1:field},${2:sql_values})]]></content>
+	<tabTrigger>CSQLWhere::_StringNotIN</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

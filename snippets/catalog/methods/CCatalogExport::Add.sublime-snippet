@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogExport::Add(${1:arFields})]]></content>
+	<tabTrigger>CCatalogExport::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

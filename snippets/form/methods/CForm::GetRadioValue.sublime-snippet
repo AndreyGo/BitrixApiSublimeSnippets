@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetRadioValue(${1:FIELD_NAME},${2:arAnswer},${3:\$arrVALUES=false})]]></content>
+	<tabTrigger>CForm::GetRadioValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

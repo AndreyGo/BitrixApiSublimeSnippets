@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaOpensslProvider::Keygen(${1:\$keylen=false})]]></content>
+	<tabTrigger>CRsaOpensslProvider::Keygen</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

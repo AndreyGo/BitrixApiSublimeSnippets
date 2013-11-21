@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserPerms::Add(${1:arFields})]]></content>
+	<tabTrigger>CSocNetUserPerms::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisplayList(${1:\$arParams = array()})]]></content>
+	<tabTrigger>DisplayList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

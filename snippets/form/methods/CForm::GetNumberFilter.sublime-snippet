@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetNumberFilter(${1:FID},${2:\$size="10"},${3:\$field="class=\"inputtext\""})]]></content>
+	<tabTrigger>CForm::GetNumberFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

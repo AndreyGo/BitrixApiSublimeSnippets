@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__struct_get_files(${1:doc_root},${2:\$path=""},${3:\$open_path=""},${4:\$dirsonly=false})]]></content>
+	<tabTrigger>__struct_get_files</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

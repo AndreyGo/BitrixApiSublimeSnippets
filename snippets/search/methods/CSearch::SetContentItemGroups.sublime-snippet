@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::SetContentItemGroups(${1:index_id},${2:arGroups})]]></content>
+	<tabTrigger>CSearch::SetContentItemGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

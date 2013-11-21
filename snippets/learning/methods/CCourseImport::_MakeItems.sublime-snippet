@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourseImport::_MakeItems(${1:TITLE},${2:TYPE},${3:RES_ID},${4:PARENT_ID})]]></content>
+	<tabTrigger>CCourseImport::_MakeItems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

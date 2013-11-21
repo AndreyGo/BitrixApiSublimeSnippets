@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::GetTypeById(${1:id},${2:\$arMLTypes = false})]]></content>
+	<tabTrigger>CMedialib::GetTypeById</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

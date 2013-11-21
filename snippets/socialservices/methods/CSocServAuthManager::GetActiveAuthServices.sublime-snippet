@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuthManager::GetActiveAuthServices(${1:arParams})]]></content>
+	<tabTrigger>CSocServAuthManager::GetActiveAuthServices</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

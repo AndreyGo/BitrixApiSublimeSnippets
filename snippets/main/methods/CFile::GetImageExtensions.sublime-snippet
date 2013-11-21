@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetImageExtensions()]]></content>
+	<tabTrigger>CFile::GetImageExtensions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

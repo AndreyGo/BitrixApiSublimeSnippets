@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMChat::GetMessage(${1:ID})]]></content>
+	<tabTrigger>CIMChat::GetMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

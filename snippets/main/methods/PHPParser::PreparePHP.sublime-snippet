@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPParser::PreparePHP(${1:str})]]></content>
+	<tabTrigger>PHPParser::PreparePHP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

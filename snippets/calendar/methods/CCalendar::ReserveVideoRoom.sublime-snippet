@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::ReserveVideoRoom(${1:Params})]]></content>
+	<tabTrigger>CCalendar::ReserveVideoRoom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

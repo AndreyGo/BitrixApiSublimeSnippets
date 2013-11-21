@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnSharedArgManager::StaticParser(${1:arOptions},${2:arParseParams})]]></content>
+	<tabTrigger>CLearnSharedArgManager::StaticParser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

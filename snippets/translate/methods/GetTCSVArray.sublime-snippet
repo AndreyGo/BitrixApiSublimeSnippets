@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTCSVArray()]]></content>
+	<tabTrigger>GetTCSVArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

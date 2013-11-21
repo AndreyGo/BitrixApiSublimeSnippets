@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_GoogleStorage::CreateBucket(${1:arBucket})]]></content>
+	<tabTrigger>CCloudStorageService_GoogleStorage::CreateBucket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

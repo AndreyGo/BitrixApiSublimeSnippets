@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetAuthResult(${1:arAuthResult})]]></content>
+	<tabTrigger>CMain::SetAuthResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

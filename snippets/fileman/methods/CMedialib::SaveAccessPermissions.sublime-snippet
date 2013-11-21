@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::SaveAccessPermissions(${1:colId},${2:arTaskPerm})]]></content>
+	<tabTrigger>CMedialib::SaveAccessPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetUserNameTemplate(${1:\$fromSite = true})]]></content>
+	<tabTrigger>CCalendar::GetUserNameTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

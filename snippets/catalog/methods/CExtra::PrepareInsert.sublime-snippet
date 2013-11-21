@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CExtra::PrepareInsert(${1:&arFields},${2:&\$intID})]]></content>
+	<tabTrigger>CExtra::PrepareInsert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

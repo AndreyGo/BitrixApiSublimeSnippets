@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::FormatLimit(${1:strSql},${2:limit})]]></content>
+	<tabTrigger>CSearch::FormatLimit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

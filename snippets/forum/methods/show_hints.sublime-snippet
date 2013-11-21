@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[show_hints(${1:msg})]]></content>
+	<tabTrigger>show_hints</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

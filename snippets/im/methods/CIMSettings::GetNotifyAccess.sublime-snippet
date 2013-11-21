@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMSettings::GetNotifyAccess(${1:userId},${2:moduleId},${3:eventId},${4:clientId})]]></content>
+	<tabTrigger>CIMSettings::GetNotifyAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

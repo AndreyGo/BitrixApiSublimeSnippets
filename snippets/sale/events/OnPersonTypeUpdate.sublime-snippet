@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPersonTypeUpdate]]></content>
+	<tabTrigger>OnPersonTypeUpdate</tabTrigger>
+	<description>Bitrix CSalePersonType::Update</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetSupportClientRoleID()]]></content>
+	<tabTrigger>CTicket::GetSupportClientRoleID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

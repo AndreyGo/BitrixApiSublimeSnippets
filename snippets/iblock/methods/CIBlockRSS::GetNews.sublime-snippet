@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::GetNews(${1:ID},${2:LANG},${3:TYPE},${4:SITE},${5:PORT},${6:PATH},${7:\$LIMIT = 0})]]></content>
+	<tabTrigger>CIBlockRSS::GetNews</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

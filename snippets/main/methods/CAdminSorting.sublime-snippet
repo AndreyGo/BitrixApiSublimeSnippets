@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSorting(${1:table_id},${2:\$by_initial=false},${3:\$order_initial=false},${4:\$by_name="by"},${5:\$ord_name="order"})]]></content>
+	<tabTrigger>CAdminSorting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

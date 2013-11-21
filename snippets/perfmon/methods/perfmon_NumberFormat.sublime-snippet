@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[perfmon_NumberFormat(${1:num},${2:\$dec=2},${3:\$html=true})]]></content>
+	<tabTrigger>perfmon_NumberFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

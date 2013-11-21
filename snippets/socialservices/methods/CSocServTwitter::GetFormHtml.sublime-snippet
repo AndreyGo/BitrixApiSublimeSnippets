@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServTwitter::GetFormHtml(${1:arParams})]]></content>
+	<tabTrigger>CSocServTwitter::GetFormHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

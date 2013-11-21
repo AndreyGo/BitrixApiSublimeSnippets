@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::GetPageNavString(${1:navigationTitle},${2:\$templateName = ""},${3:\$showAlways=false},${4:\$parentComponent=null})]]></content>
+	<tabTrigger>CDBResult::GetPageNavString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

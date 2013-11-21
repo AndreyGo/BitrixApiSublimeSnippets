@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEditArea::__GetEditAreas()]]></content>
+	<tabTrigger>CEditArea::__GetEditAreas</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

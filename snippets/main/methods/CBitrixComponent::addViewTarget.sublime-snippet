@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::addViewTarget(${1:target},${2:content},${3:pos})]]></content>
+	<tabTrigger>CBitrixComponent::addViewTarget</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

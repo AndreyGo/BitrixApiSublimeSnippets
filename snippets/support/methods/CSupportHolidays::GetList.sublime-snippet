@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportHolidays::GetList(${1:arSort},${2:arFilter})]]></content>
+	<tabTrigger>CSupportHolidays::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SITE_SERVER_NAME]]></content>
+	<tabTrigger>SITE_SERVER_NAME</tabTrigger>
+	<description>Bitrix CBPHelper::ConvertTextForMail</description>
+	<scope>source.php</scope>
+</snippet>

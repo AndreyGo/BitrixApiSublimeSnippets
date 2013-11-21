@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCryptblowfish::__Encrypt(${1:block})]]></content>
+	<tabTrigger>CCryptblowfish::__Encrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

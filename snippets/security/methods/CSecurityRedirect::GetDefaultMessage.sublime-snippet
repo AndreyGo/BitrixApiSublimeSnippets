@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityRedirect::GetDefaultMessage(${1:\$language_id = false})]]></content>
+	<tabTrigger>CSecurityRedirect::GetDefaultMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

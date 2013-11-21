@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::getInstance()]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::getInstance</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

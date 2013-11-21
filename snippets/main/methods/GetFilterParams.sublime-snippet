@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFilterParams(${1:\$var="filter_"},${2:\$bDoHtmlEncode=true},${3:\$button = array("filter" => "Y"},${4:"set_filter" => "Y")})]]></content>
+	<tabTrigger>GetFilterParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

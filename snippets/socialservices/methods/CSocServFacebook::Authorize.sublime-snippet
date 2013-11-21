@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServFacebook::Authorize()]]></content>
+	<tabTrigger>CSocServFacebook::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_GetHistoryList(${1:ELEMENT_ID},${2:&\$by},${3:&\$order},${4:\$arFilter=Array()},${5:&\$is_filtered})]]></content>
+	<tabTrigger>CIBlockElement::WF_GetHistoryList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

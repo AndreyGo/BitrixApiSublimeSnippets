@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::GetResultStatusCSSClass()]]></content>
+	<tabTrigger>CFormOutput::GetResultStatusCSSClass</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

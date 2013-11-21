@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::GetActiveCount()]]></content>
+	<tabTrigger>CSecurityIPRule::GetActiveCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

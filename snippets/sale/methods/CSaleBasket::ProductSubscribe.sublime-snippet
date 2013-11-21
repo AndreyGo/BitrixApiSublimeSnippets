@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::ProductSubscribe(${1:ID},${2:MODULE})]]></content>
+	<tabTrigger>CSaleBasket::ProductSubscribe</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

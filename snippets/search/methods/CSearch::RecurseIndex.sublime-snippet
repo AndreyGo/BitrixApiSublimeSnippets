@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::RecurseIndex(${1:\$path=Array()},${2:\$max_execution_time = 0},${3:&\$NS})]]></content>
+	<tabTrigger>CSearch::RecurseIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

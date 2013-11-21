@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCustomLabel(${1:id},${2:content})]]></content>
+	<tabTrigger>GetCustomLabel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

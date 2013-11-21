@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXFeatures::SetFeatureEnabled(${1:featureId},${2:\$bEnabled = true})]]></content>
+	<tabTrigger>CBXFeatures::SetFeatureEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

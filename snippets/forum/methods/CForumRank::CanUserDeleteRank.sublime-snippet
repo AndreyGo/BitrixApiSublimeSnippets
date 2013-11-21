@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumRank::CanUserDeleteRank(${1:ID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumRank::CanUserDeleteRank</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvert::GetCountFormat()]]></content>
+	<tabTrigger>CCatalogDiscountConvert::GetCountFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

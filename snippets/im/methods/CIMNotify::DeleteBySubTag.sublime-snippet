@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::DeleteBySubTag(${1:notifySubTag},${2:\$authorId = false})]]></content>
+	<tabTrigger>CIMNotify::DeleteBySubTag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatalogClearArray(${1:&arMap},${2:\$boolSort = true})]]></content>
+	<tabTrigger>CatalogClearArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

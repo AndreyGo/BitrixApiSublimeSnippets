@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::JoinToController(${1:controller_url},${2:controller_login},${3:controller_password},${4:\$site_url = false},${5:\$controller_group = false},${6:\$site_name = false},${7:\$bSharedKernel = false})]]></content>
+	<tabTrigger>CControllerClient::JoinToController</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

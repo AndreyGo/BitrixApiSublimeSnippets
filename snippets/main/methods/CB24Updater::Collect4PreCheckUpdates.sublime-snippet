@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::Collect4PreCheckUpdates(${1:generationDate})]]></content>
+	<tabTrigger>CB24Updater::Collect4PreCheckUpdates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

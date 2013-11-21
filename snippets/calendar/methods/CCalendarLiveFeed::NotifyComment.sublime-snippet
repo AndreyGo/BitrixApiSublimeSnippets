@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::NotifyComment(${1:eventID},${2:arComment})]]></content>
+	<tabTrigger>CCalendarLiveFeed::NotifyComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

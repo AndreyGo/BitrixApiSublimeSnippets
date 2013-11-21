@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetNextSort()]]></content>
+	<tabTrigger>CAdvContract::GetNextSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

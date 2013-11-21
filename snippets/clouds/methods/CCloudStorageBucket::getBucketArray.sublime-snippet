@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageBucket::getBucketArray()]]></content>
+	<tabTrigger>CCloudStorageBucket::getBucketArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

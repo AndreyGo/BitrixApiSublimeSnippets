@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceCache::Clear()]]></content>
+	<tabTrigger>CPerfomanceCache::Clear</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

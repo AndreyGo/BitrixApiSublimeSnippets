@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::OnBlogPostMentionNotifyIm(${1:ID},${2:arMessageFields})]]></content>
+	<tabTrigger>CSocNetLogFollow::OnBlogPostMentionNotifyIm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

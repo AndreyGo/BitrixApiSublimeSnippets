@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBasketUpdate]]></content>
+	<tabTrigger>OnBasketUpdate</tabTrigger>
+	<description>Bitrix CSaleBasket::_Update</description>
+	<scope>source.php</scope>
+</snippet>

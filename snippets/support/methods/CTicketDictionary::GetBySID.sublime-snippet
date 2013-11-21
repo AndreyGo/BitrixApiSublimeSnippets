@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::GetBySID(${1:sid},${2:type},${3:\$siteID=SITE_ID})]]></content>
+	<tabTrigger>CTicketDictionary::GetBySID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

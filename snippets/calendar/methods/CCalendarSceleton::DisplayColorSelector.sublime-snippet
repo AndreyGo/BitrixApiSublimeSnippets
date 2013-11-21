@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::DisplayColorSelector(${1:id},${2:\$key = 'sect'},${3:\$colors = false})]]></content>
+	<tabTrigger>CCalendarSceleton::DisplayColorSelector</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockFormatProperties::GetDisplayValue(${1:arItem},${2:arProperty},${3:event1})]]></content>
+	<tabTrigger>CIBlockFormatProperties::GetDisplayValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

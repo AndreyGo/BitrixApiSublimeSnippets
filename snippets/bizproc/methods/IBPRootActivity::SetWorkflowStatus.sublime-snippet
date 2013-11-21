@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPRootActivity::SetWorkflowStatus(${1:status})]]></content>
+	<tabTrigger>IBPRootActivity::SetWorkflowStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

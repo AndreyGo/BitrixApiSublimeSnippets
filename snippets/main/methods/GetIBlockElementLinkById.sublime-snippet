@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockElementLinkById(${1:ID})]]></content>
+	<tabTrigger>GetIBlockElementLinkById</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

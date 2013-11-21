@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogGroup::GetGroupsList(${1:\$arFilter = array()})]]></content>
+	<tabTrigger>CCatalogGroup::GetGroupsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

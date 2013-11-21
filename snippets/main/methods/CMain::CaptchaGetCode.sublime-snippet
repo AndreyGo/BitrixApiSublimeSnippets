@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::CaptchaGetCode()]]></content>
+	<tabTrigger>CMain::CaptchaGetCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

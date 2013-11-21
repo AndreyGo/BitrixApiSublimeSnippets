@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatalogGetPriceTable(${1:ID})]]></content>
+	<tabTrigger>CatalogGetPriceTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

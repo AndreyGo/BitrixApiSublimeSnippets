@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::ExportSections(${1:&SECTION_MAP},${2:start_time},${3:INTERVAL},${4:\$FILTER = ""},${5:\$PROPERTY_MAP = array()})]]></content>
+	<tabTrigger>CIBlockCMLExport::ExportSections</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

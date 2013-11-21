@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleExport::ExportOrders2Xml(${1:\$arFilter = Array()},${2:\$nTopCount = 0},${3:\$currency = ""},${4:\$crmMode = false})]]></content>
+	<tabTrigger>CSaleExport::ExportOrders2Xml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

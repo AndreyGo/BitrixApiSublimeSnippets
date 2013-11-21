@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringTest::getStatus()]]></content>
+	<tabTrigger>CBitrixCloudMonitoringTest::getStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

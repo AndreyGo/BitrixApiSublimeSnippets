@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::CWizard(${1:wizardName})]]></content>
+	<tabTrigger>CWizard::CWizard</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCompress::CheckCanGzip()]]></content>
+	<tabTrigger>CCompress::CheckCanGzip</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

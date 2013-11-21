@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::_GetListSQLFormer(${1:sSelect},${2:obUserFieldsSql},${3:bCheckPerm},${4:USER},${5:arFilter},${6:strSqlSearch})]]></content>
+	<tabTrigger>CTestAttempt::_GetListSQLFormer</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

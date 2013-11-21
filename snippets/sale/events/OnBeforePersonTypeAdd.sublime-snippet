@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforePersonTypeAdd]]></content>
+	<tabTrigger>OnBeforePersonTypeAdd</tabTrigger>
+	<description>Bitrix CSalePersonType::Add</description>
+	<scope>source.php</scope>
+</snippet>

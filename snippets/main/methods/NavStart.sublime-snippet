@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NavStart(${1:\$nPageSize=20},${2:\$bShowAll=true},${3:\$iNumPage=false})]]></content>
+	<tabTrigger>NavStart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdater::CopyFiles(${1:fromDir},${2:toDir})]]></content>
+	<tabTrigger>CUpdater::CopyFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

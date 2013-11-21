@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementList::GetPublicViewHTML(${1:arProperty},${2:arValue},${3:strHTMLControlName})]]></content>
+	<tabTrigger>CIBlockPropertyElementList::GetPublicViewHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

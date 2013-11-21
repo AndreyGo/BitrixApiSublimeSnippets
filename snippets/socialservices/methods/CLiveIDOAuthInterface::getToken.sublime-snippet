@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLiveIDOAuthInterface::getToken()]]></content>
+	<tabTrigger>CLiveIDOAuthInterface::getToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

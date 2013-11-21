@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFile::SetSocnetGroup(${1:socnet_group_id})]]></content>
+	<tabTrigger>CListFile::SetSocnetGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

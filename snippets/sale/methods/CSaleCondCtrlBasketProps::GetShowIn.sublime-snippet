@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondCtrlBasketProps::GetShowIn(${1:arControls})]]></content>
+	<tabTrigger>CSaleCondCtrlBasketProps::GetShowIn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

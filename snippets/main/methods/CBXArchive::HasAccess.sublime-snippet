@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXArchive::HasAccess(${1:strFilename},${2:isFile})]]></content>
+	<tabTrigger>CBXArchive::HasAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarWebService::__makeTS(${1:\$datetime = null})]]></content>
+	<tabTrigger>CCalendarWebService::__makeTS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

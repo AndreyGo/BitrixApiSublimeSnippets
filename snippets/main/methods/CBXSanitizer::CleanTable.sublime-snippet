@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXSanitizer::CleanTable(${1:&seg},${2:&\$openTagsStack},${3:segIndex},${4:\$delTextBetweenTags=true})]]></content>
+	<tabTrigger>CBXSanitizer::CleanTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteMap::Create(${1:site_id},${2:max_execution_time},${3:NS},${4:\$arOptions = array()})]]></content>
+	<tabTrigger>CSiteMap::Create</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

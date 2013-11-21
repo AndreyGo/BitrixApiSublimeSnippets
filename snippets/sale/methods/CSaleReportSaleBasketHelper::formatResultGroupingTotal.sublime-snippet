@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleBasketHelper::formatResultGroupingTotal(${1:params})]]></content>
+	<tabTrigger>CSaleReportSaleBasketHelper::formatResultGroupingTotal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

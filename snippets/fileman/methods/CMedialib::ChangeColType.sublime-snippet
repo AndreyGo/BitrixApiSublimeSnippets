@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::ChangeColType(${1:Params})]]></content>
+	<tabTrigger>CMedialib::ChangeColType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

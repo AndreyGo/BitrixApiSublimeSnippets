@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFavorites::GetIDByUrl(${1:url})]]></content>
+	<tabTrigger>CFavorites::GetIDByUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

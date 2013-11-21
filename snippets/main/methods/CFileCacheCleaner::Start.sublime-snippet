@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileCacheCleaner::Start()]]></content>
+	<tabTrigger>CFileCacheCleaner::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

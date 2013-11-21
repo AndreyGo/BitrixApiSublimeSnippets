@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSVUserImport::GetErrorMessage()]]></content>
+	<tabTrigger>CSVUserImport::GetErrorMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setMinscale(${1:minScale})]]></content>
+	<tabTrigger>CMobile::setMinscale</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

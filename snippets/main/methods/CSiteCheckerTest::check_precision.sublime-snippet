@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_precision()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_precision</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

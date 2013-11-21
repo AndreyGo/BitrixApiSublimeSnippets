@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::ConvertForSQL(${1:type},${2:value})]]></content>
+	<tabTrigger>CSupportTableFields::ConvertForSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

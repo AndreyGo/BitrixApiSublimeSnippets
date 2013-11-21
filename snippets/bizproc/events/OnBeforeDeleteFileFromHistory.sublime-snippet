@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeDeleteFileFromHistory]]></content>
+	<tabTrigger>OnBeforeDeleteFileFromHistory</tabTrigger>
+	<description>Bitrix DeleteHistory</description>
+	<scope>source.php</scope>
+</snippet>

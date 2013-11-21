@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestResult::Add(${1:arFields})]]></content>
+	<tabTrigger>CTestResult::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

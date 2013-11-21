@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceIndexSuggest::Delete(${1:ID})]]></content>
+	<tabTrigger>CPerfomanceIndexSuggest::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

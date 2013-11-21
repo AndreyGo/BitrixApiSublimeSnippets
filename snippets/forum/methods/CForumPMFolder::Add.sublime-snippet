@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPMFolder::Add(${1:title})]]></content>
+	<tabTrigger>CForumPMFolder::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

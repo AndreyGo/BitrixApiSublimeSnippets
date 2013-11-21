@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::ClearFile(${1:ID},${2:\$strDataFileName = false})]]></content>
+	<tabTrigger>CCatalogDiscount::ClearFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

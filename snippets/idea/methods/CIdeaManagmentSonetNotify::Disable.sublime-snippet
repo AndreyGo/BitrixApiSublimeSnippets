@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentSonetNotify::Disable()]]></content>
+	<tabTrigger>CIdeaManagmentSonetNotify::Disable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

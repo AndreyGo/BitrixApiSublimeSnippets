@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::AddStatusChangeHandler(${1:event},${2:eventHandler})]]></content>
+	<tabTrigger>CBPActivity::AddStatusChangeHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

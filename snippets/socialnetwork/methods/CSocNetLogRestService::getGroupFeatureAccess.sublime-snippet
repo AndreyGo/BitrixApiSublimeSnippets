@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogRestService::getGroupFeatureAccess(${1:arFields})]]></content>
+	<tabTrigger>CSocNetLogRestService::getGroupFeatureAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

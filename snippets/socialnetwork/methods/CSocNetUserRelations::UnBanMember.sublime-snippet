@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::UnBanMember(${1:senderUserID},${2:relationID})]]></content>
+	<tabTrigger>CSocNetUserRelations::UnBanMember</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

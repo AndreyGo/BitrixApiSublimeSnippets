@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::GetEditorToolbar(${1:arParams})]]></content>
+	<tabTrigger>forumTextParser::GetEditorToolbar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterShortUriAdd]]></content>
+	<tabTrigger>OnAfterShortUriAdd</tabTrigger>
+	<description>Bitrix Add</description>
+	<scope>source.php</scope>
+</snippet>

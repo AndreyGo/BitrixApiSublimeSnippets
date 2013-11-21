@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetForumComments::FindLogEventIDByForumEntityID(${1:forumEntityType})]]></content>
+	<tabTrigger>CSocNetForumComments::FindLogEventIDByForumEntityID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

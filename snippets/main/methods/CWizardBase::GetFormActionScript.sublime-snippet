@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::GetFormActionScript()]]></content>
+	<tabTrigger>CWizardBase::GetFormActionScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

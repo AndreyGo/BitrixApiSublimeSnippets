@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_renameTmpFile(${1:source},${2:dest})]]></content>
+	<tabTrigger>CZip::_renameTmpFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

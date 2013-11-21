@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::SetAuthHeader(${1:\$bDigestEnabled=true})]]></content>
+	<tabTrigger>CHTTP::SetAuthHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

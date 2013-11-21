@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddToTimeStamp(${1:arrAdd},${2:\$stmp=false})]]></content>
+	<tabTrigger>AddToTimeStamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

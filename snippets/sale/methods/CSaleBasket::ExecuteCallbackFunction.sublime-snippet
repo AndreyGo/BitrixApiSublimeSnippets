@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::ExecuteCallbackFunction(${1:\$callbackFunc = ""},${2:\$module = ""},${3:\$productID = 0})]]></content>
+	<tabTrigger>CSaleBasket::ExecuteCallbackFunction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

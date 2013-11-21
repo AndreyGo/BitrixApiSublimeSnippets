@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::CheckSectionCode(${1:IBLOCK_ID},${2:CODE})]]></content>
+	<tabTrigger>CIBlockCMLImport::CheckSectionCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

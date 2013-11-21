@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::GetTasksInModules(${1:\$mode=false},${2:\$module_id=false},${3:\$binding = false})]]></content>
+	<tabTrigger>CTask::GetTasksInModules</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

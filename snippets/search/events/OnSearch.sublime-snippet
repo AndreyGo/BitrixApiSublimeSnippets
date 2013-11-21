@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearch]]></content>
+	<tabTrigger>OnSearch</tabTrigger>
+	<description>Bitrix CSearch::Search</description>
+	<scope>source.php</scope>
+</snippet>

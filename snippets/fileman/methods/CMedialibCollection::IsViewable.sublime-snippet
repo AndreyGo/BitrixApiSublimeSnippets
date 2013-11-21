@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialibCollection::IsViewable(${1:oCol},${2:\$arCol=false})]]></content>
+	<tabTrigger>CMedialibCollection::IsViewable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

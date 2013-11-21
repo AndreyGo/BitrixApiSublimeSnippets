@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::addFreshDefaultReports(${1:vReports},${2:ownerId})]]></content>
+	<tabTrigger>CReport::addFreshDefaultReports</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

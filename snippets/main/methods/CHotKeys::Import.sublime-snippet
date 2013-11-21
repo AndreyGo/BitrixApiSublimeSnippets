@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::Import(${1:fileName},${2:userID})]]></content>
+	<tabTrigger>CHotKeys::Import</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

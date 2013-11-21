@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::SetOperations(${1:ID},${2:arr},${3:\$bOpNames=false})]]></content>
+	<tabTrigger>CTask::SetOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

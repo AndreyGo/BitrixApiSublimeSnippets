@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::GetElementGroups(${1:ID},${2:\$bElementOnly = false},${3:\$arSelect = array()})]]></content>
+	<tabTrigger>CIBlockElement::GetElementGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

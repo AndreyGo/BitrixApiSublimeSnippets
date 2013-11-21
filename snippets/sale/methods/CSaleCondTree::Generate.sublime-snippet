@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondTree::Generate(${1:arConditions},${2:arParams})]]></content>
+	<tabTrigger>CSaleCondTree::Generate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

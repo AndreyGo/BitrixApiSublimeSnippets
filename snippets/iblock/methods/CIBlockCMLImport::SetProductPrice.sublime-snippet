@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::SetProductPrice(${1:PRODUCT_ID},${2:arPrices},${3:\$arDiscounts = false})]]></content>
+	<tabTrigger>CIBlockCMLImport::SetProductPrice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

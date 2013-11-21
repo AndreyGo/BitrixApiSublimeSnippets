@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackupBucket::__construct(${1:bucket_name},${2:prefix},${3:access_key},${4:secret_key},${5:session_token},${6:check_word},${7:file_name})]]></content>
+	<tabTrigger>CBitrixCloudBackupBucket::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

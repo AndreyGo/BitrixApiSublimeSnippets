@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput_old::ShowAnswer(${1:FIELD_SID})]]></content>
+	<tabTrigger>CFormOutput_old::ShowAnswer</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

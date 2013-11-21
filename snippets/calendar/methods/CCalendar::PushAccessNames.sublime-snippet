@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::PushAccessNames(${1:\$arCodes = array()})]]></content>
+	<tabTrigger>CCalendar::PushAccessNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

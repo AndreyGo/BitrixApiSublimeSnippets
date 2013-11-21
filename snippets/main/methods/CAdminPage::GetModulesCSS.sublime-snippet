@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPage::GetModulesCSS(${1:\$module_id=''})]]></content>
+	<tabTrigger>CAdminPage::GetModulesCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MEMCACHE_PORT]]></content>
+	<tabTrigger>BX_MEMCACHE_PORT</tabTrigger>
+	<description>Bitrix CPHPCacheMemcache::CPHPCacheMemcache</description>
+	<scope>source.php</scope>
+</snippet>

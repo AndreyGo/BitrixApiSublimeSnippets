@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuth::CheckPhotoURI(${1:photoURI})]]></content>
+	<tabTrigger>CSocServAuth::CheckPhotoURI</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

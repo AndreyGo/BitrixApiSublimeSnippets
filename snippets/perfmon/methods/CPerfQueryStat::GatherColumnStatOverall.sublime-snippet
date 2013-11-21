@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryStat::GatherColumnStatOverall(${1:table},${2:column})]]></content>
+	<tabTrigger>CPerfQueryStat::GatherColumnStatOverall</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

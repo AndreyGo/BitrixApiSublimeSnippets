@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubResult::GetNavPrint(${1:title},${2:\$show_allways=true},${3:\$StyleText=""},${4:\$template_path=false},${5:\$arDeleteParam=false})]]></content>
+	<tabTrigger>CAdminSubResult::GetNavPrint</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

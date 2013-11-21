@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_mysql_mode()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_mysql_mode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::GetHitAuthHash(${1:url_mask},${2:\$userID = false})]]></content>
+	<tabTrigger>CUser::GetHitAuthHash</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUrlRewriter::RecurseIndex(${1:\$path=array()},${2:\$max_execution_time = 0},${3:&\$NS})]]></content>
+	<tabTrigger>CUrlRewriter::RecurseIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

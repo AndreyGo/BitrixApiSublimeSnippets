@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdater::Init(${1:curPath},${2:dbType},${3:updater},${4:curDir},${5:moduleID},${6:\$callType = "ALL"})]]></content>
+	<tabTrigger>CUpdater::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::err_mess()]]></content>
+	<tabTrigger>CTicketDictionary::err_mess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

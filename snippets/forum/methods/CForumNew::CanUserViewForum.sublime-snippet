@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::CanUserViewForum(${1:FID},${2:arUserGroups},${3:\$ExternalPermission = false})]]></content>
+	<tabTrigger>CForumNew::CanUserViewForum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

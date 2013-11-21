@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddCalendarField(${1:id},${2:label},${3:value},${4:\$required=false})]]></content>
+	<tabTrigger>AddCalendarField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSecurity::__construct(${1:\$char = false})]]></content>
+	<tabTrigger>CWikiSecurity::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

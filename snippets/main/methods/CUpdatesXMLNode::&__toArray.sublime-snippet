@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdatesXMLNode::&__toArray()]]></content>
+	<tabTrigger>CUpdatesXMLNode::&__toArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

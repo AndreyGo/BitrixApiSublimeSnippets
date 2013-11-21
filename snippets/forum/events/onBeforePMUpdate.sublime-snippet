@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforePMUpdate]]></content>
+	<tabTrigger>onBeforePMUpdate</tabTrigger>
+	<description>Bitrix CForumPrivateMessage::Update</description>
+	<scope>source.php</scope>
+</snippet>

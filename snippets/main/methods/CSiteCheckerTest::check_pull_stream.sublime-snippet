@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_pull_stream()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_pull_stream</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnStoreProductAdd]]></content>
+	<tabTrigger>OnStoreProductAdd</tabTrigger>
+	<description>Bitrix Add</description>
+	<scope>source.php</scope>
+</snippet>

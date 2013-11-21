@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeEnum::GetAdminListEditHTMLMulty(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeEnum::GetAdminListEditHTMLMulty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::SearchModules(${1:searchModule},${2:lang})]]></content>
+	<tabTrigger>CUpdateClientPartner::SearchModules</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

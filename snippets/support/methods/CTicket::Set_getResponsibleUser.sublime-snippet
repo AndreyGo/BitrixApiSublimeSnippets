@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set_getResponsibleUser(${1:v},${2:f},${3:&\$arFields})]]></content>
+	<tabTrigger>CTicket::Set_getResponsibleUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

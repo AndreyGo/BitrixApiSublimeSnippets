@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::addDevice(${1:domain},${2:deviceId})]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::addDevice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

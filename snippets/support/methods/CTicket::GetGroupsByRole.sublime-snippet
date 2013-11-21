@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetGroupsByRole(${1:role})]]></content>
+	<tabTrigger>CTicket::GetGroupsByRole</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

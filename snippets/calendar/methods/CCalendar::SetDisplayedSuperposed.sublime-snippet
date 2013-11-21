@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SetDisplayedSuperposed(${1:\$userId = false},${2:\$arIds = array()})]]></content>
+	<tabTrigger>CCalendar::SetDisplayedSuperposed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

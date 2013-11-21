@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__OnAfterSetOption_disk_space(${1:value})]]></content>
+	<tabTrigger>__OnAfterSetOption_disk_space</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

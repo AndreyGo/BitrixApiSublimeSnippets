@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsBitrix24()]]></content>
+	<tabTrigger>CCalendar::IsBitrix24</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

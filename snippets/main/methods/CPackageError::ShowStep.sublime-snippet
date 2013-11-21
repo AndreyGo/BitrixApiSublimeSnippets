@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageError::ShowStep()]]></content>
+	<tabTrigger>CPackageError::ShowStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

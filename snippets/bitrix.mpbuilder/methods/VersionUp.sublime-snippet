@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VersionUp(${1:num})]]></content>
+	<tabTrigger>VersionUp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

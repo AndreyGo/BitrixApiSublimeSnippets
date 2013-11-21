@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockOffersTmp::DeleteOldID(${1:intProductIBlockID},${2:\$intOffersIBlockID = 0},${3:\$intInterval = 86400})]]></content>
+	<tabTrigger>CIBlockOffersTmp::DeleteOldID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

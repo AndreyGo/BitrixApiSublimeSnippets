@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ParseDocumentTypeStates(${1:arTemplatesListItem})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ParseDocumentTypeStates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::CheckImageFile(${1:arFile},${2:\$iMaxSize=0},${3:\$iMaxWidth=0},${4:\$iMaxHeight=0},${5:\$access_typies=array()},${6:\$bForceMD5=false},${7:\$bSkipExt=false})]]></content>
+	<tabTrigger>CFile::CheckImageFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

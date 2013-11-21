@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::fillFilterReferenceColumn(${1:&filterElement},${2:Entity\ReferenceField field})]]></content>
+	<tabTrigger>CSaleReportUserHelper::fillFilterReferenceColumn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

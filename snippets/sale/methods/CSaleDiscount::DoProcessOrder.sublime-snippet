@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscount::DoProcessOrder(${1:&arOrder},${2:arOptions},${3:&\$arErrors})]]></content>
+	<tabTrigger>CSaleDiscount::DoProcessOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

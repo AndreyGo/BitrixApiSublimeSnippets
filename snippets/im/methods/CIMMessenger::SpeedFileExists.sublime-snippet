@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessenger::SpeedFileExists(${1:userID},${2:\$type = IM_SPEED_MESSAGE})]]></content>
+	<tabTrigger>CIMMessenger::SpeedFileExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

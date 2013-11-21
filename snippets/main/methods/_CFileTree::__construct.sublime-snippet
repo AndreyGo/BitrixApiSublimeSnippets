@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CFileTree::__construct(${1:\$in_path="/"})]]></content>
+	<tabTrigger>_CFileTree::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

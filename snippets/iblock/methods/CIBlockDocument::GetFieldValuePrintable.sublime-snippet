@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::GetFieldValuePrintable(${1:documentId},${2:fieldName},${3:fieldType},${4:fieldValue},${5:arFieldType})]]></content>
+	<tabTrigger>CIBlockDocument::GetFieldValuePrintable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

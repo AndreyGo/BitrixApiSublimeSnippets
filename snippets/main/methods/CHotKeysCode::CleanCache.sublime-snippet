@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeysCode::CleanCache()]]></content>
+	<tabTrigger>CHotKeysCode::CleanCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::NeedCAPTHAForLogin(${1:login})]]></content>
+	<tabTrigger>CMain::NeedCAPTHAForLogin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

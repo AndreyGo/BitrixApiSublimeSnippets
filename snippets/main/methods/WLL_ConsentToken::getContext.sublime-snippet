@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_ConsentToken::getContext()]]></content>
+	<tabTrigger>WLL_ConsentToken::getContext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

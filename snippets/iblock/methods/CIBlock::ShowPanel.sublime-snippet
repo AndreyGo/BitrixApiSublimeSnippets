@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::ShowPanel(${1:\$IBLOCK_ID=0},${2:\$ELEMENT_ID=0},${3:\$SECTION_ID=""},${4:\$type="news"},${5:\$bGetIcons=false},${6:\$componentName=""},${7:\$arLabels=array()})]]></content>
+	<tabTrigger>CIBlock::ShowPanel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

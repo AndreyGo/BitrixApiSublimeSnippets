@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::IsFriendsAllowed()]]></content>
+	<tabTrigger>CSocNetUser::IsFriendsAllowed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::RestoreSecurity(${1:\$arExcludeGroups = array()})]]></content>
+	<tabTrigger>CControllerClient::RestoreSecurity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::__ParseBuffer()]]></content>
+	<tabTrigger>CSMTPConnection::__ParseBuffer</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::GetFilterMD5()]]></content>
+	<tabTrigger>CSearch::GetFilterMD5</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

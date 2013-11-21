@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnGraphNode::Update(${1:id},${2:arInFields})]]></content>
+	<tabTrigger>CLearnGraphNode::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

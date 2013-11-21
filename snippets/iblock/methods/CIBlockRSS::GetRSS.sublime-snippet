@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::GetRSS(${1:ID},${2:LANG},${3:TYPE},${4:\$LIMIT_NUM = false},${5:\$LIMIT_DAY = false},${6:\$yandex = false})]]></content>
+	<tabTrigger>CIBlockRSS::GetRSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::Add(${1:IBLOCK_ID},${2:NODE},${3:NODE_VALUE})]]></content>
+	<tabTrigger>CIBlockRSS::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

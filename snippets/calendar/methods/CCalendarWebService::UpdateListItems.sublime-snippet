@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarWebService::UpdateListItems(${1:listName},${2:updates})]]></content>
+	<tabTrigger>CCalendarWebService::UpdateListItems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

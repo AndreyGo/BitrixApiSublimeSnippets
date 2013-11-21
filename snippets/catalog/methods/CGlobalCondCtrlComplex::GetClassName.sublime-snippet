@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrlComplex::GetClassName()]]></content>
+	<tabTrigger>CGlobalCondCtrlComplex::GetClassName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

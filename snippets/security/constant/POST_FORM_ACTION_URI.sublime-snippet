@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[POST_FORM_ACTION_URI]]></content>
+	<tabTrigger>POST_FORM_ACTION_URI</tabTrigger>
+	<description>Bitrix CSecurityFilter::showHtmlForm</description>
+	<scope>source.php</scope>
+</snippet>

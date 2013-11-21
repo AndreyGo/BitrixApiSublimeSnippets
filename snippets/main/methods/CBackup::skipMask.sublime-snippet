@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBackup::skipMask(${1:abs_path})]]></content>
+	<tabTrigger>CBackup::skipMask</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

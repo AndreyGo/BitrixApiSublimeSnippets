@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::Delete(${1:ID})]]></content>
+	<tabTrigger>CSaleBasket::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

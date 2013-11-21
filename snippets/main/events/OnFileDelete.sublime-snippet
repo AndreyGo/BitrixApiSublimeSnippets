@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnFileDelete]]></content>
+	<tabTrigger>OnFileDelete</tabTrigger>
+	<description>Bitrix CFile::Delete</description>
+	<scope>source.php</scope>
+</snippet>

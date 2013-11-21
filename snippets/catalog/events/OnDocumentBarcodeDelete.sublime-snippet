@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDocumentBarcodeDelete]]></content>
+	<tabTrigger>OnDocumentBarcodeDelete</tabTrigger>
+	<description>Bitrix CCatalogStoreDocsBarcodeAll::OnBeforeDocumentDelete</description>
+	<scope>source.php</scope>
+</snippet>

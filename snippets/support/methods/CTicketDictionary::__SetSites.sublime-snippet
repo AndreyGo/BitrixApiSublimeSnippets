@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::__SetSites(${1:id},${2:arFields})]]></content>
+	<tabTrigger>CTicketDictionary::__SetSites</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

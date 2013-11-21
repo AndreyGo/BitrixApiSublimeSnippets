@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::CheckFields(${1:ACTION},${2:&\$arFields})]]></content>
+	<tabTrigger>CSaleLocation::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailFilter::Filter(${1:arFields},${2:event},${3:\$FILTER_ID=false},${4:\$PARENT_FILTER_ID = false})]]></content>
+	<tabTrigger>CMailFilter::Filter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

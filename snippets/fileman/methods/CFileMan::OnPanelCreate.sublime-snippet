@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::OnPanelCreate()]]></content>
+	<tabTrigger>CFileMan::OnPanelCreate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

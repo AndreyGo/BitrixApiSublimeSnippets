@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailError::GetLastError(${1:\$type=false})]]></content>
+	<tabTrigger>CMailError::GetLastError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

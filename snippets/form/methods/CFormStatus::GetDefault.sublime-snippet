@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormStatus::GetDefault(${1:WEB_FORM_ID})]]></content>
+	<tabTrigger>CFormStatus::GetDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__UpdateOldOneEntity(${1:intID},${2:&\$arFields},${3:arParams},${4:boolUpdate})]]></content>
+	<tabTrigger>CCatalogDiscount::__UpdateOldOneEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

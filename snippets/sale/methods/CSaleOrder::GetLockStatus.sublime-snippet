@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrder::GetLockStatus(${1:ID},${2:&\$lockedBY},${3:&\$dateLock})]]></content>
+	<tabTrigger>CSaleOrder::GetLockStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

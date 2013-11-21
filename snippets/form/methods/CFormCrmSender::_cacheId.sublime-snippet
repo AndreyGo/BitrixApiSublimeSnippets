@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::_cacheId()]]></content>
+	<tabTrigger>CFormCrmSender::_cacheId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetEventUserView::IsEntityEmpty(${1:entityType},${2:entityID})]]></content>
+	<tabTrigger>CSocNetEventUserView::IsEntityEmpty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

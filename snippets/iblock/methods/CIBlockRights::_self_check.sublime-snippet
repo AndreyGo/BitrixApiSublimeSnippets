@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::_self_check()]]></content>
+	<tabTrigger>CIBlockRights::_self_check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

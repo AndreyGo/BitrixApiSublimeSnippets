@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::MakeWord(${1:val},${2:arWords})]]></content>
+	<tabTrigger>CBPHelper::MakeWord</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

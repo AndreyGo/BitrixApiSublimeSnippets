@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetGUIFieldEdit(${1:parameterDocumentType},${2:formName},${3:fieldName},${4:fieldValue},${5:\$arDocumentField = array()},${6:\$bAllowSelection = false})]]></content>
+	<tabTrigger>GetGUIFieldEdit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

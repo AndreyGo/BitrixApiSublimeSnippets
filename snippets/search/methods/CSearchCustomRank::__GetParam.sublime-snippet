@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchCustomRank::__GetParam(${1:lang},${2:site_id},${3:\$module_id=false},${4:\$param1=false},${5:\$param2=false},${6:\$item_id=false})]]></content>
+	<tabTrigger>CSearchCustomRank::__GetParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

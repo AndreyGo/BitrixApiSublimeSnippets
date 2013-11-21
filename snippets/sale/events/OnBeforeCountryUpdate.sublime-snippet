@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeCountryUpdate]]></content>
+	<tabTrigger>OnBeforeCountryUpdate</tabTrigger>
+	<description>Bitrix CSaleLocation::UpdateCountry</description>
+	<scope>source.php</scope>
+</snippet>

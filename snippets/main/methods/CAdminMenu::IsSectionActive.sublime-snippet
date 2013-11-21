@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMenu::IsSectionActive(${1:section})]]></content>
+	<tabTrigger>CAdminMenu::IsSectionActive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

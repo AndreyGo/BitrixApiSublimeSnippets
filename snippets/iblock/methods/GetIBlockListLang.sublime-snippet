@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockListLang(${1:lang},${2:type},${3:\$arTypesInc = array()},${4:\$arTypesExc = array()},${5:\$arOrder = array("SORT" => "ASC")},${6:\$cnt = 0},${7:\$bCountActive = false})]]></content>
+	<tabTrigger>GetIBlockListLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

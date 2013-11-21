@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COdnoklassnikiInterface::SetOauthKeys(${1:socServUserId})]]></content>
+	<tabTrigger>COdnoklassnikiInterface::SetOauthKeys</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

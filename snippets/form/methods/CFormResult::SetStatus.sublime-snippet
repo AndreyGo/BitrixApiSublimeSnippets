@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormResult::SetStatus(${1:RESULT_ID},${2:NEW_STATUS_ID},${3:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CFormResult::SetStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

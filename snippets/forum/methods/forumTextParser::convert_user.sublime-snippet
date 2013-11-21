@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::convert_user(${1:\$userId = 0},${2:\$name = ""})]]></content>
+	<tabTrigger>forumTextParser::convert_user</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

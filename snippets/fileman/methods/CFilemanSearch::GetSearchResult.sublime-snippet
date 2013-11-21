@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::GetSearchResult(${1:\$searchSess = ''},${2:\$arOrder = array('date'},${3:'desc')})]]></content>
+	<tabTrigger>CFilemanSearch::GetSearchResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

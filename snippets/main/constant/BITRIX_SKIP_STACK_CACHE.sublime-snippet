@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BITRIX_SKIP_STACK_CACHE]]></content>
+	<tabTrigger>BITRIX_SKIP_STACK_CACHE</tabTrigger>
+	<description>Bitrix CStackCacheManager::SaveAll</description>
+	<scope>source.php</scope>
+</snippet>

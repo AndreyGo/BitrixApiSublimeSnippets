@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetMultiSelectField(${1:FIELD_NAME},${2:arMultiSelect},${3:\$arSELECTED=array()},${4:\$HEIGHT=""},${5:\$PARAM=""})]]></content>
+	<tabTrigger>CForm::GetMultiSelectField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

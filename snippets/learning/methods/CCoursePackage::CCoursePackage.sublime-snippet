@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCoursePackage::CCoursePackage(${1:COURSE_ID})]]></content>
+	<tabTrigger>CCoursePackage::CCoursePackage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

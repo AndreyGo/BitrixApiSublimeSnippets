@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set_sendMails(${1:nf},${2:v},${3:arFields})]]></content>
+	<tabTrigger>CTicket::Set_sendMails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

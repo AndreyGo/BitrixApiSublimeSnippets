@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXSanitizer::DeleteSanitizedTags(${1:\$bApply=true})]]></content>
+	<tabTrigger>CBXSanitizer::DeleteSanitizedTags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

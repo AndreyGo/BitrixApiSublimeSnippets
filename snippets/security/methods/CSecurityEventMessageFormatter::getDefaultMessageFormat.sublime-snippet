@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEventMessageFormatter::getDefaultMessageFormat()]]></content>
+	<tabTrigger>CSecurityEventMessageFormatter::getDefaultMessageFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

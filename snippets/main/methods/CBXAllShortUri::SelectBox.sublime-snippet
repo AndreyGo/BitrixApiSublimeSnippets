@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXAllShortUri::SelectBox(${1:fieldName},${2:value},${3:\$defaultValue = ""},${4:\$field = "class=\"typeselect\""})]]></content>
+	<tabTrigger>CBXAllShortUri::SelectBox</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

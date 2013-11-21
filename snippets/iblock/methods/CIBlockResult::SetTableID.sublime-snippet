@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockResult::SetTableID(${1:table_id})]]></content>
+	<tabTrigger>CIBlockResult::SetTableID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

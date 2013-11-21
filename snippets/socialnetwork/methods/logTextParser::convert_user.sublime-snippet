@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[logTextParser::convert_user(${1:\$userId = 0},${2:\$name = ""})]]></content>
+	<tabTrigger>logTextParser::convert_user</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

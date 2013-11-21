@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailRuOAuthInterface::__construct(${1:appID},${2:appSecret},${3:\$code=false})]]></content>
+	<tabTrigger>CMailRuOAuthInterface::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

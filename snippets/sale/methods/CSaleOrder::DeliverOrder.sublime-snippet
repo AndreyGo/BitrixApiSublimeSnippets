@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrder::DeliverOrder(${1:ID},${2:val},${3:\$recurringID = 0},${4:\$arAdditionalFields = array()})]]></content>
+	<tabTrigger>CSaleOrder::DeliverOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

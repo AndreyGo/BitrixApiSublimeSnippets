@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::GetLockStatus(${1:DOCUMENT_ID},${2:&\$locked_by},${3:&\$date_lock})]]></content>
+	<tabTrigger>CWorkflow::GetLockStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

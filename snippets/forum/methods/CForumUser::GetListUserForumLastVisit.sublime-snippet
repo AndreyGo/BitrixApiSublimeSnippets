@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::GetListUserForumLastVisit(${1:\$arOrder = Array("LAST_VISIT"=>"DESC")},${2:\$arFilter = Array()})]]></content>
+	<tabTrigger>CForumUser::GetListUserForumLastVisit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatalogGetPriceTableEx(${1:ID},${2:\$filterQauntity = 0},${3:\$arFilterType = array()},${4:\$VAT_INCLUDE = 'Y'},${5:\$arCurrencyParams = array()})]]></content>
+	<tabTrigger>CatalogGetPriceTableEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

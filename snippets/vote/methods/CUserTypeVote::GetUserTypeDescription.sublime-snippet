@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVote::GetUserTypeDescription()]]></content>
+	<tabTrigger>CUserTypeVote::GetUserTypeDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

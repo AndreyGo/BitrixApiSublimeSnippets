@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IProviderInterface::GetNames(${1:arCodes})]]></content>
+	<tabTrigger>IProviderInterface::GetNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFrameMask::Check(${1:site_id},${2:uri})]]></content>
+	<tabTrigger>CSecurityFrameMask::Check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

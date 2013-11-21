@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetClosedFields(${1:WEB_FORM_ID},${2:arrFields})]]></content>
+	<tabTrigger>CForm_old::GetClosedFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

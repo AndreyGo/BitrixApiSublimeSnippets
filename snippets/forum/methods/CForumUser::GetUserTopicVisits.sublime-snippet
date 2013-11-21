@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::GetUserTopicVisits(${1:forumID},${2:arTopic},${3:\$userID=null})]]></content>
+	<tabTrigger>CForumUser::GetUserTopicVisits</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

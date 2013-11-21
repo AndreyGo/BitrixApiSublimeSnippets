@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityDB::Disconnect()]]></content>
+	<tabTrigger>CSecurityDB::Disconnect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsFiltered(${1:strSqlSearch})]]></content>
+	<tabTrigger>IsFiltered</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

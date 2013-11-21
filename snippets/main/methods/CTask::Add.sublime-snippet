@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::Add(${1:arFields})]]></content>
+	<tabTrigger>CTask::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

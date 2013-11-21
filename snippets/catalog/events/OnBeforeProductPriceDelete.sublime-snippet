@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeProductPriceDelete]]></content>
+	<tabTrigger>OnBeforeProductPriceDelete</tabTrigger>
+	<description>Bitrix CPrice::DeleteByProduct</description>
+	<scope>source.php</scope>
+</snippet>

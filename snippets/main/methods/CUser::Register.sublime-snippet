@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::Register(${1:USER_LOGIN},${2:USER_NAME},${3:USER_LAST_NAME},${4:USER_PASSWORD},${5:USER_CONFIRM_PASSWORD},${6:USER_EMAIL},${7:\$SITE_ID = false},${8:\$captcha_word = ""},${9:\$captcha_sid = 0})]]></content>
+	<tabTrigger>CUser::Register</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

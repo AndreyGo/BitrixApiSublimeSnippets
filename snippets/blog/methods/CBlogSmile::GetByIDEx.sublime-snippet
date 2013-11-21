@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogSmile::GetByIDEx(${1:ID},${2:strLang})]]></content>
+	<tabTrigger>CBlogSmile::GetByIDEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

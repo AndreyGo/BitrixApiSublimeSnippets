@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeysCode::GetCodeByClassName(${1:className})]]></content>
+	<tabTrigger>CHotKeysCode::GetCodeByClassName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

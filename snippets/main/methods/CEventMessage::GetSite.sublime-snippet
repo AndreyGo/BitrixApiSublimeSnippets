@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventMessage::GetSite(${1:event_message_id})]]></content>
+	<tabTrigger>CEventMessage::GetSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

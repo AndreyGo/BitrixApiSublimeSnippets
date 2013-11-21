@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::GetHTMLEditorSettings(${1:edname},${2:lightMode},${3:arTaskbars},${4:&\$loadParams})]]></content>
+	<tabTrigger>CFileMan::GetHTMLEditorSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::initFromXml(${1:settingsFile})]]></content>
+	<tabTrigger>WindowsLiveLogin::initFromXml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

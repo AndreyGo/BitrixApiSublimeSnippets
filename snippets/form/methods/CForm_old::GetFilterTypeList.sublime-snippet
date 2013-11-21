@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetFilterTypeList(${1:&arrUSER},${2:&\$arrANSWER_TEXT},${3:&\$arrANSWER_VALUE},${4:&\$arrFIELD})]]></content>
+	<tabTrigger>CForm_old::GetFilterTypeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

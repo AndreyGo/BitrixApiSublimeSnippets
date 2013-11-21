@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetFormatedDestination(${1:\$codes = array()})]]></content>
+	<tabTrigger>CCalendar::GetFormatedDestination</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

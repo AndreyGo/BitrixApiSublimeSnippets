@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyEnum::GetList(${1:\$arOrder = array("SORT"=>"ASC"},${2:"VALUE"=>"ASC")},${3:\$arFilter = array()})]]></content>
+	<tabTrigger>CIBlockPropertyEnum::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

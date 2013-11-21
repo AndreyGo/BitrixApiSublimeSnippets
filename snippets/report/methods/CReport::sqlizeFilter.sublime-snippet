@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::sqlizeFilter(${1:filter})]]></content>
+	<tabTrigger>CReport::sqlizeFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

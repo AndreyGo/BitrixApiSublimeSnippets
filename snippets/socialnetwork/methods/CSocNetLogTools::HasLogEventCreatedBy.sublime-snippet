@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::HasLogEventCreatedBy(${1:event_id})]]></content>
+	<tabTrigger>CSocNetLogTools::HasLogEventCreatedBy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

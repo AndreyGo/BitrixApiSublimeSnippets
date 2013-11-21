@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTfpdf::GetPageWidth()]]></content>
+	<tabTrigger>CSaleTfpdf::GetPageWidth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

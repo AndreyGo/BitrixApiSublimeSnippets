@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSVUserImport::IgnoreDuplicate(${1:\$ignore = true})]]></content>
+	<tabTrigger>CSVUserImport::IgnoreDuplicate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::UploadFile(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::UploadFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

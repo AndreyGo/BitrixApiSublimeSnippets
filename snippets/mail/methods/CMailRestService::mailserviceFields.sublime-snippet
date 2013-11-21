@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailRestService::mailserviceFields(${1:arParams})]]></content>
+	<tabTrigger>CMailRestService::mailserviceFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

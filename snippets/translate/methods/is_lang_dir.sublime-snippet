@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[is_lang_dir(${1:path},${2:\$c = false})]]></content>
+	<tabTrigger>is_lang_dir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

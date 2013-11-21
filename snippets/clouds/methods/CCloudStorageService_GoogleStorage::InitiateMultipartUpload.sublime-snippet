@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_GoogleStorage::InitiateMultipartUpload(${1:arBucket},${2:&\$NS},${3:filePath},${4:fileSize},${5:ContentType})]]></content>
+	<tabTrigger>CCloudStorageService_GoogleStorage::InitiateMultipartUpload</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

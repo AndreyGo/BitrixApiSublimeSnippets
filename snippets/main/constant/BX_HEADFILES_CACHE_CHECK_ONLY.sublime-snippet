@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_HEADFILES_CACHE_CHECK_ONLY]]></content>
+	<tabTrigger>BX_HEADFILES_CACHE_CHECK_ONLY</tabTrigger>
+	<description>Bitrix CMain::__OptimizeCssJs</description>
+	<scope>source.php</scope>
+</snippet>

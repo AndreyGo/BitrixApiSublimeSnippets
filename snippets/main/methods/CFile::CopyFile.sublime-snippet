@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::CopyFile(${1:FILE_ID},${2:\$bRegister = true},${3:\$newPath = ""})]]></content>
+	<tabTrigger>CFile::CopyFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::GetUserCache(${1:user_id})]]></content>
+	<tabTrigger>CSocNetLog::GetUserCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

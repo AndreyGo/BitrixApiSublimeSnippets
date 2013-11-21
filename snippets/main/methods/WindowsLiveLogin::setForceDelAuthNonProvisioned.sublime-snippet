@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setForceDelAuthNonProvisioned(${1:force_delauth_nonprovisioned})]]></content>
+	<tabTrigger>WindowsLiveLogin::setForceDelAuthNonProvisioned</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryWhere::parse(${1:sql})]]></content>
+	<tabTrigger>CPerfQueryWhere::parse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

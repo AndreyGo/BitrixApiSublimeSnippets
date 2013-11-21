@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_PUBLIC_MODE]]></content>
+	<tabTrigger>BX_PUBLIC_MODE</tabTrigger>
+	<description>Bitrix Show</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::GetSectionStat(${1:\$ID = false})]]></content>
+	<tabTrigger>CCheckList::GetSectionStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

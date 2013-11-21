@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGoogleOAuthInterface::getStorageTokens()]]></content>
+	<tabTrigger>CGoogleOAuthInterface::getStorageTokens</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

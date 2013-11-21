@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::OnEndBufferContent(${1:&pContent})]]></content>
+	<tabTrigger>CSecurityXSSDetect::OnEndBufferContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

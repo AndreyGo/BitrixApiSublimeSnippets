@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::GetUserOperations(${1:arID},${2:\$USER_ID = 0})]]></content>
+	<tabTrigger>CIBlockRights::GetUserOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

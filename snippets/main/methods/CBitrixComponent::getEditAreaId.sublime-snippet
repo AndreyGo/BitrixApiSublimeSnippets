@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::getEditAreaId(${1:entryId})]]></content>
+	<tabTrigger>CBitrixComponent::getEditAreaId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

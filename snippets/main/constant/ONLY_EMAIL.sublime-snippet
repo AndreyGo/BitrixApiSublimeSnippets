@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ONLY_EMAIL]]></content>
+	<tabTrigger>ONLY_EMAIL</tabTrigger>
+	<description>Bitrix CEvent::HandleEvent</description>
+	<scope>source.php</scope>
+</snippet>

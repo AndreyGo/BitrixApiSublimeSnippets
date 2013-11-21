@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetFeaturesPerms::GetAvaibleEntity(${1:entityType},${2:feature},${3:role},${4:operation},${5:active},${6:visible},${7:siteID})]]></content>
+	<tabTrigger>CSocNetFeaturesPerms::GetAvaibleEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

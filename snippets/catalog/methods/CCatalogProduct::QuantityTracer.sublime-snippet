@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProduct::QuantityTracer(${1:ProductID},${2:DeltaQuantity})]]></content>
+	<tabTrigger>CCatalogProduct::QuantityTracer</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

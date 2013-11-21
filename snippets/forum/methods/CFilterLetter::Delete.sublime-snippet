@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterLetter::Delete(${1:ID})]]></content>
+	<tabTrigger>CFilterLetter::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

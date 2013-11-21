@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscount::__SetOldFields(${1:strAction},${2:&\$arFields})]]></content>
+	<tabTrigger>CSaleDiscount::__SetOldFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

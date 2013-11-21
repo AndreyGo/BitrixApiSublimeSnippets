@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::&FindActivityByName(${1:&arWorkflowTemplate},${2:activityName})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::&FindActivityByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

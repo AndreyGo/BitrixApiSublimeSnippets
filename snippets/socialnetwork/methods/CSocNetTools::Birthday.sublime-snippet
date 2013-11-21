@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTools::Birthday(${1:datetime},${2:gender},${3:\$showYear = "N"})]]></content>
+	<tabTrigger>CSocNetTools::Birthday</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

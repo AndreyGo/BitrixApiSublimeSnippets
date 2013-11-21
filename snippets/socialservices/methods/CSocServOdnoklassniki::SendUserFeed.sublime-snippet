@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServOdnoklassniki::SendUserFeed(${1:userId},${2:message})]]></content>
+	<tabTrigger>CSocServOdnoklassniki::SendUserFeed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

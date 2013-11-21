@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::ActionDoGroup(${1:id},${2:action_id},${3:\$add_params=''})]]></content>
+	<tabTrigger>CAdminSubList::ActionDoGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

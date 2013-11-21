@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFieldInputValue(${1:parameterDocumentType},${2:fieldType},${3:fieldName},${4:arRequest},${5:&\$arErrors})]]></content>
+	<tabTrigger>GetFieldInputValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

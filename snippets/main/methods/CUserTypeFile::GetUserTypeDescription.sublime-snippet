@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeFile::GetUserTypeDescription()]]></content>
+	<tabTrigger>CUserTypeFile::GetUserTypeDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

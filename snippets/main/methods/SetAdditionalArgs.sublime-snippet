@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetAdditionalArgs(${1:\$additional_args = ''})]]></content>
+	<tabTrigger>SetAdditionalArgs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

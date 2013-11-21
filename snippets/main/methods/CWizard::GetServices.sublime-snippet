@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::GetServices(${1:\$arFilter = Array()})]]></content>
+	<tabTrigger>CWizard::GetServices</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CMailLogDBRes::Fetch()]]></content>
+	<tabTrigger>_CMailLogDBRes::Fetch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

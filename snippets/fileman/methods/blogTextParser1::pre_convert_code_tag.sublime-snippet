@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::pre_convert_code_tag(${1:\$text = ""})]]></content>
+	<tabTrigger>blogTextParser1::pre_convert_code_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

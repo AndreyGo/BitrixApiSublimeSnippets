@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__FindSubmenu(${1:menu},${2:items_id})]]></content>
+	<tabTrigger>__FindSubmenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

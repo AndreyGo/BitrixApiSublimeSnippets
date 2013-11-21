@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoKeywords::GetByURL(${1:URL},${2:\$SITE_ID = false},${3:\$bPart = false},${4:\$bCleanUrl = false})]]></content>
+	<tabTrigger>CSeoKeywords::GetByURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

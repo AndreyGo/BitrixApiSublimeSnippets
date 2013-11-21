@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogStoreControlUtil::getStoreName(${1:storeId})]]></content>
+	<tabTrigger>CCatalogStoreControlUtil::getStoreName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

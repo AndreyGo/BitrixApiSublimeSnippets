@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SubscribeProduct(${1:intProductID},${2:\$arRewriteFields = array()},${3:\$arProductParams = array()})]]></content>
+	<tabTrigger>SubscribeProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

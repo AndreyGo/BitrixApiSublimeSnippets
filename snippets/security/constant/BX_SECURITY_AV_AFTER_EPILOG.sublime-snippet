@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_AV_AFTER_EPILOG]]></content>
+	<tabTrigger>BX_SECURITY_AV_AFTER_EPILOG</tabTrigger>
+	<description>Bitrix CSecurityAntiVirus::PHPShutdown</description>
+	<scope>source.php</scope>
+</snippet>

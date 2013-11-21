@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_ConsentToken::setSessionKey(${1:sessionkey})]]></content>
+	<tabTrigger>WLL_ConsentToken::setSessionKey</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

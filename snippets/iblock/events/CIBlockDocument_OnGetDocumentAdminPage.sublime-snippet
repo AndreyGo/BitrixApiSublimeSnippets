@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument_OnGetDocumentAdminPage]]></content>
+	<tabTrigger>CIBlockDocument_OnGetDocumentAdminPage</tabTrigger>
+	<description>Bitrix CIBlockDocument::GetDocumentAdminPage</description>
+	<scope>source.php</scope>
+</snippet>

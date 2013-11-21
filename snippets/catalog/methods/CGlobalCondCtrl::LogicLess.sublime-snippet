@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::LogicLess(${1:arField},${2:mxValue})]]></content>
+	<tabTrigger>CGlobalCondCtrl::LogicLess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

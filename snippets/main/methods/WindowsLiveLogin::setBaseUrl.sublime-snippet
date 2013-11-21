@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setBaseUrl(${1:baseurl})]]></content>
+	<tabTrigger>WindowsLiveLogin::setBaseUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

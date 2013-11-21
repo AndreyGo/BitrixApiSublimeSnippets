@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::currentUserHaveRightsForSkip()]]></content>
+	<tabTrigger>CSecurityFilter::currentUserHaveRightsForSkip</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

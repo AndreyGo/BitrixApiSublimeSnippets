@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::Resume()]]></content>
+	<tabTrigger>CBPWorkflow::Resume</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

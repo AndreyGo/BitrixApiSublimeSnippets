@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::ResizeImageFileCheck(${1:obBucket},${2:path})]]></content>
+	<tabTrigger>CCloudStorage::ResizeImageFileCheck</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

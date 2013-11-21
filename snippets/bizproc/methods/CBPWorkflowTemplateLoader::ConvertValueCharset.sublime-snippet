@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ConvertValueCharset(${1:s},${2:direction})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ConvertValueCharset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

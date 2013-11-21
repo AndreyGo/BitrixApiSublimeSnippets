@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHistoryResult::Fetch()]]></content>
+	<tabTrigger>CBPHistoryResult::Fetch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

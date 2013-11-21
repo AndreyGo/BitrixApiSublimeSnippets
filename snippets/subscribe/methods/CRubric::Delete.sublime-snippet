@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRubric::Delete(${1:ID})]]></content>
+	<tabTrigger>CRubric::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormAnswer::Set(${1:arFields},${2:\$ANSWER_ID=false})]]></content>
+	<tabTrigger>CFormAnswer::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

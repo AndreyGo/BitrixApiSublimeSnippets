@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::getSuperGlobalArray(${1:pType})]]></content>
+	<tabTrigger>CSecurityFilter::getSuperGlobalArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

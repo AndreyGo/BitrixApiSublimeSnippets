@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::convert_close_tag(${1:\$marker = "quote"})]]></content>
+	<tabTrigger>forumTextParser::convert_close_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

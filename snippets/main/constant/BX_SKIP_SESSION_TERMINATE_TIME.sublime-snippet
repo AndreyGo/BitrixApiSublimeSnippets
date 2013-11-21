@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SKIP_SESSION_TERMINATE_TIME]]></content>
+	<tabTrigger>BX_SKIP_SESSION_TERMINATE_TIME</tabTrigger>
+	<description>Bitrix CMain::PrologActions</description>
+	<scope>source.php</scope>
+</snippet>

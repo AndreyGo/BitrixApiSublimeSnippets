@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::parseComponentPath(${1:folder404},${2:arUrlTemplates},${3:&\$arVariables},${4:\$requestURL = false})]]></content>
+	<tabTrigger>CComponentEngine::parseComponentPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getAppSecurityToken(${1:\$siteid=null},${2:\$ip=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::getAppSecurityToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

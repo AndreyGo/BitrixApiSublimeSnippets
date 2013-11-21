@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvertTmp::DropTable()]]></content>
+	<tabTrigger>CCatalogDiscountConvertTmp::DropTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

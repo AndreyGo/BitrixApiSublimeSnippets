@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ResizePicture(${1:file},${2:resize})]]></content>
+	<tabTrigger>CIBlockCMLImport::ResizePicture</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

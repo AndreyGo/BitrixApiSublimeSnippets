@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPRuntime::GetWorkflow(${1:workflowId})]]></content>
+	<tabTrigger>CBPRuntime::GetWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTopPanel::IsCanEditPermission(${1:currentFilePath},${2:documentRoot},${3:filemanExists})]]></content>
+	<tabTrigger>CTopPanel::IsCanEditPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

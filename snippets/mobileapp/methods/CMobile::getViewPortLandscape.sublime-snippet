@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::getViewPortLandscape()]]></content>
+	<tabTrigger>CMobile::getViewPortLandscape</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

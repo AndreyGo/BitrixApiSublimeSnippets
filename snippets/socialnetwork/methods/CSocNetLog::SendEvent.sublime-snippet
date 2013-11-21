@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::SendEvent(${1:ID},${2:\$mailTemplate = "SONET_NEW_EVENT"},${3:\$tmp_id = false},${4:\$bAgent = false},${5:\$bTransport = false})]]></content>
+	<tabTrigger>CSocNetLog::SendEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

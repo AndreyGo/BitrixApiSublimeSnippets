@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSite::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVideo::GetEditFormHTML(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeVideo::GetEditFormHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

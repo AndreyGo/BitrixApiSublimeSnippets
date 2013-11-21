@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::DoChangeProductQuantity(${1:arBasketItem},${2:deltaQuantity},${3:\$isOrderReserved = false},${4:\$isOrderDeducted = false},${5:\$arStoreBarcodeOrderFormData = array()},${6:\$arAdditionalParams = array()})]]></content>
+	<tabTrigger>CSaleBasket::DoChangeProductQuantity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

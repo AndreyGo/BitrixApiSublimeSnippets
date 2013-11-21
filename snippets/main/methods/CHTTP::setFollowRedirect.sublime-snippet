@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::setFollowRedirect(${1:follow})]]></content>
+	<tabTrigger>CHTTP::setFollowRedirect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

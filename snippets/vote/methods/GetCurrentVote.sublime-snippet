@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCurrentVote(${1:GROUP_SID},${2:\$site_id=SITE_ID},${3:\$access=1})]]></content>
+	<tabTrigger>GetCurrentVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

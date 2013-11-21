@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteLangFile(${1:abs_path})]]></content>
+	<tabTrigger>DeleteLangFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

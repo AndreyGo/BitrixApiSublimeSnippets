@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::DeleteWithCheck(${1:ID})]]></content>
+	<tabTrigger>CIMNotify::DeleteWithCheck</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterForumUpdate]]></content>
+	<tabTrigger>onAfterForumUpdate</tabTrigger>
+	<description>Bitrix CForumNew::Update</description>
+	<scope>source.php</scope>
+</snippet>

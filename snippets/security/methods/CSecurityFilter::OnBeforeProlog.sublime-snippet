@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::OnBeforeProlog()]]></content>
+	<tabTrigger>CSecurityFilter::OnBeforeProlog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

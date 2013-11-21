@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserPerms::InitUserPerms(${1:currentUserID},${2:userID},${3:bCurrentUserIsAdmin})]]></content>
+	<tabTrigger>CSocNetUserPerms::InitUserPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

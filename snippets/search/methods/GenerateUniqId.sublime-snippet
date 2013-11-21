@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GenerateUniqId(${1:sName})]]></content>
+	<tabTrigger>GenerateUniqId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

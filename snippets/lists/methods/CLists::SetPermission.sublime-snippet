@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::SetPermission(${1:iblock_type_id},${2:arGroups})]]></content>
+	<tabTrigger>CLists::SetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

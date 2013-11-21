@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::DialogAddEventSimple(${1:Params})]]></content>
+	<tabTrigger>CCalendarSceleton::DialogAddEventSimple</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

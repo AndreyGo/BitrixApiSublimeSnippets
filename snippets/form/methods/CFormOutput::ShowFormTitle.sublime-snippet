@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::ShowFormTitle(${1:\$css_style = ""})]]></content>
+	<tabTrigger>CFormOutput::ShowFormTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

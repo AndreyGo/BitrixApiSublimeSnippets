@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::GetSign(${1:url},${2:\$userID = false},${3:\$site_id = false})]]></content>
+	<tabTrigger>CSocNetLog::GetSign</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServRambler::Authorize(${1:\$identity=false},${2:\$var=false})]]></content>
+	<tabTrigger>CSocServRambler::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

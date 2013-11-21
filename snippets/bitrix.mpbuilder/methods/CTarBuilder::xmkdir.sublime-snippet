@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTarBuilder::xmkdir(${1:dir})]]></content>
+	<tabTrigger>CTarBuilder::xmkdir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

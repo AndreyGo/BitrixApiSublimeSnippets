@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetNumMonth(${1:month})]]></content>
+	<tabTrigger>GetNumMonth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

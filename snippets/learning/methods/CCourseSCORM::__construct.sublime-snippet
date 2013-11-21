@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourseSCORM::__construct(${1:PACKAGE_DIR},${2:arSITE_ID})]]></content>
+	<tabTrigger>CCourseSCORM::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

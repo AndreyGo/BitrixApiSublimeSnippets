@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::DeleteIndex(${1:MODULE_ID},${2:\$ITEM_ID=false},${3:\$PARAM1=false},${4:\$PARAM2=false},${5:\$SITE_ID=false})]]></content>
+	<tabTrigger>CSearch::DeleteIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

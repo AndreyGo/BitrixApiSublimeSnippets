@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearchGetURL]]></content>
+	<tabTrigger>OnSearchGetURL</tabTrigger>
+	<description>Bitrix CSearchTitle::Fetch</description>
+	<scope>source.php</scope>
+</snippet>

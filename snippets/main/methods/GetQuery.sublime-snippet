@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetQuery(${1:arFilter})]]></content>
+	<tabTrigger>GetQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

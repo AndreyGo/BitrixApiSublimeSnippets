@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroupSubject::GetList(${1:\$arOrder = Array("SORT" => "ASC"},${2:"ID" => "DESC")},${3:\$arFilter = Array()},${4:\$arGroupBy = false},${5:\$arNavStartParams = false},${6:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CSocNetGroupSubject::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

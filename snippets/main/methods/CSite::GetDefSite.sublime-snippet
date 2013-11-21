@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetDefSite(${1:\$LID = false})]]></content>
+	<tabTrigger>CSite::GetDefSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

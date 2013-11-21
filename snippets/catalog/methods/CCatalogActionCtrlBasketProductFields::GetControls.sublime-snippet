@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogActionCtrlBasketProductFields::GetControls(${1:\$strControlID = false})]]></content>
+	<tabTrigger>CCatalogActionCtrlBasketProductFields::GetControls</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

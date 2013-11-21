@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::_InitSubStep(${1:stepType},${2:&\$arInstallation},${3:\$bInitStep = true})]]></content>
+	<tabTrigger>CWizard::_InitSubStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

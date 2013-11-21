@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnCacheOfLessonTreeComponent::Purge()]]></content>
+	<tabTrigger>CLearnCacheOfLessonTreeComponent::Purge</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::GetSerializedForm(${1:arTemplate})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::GetSerializedForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

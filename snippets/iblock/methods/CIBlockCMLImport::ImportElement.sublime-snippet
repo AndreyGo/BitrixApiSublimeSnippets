@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ImportElement(${1:arXMLElement},${2:&\$counter},${3:bWF},${4:arParent})]]></content>
+	<tabTrigger>CIBlockCMLImport::ImportElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

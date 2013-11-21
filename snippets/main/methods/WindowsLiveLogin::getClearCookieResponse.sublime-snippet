@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getClearCookieResponse()]]></content>
+	<tabTrigger>WindowsLiveLogin::getClearCookieResponse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetectVariables::addVariable(${1:pName},${2:pValue})]]></content>
+	<tabTrigger>CSecurityXSSDetectVariables::addVariable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

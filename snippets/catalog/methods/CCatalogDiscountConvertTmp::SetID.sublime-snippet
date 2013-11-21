@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvertTmp::SetID(${1:intID})]]></content>
+	<tabTrigger>CCatalogDiscountConvertTmp::SetID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

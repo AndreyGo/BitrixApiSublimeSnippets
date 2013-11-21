@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormatDateEx(${1:strDate},${2:\$format=false},${3:\$new_format=false})]]></content>
+	<tabTrigger>FormatDateEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MOBILE_LOG]]></content>
+	<tabTrigger>BX_MOBILE_LOG</tabTrigger>
+	<description>Bitrix CTextParser::TextParserConvertVideo</description>
+	<scope>source.php</scope>
+</snippet>

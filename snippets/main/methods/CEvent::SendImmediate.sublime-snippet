@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEvent::SendImmediate(${1:event},${2:lid},${3:arFields},${4:\$Duplicate = "Y"},${5:\$message_id=""})]]></content>
+	<tabTrigger>CEvent::SendImmediate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

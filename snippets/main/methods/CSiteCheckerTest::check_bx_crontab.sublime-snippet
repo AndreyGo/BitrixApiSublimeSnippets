@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_bx_crontab()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_bx_crontab</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

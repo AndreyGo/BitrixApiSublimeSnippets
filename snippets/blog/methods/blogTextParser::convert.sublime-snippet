@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser::convert(${1:text},${2:\$bPreview = True},${3:\$arImages = array()},${4:\$allow = array("HTML" => "N"},${5:"ANCHOR" => "Y"},${6:"BIU" => "Y"},${7:"IMG" => "Y"},${8:"QUOTE" => "Y"},${9:"CODE" => "Y"},${10:"FONT" => "Y"},${11:"LIST" => "Y"},${12:"SMILES" => "Y"},${13:"NL2BR" => "N"},${14:"VIDEO" => "Y"},${15:"TABLE" => "Y"},${16:"CUT_ANCHOR" => "N"},${17:"SHORT_ANCHOR" => "N")},${18:\$arParams = Array()})]]></content>
+	<tabTrigger>blogTextParser::convert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailTools::EncodeSubject(${1:text},${2:charset})]]></content>
+	<tabTrigger>CMailTools::EncodeSubject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

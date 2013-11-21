@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[emoticon(${1:theSmilie})]]></content>
+	<tabTrigger>emoticon</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

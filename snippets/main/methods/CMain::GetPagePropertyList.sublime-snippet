@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetPagePropertyList()]]></content>
+	<tabTrigger>CMain::GetPagePropertyList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

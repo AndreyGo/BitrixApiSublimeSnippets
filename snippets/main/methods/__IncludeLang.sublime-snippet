@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__IncludeLang(${1:path},${2:\$bReturnArray=false},${3:\$bFileChecked=false})]]></content>
+	<tabTrigger>__IncludeLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

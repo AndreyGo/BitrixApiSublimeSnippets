@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::IBlockSectionDelete(${1:zr})]]></content>
+	<tabTrigger>CSocNetSearch::IBlockSectionDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

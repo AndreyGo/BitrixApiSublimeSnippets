@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStudent::GenerateTranscipt(${1:\$TranscriptLength = 8})]]></content>
+	<tabTrigger>CStudent::GenerateTranscipt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

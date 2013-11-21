@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::AddHeaders(${1:aParams})]]></content>
+	<tabTrigger>CAdminSubList::AddHeaders</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

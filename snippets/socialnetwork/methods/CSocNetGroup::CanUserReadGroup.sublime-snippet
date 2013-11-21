@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::CanUserReadGroup(${1:userID},${2:groupID})]]></content>
+	<tabTrigger>CSocNetGroup::CanUserReadGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

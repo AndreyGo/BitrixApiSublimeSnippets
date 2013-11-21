@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::CheckIBlockType(${1:ID})]]></content>
+	<tabTrigger>CIBlockCMLImport::CheckIBlockType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

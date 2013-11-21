@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXGetErrors::GetErrors()]]></content>
+	<tabTrigger>IBXGetErrors::GetErrors</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

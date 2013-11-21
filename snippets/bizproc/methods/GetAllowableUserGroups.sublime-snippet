@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAllowableUserGroups(${1:parameterDocumentId})]]></content>
+	<tabTrigger>GetAllowableUserGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

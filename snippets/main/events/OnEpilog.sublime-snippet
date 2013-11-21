@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnEpilog]]></content>
+	<tabTrigger>OnEpilog</tabTrigger>
+	<description>Bitrix </description>
+	<scope>source.php</scope>
+</snippet>

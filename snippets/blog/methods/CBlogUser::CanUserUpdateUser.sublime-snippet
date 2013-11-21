@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::CanUserUpdateUser(${1:ID},${2:userID},${3:\$selectType = BLOG_BY_BLOG_USER_ID})]]></content>
+	<tabTrigger>CBlogUser::CanUserUpdateUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionPost(${1:\$url = false},${2:\$action_name = false},${3:\$action_value = 'Y'})]]></content>
+	<tabTrigger>ActionPost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

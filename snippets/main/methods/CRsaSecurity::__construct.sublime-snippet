@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaSecurity::__construct(${1:\$lib=false})]]></content>
+	<tabTrigger>CRsaSecurity::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

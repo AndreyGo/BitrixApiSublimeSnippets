@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::ParseQ(${1:q})]]></content>
+	<tabTrigger>CSupportSearch::ParseQ</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

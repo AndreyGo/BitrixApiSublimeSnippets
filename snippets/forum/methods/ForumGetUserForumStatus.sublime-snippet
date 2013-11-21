@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumGetUserForumStatus(${1:\$userID = false},${2:\$perm = false},${3:\$arAdditionalParams = array()})]]></content>
+	<tabTrigger>ForumGetUserForumStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

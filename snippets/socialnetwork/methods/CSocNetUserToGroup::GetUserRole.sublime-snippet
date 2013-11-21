@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::GetUserRole(${1:userID},${2:groupID})]]></content>
+	<tabTrigger>CSocNetUserToGroup::GetUserRole</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

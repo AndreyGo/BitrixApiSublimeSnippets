@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetOwnerEmails(${1:CONTRACT_ID},${2:&\$OWNER_EMAIL},${3:&\$ADD_EMAIL},${4:&\$VIEW_EMAIL},${5:&\$EDIT_EMAIL})]]></content>
+	<tabTrigger>CAdvContract::GetOwnerEmails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

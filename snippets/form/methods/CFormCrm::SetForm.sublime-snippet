@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::SetForm(${1:FORM_ID},${2:arParams})]]></content>
+	<tabTrigger>CFormCrm::SetForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

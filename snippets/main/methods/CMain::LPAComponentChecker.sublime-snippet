@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::LPAComponentChecker(${1:&arParams},${2:&\$arPHPparams},${3:\$parentParamName = false})]]></content>
+	<tabTrigger>CMain::LPAComponentChecker</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

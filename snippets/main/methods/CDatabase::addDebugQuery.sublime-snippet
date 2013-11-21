@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::addDebugQuery(${1:strSql},${2:exec_time})]]></content>
+	<tabTrigger>CDatabase::addDebugQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

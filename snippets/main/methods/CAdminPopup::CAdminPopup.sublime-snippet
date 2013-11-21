@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPopup::CAdminPopup(${1:name},${2:id},${3:\$items=false},${4:\$params=false})]]></content>
+	<tabTrigger>CAdminPopup::CAdminPopup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

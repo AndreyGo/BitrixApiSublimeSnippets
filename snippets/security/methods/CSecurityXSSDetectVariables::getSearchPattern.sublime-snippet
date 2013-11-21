@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetectVariables::getSearchPattern(${1:\$pKey = ""})]]></content>
+	<tabTrigger>CSecurityXSSDetectVariables::getSearchPattern</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

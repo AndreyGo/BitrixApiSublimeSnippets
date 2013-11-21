@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::Start()]]></content>
+	<tabTrigger>CSiteCheckerTest::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

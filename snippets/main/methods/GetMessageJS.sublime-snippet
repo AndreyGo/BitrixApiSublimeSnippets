@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetMessageJS(${1:name},${2:\$aReplace=false})]]></content>
+	<tabTrigger>GetMessageJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

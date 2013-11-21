@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_AUTH_FORM]]></content>
+	<tabTrigger>BX_AUTH_FORM</tabTrigger>
+	<description>Bitrix OnAdminInformerInsertItems</description>
+	<scope>source.php</scope>
+</snippet>

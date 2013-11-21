@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Write(${1:workflowId},${2:type},${3:actionName},${4:executionStatus},${5:executionResult},${6:\$actionTitle = ""},${7:\$actionNote = ""},${8:\$modifiedBy = 0})]]></content>
+	<tabTrigger>Write</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

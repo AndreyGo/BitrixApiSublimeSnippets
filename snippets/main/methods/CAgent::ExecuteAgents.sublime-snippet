@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAgent::ExecuteAgents(${1:str_crontab})]]></content>
+	<tabTrigger>CAgent::ExecuteAgents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

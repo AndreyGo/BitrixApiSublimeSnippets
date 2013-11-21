@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::formatResultValue(${1:k},${2:&\$v},${3:&\$row},${4:&\$cInfo},${5:total})]]></content>
+	<tabTrigger>CSaleReportUserHelper::formatResultValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

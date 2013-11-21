@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPTaskResult::ConvertBBCode(${1:text})]]></content>
+	<tabTrigger>CBPTaskResult::ConvertBBCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

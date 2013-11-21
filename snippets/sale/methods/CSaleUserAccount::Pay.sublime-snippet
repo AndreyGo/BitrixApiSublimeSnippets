@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserAccount::Pay(${1:userID},${2:paySum},${3:payCurrency},${4:\$orderID = 0},${5:\$useCC = True})]]></content>
+	<tabTrigger>CSaleUserAccount::Pay</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

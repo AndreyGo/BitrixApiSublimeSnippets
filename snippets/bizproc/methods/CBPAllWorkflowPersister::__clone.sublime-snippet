@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::__clone()]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::__clone</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

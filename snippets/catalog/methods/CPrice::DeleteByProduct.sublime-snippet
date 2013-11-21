@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::DeleteByProduct(${1:ProductID},${2:\$arExceptionIDs = array()})]]></content>
+	<tabTrigger>CPrice::DeleteByProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

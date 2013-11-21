@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEvent::EncodeSubject(${1:text},${2:charset})]]></content>
+	<tabTrigger>CEvent::EncodeSubject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

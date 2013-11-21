@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailFilter::DoPHPAction(${1:id},${2:action},${3:&\$arMessageFields})]]></content>
+	<tabTrigger>CMailFilter::DoPHPAction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

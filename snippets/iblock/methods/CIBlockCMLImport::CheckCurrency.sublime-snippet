@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::CheckCurrency(${1:currency})]]></content>
+	<tabTrigger>CIBlockCMLImport::CheckCurrency</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

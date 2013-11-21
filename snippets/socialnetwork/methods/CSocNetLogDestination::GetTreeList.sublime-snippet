@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogDestination::GetTreeList(${1:id},${2:relation},${3:\$compat = false})]]></content>
+	<tabTrigger>CSocNetLogDestination::GetTreeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

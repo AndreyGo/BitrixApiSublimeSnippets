@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::GetList(${1:\$arFilter = Array()},${2:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CSocNetLogFollow::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

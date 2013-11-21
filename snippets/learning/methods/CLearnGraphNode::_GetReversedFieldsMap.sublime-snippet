@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnGraphNode::_GetReversedFieldsMap()]]></content>
+	<tabTrigger>CLearnGraphNode::_GetReversedFieldsMap</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

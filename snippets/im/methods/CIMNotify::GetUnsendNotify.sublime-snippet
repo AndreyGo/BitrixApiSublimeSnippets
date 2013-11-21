@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::GetUnsendNotify(${1:\$order = "ASC"})]]></content>
+	<tabTrigger>CIMNotify::GetUnsendNotify</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

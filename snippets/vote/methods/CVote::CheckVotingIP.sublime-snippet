@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::CheckVotingIP(${1:VOTE_ID},${2:REMOTE_ADDR},${3:KEEP_IP_SEC},${4:\$params = array()})]]></content>
+	<tabTrigger>CVote::CheckVotingIP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

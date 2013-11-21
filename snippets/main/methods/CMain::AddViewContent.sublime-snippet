@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddViewContent(${1:view},${2:content},${3:\$pos = 500})]]></content>
+	<tabTrigger>CMain::AddViewContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

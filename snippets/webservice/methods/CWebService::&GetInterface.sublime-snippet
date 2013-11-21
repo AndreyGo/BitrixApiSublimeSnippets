@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWebService::&GetInterface(${1:className})]]></content>
+	<tabTrigger>CWebService::&GetInterface</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

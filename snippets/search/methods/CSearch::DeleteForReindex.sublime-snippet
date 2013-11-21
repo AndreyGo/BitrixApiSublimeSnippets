@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::DeleteForReindex(${1:MODULE_ID})]]></content>
+	<tabTrigger>CSearch::DeleteForReindex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::generateChains(${1:strChains},${2:initEntity},${3:initKey})]]></content>
+	<tabTrigger>CReport::generateChains</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

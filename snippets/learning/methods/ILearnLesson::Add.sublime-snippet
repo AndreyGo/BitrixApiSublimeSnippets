@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::Add(${1:N/A})]]></content>
+	<tabTrigger>ILearnLesson::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

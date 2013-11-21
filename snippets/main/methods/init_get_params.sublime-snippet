@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[init_get_params(${1:url})]]></content>
+	<tabTrigger>init_get_params</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

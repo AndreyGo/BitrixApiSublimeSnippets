@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUserGroup::SetGroupPerms(${1:ID},${2:blogID},${3:\$postID = 0},${4:\$permission = BLOG_PERMS_DENY},${5:\$permsType = BLOG_PERMS_POST})]]></content>
+	<tabTrigger>CBlogUserGroup::SetGroupPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

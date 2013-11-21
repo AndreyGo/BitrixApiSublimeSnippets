@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBuildAccountNumberTemplateList]]></content>
+	<tabTrigger>OnBuildAccountNumberTemplateList</tabTrigger>
+	<description>Bitrix </description>
+	<scope>source.php</scope>
+</snippet>

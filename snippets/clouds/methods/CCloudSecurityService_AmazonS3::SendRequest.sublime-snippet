@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudSecurityService_AmazonS3::SendRequest(${1:access_key},${2:secret_key},${3:verb},${4:bucket},${5:\$file_name='/'},${6:\$params=''})]]></content>
+	<tabTrigger>CCloudSecurityService_AmazonS3::SendRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

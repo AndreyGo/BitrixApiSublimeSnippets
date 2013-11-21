@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::HaveRole(${1:role},${2:\$userID=false})]]></content>
+	<tabTrigger>CTicket::HaveRole</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

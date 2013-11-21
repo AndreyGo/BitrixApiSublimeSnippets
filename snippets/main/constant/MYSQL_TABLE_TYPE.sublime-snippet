@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MYSQL_TABLE_TYPE]]></content>
+	<tabTrigger>MYSQL_TABLE_TYPE</tabTrigger>
+	<description>Bitrix CUserTypeEntity::CreatePropertyTables</description>
+	<scope>source.php</scope>
+</snippet>

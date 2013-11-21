@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetResultValuesFromDB(${1:RESULT_ID},${2:\$GET_ADDITIONAL="N"})]]></content>
+	<tabTrigger>CForm_old::GetResultValuesFromDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

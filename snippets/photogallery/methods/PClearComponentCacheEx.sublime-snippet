@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PClearComponentCacheEx(${1:\$iblockId = false},${2:\$arSections = array()},${3:\$arGalleries = array()},${4:\$arUsers = array()},${5:\$clearCommon = true})]]></content>
+	<tabTrigger>PClearComponentCacheEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

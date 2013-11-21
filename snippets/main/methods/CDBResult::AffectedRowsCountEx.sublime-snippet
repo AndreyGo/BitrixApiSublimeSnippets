@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::AffectedRowsCountEx()]]></content>
+	<tabTrigger>CDBResult::AffectedRowsCountEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

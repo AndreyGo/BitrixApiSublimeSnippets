@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::GetDiscountForProduct(${1:arProduct},${2:\$arParams = false})]]></content>
+	<tabTrigger>CCatalogDiscount::GetDiscountForProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

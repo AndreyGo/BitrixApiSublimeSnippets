@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::setViewParams(${1:id},${2:templateName},${3:strParams})]]></content>
+	<tabTrigger>CReport::setViewParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

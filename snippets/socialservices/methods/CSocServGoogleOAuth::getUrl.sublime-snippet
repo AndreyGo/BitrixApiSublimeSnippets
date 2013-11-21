@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServGoogleOAuth::getUrl(${1:\$location = 'opener'},${2:\$addScope = null})]]></content>
+	<tabTrigger>CSocServGoogleOAuth::getUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

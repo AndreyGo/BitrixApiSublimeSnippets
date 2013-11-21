@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPRootActivity::IsVariableExists(${1:name})]]></content>
+	<tabTrigger>IBPRootActivity::IsVariableExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

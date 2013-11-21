@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiUtils::CheckAccess(${1:\$access = 'view'})]]></content>
+	<tabTrigger>CWikiUtils::CheckAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

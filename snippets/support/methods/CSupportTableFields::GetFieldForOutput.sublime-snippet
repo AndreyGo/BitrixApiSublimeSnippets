@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::GetFieldForOutput(${1:name},${2:place},${3:\$whiteList = array("http"},${4:"ftp"},${5:"/")},${6:\$row = null})]]></content>
+	<tabTrigger>CSupportTableFields::GetFieldForOutput</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

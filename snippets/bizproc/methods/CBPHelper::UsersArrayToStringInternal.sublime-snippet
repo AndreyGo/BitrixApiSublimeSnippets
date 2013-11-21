@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::UsersArrayToStringInternal(${1:arUsers},${2:arWorkflowTemplate},${3:arAllowableUserGroups})]]></content>
+	<tabTrigger>CBPHelper::UsersArrayToStringInternal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

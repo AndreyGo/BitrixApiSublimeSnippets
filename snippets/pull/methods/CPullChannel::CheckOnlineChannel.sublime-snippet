@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::CheckOnlineChannel()]]></content>
+	<tabTrigger>CPullChannel::CheckOnlineChannel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

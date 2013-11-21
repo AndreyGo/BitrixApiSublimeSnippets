@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::SetSubordinateGroups(${1:grId},${2:\$arSubGroups=false})]]></content>
+	<tabTrigger>CGroup::SetSubordinateGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

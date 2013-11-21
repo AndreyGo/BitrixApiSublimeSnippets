@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTextParser::convertText(${1:text})]]></content>
+	<tabTrigger>CTextParser::convertText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

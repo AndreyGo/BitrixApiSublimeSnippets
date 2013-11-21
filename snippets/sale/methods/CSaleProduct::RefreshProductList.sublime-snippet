@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleProduct::RefreshProductList()]]></content>
+	<tabTrigger>CSaleProduct::RefreshProductList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::RestoreFromSerializedForm(${1:buffer})]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::RestoreFromSerializedForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetListOfAncestors(${1:lessonId},${2:\$stopAtLessonId = false},${3:\$stopBeforeLessonId = false},${4:\$arIgnoreEdges = array()})]]></content>
+	<tabTrigger>CLearnLesson::GetListOfAncestors</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

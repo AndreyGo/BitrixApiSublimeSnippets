@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrencyRates::ConvertCurrency(${1:valSum},${2:curFrom},${3:curTo},${4:\$valDate = ""})]]></content>
+	<tabTrigger>CCurrencyRates::ConvertCurrency</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

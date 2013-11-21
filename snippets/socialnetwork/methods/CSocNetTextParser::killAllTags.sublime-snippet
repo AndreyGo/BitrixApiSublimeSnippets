@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTextParser::killAllTags(${1:text})]]></content>
+	<tabTrigger>CSocNetTextParser::killAllTags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

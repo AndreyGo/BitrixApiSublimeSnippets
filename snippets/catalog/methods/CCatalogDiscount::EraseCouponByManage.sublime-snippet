@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::EraseCouponByManage(${1:intUserID},${2:strCoupon})]]></content>
+	<tabTrigger>CCatalogDiscount::EraseCouponByManage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

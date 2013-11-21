@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDirIndex(${1:path},${2:\$strDirIndex=false})]]></content>
+	<tabTrigger>GetDirIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

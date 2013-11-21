@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::GetLetter(${1:ID})]]></content>
+	<tabTrigger>CTask::GetLetter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

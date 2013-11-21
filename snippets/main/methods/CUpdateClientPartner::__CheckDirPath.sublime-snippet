@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::__CheckDirPath(${1:path},${2:\$bPermission = true})]]></content>
+	<tabTrigger>CUpdateClientPartner::__CheckDirPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

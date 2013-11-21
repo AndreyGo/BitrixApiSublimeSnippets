@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitBVar(${1:&var})]]></content>
+	<tabTrigger>InitBVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

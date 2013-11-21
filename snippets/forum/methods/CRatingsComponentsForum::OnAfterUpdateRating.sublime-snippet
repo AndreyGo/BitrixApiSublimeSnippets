@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsForum::OnAfterUpdateRating(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CRatingsComponentsForum::OnAfterUpdateRating</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

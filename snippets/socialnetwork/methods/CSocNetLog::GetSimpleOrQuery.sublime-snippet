@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::GetSimpleOrQuery(${1:val},${2:key},${3:strOperation},${4:strNegative},${5:OrFields},${6:&\$arFields},${7:&\$arFilter})]]></content>
+	<tabTrigger>CSocNetLog::GetSimpleOrQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

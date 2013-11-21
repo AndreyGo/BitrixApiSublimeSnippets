@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteChannel::GetArrayGroupPermission(${1:channel_id})]]></content>
+	<tabTrigger>CVoteChannel::GetArrayGroupPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

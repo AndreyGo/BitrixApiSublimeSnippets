@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEMO]]></content>
+	<tabTrigger>DEMO</tabTrigger>
+	<description>Bitrix CUpdateClientPartner::GetCurrentModules</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetGroupUser(${1:ID})]]></content>
+	<tabTrigger>CGroup::GetGroupUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

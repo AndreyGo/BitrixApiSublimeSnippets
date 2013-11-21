@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setPlatform(${1:platform})]]></content>
+	<tabTrigger>CMobile::setPlatform</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

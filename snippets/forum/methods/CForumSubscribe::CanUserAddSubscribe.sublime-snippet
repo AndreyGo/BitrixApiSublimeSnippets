@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSubscribe::CanUserAddSubscribe(${1:FID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumSubscribe::CanUserAddSubscribe</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowTitlebar(${1:\$title = ''})]]></content>
+	<tabTrigger>ShowTitlebar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::rulescriptlenghts()]]></content>
+	<tabTrigger>CSecurityAntiVirus::rulescriptlenghts</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

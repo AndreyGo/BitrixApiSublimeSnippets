@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringDomainResult::setTests(${1:array tests})]]></content>
+	<tabTrigger>CBitrixCloudMonitoringDomainResult::setTests</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

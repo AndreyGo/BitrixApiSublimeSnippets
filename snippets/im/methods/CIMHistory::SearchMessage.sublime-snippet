@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMHistory::SearchMessage(${1:searchText},${2:toUserId},${3:\$fromUserId = false},${4:\$bTimeZone = true})]]></content>
+	<tabTrigger>CIMHistory::SearchMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

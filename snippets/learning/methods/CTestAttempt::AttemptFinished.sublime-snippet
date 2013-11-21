@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::AttemptFinished(${1:ATTEMPT_ID})]]></content>
+	<tabTrigger>CTestAttempt::AttemptFinished</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

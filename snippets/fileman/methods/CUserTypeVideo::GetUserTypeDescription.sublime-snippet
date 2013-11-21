@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVideo::GetUserTypeDescription()]]></content>
+	<tabTrigger>CUserTypeVideo::GetUserTypeDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeSocNetLogRightsAdd]]></content>
+	<tabTrigger>OnBeforeSocNetLogRightsAdd</tabTrigger>
+	<description>Bitrix CSocNetLogRights::Add</description>
+	<scope>source.php</scope>
+</snippet>

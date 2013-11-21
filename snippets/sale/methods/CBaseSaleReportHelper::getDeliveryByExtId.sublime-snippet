@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::getDeliveryByExtId(${1:delivery_id})]]></content>
+	<tabTrigger>CBaseSaleReportHelper::getDeliveryByExtId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

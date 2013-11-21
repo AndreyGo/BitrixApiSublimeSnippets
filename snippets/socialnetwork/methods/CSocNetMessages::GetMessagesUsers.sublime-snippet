@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::GetMessagesUsers(${1:userID},${2:\$arNavStartParams = false},${3:\$online_interval = 120})]]></content>
+	<tabTrigger>CSocNetMessages::GetMessagesUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

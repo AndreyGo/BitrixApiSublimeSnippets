@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BuilderGetFiles(${1:path},${2:\$arFilter = array()},${3:\$bAllFiles = false},${4:\$recursive = false})]]></content>
+	<tabTrigger>BuilderGetFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::SendTwit(${1:socServUserId},${2:message},${3:messageId})]]></content>
+	<tabTrigger>CTwitterInterface::SendTwit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumShowTopicPages(${1:nMessages},${2:strUrl},${3:\$pagen_var = "PAGEN_1"},${4:\$PAGE_ELEMENTS = false})]]></content>
+	<tabTrigger>ForumShowTopicPages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

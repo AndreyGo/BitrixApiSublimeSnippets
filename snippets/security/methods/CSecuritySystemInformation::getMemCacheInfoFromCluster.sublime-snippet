@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySystemInformation::getMemCacheInfoFromCluster()]]></content>
+	<tabTrigger>CSecuritySystemInformation::getMemCacheInfoFromCluster</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

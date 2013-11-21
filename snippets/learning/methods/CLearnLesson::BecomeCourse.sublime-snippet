@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::BecomeCourse(${1:lessonId},${2:arFields})]]></content>
+	<tabTrigger>CLearnLesson::BecomeCourse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

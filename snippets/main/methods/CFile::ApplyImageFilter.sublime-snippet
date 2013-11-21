@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ApplyImageFilter(${1:picture},${2:arFilter},${3:\$bHasAlpha = true})]]></content>
+	<tabTrigger>CFile::ApplyImageFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

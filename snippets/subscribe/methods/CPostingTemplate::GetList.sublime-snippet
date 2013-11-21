@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingTemplate::GetList()]]></content>
+	<tabTrigger>CPostingTemplate::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

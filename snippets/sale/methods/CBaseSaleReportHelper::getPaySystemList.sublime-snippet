@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::getPaySystemList()]]></content>
+	<tabTrigger>CBaseSaleReportHelper::getPaySystemList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

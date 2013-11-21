@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::DeductBasketProduct(${1:basketID},${2:deltaQuantity},${3:\$arStoreBarcodeData = array()})]]></content>
+	<tabTrigger>CSaleBasket::DeductBasketProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

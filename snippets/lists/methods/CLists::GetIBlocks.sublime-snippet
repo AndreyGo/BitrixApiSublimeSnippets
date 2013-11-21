@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::GetIBlocks(${1:iblock_type_id},${2:check_permissions},${3:\$socnet_group_id = false})]]></content>
+	<tabTrigger>CLists::GetIBlocks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

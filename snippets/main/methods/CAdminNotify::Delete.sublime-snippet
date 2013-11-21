@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminNotify::Delete(${1:ID})]]></content>
+	<tabTrigger>CAdminNotify::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

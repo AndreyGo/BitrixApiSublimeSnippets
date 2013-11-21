@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServBitrixOAuth::getRequestTokenUrl(${1:\$location = 'opener'})]]></content>
+	<tabTrigger>CSocServBitrixOAuth::getRequestTokenUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

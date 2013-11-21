@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTMLPagesCache::writeFile(${1:file_name},${2:content})]]></content>
+	<tabTrigger>CHTMLPagesCache::writeFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

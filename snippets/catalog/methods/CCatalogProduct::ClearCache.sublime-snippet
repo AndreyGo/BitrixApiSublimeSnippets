@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProduct::ClearCache()]]></content>
+	<tabTrigger>CCatalogProduct::ClearCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

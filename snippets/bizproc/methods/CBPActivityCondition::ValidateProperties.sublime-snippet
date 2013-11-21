@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivityCondition::ValidateProperties(${1:\$value = null},${2:CBPWorkflowTemplateUser \$user = null})]]></content>
+	<tabTrigger>CBPActivityCondition::ValidateProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

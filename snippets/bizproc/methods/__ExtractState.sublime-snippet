@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__ExtractState(${1:&arStates},${2:arResult})]]></content>
+	<tabTrigger>__ExtractState</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

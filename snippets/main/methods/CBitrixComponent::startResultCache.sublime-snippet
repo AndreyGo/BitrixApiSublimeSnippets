@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::startResultCache(${1:\$cacheTime = false},${2:\$additionalCacheID = false},${3:\$cachePath = false})]]></content>
+	<tabTrigger>CBitrixComponent::startResultCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

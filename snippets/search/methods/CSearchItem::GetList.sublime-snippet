@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchItem::GetList(${1:\$arOrder = array()},${2:\$arFilter = array()},${3:\$arSelect = array()})]]></content>
+	<tabTrigger>CSearchItem::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

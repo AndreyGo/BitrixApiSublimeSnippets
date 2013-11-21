@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogSitePath::DeleteBySiteID(${1:siteID})]]></content>
+	<tabTrigger>CBlogSitePath::DeleteBySiteID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

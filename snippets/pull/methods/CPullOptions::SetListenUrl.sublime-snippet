@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SetListenUrl(${1:\$path = ""},${2:\$mobile = false})]]></content>
+	<tabTrigger>CPullOptions::SetListenUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

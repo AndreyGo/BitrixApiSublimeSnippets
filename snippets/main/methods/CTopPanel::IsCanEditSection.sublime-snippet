@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTopPanel::IsCanEditSection(${1:currentDirPath},${2:filemanExists})]]></content>
+	<tabTrigger>CTopPanel::IsCanEditSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

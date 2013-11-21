@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetGroupRight(${1:module_id},${2:\$arGroups=false},${3:\$use_default_level="Y"},${4:\$max_right_for_super_admin="Y"},${5:\$site_id = false})]]></content>
+	<tabTrigger>CMain::GetGroupRight</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

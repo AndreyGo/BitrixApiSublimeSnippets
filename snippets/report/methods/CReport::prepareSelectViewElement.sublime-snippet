@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::prepareSelectViewElement(${1:elem},${2:select},${3:is_init_entity_aggregated},${4:fList},${5:fChainList},${6:helper_class})]]></content>
+	<tabTrigger>CReport::prepareSelectViewElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

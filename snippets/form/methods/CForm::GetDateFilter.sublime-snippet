@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetDateFilter(${1:FID},${2:\$form_name="form1"},${3:\$show_select="Y"},${4:\$field_select="class=\"inputselect\""},${5:\$field_input="class=\"inputtext\""})]]></content>
+	<tabTrigger>CForm::GetDateFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

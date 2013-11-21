@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacket::Debug(${1:sText})]]></content>
+	<tabTrigger>__CControllerPacket::Debug</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

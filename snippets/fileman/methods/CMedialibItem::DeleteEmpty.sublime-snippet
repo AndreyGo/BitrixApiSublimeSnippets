@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialibItem::DeleteEmpty()]]></content>
+	<tabTrigger>CMedialibItem::DeleteEmpty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

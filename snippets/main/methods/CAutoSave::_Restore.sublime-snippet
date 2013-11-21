@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoSave::_Restore(${1:arFields})]]></content>
+	<tabTrigger>CAutoSave::_Restore</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

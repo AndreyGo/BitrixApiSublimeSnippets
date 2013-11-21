@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::AddRegion(${1:arFields})]]></content>
+	<tabTrigger>CSaleLocation::AddRegion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

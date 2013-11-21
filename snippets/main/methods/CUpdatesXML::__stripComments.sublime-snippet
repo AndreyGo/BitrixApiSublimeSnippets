@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdatesXML::__stripComments(${1:&str})]]></content>
+	<tabTrigger>CUpdatesXML::__stripComments</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

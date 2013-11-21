@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixPHPAppTransport::batch(${1:actions})]]></content>
+	<tabTrigger>CBitrixPHPAppTransport::batch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

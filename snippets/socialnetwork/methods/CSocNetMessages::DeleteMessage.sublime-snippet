@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::DeleteMessage(${1:ID},${2:userID},${3:\$bCheckMessages = true})]]></content>
+	<tabTrigger>CSocNetMessages::DeleteMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

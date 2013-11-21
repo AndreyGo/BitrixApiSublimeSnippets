@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderChangeFormat::FormatOrderDeliveryDocChanged(${1:arData})]]></content>
+	<tabTrigger>CSaleOrderChangeFormat::FormatOrderDeliveryDocChanged</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

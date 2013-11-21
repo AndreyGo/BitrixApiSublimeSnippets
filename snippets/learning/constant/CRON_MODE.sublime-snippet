@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRON_MODE]]></content>
+	<tabTrigger>CRON_MODE</tabTrigger>
+	<description>Bitrix CLearnAccess::IsBaseAccess</description>
+	<scope>source.php</scope>
+</snippet>

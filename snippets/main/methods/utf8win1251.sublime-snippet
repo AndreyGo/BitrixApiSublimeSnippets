@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[utf8win1251(${1:s})]]></content>
+	<tabTrigger>utf8win1251</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

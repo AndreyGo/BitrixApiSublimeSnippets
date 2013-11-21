@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeOpenIDAuthFinalRedirect]]></content>
+	<tabTrigger>OnBeforeOpenIDAuthFinalRedirect</tabTrigger>
+	<description>Bitrix COpenIDClient::Authorize</description>
+	<scope>source.php</scope>
+</snippet>

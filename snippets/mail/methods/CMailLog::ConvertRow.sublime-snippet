@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailLog::ConvertRow(${1:arr_log})]]></content>
+	<tabTrigger>CMailLog::ConvertRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

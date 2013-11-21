@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetFormEventValue(${1:container_id},${2:\$bReplace = true},${3:\$bShadow = true},${4:\$event_delimiter = '\''})]]></content>
+	<tabTrigger>CAjax::GetFormEventValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnUserTypeBuildList]]></content>
+	<tabTrigger>OnUserTypeBuildList</tabTrigger>
+	<description>Bitrix CUserTypeManager::GetUserType</description>
+	<scope>source.php</scope>
+</snippet>

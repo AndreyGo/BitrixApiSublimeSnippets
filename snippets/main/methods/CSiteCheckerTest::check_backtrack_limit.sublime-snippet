@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_backtrack_limit()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_backtrack_limit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

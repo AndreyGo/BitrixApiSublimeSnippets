@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::EnableSocnet(${1:\$bActive = false})]]></content>
+	<tabTrigger>CWikiSocnet::EnableSocnet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

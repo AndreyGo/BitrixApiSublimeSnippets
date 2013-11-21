@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLFileStream::registerElementHandler(${1:nodePath},${2:callableHandler})]]></content>
+	<tabTrigger>CXMLFileStream::registerElementHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

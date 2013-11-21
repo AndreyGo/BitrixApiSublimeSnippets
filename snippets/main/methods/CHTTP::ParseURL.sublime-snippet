@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::ParseURL(${1:url},${2:\$arUrlOld = false})]]></content>
+	<tabTrigger>CHTTP::ParseURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

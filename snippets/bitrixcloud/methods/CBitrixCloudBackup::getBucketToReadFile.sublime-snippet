@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackup::getBucketToReadFile(${1:check_word},${2:file_name})]]></content>
+	<tabTrigger>CBitrixCloudBackup::getBucketToReadFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

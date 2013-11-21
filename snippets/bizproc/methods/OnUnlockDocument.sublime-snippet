@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnUnlockDocument(${1:workflowId},${2:eventName},${3:\$documentId = array()})]]></content>
+	<tabTrigger>OnUnlockDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchSQLHelper::_CallbackURL(${1:field_name},${2:operation},${3:field_value})]]></content>
+	<tabTrigger>CSearchSQLHelper::_CallbackURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

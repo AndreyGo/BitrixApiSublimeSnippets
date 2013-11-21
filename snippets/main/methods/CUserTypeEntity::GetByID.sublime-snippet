@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeEntity::GetByID(${1:ID})]]></content>
+	<tabTrigger>CUserTypeEntity::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

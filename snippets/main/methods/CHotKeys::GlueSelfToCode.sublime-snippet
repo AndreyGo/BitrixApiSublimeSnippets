@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::GlueSelfToCode(${1:&arCode})]]></content>
+	<tabTrigger>CHotKeys::GlueSelfToCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

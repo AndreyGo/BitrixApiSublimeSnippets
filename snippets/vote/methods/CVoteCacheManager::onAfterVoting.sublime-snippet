@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteCacheManager::onAfterVoting(${1:VOTE_ID},${2:EVENT_ID})]]></content>
+	<tabTrigger>CVoteCacheManager::onAfterVoting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

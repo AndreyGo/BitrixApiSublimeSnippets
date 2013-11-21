@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::GetByOwnerID(${1:ID},${2:\$arGroup = Array()})]]></content>
+	<tabTrigger>CBlog::GetByOwnerID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

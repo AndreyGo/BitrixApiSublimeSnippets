@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::InitializeFromArray(${1:arParams})]]></content>
+	<tabTrigger>CBPActivity::InitializeFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

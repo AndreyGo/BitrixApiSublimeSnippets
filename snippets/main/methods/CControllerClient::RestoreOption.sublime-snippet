@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::RestoreOption(${1:module_id},${2:option_id})]]></content>
+	<tabTrigger>CControllerClient::RestoreOption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

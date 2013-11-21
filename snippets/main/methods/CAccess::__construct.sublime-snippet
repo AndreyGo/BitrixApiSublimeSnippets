@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::__construct(${1:\$arParams=false})]]></content>
+	<tabTrigger>CAccess::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

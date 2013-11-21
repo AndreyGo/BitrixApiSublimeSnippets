@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchParameters::GetFilterDropDown(${1:\$bFilter = false})]]></content>
+	<tabTrigger>CSearchParameters::GetFilterDropDown</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

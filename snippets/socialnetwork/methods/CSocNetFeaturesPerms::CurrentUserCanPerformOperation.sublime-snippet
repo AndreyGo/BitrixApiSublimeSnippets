@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetFeaturesPerms::CurrentUserCanPerformOperation(${1:type},${2:id},${3:feature},${4:operation},${5:\$site_id = SITE_ID})]]></content>
+	<tabTrigger>CSocNetFeaturesPerms::CurrentUserCanPerformOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

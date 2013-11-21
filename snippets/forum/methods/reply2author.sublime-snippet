@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[reply2author(${1:name})]]></content>
+	<tabTrigger>reply2author</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

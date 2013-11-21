@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::PublishProhibitionPurge(${1:in_lessonId},${2:in_purgeMode})]]></content>
+	<tabTrigger>CLearnLesson::PublishProhibitionPurge</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

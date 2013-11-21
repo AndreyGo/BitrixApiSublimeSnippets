@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTools::InitImage(${1:imageID},${2:imageSize},${3:defaultImage},${4:defaultImageSize},${5:imageUrl},${6:showImageUrl},${7:\$urlParams=false})]]></content>
+	<tabTrigger>CSocNetTools::InitImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

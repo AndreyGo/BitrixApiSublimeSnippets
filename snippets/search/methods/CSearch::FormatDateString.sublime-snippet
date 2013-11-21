@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::FormatDateString(${1:strField})]]></content>
+	<tabTrigger>CSearch::FormatDateString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

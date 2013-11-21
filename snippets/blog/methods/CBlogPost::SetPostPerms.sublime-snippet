@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::SetPostPerms(${1:ID},${2:\$arPerms = array()},${3:\$permsType = BLOG_PERMS_POST})]]></content>
+	<tabTrigger>CBlogPost::SetPostPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

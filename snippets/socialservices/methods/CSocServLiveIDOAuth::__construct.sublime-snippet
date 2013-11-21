@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServLiveIDOAuth::__construct(${1:\$userId = null})]]></content>
+	<tabTrigger>CSocServLiveIDOAuth::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetResultAnswerArray(${1:WEB_FORM_ID},${2:&\$arrColumns},${3:&\$arrAnswers},${4:&\$arrAnswersSID},${5:\$arFilter=Array()})]]></content>
+	<tabTrigger>CForm::GetResultAnswerArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

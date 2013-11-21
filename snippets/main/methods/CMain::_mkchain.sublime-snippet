@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::_mkchain(${1:arChain},${2:strChainTemplate},${3:\$bIncludeOnce=false},${4:\$bShowIcons = true})]]></content>
+	<tabTrigger>CMain::_mkchain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

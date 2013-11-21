@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFile::GetImgHtml(${1:\$params = array()})]]></content>
+	<tabTrigger>CListFile::GetImgHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

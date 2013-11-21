@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::OnAfterSonetLogEntryAddComment(${1:arSonetLogComment})]]></content>
+	<tabTrigger>CCalendarLiveFeed::OnAfterSonetLogEntryAddComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

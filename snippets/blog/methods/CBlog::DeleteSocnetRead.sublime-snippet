@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::DeleteSocnetRead(${1:ID})]]></content>
+	<tabTrigger>CBlog::DeleteSocnetRead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

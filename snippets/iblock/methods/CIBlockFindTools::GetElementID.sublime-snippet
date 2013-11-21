@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockFindTools::GetElementID(${1:element_id},${2:element_code},${3:section_id},${4:section_code},${5:arFilter})]]></content>
+	<tabTrigger>CIBlockFindTools::GetElementID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

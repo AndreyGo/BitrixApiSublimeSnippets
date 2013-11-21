@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::GetDropDownArray(${1:\$siteID = false},${2:\$SLA_ID = false},${3:\$arUnsetType = Array("F")})]]></content>
+	<tabTrigger>CTicketDictionary::GetDropDownArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

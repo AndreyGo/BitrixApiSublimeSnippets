@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::InitSession(${1:arType})]]></content>
+	<tabTrigger>CSocNetSearchReindex::InitSession</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

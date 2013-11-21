@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXVirtualIO::Copy(${1:source},${2:target},${3:\$bRewrite = true})]]></content>
+	<tabTrigger>IBXVirtualIO::Copy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

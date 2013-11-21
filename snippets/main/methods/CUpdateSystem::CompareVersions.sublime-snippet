@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::CompareVersions(${1:strVers1},${2:strVers2})]]></content>
+	<tabTrigger>CUpdateSystem::CompareVersions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

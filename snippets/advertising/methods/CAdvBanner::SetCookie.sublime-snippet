@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::SetCookie(${1:arBanner},${2:&\$inc_banner_counter},${3:&\$inc_contract_counter})]]></content>
+	<tabTrigger>CAdvBanner::SetCookie</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

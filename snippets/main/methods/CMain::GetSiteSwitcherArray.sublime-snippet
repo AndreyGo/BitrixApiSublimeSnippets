@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetSiteSwitcherArray()]]></content>
+	<tabTrigger>CMain::GetSiteSwitcherArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

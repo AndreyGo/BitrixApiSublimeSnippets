@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMeasure::Convert(${1:value},${2:measureFrom},${3:\$measureTo = "G"})]]></content>
+	<tabTrigger>CSaleMeasure::Convert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

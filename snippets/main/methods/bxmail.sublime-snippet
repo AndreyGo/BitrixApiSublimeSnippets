@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bxmail(${1:to},${2:subject},${3:message},${4:\$additional_headers=""},${5:\$additional_parameters=""})]]></content>
+	<tabTrigger>bxmail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

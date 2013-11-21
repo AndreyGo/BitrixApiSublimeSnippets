@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterUserAuthorize]]></content>
+	<tabTrigger>OnAfterUserAuthorize</tabTrigger>
+	<description>Bitrix CUser::Authorize</description>
+	<scope>source.php</scope>
+</snippet>

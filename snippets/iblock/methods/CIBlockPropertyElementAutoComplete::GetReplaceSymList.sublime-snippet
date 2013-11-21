@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementAutoComplete::GetReplaceSymList(${1:\$boolFull = false})]]></content>
+	<tabTrigger>CIBlockPropertyElementAutoComplete::GetReplaceSymList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

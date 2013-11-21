@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMConvert::DeliveredMessage(${1:\$step = 100},${2:\$maxExecutionTime = 10})]]></content>
+	<tabTrigger>CIMConvert::DeliveredMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

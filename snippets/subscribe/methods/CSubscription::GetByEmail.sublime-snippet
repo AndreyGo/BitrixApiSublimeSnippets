@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSubscription::GetByEmail(${1:email},${2:\$user_id = false})]]></content>
+	<tabTrigger>CSubscription::GetByEmail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

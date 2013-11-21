@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::DeleteNoDemand(${1:userID})]]></content>
+	<tabTrigger>CSocNetUserRelations::DeleteNoDemand</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

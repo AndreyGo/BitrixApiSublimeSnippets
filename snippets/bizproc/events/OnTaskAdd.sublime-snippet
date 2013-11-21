@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTaskAdd]]></content>
+	<tabTrigger>OnTaskAdd</tabTrigger>
+	<description>Bitrix Add</description>
+	<scope>source.php</scope>
+</snippet>

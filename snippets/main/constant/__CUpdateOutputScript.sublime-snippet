@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CUpdateOutputScript]]></content>
+	<tabTrigger>__CUpdateOutputScript</tabTrigger>
+	<description>Bitrix CUpdateOutput::ShowScript</description>
+	<scope>source.php</scope>
+</snippet>

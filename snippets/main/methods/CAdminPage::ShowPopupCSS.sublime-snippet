@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPage::ShowPopupCSS()]]></content>
+	<tabTrigger>CAdminPage::ShowPopupCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

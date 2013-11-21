@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockSectionPath(${1:IBLOCK_ID},${2:SECTION_ID})]]></content>
+	<tabTrigger>GetIBlockSectionPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

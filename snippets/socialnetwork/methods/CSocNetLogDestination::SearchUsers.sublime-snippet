@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogDestination::SearchUsers(${1:search},${2:\$nameTemplate = ""},${3:\$bSelf = true},${4:\$bEmployeesOnly = false})]]></content>
+	<tabTrigger>CSocNetLogDestination::SearchUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

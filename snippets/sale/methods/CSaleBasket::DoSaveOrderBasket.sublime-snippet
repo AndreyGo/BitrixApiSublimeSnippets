@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::DoSaveOrderBasket(${1:orderId},${2:siteId},${3:userId},${4:&\$arShoppingCart},${5:&\$arErrors},${6:\$arCoupons = array()},${7:\$arStoreBarcodeOrderFormData = array()},${8:\$bSaveBarcodes = false})]]></content>
+	<tabTrigger>CSaleBasket::DoSaveOrderBasket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

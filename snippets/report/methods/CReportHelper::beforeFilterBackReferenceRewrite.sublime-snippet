@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReportHelper::beforeFilterBackReferenceRewrite(${1:&filter},${2:viewColumns})]]></content>
+	<tabTrigger>CReportHelper::beforeFilterBackReferenceRewrite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogTools::ResizeImage(${1:aFile},${2:sizeX},${3:sizeY})]]></content>
+	<tabTrigger>CBlogTools::ResizeImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

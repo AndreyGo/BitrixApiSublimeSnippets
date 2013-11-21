@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ValidateForm(${1:form})]]></content>
+	<tabTrigger>ValidateForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

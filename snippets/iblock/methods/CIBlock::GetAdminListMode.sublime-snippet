@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetAdminListMode(${1:IBLOCK_ID})]]></content>
+	<tabTrigger>CIBlock::GetAdminListMode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

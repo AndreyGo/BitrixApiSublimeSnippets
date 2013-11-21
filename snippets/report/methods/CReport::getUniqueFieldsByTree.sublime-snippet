@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::getUniqueFieldsByTree(${1:tree})]]></content>
+	<tabTrigger>CReport::getUniqueFieldsByTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

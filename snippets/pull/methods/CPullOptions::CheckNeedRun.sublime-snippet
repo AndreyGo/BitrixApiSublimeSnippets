@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::CheckNeedRun(${1:\$bGetSectionStatus = true})]]></content>
+	<tabTrigger>CPullOptions::CheckNeedRun</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

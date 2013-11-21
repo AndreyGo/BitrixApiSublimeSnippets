@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFlashUploader::InitUploaderHandler()]]></content>
+	<tabTrigger>CFlashUploader::InitUploaderHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

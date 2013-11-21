@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailUtil::FilterCreate(${1:fname},${2:vals},${3:type},${4:\$cOperationType=false},${5:\$bSkipEmpty = true})]]></content>
+	<tabTrigger>CMailUtil::FilterCreate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

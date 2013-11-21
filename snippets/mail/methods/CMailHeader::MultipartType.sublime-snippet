@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailHeader::MultipartType()]]></content>
+	<tabTrigger>CMailHeader::MultipartType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

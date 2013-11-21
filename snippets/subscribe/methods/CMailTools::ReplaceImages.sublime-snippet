@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailTools::ReplaceImages(${1:text})]]></content>
+	<tabTrigger>CMailTools::ReplaceImages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

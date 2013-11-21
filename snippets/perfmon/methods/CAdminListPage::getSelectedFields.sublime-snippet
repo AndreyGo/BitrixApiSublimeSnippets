@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListPage::getSelectedFields()]]></content>
+	<tabTrigger>CAdminListPage::getSelectedFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

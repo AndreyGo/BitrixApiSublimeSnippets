@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::IsEncoded(${1:domainName})]]></content>
+	<tabTrigger>CBXPunycode::IsEncoded</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

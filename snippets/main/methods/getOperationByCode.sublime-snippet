@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getOperationByCode(${1:code})]]></content>
+	<tabTrigger>getOperationByCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

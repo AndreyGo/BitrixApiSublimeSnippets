@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatComment_Photo(${1:arFields},${2:arParams},${3:\$bMail = false},${4:\$arLog = array()})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatComment_Photo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTax::DoProcessOrderBasket(${1:&arOrder},${2:arOptions},${3:&\$arErrors})]]></content>
+	<tabTrigger>CSaleTax::DoProcessOrderBasket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

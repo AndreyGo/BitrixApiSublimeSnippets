@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::GetFields(${1:\$bAdditional = false})]]></content>
+	<tabTrigger>CSocNetUser::GetFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

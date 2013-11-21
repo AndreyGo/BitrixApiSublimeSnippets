@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnsubscribeOnUnlockDocument(${1:parameterDocumentId},${2:workflowId},${3:eventName})]]></content>
+	<tabTrigger>UnsubscribeOnUnlockDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

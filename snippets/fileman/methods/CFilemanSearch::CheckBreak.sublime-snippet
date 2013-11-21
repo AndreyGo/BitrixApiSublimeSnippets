@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::CheckBreak()]]></content>
+	<tabTrigger>CFilemanSearch::CheckBreak</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

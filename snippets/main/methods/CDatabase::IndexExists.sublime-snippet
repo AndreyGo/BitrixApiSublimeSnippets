@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::IndexExists(${1:tableName},${2:arColumns})]]></content>
+	<tabTrigger>CDatabase::IndexExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetGroupAdd]]></content>
+	<tabTrigger>OnSocNetGroupAdd</tabTrigger>
+	<description>Bitrix CSocNetGroup::Add</description>
+	<scope>source.php</scope>
+</snippet>

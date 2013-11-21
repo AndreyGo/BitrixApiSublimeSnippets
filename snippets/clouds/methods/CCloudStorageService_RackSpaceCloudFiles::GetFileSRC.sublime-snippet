@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_RackSpaceCloudFiles::GetFileSRC(${1:arBucket},${2:arFile})]]></content>
+	<tabTrigger>CCloudStorageService_RackSpaceCloudFiles::GetFileSRC</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

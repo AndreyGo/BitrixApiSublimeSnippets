@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::IsImage(${1:filename},${2:\$mime_type=false})]]></content>
+	<tabTrigger>CFile::IsImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

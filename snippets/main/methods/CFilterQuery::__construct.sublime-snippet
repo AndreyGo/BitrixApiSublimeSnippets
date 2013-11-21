@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterQuery::__construct(${1:\$default_query_type = "and"},${2:\$rus_bool_lang = "yes"},${3:\$procent="Y"},${4:\$ex_sep = array()},${5:\$clob="N"},${6:\$div_fields="Y"},${7:\$clob_upper="N"})]]></content>
+	<tabTrigger>CFilterQuery::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::OnSharepointCheckAccess(${1:iblock_id})]]></content>
+	<tabTrigger>CLists::OnSharepointCheckAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

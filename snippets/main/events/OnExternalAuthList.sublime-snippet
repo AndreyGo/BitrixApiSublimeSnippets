@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnExternalAuthList]]></content>
+	<tabTrigger>OnExternalAuthList</tabTrigger>
+	<description>Bitrix CUser::GetExternalAuthList</description>
+	<scope>source.php</scope>
+</snippet>

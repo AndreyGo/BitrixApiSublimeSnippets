@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventFileman::GetEventInfo(${1:row},${2:arParams},${3:arUser})]]></content>
+	<tabTrigger>CEventFileman::GetEventInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

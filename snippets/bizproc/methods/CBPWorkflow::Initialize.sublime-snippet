@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::Initialize(${1:CBPActivity rootActivity},${2:documentId},${3:\$workflowParameters = array()},${4:\$workflowVariablesTypes = array()},${5:\$workflowParametersTypes = array()})]]></content>
+	<tabTrigger>CBPWorkflow::Initialize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

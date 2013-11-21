@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::CryptData(${1:data},${2:type},${3:pwdString})]]></content>
+	<tabTrigger>CCaptcha::CryptData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

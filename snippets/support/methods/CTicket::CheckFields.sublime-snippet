@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::CheckFields(${1:arFields},${2:id},${3:arRequired})]]></content>
+	<tabTrigger>CTicket::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

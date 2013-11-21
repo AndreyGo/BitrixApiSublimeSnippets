@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConditionJS(${1:\$arOpt = array()})]]></content>
+	<tabTrigger>ConditionJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::CancelRatingVote(${1:arParam})]]></content>
+	<tabTrigger>CRatings::CancelRatingVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::GetFields(${1:\$bReload = false})]]></content>
+	<tabTrigger>CFormCrmSender::GetFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

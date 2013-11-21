@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiCategoryParams::clear(${1:\$bClearTemplate = false})]]></content>
+	<tabTrigger>CWikiCategoryParams::clear</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

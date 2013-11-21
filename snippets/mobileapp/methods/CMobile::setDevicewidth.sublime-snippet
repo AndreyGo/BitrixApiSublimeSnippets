@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setDevicewidth(${1:deviceWidth})]]></content>
+	<tabTrigger>CMobile::setDevicewidth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

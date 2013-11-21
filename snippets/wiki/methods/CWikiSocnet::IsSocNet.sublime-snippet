@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::IsSocNet()]]></content>
+	<tabTrigger>CWikiSocnet::IsSocNet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

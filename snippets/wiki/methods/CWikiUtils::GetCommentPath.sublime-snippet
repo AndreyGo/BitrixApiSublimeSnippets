@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiUtils::GetCommentPath(${1:forumID})]]></content>
+	<tabTrigger>CWikiUtils::GetCommentPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

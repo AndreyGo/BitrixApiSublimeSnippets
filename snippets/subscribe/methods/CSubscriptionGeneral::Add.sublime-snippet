@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSubscriptionGeneral::Add(${1:arFields},${2:\$SITE_ID=SITE_ID})]]></content>
+	<tabTrigger>CSubscriptionGeneral::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::SetPageTimes(${1:START_EXEC_CURRENT_TIME},${2:&\$arFields})]]></content>
+	<tabTrigger>CPerfomanceKeeper::SetPageTimes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

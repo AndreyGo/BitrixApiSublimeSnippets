@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUser::DoAutoRegisterUser(${1:autoEmail},${2:payerName},${3:siteId},${4:&\$arErrors},${5:\$arOtherFields = null})]]></content>
+	<tabTrigger>CSaleUser::DoAutoRegisterUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackupBucket::setCheckWordHeader()]]></content>
+	<tabTrigger>CBitrixCloudBackupBucket::setCheckWordHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

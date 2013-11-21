@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::Delete(${1:\$arFields = array()},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CForumFiles::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

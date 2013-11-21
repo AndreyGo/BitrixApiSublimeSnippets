@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::SetSort(${1:sort})]]></content>
+	<tabTrigger>CListField::SetSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

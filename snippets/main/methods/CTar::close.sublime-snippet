@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::close()]]></content>
+	<tabTrigger>CTar::close</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

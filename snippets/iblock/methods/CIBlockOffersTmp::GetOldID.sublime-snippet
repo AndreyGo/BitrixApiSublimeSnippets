@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockOffersTmp::GetOldID(${1:intProductIBlockID},${2:intOffersIBlockID},${3:\$intInterval = 1800})]]></content>
+	<tabTrigger>CIBlockOffersTmp::GetOldID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

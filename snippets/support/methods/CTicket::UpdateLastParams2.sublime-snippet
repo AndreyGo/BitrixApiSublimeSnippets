@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::UpdateLastParams2(${1:ticketID},${2:dateType})]]></content>
+	<tabTrigger>CTicket::UpdateLastParams2</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

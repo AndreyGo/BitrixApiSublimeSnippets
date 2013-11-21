@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::Check(${1:server},${2:port},${3:use_tls},${4:login},${5:passw})]]></content>
+	<tabTrigger>CMailBox::Check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::GetConditionValuesLevel(${1:&arLevel},${2:&\$arResult},${3:\$boolFirst = false})]]></content>
+	<tabTrigger>CGlobalCondTree::GetConditionValuesLevel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

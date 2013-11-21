@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::formatXMLNode(${1:level},${2:tagName},${3:value})]]></content>
+	<tabTrigger>CIBlockCMLExport::formatXMLNode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::GetList(${1:\$arOrder = array("SORT"=>"ASC"},${2:"COUNTRY_NAME_LANG"=>"ASC"},${3:"CITY_NAME_LANG"=>"ASC")},${4:\$arFilter = array()},${5:\$arGroupBy = false},${6:\$arNavStartParams = false},${7:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CSaleLocation::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CIBElement::GetProperties(${1:\$arOrder = false},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>_CIBElement::GetProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

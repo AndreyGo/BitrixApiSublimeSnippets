@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::Rename(${1:ID},${2:arFields},${3:\$bUpdateSearch=true})]]></content>
+	<tabTrigger>CWiki::Rename</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

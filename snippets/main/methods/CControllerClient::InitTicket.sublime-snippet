@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::InitTicket(${1:controller_url})]]></content>
+	<tabTrigger>CControllerClient::InitTicket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

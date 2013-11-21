@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::SearchUserByName(${1:arName},${2:\$email = ""},${3:\$bLoginMode = false})]]></content>
+	<tabTrigger>CUser::SearchUserByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::_ClearProductSubscribe(${1:LID})]]></content>
+	<tabTrigger>CSaleBasket::_ClearProductSubscribe</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

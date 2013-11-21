@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheMemcache::IsAvailable()]]></content>
+	<tabTrigger>CPHPCacheMemcache::IsAvailable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

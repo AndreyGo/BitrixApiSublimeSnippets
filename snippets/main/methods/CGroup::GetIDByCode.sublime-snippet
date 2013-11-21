@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetIDByCode(${1:code})]]></content>
+	<tabTrigger>CGroup::GetIDByCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

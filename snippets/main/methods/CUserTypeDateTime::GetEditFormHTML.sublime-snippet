@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeDateTime::GetEditFormHTML(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeDateTime::GetEditFormHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

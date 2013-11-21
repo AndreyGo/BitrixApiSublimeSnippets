@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::FunctionAnd(${1:args})]]></content>
+	<tabTrigger>CBPCalc::FunctionAnd</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

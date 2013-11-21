@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::SetId(${1:\$id = ""})]]></content>
+	<tabTrigger>CImageUploader::SetId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

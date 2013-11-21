@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::GetChatLastDate(${1:currentUserID},${2:userID})]]></content>
+	<tabTrigger>CSocNetMessages::GetChatLastDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

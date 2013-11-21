@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::FunctionIntval(${1:num})]]></content>
+	<tabTrigger>CBPCalc::FunctionIntval</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

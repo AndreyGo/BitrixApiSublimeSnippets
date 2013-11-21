@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::IsRequired()]]></content>
+	<tabTrigger>CListField::IsRequired</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

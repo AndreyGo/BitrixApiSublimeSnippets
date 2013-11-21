@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentSonetNotify::CallBack_AddComment(${1:arFields})]]></content>
+	<tabTrigger>CIdeaManagmentSonetNotify::CallBack_AddComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

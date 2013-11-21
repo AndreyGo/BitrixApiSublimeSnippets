@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_UTF]]></content>
+	<tabTrigger>BX_UTF</tabTrigger>
+	<description>Bitrix __construct</description>
+	<scope>source.php</scope>
+</snippet>

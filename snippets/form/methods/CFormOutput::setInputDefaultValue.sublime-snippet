@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::setInputDefaultValue(${1:FIELD_SID},${2:value},${3:\$ANSWER_ID = false})]]></content>
+	<tabTrigger>CFormOutput::setInputDefaultValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

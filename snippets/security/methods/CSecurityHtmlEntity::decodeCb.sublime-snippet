@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityHtmlEntity::decodeCb(${1:entity})]]></content>
+	<tabTrigger>CSecurityHtmlEntity::decodeCb</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

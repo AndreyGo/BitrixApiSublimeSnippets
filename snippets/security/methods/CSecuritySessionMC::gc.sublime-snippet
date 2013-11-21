@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionMC::gc(${1:maxLifeTime})]]></content>
+	<tabTrigger>CSecuritySessionMC::gc</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

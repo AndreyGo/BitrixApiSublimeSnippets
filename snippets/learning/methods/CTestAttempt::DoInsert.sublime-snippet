@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::DoInsert(${1:arInsert},${2:arFields})]]></content>
+	<tabTrigger>CTestAttempt::DoInsert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

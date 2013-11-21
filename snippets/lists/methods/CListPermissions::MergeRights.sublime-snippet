@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListPermissions::MergeRights(${1:IBLOCK_TYPE_ID},${2:DB},${3:POST})]]></content>
+	<tabTrigger>CListPermissions::MergeRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

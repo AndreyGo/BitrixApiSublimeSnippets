@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::Post2Array(${1:ar})]]></content>
+	<tabTrigger>CIBlockRights::Post2Array</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

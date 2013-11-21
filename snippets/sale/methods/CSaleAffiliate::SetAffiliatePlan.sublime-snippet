@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliate::SetAffiliatePlan(${1:affiliate},${2:\$dateFrom = false},${3:\$dateTo = false})]]></content>
+	<tabTrigger>CSaleAffiliate::SetAffiliatePlan</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

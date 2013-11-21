@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePullSchema::OnGetDependentModule()]]></content>
+	<tabTrigger>CSalePullSchema::OnGetDependentModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::get_e(${1:m})]]></content>
+	<tabTrigger>CRsaBcmathProvider::get_e</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

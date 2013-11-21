@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNClasses::fromOption(${1:CBitrixCloudOption option})]]></content>
+	<tabTrigger>CBitrixCloudCDNClasses::fromOption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

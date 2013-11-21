@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::getCurrentTestName()]]></content>
+	<tabTrigger>CSecuritySiteChecker::getCurrentTestName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

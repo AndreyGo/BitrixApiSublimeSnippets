@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::Save()]]></content>
+	<tabTrigger>CCheckList::Save</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

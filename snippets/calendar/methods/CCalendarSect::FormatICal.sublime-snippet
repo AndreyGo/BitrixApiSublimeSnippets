@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::FormatICal(${1:Section},${2:Events})]]></content>
+	<tabTrigger>CCalendarSect::FormatICal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

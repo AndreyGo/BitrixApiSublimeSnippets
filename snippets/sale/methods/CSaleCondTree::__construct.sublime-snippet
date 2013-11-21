@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondTree::__construct()]]></content>
+	<tabTrigger>CSaleCondTree::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

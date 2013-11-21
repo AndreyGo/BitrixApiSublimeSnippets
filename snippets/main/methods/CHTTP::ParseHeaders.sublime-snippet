@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::ParseHeaders(${1:strHeaders})]]></content>
+	<tabTrigger>CHTTP::ParseHeaders</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

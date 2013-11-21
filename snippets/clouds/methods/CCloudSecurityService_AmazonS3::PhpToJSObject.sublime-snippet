@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudSecurityService_AmazonS3::PhpToJSObject(${1:arData},${2:\$bWS = false},${3:\$bSkipTilda = false})]]></content>
+	<tabTrigger>CCloudSecurityService_AmazonS3::PhpToJSObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

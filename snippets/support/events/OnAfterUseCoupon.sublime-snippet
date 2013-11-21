@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterUseCoupon]]></content>
+	<tabTrigger>OnAfterUseCoupon</tabTrigger>
+	<description>Bitrix CSupportSuperCoupon::UseCoupon</description>
+	<scope>source.php</scope>
+</snippet>

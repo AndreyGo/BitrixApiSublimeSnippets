@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPushManager::SendMessage(${1:\$arMessages = Array()})]]></content>
+	<tabTrigger>CPushManager::SendMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

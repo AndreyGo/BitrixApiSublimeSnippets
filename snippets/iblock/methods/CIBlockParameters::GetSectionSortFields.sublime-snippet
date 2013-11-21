@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockParameters::GetSectionSortFields(${1:\$arFields = array()},${2:\$arOptions = array()})]]></content>
+	<tabTrigger>CIBlockParameters::GetSectionSortFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

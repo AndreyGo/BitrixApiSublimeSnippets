@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::prepareOutput(${1:output})]]></content>
+	<tabTrigger>CVulnScanner::prepareOutput</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

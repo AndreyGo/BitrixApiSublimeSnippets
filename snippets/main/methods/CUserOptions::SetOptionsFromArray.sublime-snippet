@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserOptions::SetOptionsFromArray(${1:aOptions})]]></content>
+	<tabTrigger>CUserOptions::SetOptionsFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

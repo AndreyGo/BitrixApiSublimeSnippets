@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::OnAfterAfterEpilog()]]></content>
+	<tabTrigger>CPerfomanceKeeper::OnAfterAfterEpilog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

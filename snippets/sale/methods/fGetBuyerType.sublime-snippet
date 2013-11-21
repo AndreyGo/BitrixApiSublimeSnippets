@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fGetBuyerType(${1:PERSON_TYPE_ID},${2:LID},${3:\$USER_ID = ''},${4:\$ORDER_ID = 0},${5:\$formVarsSubmit = false})]]></content>
+	<tabTrigger>fGetBuyerType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

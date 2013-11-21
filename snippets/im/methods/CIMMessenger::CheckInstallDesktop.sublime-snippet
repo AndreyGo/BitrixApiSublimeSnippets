@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessenger::CheckInstallDesktop()]]></content>
+	<tabTrigger>CIMMessenger::CheckInstallDesktop</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

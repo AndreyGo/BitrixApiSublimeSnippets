@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::GetDBNodeConnection(${1:node_id},${2:\$bIgnoreErrors = false},${3:\$bCheckStatus = true})]]></content>
+	<tabTrigger>CDatabase::GetDBNodeConnection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

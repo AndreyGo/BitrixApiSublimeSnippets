@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::_GetCityImport(${1:arCityName},${2:\$country_id = false})]]></content>
+	<tabTrigger>CSaleLocation::_GetCityImport</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

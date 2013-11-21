@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePdf::__call(${1:name},${2:arguments})]]></content>
+	<tabTrigger>CSalePdf::__call</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

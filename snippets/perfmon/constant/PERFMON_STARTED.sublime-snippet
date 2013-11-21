@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PERFMON_STARTED]]></content>
+	<tabTrigger>PERFMON_STARTED</tabTrigger>
+	<description>Bitrix CPerfomanceKeeper::OnAfterAfterEpilog</description>
+	<scope>source.php</scope>
+</snippet>

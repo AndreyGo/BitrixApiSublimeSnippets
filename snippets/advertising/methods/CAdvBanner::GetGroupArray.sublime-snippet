@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetGroupArray(${1:BANNER_ID})]]></content>
+	<tabTrigger>CAdvBanner::GetGroupArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

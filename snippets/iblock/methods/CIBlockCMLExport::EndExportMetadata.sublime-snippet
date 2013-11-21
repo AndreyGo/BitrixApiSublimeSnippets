@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::EndExportMetadata()]]></content>
+	<tabTrigger>CIBlockCMLExport::EndExportMetadata</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

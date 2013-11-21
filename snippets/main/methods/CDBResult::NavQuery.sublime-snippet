@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::NavQuery(${1:strSql},${2:cnt},${3:arNavStartParams},${4:\$bIgnoreErrors = false})]]></content>
+	<tabTrigger>CDBResult::NavQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

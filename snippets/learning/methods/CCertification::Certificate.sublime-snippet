@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCertification::Certificate(${1:STUDENT_ID},${2:COURSE_ID})]]></content>
+	<tabTrigger>CCertification::Certificate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

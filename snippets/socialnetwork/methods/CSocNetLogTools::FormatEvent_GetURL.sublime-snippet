@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatEvent_GetURL(${1:arFields},${2:\$bAbsolute = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatEvent_GetURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

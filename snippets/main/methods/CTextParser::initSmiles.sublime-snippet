@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTextParser::initSmiles()]]></content>
+	<tabTrigger>CTextParser::initSmiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

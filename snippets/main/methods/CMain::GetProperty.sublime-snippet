@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetProperty(${1:PROPERTY_ID},${2:\$default_value = false})]]></content>
+	<tabTrigger>CMain::GetProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

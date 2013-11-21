@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvert::ConvertFormatDiscount(${1:\$intStep = 20},${2:\$intMaxExecutionTime = 15})]]></content>
+	<tabTrigger>CCatalogDiscountConvert::ConvertFormatDiscount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

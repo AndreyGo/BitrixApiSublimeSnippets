@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccessMacroses::GetCurrentUserId()]]></content>
+	<tabTrigger>CLearnAccessMacroses::GetCurrentUserId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

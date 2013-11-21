@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_mysql_table_charset()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_mysql_table_charset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

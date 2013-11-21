@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CLUSTER_GROUP]]></content>
+	<tabTrigger>BX_CLUSTER_GROUP</tabTrigger>
+	<description>Bitrix CDatabase::SlaveConnection</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::ResetAll()]]></content>
+	<tabTrigger>CSaleDeliveryHandler::ResetAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

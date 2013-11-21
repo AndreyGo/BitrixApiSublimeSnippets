@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TextParserAfterTags]]></content>
+	<tabTrigger>TextParserAfterTags</tabTrigger>
+	<description>Bitrix CTextParser::convertText</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[VoteVoteEditFromArray(${1:CHANNEL_ID},${2:\$VOTE_ID = false},${3:\$arFields = array()},${4:\$params = array()})]]></content>
+	<tabTrigger>VoteVoteEditFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

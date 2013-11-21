@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::setError(${1:error})]]></content>
+	<tabTrigger>CFormOutput::setError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNQuota::setAllowedSize(${1:allowed})]]></content>
+	<tabTrigger>CBitrixCloudCDNQuota::setAllowedSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

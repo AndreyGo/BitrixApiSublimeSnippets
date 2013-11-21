@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Graf(${1:arrayX},${2:arrayY},${3:ImageHandle},${4:MinX},${5:MaxX},${6:MinY},${7:MaxY},${8:\$Color='FF0000'},${9:\$dashed="N"},${10:\$thikness=2},${11:\$antialiase=true})]]></content>
+	<tabTrigger>Graf</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

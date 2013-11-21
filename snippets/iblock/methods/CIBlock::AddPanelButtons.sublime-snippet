@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::AddPanelButtons(${1:mode},${2:componentName},${3:arButtons})]]></content>
+	<tabTrigger>CIBlock::AddPanelButtons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

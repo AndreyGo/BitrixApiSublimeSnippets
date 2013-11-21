@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailMessage::GetSpamRating(${1:msgid},${2:\$arRow=false})]]></content>
+	<tabTrigger>CMailMessage::GetSpamRating</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

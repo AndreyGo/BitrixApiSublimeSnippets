@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetAccessNames()]]></content>
+	<tabTrigger>CCalendar::GetAccessNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

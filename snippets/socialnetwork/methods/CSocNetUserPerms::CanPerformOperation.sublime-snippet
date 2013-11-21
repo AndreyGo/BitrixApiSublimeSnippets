@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserPerms::CanPerformOperation(${1:fromUserID},${2:toUserID},${3:operation},${4:\$bCurrentUserIsAdmin = false})]]></content>
+	<tabTrigger>CSocNetUserPerms::CanPerformOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

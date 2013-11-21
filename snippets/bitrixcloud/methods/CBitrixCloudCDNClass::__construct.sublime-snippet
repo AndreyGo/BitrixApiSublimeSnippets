@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNClass::__construct(${1:name},${2:extensions})]]></content>
+	<tabTrigger>CBitrixCloudCDNClass::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

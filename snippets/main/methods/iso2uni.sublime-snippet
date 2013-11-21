@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[iso2uni(${1:isoline})]]></content>
+	<tabTrigger>iso2uni</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

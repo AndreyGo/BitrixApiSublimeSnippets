@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetUsersFromUserGroup(${1:group},${2:parameterDocumentId})]]></content>
+	<tabTrigger>GetUsersFromUserGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

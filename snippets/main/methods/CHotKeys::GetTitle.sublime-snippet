@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::GetTitle(${1:strTitleObj},${2:\$forHint = false})]]></content>
+	<tabTrigger>CHotKeys::GetTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

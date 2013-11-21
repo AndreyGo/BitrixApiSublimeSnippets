@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiCategories::addItem(${1:catParams})]]></content>
+	<tabTrigger>CWikiCategories::addItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_processFiles(${1:arFileList},${2:addPath},${3:removePath},${4:\$startFile = ""})]]></content>
+	<tabTrigger>CZip::_processFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

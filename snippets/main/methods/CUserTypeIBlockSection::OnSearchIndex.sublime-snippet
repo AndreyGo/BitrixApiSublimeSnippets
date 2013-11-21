@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeIBlockSection::OnSearchIndex(${1:arUserField})]]></content>
+	<tabTrigger>CUserTypeIBlockSection::OnSearchIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

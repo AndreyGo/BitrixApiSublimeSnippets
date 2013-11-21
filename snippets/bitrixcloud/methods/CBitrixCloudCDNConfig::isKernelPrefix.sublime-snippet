@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::isKernelPrefix(${1:prefix})]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::isKernelPrefix</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

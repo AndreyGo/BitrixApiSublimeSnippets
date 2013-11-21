@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogTools::htmlspecialcharsExArray(${1:array})]]></content>
+	<tabTrigger>CBlogTools::htmlspecialcharsExArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

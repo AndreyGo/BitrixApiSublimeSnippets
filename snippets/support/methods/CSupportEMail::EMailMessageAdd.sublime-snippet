@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportEMail::EMailMessageAdd(${1:arMessageFields},${2:ACTION_VARS})]]></content>
+	<tabTrigger>CSupportEMail::EMailMessageAdd</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

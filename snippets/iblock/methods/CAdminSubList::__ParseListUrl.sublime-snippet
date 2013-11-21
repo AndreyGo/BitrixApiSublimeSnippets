@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::__ParseListUrl(${1:\$boolClear = false})]]></content>
+	<tabTrigger>CAdminSubList::__ParseListUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::AddMessage2Log(${1:sText},${2:\$sErrorCode = ""})]]></content>
+	<tabTrigger>CUpdateSystem::AddMessage2Log</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

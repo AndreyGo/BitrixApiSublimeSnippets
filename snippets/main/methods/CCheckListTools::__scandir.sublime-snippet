@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckListTools::__scandir(${1:pwd},${2:&\$arFiles},${3:\$arExept = false})]]></content>
+	<tabTrigger>CCheckListTools::__scandir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

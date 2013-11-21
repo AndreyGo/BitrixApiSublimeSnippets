@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXML::Load(${1:file})]]></content>
+	<tabTrigger>CDataXML::Load</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

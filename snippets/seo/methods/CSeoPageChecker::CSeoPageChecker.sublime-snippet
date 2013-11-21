@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoPageChecker::CSeoPageChecker(${1:site},${2:url},${3:\$get = true},${4:\$check_errors = true})]]></content>
+	<tabTrigger>CSeoPageChecker::CSeoPageChecker</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

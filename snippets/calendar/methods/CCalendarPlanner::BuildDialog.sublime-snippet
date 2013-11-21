@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarPlanner::BuildDialog(${1:Params})]]></content>
+	<tabTrigger>CCalendarPlanner::BuildDialog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

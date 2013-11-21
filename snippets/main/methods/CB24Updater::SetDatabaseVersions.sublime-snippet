@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::SetDatabaseVersions(${1:arDBVersions})]]></content>
+	<tabTrigger>CB24Updater::SetDatabaseVersions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

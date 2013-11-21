@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoSave::Init(${1:\$admin = true})]]></content>
+	<tabTrigger>CAutoSave::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

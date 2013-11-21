@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::TerminateWorkflow(${1:workflowId},${2:documentId},${3:&\$arErrors})]]></content>
+	<tabTrigger>CBPDocument::TerminateWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

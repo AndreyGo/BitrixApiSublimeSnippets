@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockParameters::GetPathTemplateParam(${1:menuType},${2:ID},${3:parameterName},${4:\$defaultValue = ""},${5:\$parentID = "URL_TEMPLATES"})]]></content>
+	<tabTrigger>CIBlockParameters::GetPathTemplateParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNWebService::actionQuota()]]></content>
+	<tabTrigger>CBitrixCloudCDNWebService::actionQuota</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

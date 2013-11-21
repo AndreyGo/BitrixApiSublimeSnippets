@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::UnEscapePHPString(${1:str})]]></content>
+	<tabTrigger>CFileMan::UnEscapePHPString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

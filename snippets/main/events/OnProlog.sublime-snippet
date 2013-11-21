@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnProlog]]></content>
+	<tabTrigger>OnProlog</tabTrigger>
+	<description>Bitrix CMain::PrologActions</description>
+	<scope>source.php</scope>
+</snippet>

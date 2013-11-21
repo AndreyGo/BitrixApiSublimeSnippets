@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::strtolower(${1:pString})]]></content>
+	<tabTrigger>CVulnScanner::strtolower</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

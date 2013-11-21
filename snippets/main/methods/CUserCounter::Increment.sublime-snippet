@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::Increment(${1:user_id},${2:code},${3:\$site_id = SITE_ID},${4:\$sendPull = true},${5:\$increment = 1})]]></content>
+	<tabTrigger>CUserCounter::Increment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockProperty::DropColumnSQL(${1:strTable},${2:arColumns})]]></content>
+	<tabTrigger>CIBlockProperty::DropColumnSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

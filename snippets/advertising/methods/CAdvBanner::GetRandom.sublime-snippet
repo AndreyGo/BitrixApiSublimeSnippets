@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetRandom(${1:TYPE_SID})]]></content>
+	<tabTrigger>CAdvBanner::GetRandom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

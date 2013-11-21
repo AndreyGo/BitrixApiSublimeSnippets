@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_HTTP_AUTH_REALM]]></content>
+	<tabTrigger>BX_HTTP_AUTH_REALM</tabTrigger>
+	<description>Bitrix CUser::UpdateDigest</description>
+	<scope>source.php</scope>
+</snippet>

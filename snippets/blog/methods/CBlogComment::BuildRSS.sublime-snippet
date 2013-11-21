@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogComment::BuildRSS(${1:postID},${2:blogID},${3:\$type = "RSS2.0"},${4:\$numPosts = 10},${5:\$arPathTemplate = Array()})]]></content>
+	<tabTrigger>CBlogComment::BuildRSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

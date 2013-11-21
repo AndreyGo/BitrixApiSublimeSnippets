@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXArchive::GetAvailableFormats()]]></content>
+	<tabTrigger>CBXArchive::GetAvailableFormats</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

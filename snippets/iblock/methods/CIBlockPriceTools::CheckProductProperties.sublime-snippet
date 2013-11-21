@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPriceTools::CheckProductProperties(${1:IBLOCK_ID},${2:ELEMENT_ID},${3:arPropertiesList},${4:arPropertiesValues})]]></content>
+	<tabTrigger>CIBlockPriceTools::CheckProductProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

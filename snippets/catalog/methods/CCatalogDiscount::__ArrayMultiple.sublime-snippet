@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__ArrayMultiple(${1:arOrder},${2:&\$arResult},${3:arTuple},${4:\$arTemp = array()})]]></content>
+	<tabTrigger>CCatalogDiscount::__ArrayMultiple</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

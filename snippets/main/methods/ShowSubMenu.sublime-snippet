@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowSubMenu(${1:aMenu})]]></content>
+	<tabTrigger>ShowSubMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

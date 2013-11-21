@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddEditField(${1:id},${2:content},${3:required},${4:\$arParams = array()},${5:\$value = false})]]></content>
+	<tabTrigger>AddEditField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

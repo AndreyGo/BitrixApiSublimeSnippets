@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportUpdate::GetBD()]]></content>
+	<tabTrigger>CSupportUpdate::GetBD</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

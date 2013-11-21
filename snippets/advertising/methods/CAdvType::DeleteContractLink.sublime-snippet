@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvType::DeleteContractLink(${1:TYPE_SID})]]></content>
+	<tabTrigger>CAdvType::DeleteContractLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

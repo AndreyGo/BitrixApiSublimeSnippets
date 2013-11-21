@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminTabControl(${1:name},${2:tabs},${3:\$bCanExpand = true},${4:\$bDenyAutoSave = false})]]></content>
+	<tabTrigger>CAdminTabControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

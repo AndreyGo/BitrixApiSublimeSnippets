@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::urlencode(${1:mixParams})]]></content>
+	<tabTrigger>CTwitterInterface::urlencode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

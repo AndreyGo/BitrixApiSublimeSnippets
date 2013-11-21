@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFilterSqlSearch(${1:\$arSqlSearch=array()},${2:\$FilterLogic="FILTER_logic"})]]></content>
+	<tabTrigger>GetFilterSqlSearch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

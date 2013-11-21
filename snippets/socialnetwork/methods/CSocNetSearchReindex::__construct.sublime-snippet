@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::__construct(${1:\$user_id=0},${2:\$group_id=0},${3:\$arParams=array()})]]></content>
+	<tabTrigger>CSocNetSearchReindex::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

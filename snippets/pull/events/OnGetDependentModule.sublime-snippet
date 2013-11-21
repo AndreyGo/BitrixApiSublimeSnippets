@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetDependentModule]]></content>
+	<tabTrigger>OnGetDependentModule</tabTrigger>
+	<description>Bitrix CPullOptions::GetDependentModule</description>
+	<scope>source.php</scope>
+</snippet>

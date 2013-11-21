@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubContextMenuList::EndRightBar()]]></content>
+	<tabTrigger>CAdminSubContextMenuList::EndRightBar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

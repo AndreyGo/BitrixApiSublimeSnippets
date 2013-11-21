@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::QueryBind(${1:strSql},${2:arBinds},${3:\$bIgnoreErrors=false})]]></content>
+	<tabTrigger>CDatabase::QueryBind</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

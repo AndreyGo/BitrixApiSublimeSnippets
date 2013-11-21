@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDelivery::GetDelivery2PaySystem(${1:\$arFilter = array()})]]></content>
+	<tabTrigger>CSaleDelivery::GetDelivery2PaySystem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvertTmp::IsExistID(${1:intID})]]></content>
+	<tabTrigger>CCatalogDiscountConvertTmp::IsExistID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

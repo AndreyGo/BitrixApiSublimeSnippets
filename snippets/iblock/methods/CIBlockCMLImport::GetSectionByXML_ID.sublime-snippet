@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::GetSectionByXML_ID(${1:IBLOCK_ID},${2:XML_ID})]]></content>
+	<tabTrigger>CIBlockCMLImport::GetSectionByXML_ID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CIBElement::GetGroups()]]></content>
+	<tabTrigger>_CIBElement::GetGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

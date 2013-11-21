@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleRecurring::CancelRecurring(${1:ID},${2:val},${3:\$description = ""})]]></content>
+	<tabTrigger>CSaleRecurring::CancelRecurring</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

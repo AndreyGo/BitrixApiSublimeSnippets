@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ActionAjaxReload(${1:url})]]></content>
+	<tabTrigger>ActionAjaxReload</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

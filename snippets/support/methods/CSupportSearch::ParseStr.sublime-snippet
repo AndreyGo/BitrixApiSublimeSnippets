@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::ParseStr(${1:qwe},${2:\$default_op = "&"})]]></content>
+	<tabTrigger>CSupportSearch::ParseStr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

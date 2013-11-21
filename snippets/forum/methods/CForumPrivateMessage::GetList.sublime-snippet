@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPrivateMessage::GetList(${1:\$arOrder = Array("ID" => "DESC")},${2:arFilter},${3:\$bCnt=false})]]></content>
+	<tabTrigger>CForumPrivateMessage::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

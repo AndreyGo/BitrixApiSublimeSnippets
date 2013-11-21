@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockXMLFile::__construct(${1:\$table_name = "b_xml_tree"})]]></content>
+	<tabTrigger>CIBlockXMLFile::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

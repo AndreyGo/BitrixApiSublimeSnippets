@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CASNReader::ReadByte(${1:&buf})]]></content>
+	<tabTrigger>CASNReader::ReadByte</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

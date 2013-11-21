@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::LoadModulesUpdates(${1:&errorMessage},${2:&\$arUpdateDescription},${3:\$lang = false},${4:\$stableVersionsOnly = "Y"},${5:\$arRequestedModules = array()},${6:\$bStrongList = false})]]></content>
+	<tabTrigger>CUpdateClientPartner::LoadModulesUpdates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::UpdateHelp(${1:updates_dir},${2:arHelp},${3:&\$strError},${4:&\$arErrorHelp},${5:&\$arSuccessHelp})]]></content>
+	<tabTrigger>CUpdateSystem::UpdateHelp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

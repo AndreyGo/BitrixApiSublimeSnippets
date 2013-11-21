@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocation::fromXMLNode(${1:CDataXMLNode node},${2:CBitrixCloudCDNConfig config})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocation::fromXMLNode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

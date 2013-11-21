@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_replace_br_(${1:str})]]></content>
+	<tabTrigger>_replace_br_</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

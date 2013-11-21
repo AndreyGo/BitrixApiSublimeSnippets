@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::GetControlDescr()]]></content>
+	<tabTrigger>CGlobalCondCtrl::GetControlDescr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

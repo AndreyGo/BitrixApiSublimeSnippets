@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetCourseToLessonMap_LoadFromDB()]]></content>
+	<tabTrigger>CLearnLesson::GetCourseToLessonMap_LoadFromDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

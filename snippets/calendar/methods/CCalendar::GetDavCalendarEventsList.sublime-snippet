@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetDavCalendarEventsList(${1:calendarId},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CCalendar::GetDavCalendarEventsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

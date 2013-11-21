@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::__ShowError(${1:errorMessage})]]></content>
+	<tabTrigger>CWizardBase::__ShowError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

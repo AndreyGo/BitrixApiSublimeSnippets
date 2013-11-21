@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogSmile::GetSmilesList()]]></content>
+	<tabTrigger>CBlogSmile::GetSmilesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

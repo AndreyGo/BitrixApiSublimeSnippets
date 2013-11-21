@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddAdditionalJS(${1:content})]]></content>
+	<tabTrigger>CMain::AddAdditionalJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

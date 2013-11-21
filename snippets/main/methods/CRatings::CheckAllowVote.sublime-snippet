@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::CheckAllowVote(${1:arVoteParam})]]></content>
+	<tabTrigger>CRatings::CheckAllowVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

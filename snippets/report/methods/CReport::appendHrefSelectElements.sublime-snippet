@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::appendHrefSelectElements(${1:&elem},${2:fList},${3:entity},${4:helper_class},${5:&\$select})]]></content>
+	<tabTrigger>CReport::appendHrefSelectElements</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

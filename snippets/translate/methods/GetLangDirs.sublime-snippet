@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLangDirs(${1:arDirs},${2:\$SHOW_LANG_DIFF = false})]]></content>
+	<tabTrigger>GetLangDirs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

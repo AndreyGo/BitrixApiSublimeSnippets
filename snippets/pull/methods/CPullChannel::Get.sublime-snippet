@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::Get(${1:userId},${2:\$cache = true},${3:\$reOpen = false})]]></content>
+	<tabTrigger>CPullChannel::Get</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

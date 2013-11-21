@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchSQLHelper::__construct(${1:strSearchContentAlias})]]></content>
+	<tabTrigger>CSearchSQLHelper::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

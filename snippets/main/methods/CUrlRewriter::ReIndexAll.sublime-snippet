@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUrlRewriter::ReIndexAll(${1:\$max_execution_time = 0},${2:\$NS = array()})]]></content>
+	<tabTrigger>CUrlRewriter::ReIndexAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

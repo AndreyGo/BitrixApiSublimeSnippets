@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::AddLead(${1:FORM_ID},${2:RESULT_ID},${3:\$arLink = null})]]></content>
+	<tabTrigger>CFormCrm::AddLead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDiskQuota::SetDirSize(${1:\$path=""},${2:\$name=""},${3:\$recount=false},${4:\$skip_dir = false})]]></content>
+	<tabTrigger>CDiskQuota::SetDirSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

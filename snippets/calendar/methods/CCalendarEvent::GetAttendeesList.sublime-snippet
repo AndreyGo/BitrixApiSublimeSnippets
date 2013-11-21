@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::GetAttendeesList(${1:\$Params = array()},${2:&\$strInvIds})]]></content>
+	<tabTrigger>CCalendarEvent::GetAttendeesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

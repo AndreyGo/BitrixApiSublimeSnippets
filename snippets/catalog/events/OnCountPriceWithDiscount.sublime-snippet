@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCountPriceWithDiscount]]></content>
+	<tabTrigger>OnCountPriceWithDiscount</tabTrigger>
+	<description>Bitrix CCatalogProduct::CountPriceWithDiscount</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumTopic::CanUserAddTopic(${1:FID},${2:arUserGroups},${3:\$iUserID = 0},${4:\$arForum = false},${5:\$ExternalPermission = false})]]></content>
+	<tabTrigger>CForumTopic::CanUserAddTopic</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

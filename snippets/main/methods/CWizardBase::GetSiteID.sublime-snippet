@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::GetSiteID()]]></content>
+	<tabTrigger>CWizardBase::GetSiteID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPTaskResult::ConvertBCodeAnchorTag(${1:url},${2:text})]]></content>
+	<tabTrigger>CBPTaskResult::ConvertBCodeAnchorTag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

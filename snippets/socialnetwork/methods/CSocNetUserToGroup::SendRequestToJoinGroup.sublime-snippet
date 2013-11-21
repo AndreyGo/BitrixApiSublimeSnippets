@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::SendRequestToJoinGroup(${1:senderID},${2:userID},${3:groupID},${4:message},${5:\$bMail = true})]]></content>
+	<tabTrigger>CSocNetUserToGroup::SendRequestToJoinGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

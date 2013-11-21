@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::GetList(${1:\$arOrder = array('MODULE_ID'=>'asc'},${2:'LETTER'=>'asc')},${3:\$arFilter=array()})]]></content>
+	<tabTrigger>CTask::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

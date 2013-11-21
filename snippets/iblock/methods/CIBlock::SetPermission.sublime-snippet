@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::SetPermission(${1:IBLOCK_ID},${2:arGROUP_ID})]]></content>
+	<tabTrigger>CIBlock::SetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystemAction::UnSerializeParams(${1:strParams})]]></content>
+	<tabTrigger>CSalePaySystemAction::UnSerializeParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

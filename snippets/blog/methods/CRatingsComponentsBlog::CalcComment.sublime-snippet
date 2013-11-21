@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsBlog::CalcComment(${1:arConfigs})]]></content>
+	<tabTrigger>CRatingsComponentsBlog::CalcComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

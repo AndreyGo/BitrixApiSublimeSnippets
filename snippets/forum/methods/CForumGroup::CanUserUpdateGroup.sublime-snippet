@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumGroup::CanUserUpdateGroup(${1:ID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumGroup::CanUserUpdateGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

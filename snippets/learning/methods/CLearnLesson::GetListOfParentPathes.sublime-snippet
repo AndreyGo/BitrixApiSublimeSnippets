@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetListOfParentPathes(${1:lessonId},${2:\$breakOnLessonId = false},${3:\$breakBeforeLesson = false},${4:\$arIgnoreEdges = array()})]]></content>
+	<tabTrigger>CLearnLesson::GetListOfParentPathes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

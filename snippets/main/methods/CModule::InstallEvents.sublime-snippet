@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::InstallEvents()]]></content>
+	<tabTrigger>CModule::InstallEvents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

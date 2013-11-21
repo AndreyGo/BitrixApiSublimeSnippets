@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::saveToOptions()]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::saveToOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

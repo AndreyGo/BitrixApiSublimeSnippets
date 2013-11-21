@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::GetObject()]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::GetObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

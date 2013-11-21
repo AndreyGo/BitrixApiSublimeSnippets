@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleHelper::WriteToLog(${1:text},${2:\$arVars = array()},${3:\$code = ""})]]></content>
+	<tabTrigger>CSaleHelper::WriteToLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWebService::SOAPServerProcessRequest(${1:wsname})]]></content>
+	<tabTrigger>CWebService::SOAPServerProcessRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

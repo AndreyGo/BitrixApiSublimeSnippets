@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetMailTemplateArray(${1:FORM_ID})]]></content>
+	<tabTrigger>CForm::GetMailTemplateArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

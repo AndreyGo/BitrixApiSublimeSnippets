@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::AdminListAddHeaders(${1:entity_id},${2:&\$arHeaders})]]></content>
+	<tabTrigger>CUserTypeManager::AdminListAddHeaders</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

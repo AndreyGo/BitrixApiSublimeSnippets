@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetPhotoCommentEvent::SetVars(${1:arParams},${2:arResult})]]></content>
+	<tabTrigger>CSocNetPhotoCommentEvent::SetVars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

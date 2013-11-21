@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::CachePath()]]></content>
+	<tabTrigger>CCalendar::CachePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

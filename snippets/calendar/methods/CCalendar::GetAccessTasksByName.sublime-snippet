@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetAccessTasksByName(${1:\$binging = 'calendar_section'},${2:\$name = 'calendar_denied'})]]></content>
+	<tabTrigger>CCalendar::GetAccessTasksByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[decodeURIComponent(${1:&item})]]></content>
+	<tabTrigger>decodeURIComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

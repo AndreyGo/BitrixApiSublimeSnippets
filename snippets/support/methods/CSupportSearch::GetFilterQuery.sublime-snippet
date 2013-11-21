@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::GetFilterQuery(${1:q},${2:idName},${3:titleName},${4:messageName},${5:&\$error})]]></content>
+	<tabTrigger>CSupportSearch::GetFilterQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

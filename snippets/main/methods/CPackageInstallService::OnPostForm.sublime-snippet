@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageInstallService::OnPostForm()]]></content>
+	<tabTrigger>CPackageInstallService::OnPostForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQuery::_adjust_columns(${1:arColumns})]]></content>
+	<tabTrigger>CPerfQuery::_adjust_columns</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

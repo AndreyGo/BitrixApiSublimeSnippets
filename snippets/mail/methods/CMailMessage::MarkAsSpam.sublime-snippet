@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailMessage::MarkAsSpam(${1:ID},${2:\$bIsSPAM = true},${3:\$arRow = false})]]></content>
+	<tabTrigger>CMailMessage::MarkAsSpam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::Insert(${1:arFields})]]></content>
+	<tabTrigger>CWorkflow::Insert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

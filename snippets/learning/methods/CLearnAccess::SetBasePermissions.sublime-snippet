@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccess::SetBasePermissions(${1:in_arPermPairs})]]></content>
+	<tabTrigger>CLearnAccess::SetBasePermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockXMLFile::IndexTemporaryTables(${1:\$with_sess_id = false})]]></content>
+	<tabTrigger>CIBlockXMLFile::IndexTemporaryTables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

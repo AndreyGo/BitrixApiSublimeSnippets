@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::refreshConsentToken2(${1:offers_string},${2:refreshtoken},${3:\$ru=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::refreshConsentToken2</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

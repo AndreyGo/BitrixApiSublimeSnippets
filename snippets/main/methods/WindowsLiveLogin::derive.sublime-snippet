@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::derive(${1:secret},${2:prefix})]]></content>
+	<tabTrigger>WindowsLiveLogin::derive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogEvents::__tmp_str_apos(${1:&tmpval},${2:tmpind})]]></content>
+	<tabTrigger>CSocNetLogEvents::__tmp_str_apos</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

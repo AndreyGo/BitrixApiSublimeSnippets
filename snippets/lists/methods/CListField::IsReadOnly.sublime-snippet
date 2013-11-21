@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::IsReadOnly()]]></content>
+	<tabTrigger>CListField::IsReadOnly</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

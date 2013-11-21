@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeChangeFile]]></content>
+	<tabTrigger>OnBeforeChangeFile</tabTrigger>
+	<description>Bitrix CMain::SaveFileContent</description>
+	<scope>source.php</scope>
+</snippet>

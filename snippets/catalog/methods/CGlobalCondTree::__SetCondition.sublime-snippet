@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::__SetCondition(${1:&arResult},${2:arKeys},${3:intIndex},${4:arOneCondition})]]></content>
+	<tabTrigger>CGlobalCondTree::__SetCondition</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

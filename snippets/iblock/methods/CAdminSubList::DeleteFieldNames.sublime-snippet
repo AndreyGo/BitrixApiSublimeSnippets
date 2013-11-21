@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::DeleteFieldNames(${1:\$arList = array()})]]></content>
+	<tabTrigger>CAdminSubList::DeleteFieldNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

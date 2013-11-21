@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiParser::_noWikiCallback(${1:matches})]]></content>
+	<tabTrigger>CWikiParser::_noWikiCallback</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

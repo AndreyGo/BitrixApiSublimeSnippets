@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXMLNode::_SaveDataType_OnDecode(${1:&result},${2:name},${3:value})]]></content>
+	<tabTrigger>CDataXMLNode::_SaveDataType_OnDecode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::Disable()]]></content>
+	<tabTrigger>CTimeZone::Disable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

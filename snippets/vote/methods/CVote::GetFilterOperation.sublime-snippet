@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::GetFilterOperation(${1:key})]]></content>
+	<tabTrigger>CVote::GetFilterOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

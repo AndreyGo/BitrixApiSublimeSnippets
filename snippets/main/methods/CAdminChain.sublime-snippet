@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminChain(${1:\$id=false},${2:\$bVisible=true})]]></content>
+	<tabTrigger>CAdminChain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

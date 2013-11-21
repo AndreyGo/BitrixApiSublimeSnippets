@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXSanitizer::SanitizeHtml(${1:html})]]></content>
+	<tabTrigger>CBXSanitizer::SanitizeHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

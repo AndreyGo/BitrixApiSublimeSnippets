@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCryptblowfish::CCryptblowfish(${1:key})]]></content>
+	<tabTrigger>CCryptblowfish::CCryptblowfish</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

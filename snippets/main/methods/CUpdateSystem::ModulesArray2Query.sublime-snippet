@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::ModulesArray2Query(${1:arClientModules},${2:\$pref = "bitm_"})]]></content>
+	<tabTrigger>CUpdateSystem::ModulesArray2Query</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

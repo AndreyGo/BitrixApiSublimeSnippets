@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageInstallService::CPackageInstallService(${1:package},${2:serviceID})]]></content>
+	<tabTrigger>CPackageInstallService::CPackageInstallService</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

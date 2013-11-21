@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteByWorkflow(${1:workflowId})]]></content>
+	<tabTrigger>DeleteByWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

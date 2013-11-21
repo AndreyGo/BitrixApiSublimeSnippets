@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSnippets::GetCode(${1:path})]]></content>
+	<tabTrigger>CSnippets::GetCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

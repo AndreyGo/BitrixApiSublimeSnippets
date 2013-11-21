@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ICacheBackend::clean(${1:basedir},${2:\$initdir = false},${3:\$filename = false})]]></content>
+	<tabTrigger>ICacheBackend::clean</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

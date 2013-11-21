@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::WeekDayByInd(${1:i},${2:\$binv = true})]]></content>
+	<tabTrigger>CCalendar::WeekDayByInd</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

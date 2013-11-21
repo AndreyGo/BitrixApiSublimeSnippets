@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccess::Array2CommaSeparatedListForSQL(${1:in_arData})]]></content>
+	<tabTrigger>CLearnAccess::Array2CommaSeparatedListForSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

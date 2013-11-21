@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InputType(${1:strType},${2:strName},${3:strValue},${4:strCmp},${5:\$strPrintValue=false},${6:\$strPrint=""},${7:\$field1=""},${8:\$strId=""})]]></content>
+	<tabTrigger>InputType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

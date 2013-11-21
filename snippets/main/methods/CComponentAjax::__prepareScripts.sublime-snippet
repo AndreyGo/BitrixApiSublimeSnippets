@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentAjax::__prepareScripts(${1:&data})]]></content>
+	<tabTrigger>CComponentAjax::__prepareScripts</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

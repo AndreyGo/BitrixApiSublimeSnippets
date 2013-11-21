@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::CreateImage(${1:path},${2:\$type = false})]]></content>
+	<tabTrigger>CFile::CreateImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPrivateMessage::GetByID(${1:ID})]]></content>
+	<tabTrigger>CForumPrivateMessage::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

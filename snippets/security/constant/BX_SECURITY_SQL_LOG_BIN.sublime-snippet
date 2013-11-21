@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SQL_LOG_BIN]]></content>
+	<tabTrigger>BX_SECURITY_SQL_LOG_BIN</tabTrigger>
+	<description>Bitrix CSecurityDB::Init</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailUtil::BinMD5(${1:val})]]></content>
+	<tabTrigger>CMailUtil::BinMD5</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

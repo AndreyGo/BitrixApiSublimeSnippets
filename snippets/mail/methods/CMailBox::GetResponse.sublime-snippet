@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::GetResponse(${1:\$bMultiline = false},${2:\$bSkipFirst = true})]]></content>
+	<tabTrigger>CMailBox::GetResponse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::ShowInputCaptionImage(${1:FIELD_SID},${2:\$sAlign = ""},${3:\$iMaxW=""},${4:\$iMaxH=""},${5:\$bPopup="N"},${6:\$strPopupTitle=""},${7:\$sHSpace = ""},${8:\$sVSpace = ""},${9:\$sBorder = ""})]]></content>
+	<tabTrigger>CFormOutput::ShowInputCaptionImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

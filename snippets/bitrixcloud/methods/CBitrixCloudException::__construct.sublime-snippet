@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudException::__construct(${1:\$message = ""},${2:\$error_code = ""},${3:\$debug_info = ""})]]></content>
+	<tabTrigger>CBitrixCloudException::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

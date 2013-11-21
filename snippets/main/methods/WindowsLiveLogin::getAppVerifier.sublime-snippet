@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getAppVerifier(${1:\$ip=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::getAppVerifier</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

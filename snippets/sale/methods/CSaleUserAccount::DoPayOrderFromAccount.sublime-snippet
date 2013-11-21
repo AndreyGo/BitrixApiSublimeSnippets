@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserAccount::DoPayOrderFromAccount(${1:userId},${2:currency},${3:orderId},${4:orderSum},${5:arOptions},${6:&\$arErrors})]]></content>
+	<tabTrigger>CSaleUserAccount::DoPayOrderFromAccount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

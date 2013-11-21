@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDiskQuota::GetDirListFromLastFile(${1:path},${2:\$path_to_last_file=""},${3:\$check_time = true},${4:\$skip_dir = false})]]></content>
+	<tabTrigger>CDiskQuota::GetDirListFromLastFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

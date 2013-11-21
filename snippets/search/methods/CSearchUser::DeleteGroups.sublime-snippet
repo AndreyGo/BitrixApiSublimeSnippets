@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchUser::DeleteGroups()]]></content>
+	<tabTrigger>CSearchUser::DeleteGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

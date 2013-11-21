@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::NavContinue()]]></content>
+	<tabTrigger>CDBResult::NavContinue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

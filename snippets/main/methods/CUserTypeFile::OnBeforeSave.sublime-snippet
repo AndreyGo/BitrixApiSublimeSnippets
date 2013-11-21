@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeFile::OnBeforeSave(${1:arUserField},${2:value})]]></content>
+	<tabTrigger>CUserTypeFile::OnBeforeSave</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetFileField(${1:FIELD_NAME},${2:\$WIDTH=""},${3:\$FILE_TYPE="IMAGE"},${4:\$MAX_FILE_SIZE=0},${5:\$VALUE=""},${6:\$PARAM_FILE=""},${7:\$PARAM_CHECKBOX=""})]]></content>
+	<tabTrigger>CForm::GetFileField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

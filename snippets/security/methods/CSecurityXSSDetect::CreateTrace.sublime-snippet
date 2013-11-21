@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::CreateTrace(${1:var_name},${2:str},${3:script})]]></content>
+	<tabTrigger>CSecurityXSSDetect::CreateTrace</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

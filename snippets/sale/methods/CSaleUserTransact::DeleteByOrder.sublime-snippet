@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserTransact::DeleteByOrder(${1:OrderID})]]></content>
+	<tabTrigger>CSaleUserTransact::DeleteByOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

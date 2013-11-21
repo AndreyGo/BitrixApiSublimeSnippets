@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTopPanel::InitPanel()]]></content>
+	<tabTrigger>CTopPanel::InitPanel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

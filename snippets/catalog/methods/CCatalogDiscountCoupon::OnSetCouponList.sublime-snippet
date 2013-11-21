@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountCoupon::OnSetCouponList(${1:intUserID},${2:arCoupons},${3:arModules})]]></content>
+	<tabTrigger>CCatalogDiscountCoupon::OnSetCouponList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

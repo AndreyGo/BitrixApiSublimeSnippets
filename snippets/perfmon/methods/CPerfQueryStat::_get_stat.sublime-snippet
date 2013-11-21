@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryStat::_get_stat(${1:table},${2:\$column = ""},${3:\$value = ""})]]></content>
+	<tabTrigger>CPerfQueryStat::_get_stat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

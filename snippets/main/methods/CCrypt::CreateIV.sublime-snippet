@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCrypt::CreateIV()]]></content>
+	<tabTrigger>CCrypt::CreateIV</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

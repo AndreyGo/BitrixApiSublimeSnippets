@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getAreaHTML(${1:area},${2:value},${3:title})]]></content>
+	<tabTrigger>getAreaHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

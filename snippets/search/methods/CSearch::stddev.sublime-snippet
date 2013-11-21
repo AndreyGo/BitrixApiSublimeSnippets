@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::stddev(${1:arValues})]]></content>
+	<tabTrigger>CSearch::stddev</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

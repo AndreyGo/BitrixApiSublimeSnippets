@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setScreenCategory(${1:screenCategory})]]></content>
+	<tabTrigger>CMobile::setScreenCategory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

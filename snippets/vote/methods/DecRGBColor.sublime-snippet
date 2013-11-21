@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DecRGBColor(${1:hex},${2:&\$dec1},${3:&\$dec2},${4:&\$dec3})]]></content>
+	<tabTrigger>DecRGBColor</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

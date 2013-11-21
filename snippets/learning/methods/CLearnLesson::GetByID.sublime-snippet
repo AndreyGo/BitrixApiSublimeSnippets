@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetByID(${1:id})]]></content>
+	<tabTrigger>CLearnLesson::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

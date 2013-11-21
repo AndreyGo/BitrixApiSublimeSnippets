@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::getViewPort(${1:\$width = ""})]]></content>
+	<tabTrigger>CMobile::getViewPort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

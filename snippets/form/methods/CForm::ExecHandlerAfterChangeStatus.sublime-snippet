@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::ExecHandlerAfterChangeStatus(${1:RESULT_ID},${2:ACTION})]]></content>
+	<tabTrigger>CForm::ExecHandlerAfterChangeStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

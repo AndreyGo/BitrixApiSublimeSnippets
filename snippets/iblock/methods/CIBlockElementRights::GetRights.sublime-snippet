@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElementRights::GetRights(${1:\$arOptions = array()})]]></content>
+	<tabTrigger>CIBlockElementRights::GetRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

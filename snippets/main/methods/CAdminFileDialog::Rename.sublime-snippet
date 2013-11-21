@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::Rename(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::Rename</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

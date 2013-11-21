@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::EncodePHPTags(${1:str})]]></content>
+	<tabTrigger>CMain::EncodePHPTags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

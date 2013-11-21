@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetEnumValues(${1:FIELD_ID},${2:values})]]></content>
+	<tabTrigger>SetEnumValues</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

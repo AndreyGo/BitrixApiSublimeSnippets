@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::startMonitoringAgent()]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::startMonitoringAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogStoreProductAll::addToBalanceOfStore(${1:storeId},${2:productId},${3:amount})]]></content>
+	<tabTrigger>CCatalogStoreProductAll::addToBalanceOfStore</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

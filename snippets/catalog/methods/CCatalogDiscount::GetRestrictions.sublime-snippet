@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::GetRestrictions(${1:arParams},${2:\$boolKeys = true},${3:\$boolRevert = true})]]></content>
+	<tabTrigger>CCatalogDiscount::GetRestrictions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

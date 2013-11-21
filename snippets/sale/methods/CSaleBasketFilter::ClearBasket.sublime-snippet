@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasketFilter::ClearBasket(${1:row})]]></content>
+	<tabTrigger>CSaleBasketFilter::ClearBasket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

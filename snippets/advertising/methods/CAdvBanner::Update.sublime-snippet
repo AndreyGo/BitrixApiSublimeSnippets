@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::Update(${1:arFields},${2:BANNER_ID})]]></content>
+	<tabTrigger>CAdvBanner::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

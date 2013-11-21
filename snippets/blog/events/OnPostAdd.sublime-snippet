@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPostAdd]]></content>
+	<tabTrigger>OnPostAdd</tabTrigger>
+	<description>Bitrix CBlogPost::Add</description>
+	<scope>source.php</scope>
+</snippet>

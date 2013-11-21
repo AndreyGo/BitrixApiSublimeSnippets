@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Draw_Sector(${1:ImageHandle},${2:start},${3:end},${4:color},${5:diameter},${6:centerX},${7:centerY})]]></content>
+	<tabTrigger>Draw_Sector</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

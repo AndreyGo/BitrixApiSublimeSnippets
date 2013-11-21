@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::ShowResultStatus(${1:\$bNotShowCSS = "N"})]]></content>
+	<tabTrigger>CFormOutput::ShowResultStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

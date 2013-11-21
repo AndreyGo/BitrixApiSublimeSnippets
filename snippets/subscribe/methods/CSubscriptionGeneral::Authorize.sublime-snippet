@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSubscriptionGeneral::Authorize(${1:ID},${2:\$CONFIRM_CODE=false})]]></content>
+	<tabTrigger>CSubscriptionGeneral::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

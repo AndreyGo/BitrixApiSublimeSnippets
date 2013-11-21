@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnGraphRelation::Unlink(${1:parentNodeId},${2:childNodeId})]]></content>
+	<tabTrigger>ILearnGraphRelation::Unlink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

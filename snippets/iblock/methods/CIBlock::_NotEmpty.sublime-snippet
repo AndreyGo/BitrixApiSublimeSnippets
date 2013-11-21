@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_NotEmpty(${1:column})]]></content>
+	<tabTrigger>CIBlock::_NotEmpty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

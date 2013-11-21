@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_ShowElementPropertyField(${1:name},${2:property_fields},${3:values},${4:\$bVarsFromForm = false})]]></content>
+	<tabTrigger>_ShowElementPropertyField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

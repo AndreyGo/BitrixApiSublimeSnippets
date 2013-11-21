@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVDataSale::SetDelimiter(${1:\$delimiter = ";"})]]></content>
+	<tabTrigger>CCSVDataSale::SetDelimiter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

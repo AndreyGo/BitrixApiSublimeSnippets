@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::SetSearchResult(${1:searchRes},${2:searchSess},${3:\$bClean = true})]]></content>
+	<tabTrigger>CFilemanSearch::SetSearchResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

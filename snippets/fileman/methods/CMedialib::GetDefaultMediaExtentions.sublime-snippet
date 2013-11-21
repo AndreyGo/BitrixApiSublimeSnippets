@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::GetDefaultMediaExtentions()]]></content>
+	<tabTrigger>CMedialib::GetDefaultMediaExtentions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

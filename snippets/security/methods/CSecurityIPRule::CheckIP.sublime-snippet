@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::CheckIP(${1:\$arInclIPs=false},${2:\$arExclIPs=false})]]></content>
+	<tabTrigger>CSecurityIPRule::CheckIP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

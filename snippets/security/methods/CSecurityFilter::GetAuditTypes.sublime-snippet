@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::GetAuditTypes()]]></content>
+	<tabTrigger>CSecurityFilter::GetAuditTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

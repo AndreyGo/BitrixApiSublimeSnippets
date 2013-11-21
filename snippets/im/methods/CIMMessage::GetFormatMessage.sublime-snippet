@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessage::GetFormatMessage(${1:arParams})]]></content>
+	<tabTrigger>CIMMessage::GetFormatMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

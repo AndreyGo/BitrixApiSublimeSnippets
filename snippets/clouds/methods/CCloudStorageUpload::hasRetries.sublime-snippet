@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageUpload::hasRetries()]]></content>
+	<tabTrigger>CCloudStorageUpload::hasRetries</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

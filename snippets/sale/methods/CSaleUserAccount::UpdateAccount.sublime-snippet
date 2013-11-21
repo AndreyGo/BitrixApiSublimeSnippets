@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserAccount::UpdateAccount(${1:userID},${2:sum},${3:currency},${4:\$description = ""},${5:\$orderID = 0},${6:\$notes = ""})]]></content>
+	<tabTrigger>CSaleUserAccount::UpdateAccount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

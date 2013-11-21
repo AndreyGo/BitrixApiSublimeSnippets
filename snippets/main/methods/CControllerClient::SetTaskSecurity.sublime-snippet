@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::SetTaskSecurity(${1:task_id},${2:module_id},${3:arOperations},${4:\$letter = ''})]]></content>
+	<tabTrigger>CControllerClient::SetTaskSecurity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

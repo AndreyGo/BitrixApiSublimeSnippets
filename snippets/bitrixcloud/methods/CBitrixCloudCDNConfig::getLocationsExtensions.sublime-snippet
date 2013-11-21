@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::getLocationsExtensions()]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::getLocationsExtensions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

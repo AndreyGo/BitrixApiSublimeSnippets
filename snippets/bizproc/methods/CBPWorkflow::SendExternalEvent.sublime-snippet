@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::SendExternalEvent(${1:eventName},${2:\$arEventParameters = array()})]]></content>
+	<tabTrigger>CBPWorkflow::SendExternalEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

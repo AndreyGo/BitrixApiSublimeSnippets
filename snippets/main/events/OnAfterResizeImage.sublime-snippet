@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterResizeImage]]></content>
+	<tabTrigger>OnAfterResizeImage</tabTrigger>
+	<description>Bitrix CFile::ResizeImageGet</description>
+	<scope>source.php</scope>
+</snippet>

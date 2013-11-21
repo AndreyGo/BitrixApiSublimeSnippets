@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::GetPropertyValueRecursive(${1:val})]]></content>
+	<tabTrigger>CBPActivity::GetPropertyValueRecursive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

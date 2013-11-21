@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockParameters::AddPagerSettings(${1:&arComponentParameters},${2:pager_title},${3:\$bDescNumbering=true},${4:\$bShowAllParam=false})]]></content>
+	<tabTrigger>CIBlockParameters::AddPagerSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrder::PayOrder(${1:ID},${2:val},${3:\$bWithdraw = True},${4:\$bPay = True},${5:\$recurringID = 0},${6:\$arAdditionalFields = array()})]]></content>
+	<tabTrigger>CSaleOrder::PayOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

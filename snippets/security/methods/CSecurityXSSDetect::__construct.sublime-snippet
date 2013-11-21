@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::__construct(${1:\$pCustomOptions = array()})]]></content>
+	<tabTrigger>CSecurityXSSDetect::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

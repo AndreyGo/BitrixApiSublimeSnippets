@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSnippets::ReadDir(${1:&arSNIPPETS},${2:&\$arKeys},${3:path},${4:template},${5:\$level = 0},${6:\$parent = ""})]]></content>
+	<tabTrigger>CSnippets::ReadDir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

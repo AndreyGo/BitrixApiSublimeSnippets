@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::CleanFreqCache(${1:ID})]]></content>
+	<tabTrigger>CSearch::CleanFreqCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

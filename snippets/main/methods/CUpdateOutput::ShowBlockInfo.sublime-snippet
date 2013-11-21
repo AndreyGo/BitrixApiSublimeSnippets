@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateOutput::ShowBlockInfo(${1:top},${2:bottom},${3:id})]]></content>
+	<tabTrigger>CUpdateOutput::ShowBlockInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

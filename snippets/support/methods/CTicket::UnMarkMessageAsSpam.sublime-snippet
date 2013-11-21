@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::UnMarkMessageAsSpam(${1:messageID},${2:\$checkRights="Y"})]]></content>
+	<tabTrigger>CTicket::UnMarkMessageAsSpam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

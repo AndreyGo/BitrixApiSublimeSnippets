@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetCountryArray(${1:BANNER_ID},${2:\$WHAT = "COUNTRY"})]]></content>
+	<tabTrigger>CAdvBanner::GetCountryArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

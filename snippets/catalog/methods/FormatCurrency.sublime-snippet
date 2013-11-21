@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormatCurrency(${1:fSum},${2:strCurrency})]]></content>
+	<tabTrigger>FormatCurrency</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

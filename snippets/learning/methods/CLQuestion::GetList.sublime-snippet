@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLQuestion::GetList(${1:\$arOrder=Array()},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CLQuestion::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

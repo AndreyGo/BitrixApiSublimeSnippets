@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockParameters::GetDateFormat(${1:name},${2:parent})]]></content>
+	<tabTrigger>CIBlockParameters::GetDateFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

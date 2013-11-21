@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetEmailsByRole(${1:role})]]></content>
+	<tabTrigger>CTicket::GetEmailsByRole</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

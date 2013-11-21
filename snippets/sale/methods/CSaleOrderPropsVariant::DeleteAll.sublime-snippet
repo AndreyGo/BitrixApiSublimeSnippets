@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderPropsVariant::DeleteAll(${1:ID})]]></content>
+	<tabTrigger>CSaleOrderPropsVariant::DeleteAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::CheckFile(${1:arFile},${2:\$intMaxSize=0},${3:\$strMimeType=false},${4:\$strExt=false},${5:\$bForceMD5=false},${6:\$bSkipExt=false})]]></content>
+	<tabTrigger>CFile::CheckFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

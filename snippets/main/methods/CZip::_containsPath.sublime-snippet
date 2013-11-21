@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_containsPath(${1:dir},${2:path})]]></content>
+	<tabTrigger>CZip::_containsPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetStorageService]]></content>
+	<tabTrigger>OnGetStorageService</tabTrigger>
+	<description>Bitrix CCloudStorage::_init</description>
+	<scope>source.php</scope>
+</snippet>

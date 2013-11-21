@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroupAuthProvider::OnBeforeGroupUpdate(${1:ID},${2:&\$arFields})]]></content>
+	<tabTrigger>CGroupAuthProvider::OnBeforeGroupUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

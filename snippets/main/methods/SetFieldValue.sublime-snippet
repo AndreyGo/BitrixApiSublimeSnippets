@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFieldValue(${1:field_name},${2:bVarsFromForm},${3:db_record},${4:\$default_value = false})]]></content>
+	<tabTrigger>SetFieldValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

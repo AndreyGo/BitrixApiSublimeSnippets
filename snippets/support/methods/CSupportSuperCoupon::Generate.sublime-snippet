@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSuperCoupon::Generate(${1:\$arParams = array()})]]></content>
+	<tabTrigger>CSupportSuperCoupon::Generate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

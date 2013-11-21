@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::DeleteCountry(${1:ID})]]></content>
+	<tabTrigger>CSaleLocation::DeleteCountry</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

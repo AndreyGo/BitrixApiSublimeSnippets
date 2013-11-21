@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::isValidFilterCompareVariation(${1:fDefinition},${2:fType},${3:variation},${4:variations})]]></content>
+	<tabTrigger>CReport::isValidFilterCompareVariation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

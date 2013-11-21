@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::CheckUpdates()]]></content>
+	<tabTrigger>CB24Updater::CheckUpdates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

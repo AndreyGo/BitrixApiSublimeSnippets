@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convert_code_tag_for_html_before(${1:\$text = ""})]]></content>
+	<tabTrigger>convert_code_tag_for_html_before</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

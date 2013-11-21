@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ParceWorkflowTemplate(${1:arWorkflowTemplate},${2:&\$arActivityNames},${3:CBPActivity \$parentActivity = null})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ParceWorkflowTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

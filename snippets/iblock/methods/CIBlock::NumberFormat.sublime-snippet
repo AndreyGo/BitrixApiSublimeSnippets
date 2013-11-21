@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::NumberFormat(${1:num})]]></content>
+	<tabTrigger>CIBlock::NumberFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

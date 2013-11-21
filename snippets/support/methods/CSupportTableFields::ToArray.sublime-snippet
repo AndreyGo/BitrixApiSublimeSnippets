@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::ToArray(${1:\$fields = self::ALL},${2:\$notNull = array()},${3:\$forSQL = false},${4:\$row = null})]]></content>
+	<tabTrigger>CSupportTableFields::ToArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

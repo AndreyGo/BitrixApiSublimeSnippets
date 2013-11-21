@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmile::getByType(${1:\$type = self::TYPE_ALL},${2:\$setId = CSmileSet::SET_ID_BY_CONFIG},${3:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CSmile::getByType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

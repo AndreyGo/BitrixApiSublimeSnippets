@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::GetOption(${1:name},${2:\$def = ""})]]></content>
+	<tabTrigger>CB24Updater::GetOption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWebService::RegisterWebService(${1:className /*IWebService implementor*/})]]></content>
+	<tabTrigger>CWebService::RegisterWebService</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

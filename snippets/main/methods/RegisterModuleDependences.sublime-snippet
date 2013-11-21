@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RegisterModuleDependences(${1:FROM_MODULE_ID},${2:MESSAGE_ID},${3:TO_MODULE_ID},${4:\$TO_CLASS=""},${5:\$TO_METHOD=""},${6:\$SORT=100},${7:\$TO_PATH=""},${8:\$TO_METHOD_ARG = array()})]]></content>
+	<tabTrigger>RegisterModuleDependences</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

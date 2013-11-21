@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::isAnyCheckingExists()]]></content>
+	<tabTrigger>CSecuritySiteChecker::isAnyCheckingExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

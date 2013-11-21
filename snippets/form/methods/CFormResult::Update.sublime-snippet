@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormResult::Update(${1:RESULT_ID},${2:\$arrVALUES=false},${3:\$UPDATE_ADDITIONAL="N"},${4:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CFormResult::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuth::AuthorizeUser(${1:arFields})]]></content>
+	<tabTrigger>CSocServAuth::AuthorizeUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

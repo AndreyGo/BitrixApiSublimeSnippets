@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardUtil::GetWizardList(${1:\$filterNamespace = false},${2:\$bLoadFromModules = false})]]></content>
+	<tabTrigger>CWizardUtil::GetWizardList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

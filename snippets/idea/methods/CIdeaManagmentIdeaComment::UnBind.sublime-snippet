@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentIdeaComment::UnBind()]]></content>
+	<tabTrigger>CIdeaManagmentIdeaComment::UnBind</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::SetLocationZIP(${1:location},${2:arZipList})]]></content>
+	<tabTrigger>CSaleLocation::SetLocationZIP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

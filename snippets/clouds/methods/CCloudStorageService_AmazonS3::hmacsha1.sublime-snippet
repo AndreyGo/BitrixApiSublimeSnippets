@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::hmacsha1(${1:data},${2:key})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::hmacsha1</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

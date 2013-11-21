@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::GetZones()]]></content>
+	<tabTrigger>CTimeZone::GetZones</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

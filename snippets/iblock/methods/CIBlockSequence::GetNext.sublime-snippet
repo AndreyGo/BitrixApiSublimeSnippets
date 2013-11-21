@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSequence::GetNext()]]></content>
+	<tabTrigger>CIBlockSequence::GetNext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

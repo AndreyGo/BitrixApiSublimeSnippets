@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessenger::StartWriting(${1:recipientId})]]></content>
+	<tabTrigger>CIMMessenger::StartWriting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

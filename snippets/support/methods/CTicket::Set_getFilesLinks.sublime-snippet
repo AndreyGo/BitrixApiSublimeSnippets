@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set_getFilesLinks(${1:arFiles},${2:lID})]]></content>
+	<tabTrigger>CTicket::Set_getFilesLinks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

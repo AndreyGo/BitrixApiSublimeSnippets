@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullWatch::AddToStack(${1:tag},${2:arMessage})]]></content>
+	<tabTrigger>CPullWatch::AddToStack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

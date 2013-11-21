@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVariable::__construct(${1:name})]]></content>
+	<tabTrigger>CVariable::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

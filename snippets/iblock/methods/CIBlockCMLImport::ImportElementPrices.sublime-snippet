@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ImportElementPrices(${1:arXMLElement},${2:&\$counter})]]></content>
+	<tabTrigger>CIBlockCMLImport::ImportElementPrices</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

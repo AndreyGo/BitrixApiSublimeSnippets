@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrepareFileForHistory(${1:documentId},${2:arFileId},${3:historyIndex})]]></content>
+	<tabTrigger>PrepareFileForHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

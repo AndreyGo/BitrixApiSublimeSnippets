@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormField::GetList(${1:WEB_FORM_ID},${2:get_fields},${3:&\$by},${4:&\$order},${5:\$arFilter=Array()},${6:&\$is_filtered})]]></content>
+	<tabTrigger>CFormField::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

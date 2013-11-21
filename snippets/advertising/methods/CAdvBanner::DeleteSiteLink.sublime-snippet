@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::DeleteSiteLink(${1:BANNER_ID})]]></content>
+	<tabTrigger>CAdvBanner::DeleteSiteLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

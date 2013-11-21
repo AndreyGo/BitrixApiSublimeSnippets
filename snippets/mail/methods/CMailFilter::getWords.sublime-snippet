@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailFilter::getWords(${1:message},${2:max_words})]]></content>
+	<tabTrigger>CMailFilter::getWords</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

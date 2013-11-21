@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::__BuildTree(${1:arPath},${2:&\$arTree},${3:&\$arComponent},${4:\$level = 1})]]></content>
+	<tabTrigger>CComponentUtil::__BuildTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

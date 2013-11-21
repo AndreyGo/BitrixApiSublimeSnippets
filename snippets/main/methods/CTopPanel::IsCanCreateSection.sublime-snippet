@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTopPanel::IsCanCreateSection(${1:currentDirPath},${2:documentRoot},${3:filemanExists})]]></content>
+	<tabTrigger>CTopPanel::IsCanCreateSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

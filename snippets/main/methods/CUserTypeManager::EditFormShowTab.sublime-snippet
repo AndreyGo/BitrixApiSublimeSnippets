@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::EditFormShowTab(${1:entity_id},${2:bVarsFromForm},${3:ID})]]></content>
+	<tabTrigger>CUserTypeManager::EditFormShowTab</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

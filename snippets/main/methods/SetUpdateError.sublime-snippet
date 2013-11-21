@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetUpdateError(${1:strError})]]></content>
+	<tabTrigger>SetUpdateError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

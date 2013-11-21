@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserTypeUpdate]]></content>
+	<tabTrigger>OnBeforeUserTypeUpdate</tabTrigger>
+	<description>Bitrix CUserTypeEntity::Update</description>
+	<scope>source.php</scope>
+</snippet>

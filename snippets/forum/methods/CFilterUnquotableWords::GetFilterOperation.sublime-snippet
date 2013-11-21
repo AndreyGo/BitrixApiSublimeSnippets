@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterUnquotableWords::GetFilterOperation(${1:key})]]></content>
+	<tabTrigger>CFilterUnquotableWords::GetFilterOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

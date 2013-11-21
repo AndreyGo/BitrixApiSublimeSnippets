@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::__tzsort(${1:a},${2:b})]]></content>
+	<tabTrigger>CTimeZone::__tzsort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

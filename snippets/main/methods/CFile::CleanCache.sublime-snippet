@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::CleanCache(${1:ID})]]></content>
+	<tabTrigger>CFile::CleanCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

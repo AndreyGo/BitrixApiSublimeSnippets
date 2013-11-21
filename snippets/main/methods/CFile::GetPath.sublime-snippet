@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetPath(${1:img_id})]]></content>
+	<tabTrigger>CFile::GetPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

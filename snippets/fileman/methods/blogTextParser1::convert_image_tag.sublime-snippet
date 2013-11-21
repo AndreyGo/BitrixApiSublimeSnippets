@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::convert_image_tag(${1:\$url = ""},${2:\$type = "html"},${3:\$serverName=""},${4:\$params = ""})]]></content>
+	<tabTrigger>blogTextParser1::convert_image_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

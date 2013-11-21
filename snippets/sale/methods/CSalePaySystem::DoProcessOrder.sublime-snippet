@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystem::DoProcessOrder(${1:&arOrder},${2:paySystemId},${3:&\$arErrors})]]></content>
+	<tabTrigger>CSalePaySystem::DoProcessOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

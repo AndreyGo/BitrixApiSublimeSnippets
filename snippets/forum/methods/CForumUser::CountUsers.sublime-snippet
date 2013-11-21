@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::CountUsers(${1:\$bActive = False},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CForumUser::CountUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

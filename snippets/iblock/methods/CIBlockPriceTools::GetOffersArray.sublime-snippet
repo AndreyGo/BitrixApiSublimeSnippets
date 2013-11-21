@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPriceTools::GetOffersArray(${1:arFilter},${2:arElementID},${3:arOrder},${4:arSelectFields},${5:arSelectProperties},${6:limit},${7:arPrices},${8:vat_include},${9:\$arCurrencyParams = array()},${10:\$USER_ID = 0},${11:\$LID = SITE_ID})]]></content>
+	<tabTrigger>CIBlockPriceTools::GetOffersArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::IncludeComponent(${1:componentName},${2:componentTemplate},${3:\$arParams = array()},${4:\$parentComponent = null},${5:\$arFunctionParams = array()})]]></content>
+	<tabTrigger>CMain::IncludeComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

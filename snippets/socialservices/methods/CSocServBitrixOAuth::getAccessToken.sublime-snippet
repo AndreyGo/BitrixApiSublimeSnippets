@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServBitrixOAuth::getAccessToken(${1:code},${2:\$addScope = null})]]></content>
+	<tabTrigger>CSocServBitrixOAuth::getAccessToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

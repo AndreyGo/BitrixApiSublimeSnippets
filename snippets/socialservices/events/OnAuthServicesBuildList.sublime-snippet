@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAuthServicesBuildList]]></content>
+	<tabTrigger>OnAuthServicesBuildList</tabTrigger>
+	<description>Bitrix CSocServAuthManager::__construct</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::RenameLinkOnPages(${1:iBlockId},${2:oldName},${3:newName},${4:\$iBlockSectId = false})]]></content>
+	<tabTrigger>CWiki::RenameLinkOnPages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

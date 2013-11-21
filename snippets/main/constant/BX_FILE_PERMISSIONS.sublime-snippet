@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_FILE_PERMISSIONS]]></content>
+	<tabTrigger>BX_FILE_PERMISSIONS</tabTrigger>
+	<description>Bitrix CHTMLPagesCache::SetOptions</description>
+	<scope>source.php</scope>
+</snippet>

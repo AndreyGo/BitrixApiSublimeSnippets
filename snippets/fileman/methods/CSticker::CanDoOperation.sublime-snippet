@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::CanDoOperation(${1:operation})]]></content>
+	<tabTrigger>CSticker::CanDoOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

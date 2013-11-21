@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnPath::IsUrlencodedPath(${1:str})]]></content>
+	<tabTrigger>CLearnPath::IsUrlencodedPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

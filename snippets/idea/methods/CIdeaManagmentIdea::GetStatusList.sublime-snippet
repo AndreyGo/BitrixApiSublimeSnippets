@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentIdea::GetStatusList(${1:\$XML_ID = false})]]></content>
+	<tabTrigger>CIdeaManagmentIdea::GetStatusList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

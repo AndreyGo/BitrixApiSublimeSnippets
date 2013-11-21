@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::checkCRC(${1:str},${2:data})]]></content>
+	<tabTrigger>CTar::checkCRC</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

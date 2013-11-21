@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddTime(${1:stmp},${2:add},${3:\$type="D"})]]></content>
+	<tabTrigger>AddTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

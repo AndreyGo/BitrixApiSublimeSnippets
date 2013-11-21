@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackupWebService::actionReadFile(${1:check_word},${2:file_name})]]></content>
+	<tabTrigger>CBitrixCloudBackupWebService::actionReadFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

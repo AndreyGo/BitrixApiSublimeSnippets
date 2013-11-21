@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::isShortDate(${1:strDate})]]></content>
+	<tabTrigger>CIBlock::isShortDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

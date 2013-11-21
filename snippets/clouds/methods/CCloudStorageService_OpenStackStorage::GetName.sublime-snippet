@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_OpenStackStorage::GetName()]]></content>
+	<tabTrigger>CCloudStorageService_OpenStackStorage::GetName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

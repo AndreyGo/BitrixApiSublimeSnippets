@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTemplates::__FindTemplates(${1:root},${2:&\$arTemplates},${3:\$arCurrentValues=array()},${4:\$init=""})]]></content>
+	<tabTrigger>CTemplates::__FindTemplates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

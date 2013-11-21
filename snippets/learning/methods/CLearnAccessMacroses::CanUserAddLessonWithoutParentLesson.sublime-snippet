@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccessMacroses::CanUserAddLessonWithoutParentLesson(${1:\$arParams = array()})]]></content>
+	<tabTrigger>CLearnAccessMacroses::CanUserAddLessonWithoutParentLesson</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

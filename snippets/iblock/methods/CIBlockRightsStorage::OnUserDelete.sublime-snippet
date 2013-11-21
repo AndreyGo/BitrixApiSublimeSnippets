@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRightsStorage::OnUserDelete(${1:USER_ID})]]></content>
+	<tabTrigger>CIBlockRightsStorage::OnUserDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

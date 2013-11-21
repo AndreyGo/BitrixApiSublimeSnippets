@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumDeleteSubscribe(${1:ID},${2:&\$strErr},${3:&\$strOk})]]></content>
+	<tabTrigger>ForumDeleteSubscribe</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

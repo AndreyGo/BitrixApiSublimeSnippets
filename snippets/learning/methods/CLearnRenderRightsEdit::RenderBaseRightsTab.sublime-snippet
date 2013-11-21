@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnRenderRightsEdit::RenderBaseRightsTab(${1:userId},${2:\$POSTName = 'BASE_RIGHTS'})]]></content>
+	<tabTrigger>CLearnRenderRightsEdit::RenderBaseRightsTab</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

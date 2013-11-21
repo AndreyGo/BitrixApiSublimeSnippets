@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrency::GetCurrency(${1:currency})]]></content>
+	<tabTrigger>CCurrency::GetCurrency</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

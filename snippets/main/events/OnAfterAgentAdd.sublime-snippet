@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterAgentAdd]]></content>
+	<tabTrigger>OnAfterAgentAdd</tabTrigger>
+	<description>Bitrix CAgent::Add</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoCheck::CheckQueryString(${1:\$arParams = array()})]]></content>
+	<tabTrigger>CAutoCheck::CheckQueryString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

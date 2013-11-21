@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityDB::Query(${1:strSql},${2:error_position})]]></content>
+	<tabTrigger>CSecurityDB::Query</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

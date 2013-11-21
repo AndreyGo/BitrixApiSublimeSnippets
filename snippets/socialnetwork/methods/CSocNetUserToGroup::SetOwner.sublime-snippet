@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::SetOwner(${1:userID},${2:groupID},${3:\$arGroup = false})]]></content>
+	<tabTrigger>CSocNetUserToGroup::SetOwner</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

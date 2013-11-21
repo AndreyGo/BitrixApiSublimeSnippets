@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::sGet(${1:url},${2:\$follow_redirect = false})]]></content>
+	<tabTrigger>CHTTP::sGet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

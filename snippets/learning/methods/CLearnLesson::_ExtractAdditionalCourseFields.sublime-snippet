@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::_ExtractAdditionalCourseFields(${1:&arFields})]]></content>
+	<tabTrigger>CLearnLesson::_ExtractAdditionalCourseFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

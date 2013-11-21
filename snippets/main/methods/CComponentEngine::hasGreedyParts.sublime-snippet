@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::hasGreedyParts(${1:pageTemplate})]]></content>
+	<tabTrigger>CComponentEngine::hasGreedyParts</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::startMonitoring(${1:domain},${2:is_https},${3:language_id},${4:emails},${5:tests})]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::startMonitoring</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

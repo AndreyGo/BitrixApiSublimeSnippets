@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforeMailMessageSend]]></content>
+	<tabTrigger>onBeforeMailMessageSend</tabTrigger>
+	<description>Bitrix CForumMessage::SendMailMessage</description>
+	<scope>source.php</scope>
+</snippet>

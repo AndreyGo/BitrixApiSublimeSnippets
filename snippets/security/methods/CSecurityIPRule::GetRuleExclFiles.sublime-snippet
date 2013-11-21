@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::GetRuleExclFiles(${1:files})]]></content>
+	<tabTrigger>CSecurityIPRule::GetRuleExclFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

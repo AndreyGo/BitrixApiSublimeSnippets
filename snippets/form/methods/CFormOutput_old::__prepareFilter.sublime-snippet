@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput_old::__prepareFilter()]]></content>
+	<tabTrigger>CFormOutput_old::__prepareFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

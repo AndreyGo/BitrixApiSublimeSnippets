@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSVUserImport::SetUserPropertyName(${1:userPropertyName})]]></content>
+	<tabTrigger>CSVUserImport::SetUserPropertyName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::isBlockNeeded()]]></content>
+	<tabTrigger>CSecurityFilter::isBlockNeeded</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

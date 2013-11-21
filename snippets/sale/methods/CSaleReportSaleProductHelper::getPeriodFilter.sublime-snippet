@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleProductHelper::getPeriodFilter(${1:date_from},${2:date_to})]]></content>
+	<tabTrigger>CSaleReportSaleProductHelper::getPeriodFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

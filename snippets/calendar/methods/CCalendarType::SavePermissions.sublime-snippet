@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarType::SavePermissions(${1:type},${2:arTaskPerm})]]></content>
+	<tabTrigger>CCalendarType::SavePermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

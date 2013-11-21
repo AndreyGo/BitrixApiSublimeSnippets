@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::InitializeFileData()]]></content>
+	<tabTrigger>CB24Updater::InitializeFileData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

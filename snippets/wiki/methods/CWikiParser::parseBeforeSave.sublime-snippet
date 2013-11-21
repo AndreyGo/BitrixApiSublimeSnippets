@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiParser::parseBeforeSave(${1:text},${2:&\$arCat = array()},${3:\$nameTemplate = ""})]]></content>
+	<tabTrigger>CWikiParser::parseBeforeSave</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

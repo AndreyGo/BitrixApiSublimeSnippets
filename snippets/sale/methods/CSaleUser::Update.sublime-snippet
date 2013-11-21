@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUser::Update(${1:ID})]]></content>
+	<tabTrigger>CSaleUser::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

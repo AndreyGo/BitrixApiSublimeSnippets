@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::GetById(${1:id})]]></content>
+	<tabTrigger>CSticker::GetById</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

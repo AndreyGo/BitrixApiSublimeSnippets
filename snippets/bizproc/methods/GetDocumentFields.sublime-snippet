@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDocumentFields(${1:parameterDocumentType})]]></content>
+	<tabTrigger>GetDocumentFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

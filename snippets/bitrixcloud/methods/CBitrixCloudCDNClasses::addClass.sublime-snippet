@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNClasses::addClass(${1:CBitrixCloudCDNClass file_class})]]></content>
+	<tabTrigger>CBitrixCloudCDNClasses::addClass</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

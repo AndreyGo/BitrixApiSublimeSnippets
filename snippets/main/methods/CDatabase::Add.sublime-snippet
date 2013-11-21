@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::Add(${1:tablename},${2:arFields},${3:\$arCLOBFields = Array()},${4:\$strFileDir=""},${5:\$ignore_errors=false},${6:\$error_position=""},${7:\$arOptions=array()})]]></content>
+	<tabTrigger>CDatabase::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

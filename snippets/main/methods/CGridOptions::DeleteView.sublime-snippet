@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::DeleteView(${1:view_id})]]></content>
+	<tabTrigger>CGridOptions::DeleteView</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

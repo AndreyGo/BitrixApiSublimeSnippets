@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::Add(${1:vFileList},${2:\$strAddPath = false},${3:\$strRemovePath = false})]]></content>
+	<tabTrigger>CArchiver::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SESSION_VIRTUAL]]></content>
+	<tabTrigger>BX_SECURITY_SESSION_VIRTUAL</tabTrigger>
+	<description>Bitrix CSecuritySessionVirtual::isStorageEnabled</description>
+	<scope>source.php</scope>
+</snippet>

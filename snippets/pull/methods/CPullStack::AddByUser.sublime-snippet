@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullStack::AddByUser(${1:userId},${2:arMessage})]]></content>
+	<tabTrigger>CPullStack::AddByUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFavorites::OnUserDelete(${1:user_id})]]></content>
+	<tabTrigger>CFavorites::OnUserDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

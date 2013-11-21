@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPParser::FindComponent(${1:component_name},${2:filesrc},${3:src_line})]]></content>
+	<tabTrigger>PHPParser::FindComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

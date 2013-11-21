@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::ClearAllLocationZIP()]]></content>
+	<tabTrigger>CSaleLocation::ClearAllLocationZIP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::BanUser(${1:senderUserID},${2:targetUserID})]]></content>
+	<tabTrigger>CSocNetUserRelations::BanUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

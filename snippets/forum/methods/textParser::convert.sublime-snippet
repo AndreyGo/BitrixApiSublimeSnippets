@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textParser::convert(${1:text},${2:\$allow = array("HTML" => "N"},${3:"ANCHOR" => "Y"},${4:"BIU" => "Y"},${5:"IMG" => "Y"},${6:"QUOTE" => "Y"},${7:"CODE" => "Y"},${8:"FONT" => "Y"},${9:"LIST" => "Y"},${10:"SMILES" => "Y"},${11:"NL2BR" => "N"},${12:"VIDEO" => "Y")},${13:\$type = "html"})]]></content>
+	<tabTrigger>textParser::convert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

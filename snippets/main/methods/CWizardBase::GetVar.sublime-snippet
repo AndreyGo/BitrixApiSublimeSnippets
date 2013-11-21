@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::GetVar(${1:varName},${2:\$useDefault = false})]]></content>
+	<tabTrigger>CWizardBase::GetVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

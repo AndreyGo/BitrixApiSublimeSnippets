@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::ResetResult(${1:ID},${2:WEB_FORM_ID},${3:\$DELETE_IMAGES=true},${4:\$DELETE_ADDITIONAL="N"},${5:\$arrException=array()})]]></content>
+	<tabTrigger>CForm_old::ResetResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

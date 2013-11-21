@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::__construct(${1:instanceId},${2:CBPRuntime runtime})]]></content>
+	<tabTrigger>CBPWorkflow::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

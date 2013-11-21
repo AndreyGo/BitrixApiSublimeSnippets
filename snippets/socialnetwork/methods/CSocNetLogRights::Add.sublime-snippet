@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogRights::Add(${1:LOG_ID},${2:GROUP_CODE})]]></content>
+	<tabTrigger>CSocNetLogRights::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

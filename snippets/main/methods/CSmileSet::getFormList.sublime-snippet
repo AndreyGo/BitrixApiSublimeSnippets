@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmileSet::getFormList(${1:\$bWithOptionAll = false},${2:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CSmileSet::getFormList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

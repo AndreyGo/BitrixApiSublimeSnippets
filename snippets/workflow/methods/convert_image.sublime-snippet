@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convert_image(${1:\$img=""},${2:\$query=""},${3:\$param=""})]]></content>
+	<tabTrigger>convert_image</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

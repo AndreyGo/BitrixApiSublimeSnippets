@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteDiagramType::CVoteDiagramType(${1:\$directCall=true})]]></content>
+	<tabTrigger>CVoteDiagramType::CVoteDiagramType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

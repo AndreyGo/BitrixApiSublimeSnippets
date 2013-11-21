@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::ShowFormImage(${1:\$sAlign = ""},${2:\$iMaxW=""},${3:\$iMaxH=""},${4:\$bPopup="N"},${5:\$strPopupTitle=""},${6:\$sHSpace = ""},${7:\$sVSpace = ""},${8:\$sBorder = ""})]]></content>
+	<tabTrigger>CFormOutput::ShowFormImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

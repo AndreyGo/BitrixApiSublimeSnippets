@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPrivateMessage::Copy(${1:ID},${2:\$arFields = array()})]]></content>
+	<tabTrigger>CForumPrivateMessage::Copy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::Update(${1:user_id},${2:code},${3:type},${4:\$follow_date = false})]]></content>
+	<tabTrigger>CSocNetLogFollow::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

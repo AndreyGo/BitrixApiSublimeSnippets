@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_Lock(${1:LAST_ID},${2:\$bWorkFlow=true})]]></content>
+	<tabTrigger>CIBlockElement::WF_Lock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

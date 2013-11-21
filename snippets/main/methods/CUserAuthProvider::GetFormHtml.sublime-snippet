@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserAuthProvider::GetFormHtml(${1:\$arParams=false})]]></content>
+	<tabTrigger>CUserAuthProvider::GetFormHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

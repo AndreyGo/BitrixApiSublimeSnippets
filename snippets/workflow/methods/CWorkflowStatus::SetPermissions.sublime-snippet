@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflowStatus::SetPermissions(${1:STATUS_ID},${2:arGroups},${3:\$PERMISSION_TYPE = 1})]]></content>
+	<tabTrigger>CWorkflowStatus::SetPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

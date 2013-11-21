@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setSecureUrl(${1:secureurl})]]></content>
+	<tabTrigger>WindowsLiveLogin::setSecureUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

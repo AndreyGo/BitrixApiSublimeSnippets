@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAdminTabControlBegin]]></content>
+	<tabTrigger>OnAdminTabControlBegin</tabTrigger>
+	<description>Bitrix OnAdminTabControlBegin</description>
+	<scope>source.php</scope>
+</snippet>

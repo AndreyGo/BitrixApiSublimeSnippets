@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetRoles(${1:&isDemo},${2:&\$isSupportClient},${3:&\$isSupportTeam},${4:&\$isAdmin},${5:&\$isAccess},${6:&\$userID},${7:\$checkRights=true})]]></content>
+	<tabTrigger>CTicket::GetRoles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

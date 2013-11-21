@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SaveEvent(${1:Params})]]></content>
+	<tabTrigger>CCalendar::SaveEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

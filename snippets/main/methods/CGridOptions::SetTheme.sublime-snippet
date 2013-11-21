@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::SetTheme(${1:theme})]]></content>
+	<tabTrigger>CGridOptions::SetTheme</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

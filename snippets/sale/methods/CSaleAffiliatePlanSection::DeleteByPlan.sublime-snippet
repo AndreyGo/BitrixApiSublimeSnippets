@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliatePlanSection::DeleteByPlan(${1:planID},${2:arSectionIDs})]]></content>
+	<tabTrigger>CSaleAffiliatePlanSection::DeleteByPlan</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

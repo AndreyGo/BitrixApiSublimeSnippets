@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeInteger::GetFilterHTML(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeInteger::GetFilterHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

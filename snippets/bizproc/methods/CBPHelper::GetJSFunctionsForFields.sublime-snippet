@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::GetJSFunctionsForFields(${1:objectName},${2:arDocumentFields},${3:arDocumentFieldTypes})]]></content>
+	<tabTrigger>CBPHelper::GetJSFunctionsForFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

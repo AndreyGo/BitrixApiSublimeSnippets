@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EndCustomField(${1:id},${2:\$hidden = ""})]]></content>
+	<tabTrigger>EndCustomField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

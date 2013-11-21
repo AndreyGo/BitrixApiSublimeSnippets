@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAuthProvider::DeleteByUser(${1:USER_ID})]]></content>
+	<tabTrigger>CAuthProvider::DeleteByUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

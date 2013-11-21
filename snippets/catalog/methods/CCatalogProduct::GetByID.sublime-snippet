@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProduct::GetByID(${1:ID})]]></content>
+	<tabTrigger>CCatalogProduct::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

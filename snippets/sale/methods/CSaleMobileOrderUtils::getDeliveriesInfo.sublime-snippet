@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::getDeliveriesInfo(${1:arDeliveryIds})]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::getDeliveriesInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

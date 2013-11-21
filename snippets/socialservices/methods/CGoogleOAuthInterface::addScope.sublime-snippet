@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGoogleOAuthInterface::addScope(${1:scope})]]></content>
+	<tabTrigger>CGoogleOAuthInterface::addScope</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

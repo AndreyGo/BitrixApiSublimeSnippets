@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuthManager::Authorize(${1:service_id})]]></content>
+	<tabTrigger>CSocServAuthManager::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

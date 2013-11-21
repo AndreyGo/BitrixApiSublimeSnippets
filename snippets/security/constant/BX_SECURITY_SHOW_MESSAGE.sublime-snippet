@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SHOW_MESSAGE]]></content>
+	<tabTrigger>BX_SECURITY_SHOW_MESSAGE</tabTrigger>
+	<description>Bitrix CSecurityFilter::showForm</description>
+	<scope>source.php</scope>
+</snippet>

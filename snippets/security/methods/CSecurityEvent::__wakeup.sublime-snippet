@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEvent::__wakeup()]]></content>
+	<tabTrigger>CSecurityEvent::__wakeup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

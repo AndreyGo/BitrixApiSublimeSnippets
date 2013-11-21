@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPublishSocServMessage]]></content>
+	<tabTrigger>OnPublishSocServMessage</tabTrigger>
+	<description>Bitrix CSocServAuthManager::PostIntoBuzz</description>
+	<scope>source.php</scope>
+</snippet>

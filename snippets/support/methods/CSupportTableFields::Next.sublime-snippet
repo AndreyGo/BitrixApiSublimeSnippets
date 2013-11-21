@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::Next()]]></content>
+	<tabTrigger>CSupportTableFields::Next</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::EditCalendarEventEntry(${1:\$arFields = array()},${2:\$arUFFields = array()},${3:\$arAccessCodes = array()},${4:\$params = array()})]]></content>
+	<tabTrigger>CCalendarLiveFeed::EditCalendarEventEntry</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

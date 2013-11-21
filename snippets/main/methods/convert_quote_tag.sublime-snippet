@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convert_quote_tag(${1:\$text=""},${2:quote_table_class},${3:quote_head_class},${4:quote_body_class})]]></content>
+	<tabTrigger>convert_quote_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

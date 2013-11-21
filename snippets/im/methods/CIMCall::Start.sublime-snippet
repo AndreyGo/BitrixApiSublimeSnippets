@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMCall::Start(${1:arParams})]]></content>
+	<tabTrigger>CIMCall::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

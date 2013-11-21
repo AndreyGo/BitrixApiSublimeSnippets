@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketSLA::GetSiteArrayForAllSLA(${1:\$p = self::SLA_SITE})]]></content>
+	<tabTrigger>CTicketSLA::GetSiteArrayForAllSLA</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

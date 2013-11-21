@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsExtranetEnabled()]]></content>
+	<tabTrigger>CCalendar::IsExtranetEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::DeleteByUser(${1:userId},${2:\$channelId = null})]]></content>
+	<tabTrigger>CPullChannel::DeleteByUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

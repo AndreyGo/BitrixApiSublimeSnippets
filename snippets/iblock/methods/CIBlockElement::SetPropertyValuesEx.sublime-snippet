@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::SetPropertyValuesEx(${1:ELEMENT_ID},${2:IBLOCK_ID},${3:PROPERTY_VALUES},${4:\$FLAGS=array()})]]></content>
+	<tabTrigger>CIBlockElement::SetPropertyValuesEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

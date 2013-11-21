@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheFiles::_unlink(${1:fileName})]]></content>
+	<tabTrigger>CPHPCacheFiles::_unlink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

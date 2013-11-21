@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeIBlockSection::GetList(${1:arUserField})]]></content>
+	<tabTrigger>CUserTypeIBlockSection::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

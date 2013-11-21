@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_GoogleStorage::GetMinUploadPartSize()]]></content>
+	<tabTrigger>CCloudStorageService_GoogleStorage::GetMinUploadPartSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

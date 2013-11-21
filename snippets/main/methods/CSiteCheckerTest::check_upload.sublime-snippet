@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_upload(${1:\$big = false},${2:\$raw = false})]]></content>
+	<tabTrigger>CSiteCheckerTest::check_upload</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

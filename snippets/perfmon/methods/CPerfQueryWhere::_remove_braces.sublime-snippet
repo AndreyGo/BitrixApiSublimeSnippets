@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryWhere::_remove_braces(${1:sql})]]></content>
+	<tabTrigger>CPerfQueryWhere::_remove_braces</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySession::triggerFatalError(${1:\$pMessage = ""})]]></content>
+	<tabTrigger>CSecuritySession::triggerFatalError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

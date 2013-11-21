@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBasketOrder]]></content>
+	<tabTrigger>OnBasketOrder</tabTrigger>
+	<description>Bitrix CSaleBasket::OrderBasket</description>
+	<scope>source.php</scope>
+</snippet>

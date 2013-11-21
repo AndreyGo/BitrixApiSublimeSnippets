@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagment::GetCategorySequenceByCode(${1:CODE},${2:\$arCategoryList = false})]]></content>
+	<tabTrigger>CIdeaManagment::GetCategorySequenceByCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

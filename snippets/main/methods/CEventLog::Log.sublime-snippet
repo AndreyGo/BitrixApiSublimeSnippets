@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventLog::Log(${1:SEVERITY},${2:AUDIT_TYPE_ID},${3:MODULE_ID},${4:ITEM_ID},${5:\$DESCRIPTION = false},${6:\$SITE_ID = false})]]></content>
+	<tabTrigger>CEventLog::Log</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

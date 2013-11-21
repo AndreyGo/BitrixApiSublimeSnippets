@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::RunUpdaterScript(${1:path},${2:&\$strError},${3:from_dir},${4:moduleID})]]></content>
+	<tabTrigger>CUpdateSystem::RunUpdaterScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

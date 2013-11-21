@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ChangeOffersStatus(${1:ELEMENT_ID},${2:\$STATUS = "Y"},${3:\$bWF = true})]]></content>
+	<tabTrigger>CIBlockCMLImport::ChangeOffersStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

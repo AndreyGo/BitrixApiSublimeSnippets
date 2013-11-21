@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::GetAllowableUserGroups(${1:documentType})]]></content>
+	<tabTrigger>IBPWorkflowDocument::GetAllowableUserGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

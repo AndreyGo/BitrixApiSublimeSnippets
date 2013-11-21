@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::get_cookie(${1:name},${2:\$name_prefix=false})]]></content>
+	<tabTrigger>CMain::get_cookie</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuthManager::SendUserMessage(${1:socServUserId},${2:providerName},${3:message},${4:messageId})]]></content>
+	<tabTrigger>CSocServAuthManager::SendUserMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUserGroupPerms::__AutoSetPerms(${1:ID})]]></content>
+	<tabTrigger>CBlogUserGroupPerms::__AutoSetPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

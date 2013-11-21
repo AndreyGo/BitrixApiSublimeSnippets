@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_loadLang(${1:lang},${2:bReturn},${3:\$arAdditionalMess = false})]]></content>
+	<tabTrigger>_loadLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

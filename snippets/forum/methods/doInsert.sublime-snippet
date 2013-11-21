@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[doInsert(${1:ibTag},${2:ibClsTag},${3:isSingle})]]></content>
+	<tabTrigger>doInsert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

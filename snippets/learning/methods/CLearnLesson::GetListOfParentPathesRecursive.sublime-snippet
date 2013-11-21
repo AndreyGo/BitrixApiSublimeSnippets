@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetListOfParentPathesRecursive(${1:arPathes},${2:&\$arAlreadyProcessedLessons},${3:\$arIgnoreEdges = array()})]]></content>
+	<tabTrigger>CLearnLesson::GetListOfParentPathesRecursive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

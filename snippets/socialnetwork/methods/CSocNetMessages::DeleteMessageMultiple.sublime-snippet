@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::DeleteMessageMultiple(${1:userID},${2:arIDs})]]></content>
+	<tabTrigger>CSocNetMessages::DeleteMessageMultiple</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

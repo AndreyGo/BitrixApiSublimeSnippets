@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReportHelper::getColumnList()]]></content>
+	<tabTrigger>CReportHelper::getColumnList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

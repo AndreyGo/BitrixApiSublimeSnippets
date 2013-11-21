@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXFavAdmMenu::CheckSubItemActivity(${1:arMenu})]]></content>
+	<tabTrigger>CBXFavAdmMenu::CheckSubItemActivity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

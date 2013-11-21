@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::GetLastPathesDefault()]]></content>
+	<tabTrigger>CFileMan::GetLastPathesDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

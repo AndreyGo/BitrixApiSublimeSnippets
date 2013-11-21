@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ImportStores(${1:XML_STORES_PARENT})]]></content>
+	<tabTrigger>CIBlockCMLImport::ImportStores</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::rewriteUserShortName(${1:&select},${2:format},${3:entity},${4:\$grc =false})]]></content>
+	<tabTrigger>CReport::rewriteUserShortName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

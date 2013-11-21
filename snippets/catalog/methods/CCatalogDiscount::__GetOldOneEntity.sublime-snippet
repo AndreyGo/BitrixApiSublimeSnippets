@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__GetOldOneEntity(${1:&arFields},${2:&\$arCondList},${3:strEntityID},${4:strCondID})]]></content>
+	<tabTrigger>CCatalogDiscount::__GetOldOneEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

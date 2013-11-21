@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileEdit::getFieldHtml(${1:arField})]]></content>
+	<tabTrigger>CAdminMobileEdit::getFieldHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

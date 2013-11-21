@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLiveIDOAuthInterface::getStorageTokens()]]></content>
+	<tabTrigger>CLiveIDOAuthInterface::getStorageTokens</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

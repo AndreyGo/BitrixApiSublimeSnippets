@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::SetListFieldNames(${1:\$boolClear = true})]]></content>
+	<tabTrigger>CAdminSubList::SetListFieldNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

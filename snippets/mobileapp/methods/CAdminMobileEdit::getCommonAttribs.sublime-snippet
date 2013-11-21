@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileEdit::getCommonAttribs(${1:arField})]]></content>
+	<tabTrigger>CAdminMobileEdit::getCommonAttribs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::IsGroup(${1:\$strControlID = false})]]></content>
+	<tabTrigger>CGlobalCondCtrl::IsGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::CheckFolderUpdatability(${1:destFolder},${2:srcFolder},${3:&\$strError})]]></content>
+	<tabTrigger>CUpdateSystem::CheckFolderUpdatability</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

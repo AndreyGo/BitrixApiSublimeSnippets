@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReportHelper::confirmSelectBackReferenceRewrite(${1:elem},${2:chain})]]></content>
+	<tabTrigger>CReportHelper::confirmSelectBackReferenceRewrite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

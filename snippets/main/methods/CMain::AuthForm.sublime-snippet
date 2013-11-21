@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AuthForm(${1:mess},${2:\$show_prolog=true},${3:\$show_epilog=true},${4:\$not_show_links="N"},${5:\$do_die=true})]]></content>
+	<tabTrigger>CMain::AuthForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockXMLFile::_get_xml_chunk_mb(${1:fp})]]></content>
+	<tabTrigger>CIBlockXMLFile::_get_xml_chunk_mb</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

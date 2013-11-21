@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMenu::ShowList(${1:aMenu})]]></content>
+	<tabTrigger>CAdminMenu::ShowList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

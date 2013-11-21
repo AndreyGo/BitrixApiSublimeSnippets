@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::Report2Server(${1:arServerReport})]]></content>
+	<tabTrigger>CUpdateSystem::Report2Server</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

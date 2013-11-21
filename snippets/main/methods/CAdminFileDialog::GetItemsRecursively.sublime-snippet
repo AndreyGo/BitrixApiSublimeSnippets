@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::GetItemsRecursively(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::GetItemsRecursively</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

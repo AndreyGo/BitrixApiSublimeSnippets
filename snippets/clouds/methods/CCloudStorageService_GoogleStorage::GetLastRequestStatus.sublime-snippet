@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_GoogleStorage::GetLastRequestStatus()]]></content>
+	<tabTrigger>CCloudStorageService_GoogleStorage::GetLastRequestStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::Show(${1:TYPE_SID},${2:\$HTML_BEFORE=""},${3:\$HTML_AFTER=""})]]></content>
+	<tabTrigger>CAdvBanner::Show</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

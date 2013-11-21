@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_SetMove(${1:NEW_ID},${2:\$OLD_ID = 0})]]></content>
+	<tabTrigger>CIBlockElement::WF_SetMove</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

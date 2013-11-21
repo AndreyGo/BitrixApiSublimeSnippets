@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMCall::AddUser(${1:arParams})]]></content>
+	<tabTrigger>CIMCall::AddUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

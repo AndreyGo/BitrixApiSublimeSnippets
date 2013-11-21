@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringResult::offsetExists(${1:offset})]]></content>
+	<tabTrigger>CBitrixCloudMonitoringResult::offsetExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

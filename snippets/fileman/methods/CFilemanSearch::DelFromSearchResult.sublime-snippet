@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::DelFromSearchResult(${1:searchSess},${2:path})]]></content>
+	<tabTrigger>CFilemanSearch::DelFromSearchResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

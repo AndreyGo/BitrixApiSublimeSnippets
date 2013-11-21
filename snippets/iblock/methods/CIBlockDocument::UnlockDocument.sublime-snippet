@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::UnlockDocument(${1:documentId},${2:workflowId})]]></content>
+	<tabTrigger>CIBlockDocument::UnlockDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

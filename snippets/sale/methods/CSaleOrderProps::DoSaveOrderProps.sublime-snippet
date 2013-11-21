@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderProps::DoSaveOrderProps(${1:orderId},${2:personTypeId},${3:arOrderProps},${4:&\$arErrors})]]></content>
+	<tabTrigger>CSaleOrderProps::DoSaveOrderProps</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

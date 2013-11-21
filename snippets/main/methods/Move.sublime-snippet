@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Move(${1:source},${2:target},${3:\$bRewrite = true})]]></content>
+	<tabTrigger>Move</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

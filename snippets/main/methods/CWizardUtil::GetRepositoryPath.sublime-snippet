@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardUtil::GetRepositoryPath()]]></content>
+	<tabTrigger>CWizardUtil::GetRepositoryPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

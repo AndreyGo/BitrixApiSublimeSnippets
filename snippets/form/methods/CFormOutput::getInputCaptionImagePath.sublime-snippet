@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::getInputCaptionImagePath(${1:FIELD_SID})]]></content>
+	<tabTrigger>CFormOutput::getInputCaptionImagePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

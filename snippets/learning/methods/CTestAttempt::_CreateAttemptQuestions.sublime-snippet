@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::_CreateAttemptQuestions(${1:arCallbackSqlFormer},${2:ATTEMPT_ID})]]></content>
+	<tabTrigger>CTestAttempt::_CreateAttemptQuestions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::GetSocnetReadByBlog(${1:ID})]]></content>
+	<tabTrigger>CBlog::GetSocnetReadByBlog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

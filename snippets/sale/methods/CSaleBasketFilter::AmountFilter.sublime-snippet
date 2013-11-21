@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasketFilter::AmountFilter(${1:&arOrder},${2:func})]]></content>
+	<tabTrigger>CSaleBasketFilter::AmountFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailRestService::OnRestServiceBuildDescription()]]></content>
+	<tabTrigger>CMailRestService::OnRestServiceBuildDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

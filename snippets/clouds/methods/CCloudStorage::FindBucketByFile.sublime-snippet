@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::FindBucketByFile(${1:file_name})]]></content>
+	<tabTrigger>CCloudStorage::FindBucketByFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

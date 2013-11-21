@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserCards::CryptData(${1:data},${2:type})]]></content>
+	<tabTrigger>CSaleUserCards::CryptData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

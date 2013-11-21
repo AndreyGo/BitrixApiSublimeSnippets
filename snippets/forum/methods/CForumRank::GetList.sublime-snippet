@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumRank::GetList(${1:\$arOrder = array("MIN_NUM_POSTS"=>"ASC")},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CForumRank::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

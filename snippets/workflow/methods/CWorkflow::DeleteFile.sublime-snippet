@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::DeleteFile(${1:FILENAME})]]></content>
+	<tabTrigger>CWorkflow::DeleteFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

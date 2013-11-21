@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::getkeysfrompq(${1:p},${2:q})]]></content>
+	<tabTrigger>CRsaBcmathProvider::getkeysfrompq</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

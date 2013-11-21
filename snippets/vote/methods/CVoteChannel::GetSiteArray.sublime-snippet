@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteChannel::GetSiteArray(${1:CHANNEL_ID})]]></content>
+	<tabTrigger>CVoteChannel::GetSiteArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterVoting]]></content>
+	<tabTrigger>onAfterVoting</tabTrigger>
+	<description>Bitrix CVote::KeepVoting</description>
+	<scope>source.php</scope>
+</snippet>

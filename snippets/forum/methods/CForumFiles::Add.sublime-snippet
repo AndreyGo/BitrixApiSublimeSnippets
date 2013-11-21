@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::Add(${1:arFileID},${2:&\$arParams},${3:\$bCheckFields = false})]]></content>
+	<tabTrigger>CForumFiles::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

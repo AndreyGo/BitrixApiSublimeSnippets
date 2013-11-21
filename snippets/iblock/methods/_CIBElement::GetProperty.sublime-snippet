@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CIBElement::GetProperty(${1:ID})]]></content>
+	<tabTrigger>_CIBElement::GetProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

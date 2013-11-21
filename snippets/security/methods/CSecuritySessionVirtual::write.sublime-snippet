@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionVirtual::write(${1:id},${2:sessionData})]]></content>
+	<tabTrigger>CSecuritySessionVirtual::write</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

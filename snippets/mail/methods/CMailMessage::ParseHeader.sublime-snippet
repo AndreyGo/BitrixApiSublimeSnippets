@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailMessage::ParseHeader(${1:message_header},${2:charset})]]></content>
+	<tabTrigger>CMailMessage::ParseHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

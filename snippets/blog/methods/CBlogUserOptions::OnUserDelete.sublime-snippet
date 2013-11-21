@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUserOptions::OnUserDelete(${1:user_id})]]></content>
+	<tabTrigger>CBlogUserOptions::OnUserDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

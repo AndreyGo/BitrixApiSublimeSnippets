@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ResizeImageGet(${1:file},${2:arSize},${3:\$resizeType = BX_RESIZE_IMAGE_PROPORTIONAL},${4:\$bInitSizes = false},${5:\$arFilters = false},${6:\$bImmediate = false},${7:\$jpgQuality = false})]]></content>
+	<tabTrigger>CFile::ResizeImageGet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

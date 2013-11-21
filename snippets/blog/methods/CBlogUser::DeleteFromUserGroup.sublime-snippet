@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::DeleteFromUserGroup(${1:ID},${2:blogID},${3:\$selectType = BLOG_BY_BLOG_USER_ID})]]></content>
+	<tabTrigger>CBlogUser::DeleteFromUserGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

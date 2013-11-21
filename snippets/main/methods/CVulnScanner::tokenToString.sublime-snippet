@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::tokenToString(${1:token})]]></content>
+	<tabTrigger>CVulnScanner::tokenToString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

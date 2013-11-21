@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockFindTools::checkSection(${1:iblock_id},${2:&\$arVariables})]]></content>
+	<tabTrigger>CIBlockFindTools::checkSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

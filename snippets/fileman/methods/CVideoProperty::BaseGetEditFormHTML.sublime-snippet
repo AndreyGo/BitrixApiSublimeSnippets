@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVideoProperty::BaseGetEditFormHTML(${1:set},${2:val},${3:name},${4:\$controlMode=false})]]></content>
+	<tabTrigger>CVideoProperty::BaseGetEditFormHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

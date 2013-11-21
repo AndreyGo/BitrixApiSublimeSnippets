@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTMLPagesCache::SetStatus(${1:status})]]></content>
+	<tabTrigger>CHTMLPagesCache::SetStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

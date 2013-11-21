@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::Login(${1:login},${2:password},${3:\$remember="N"},${4:\$password_original="Y"})]]></content>
+	<tabTrigger>CUser::Login</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

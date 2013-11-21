@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyMapYandex::GetPublicViewHTML(${1:arProperty},${2:value},${3:arParams})]]></content>
+	<tabTrigger>CIBlockPropertyMapYandex::GetPublicViewHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

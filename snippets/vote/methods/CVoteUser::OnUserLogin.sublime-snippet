@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteUser::OnUserLogin()]]></content>
+	<tabTrigger>CVoteUser::OnUserLogin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

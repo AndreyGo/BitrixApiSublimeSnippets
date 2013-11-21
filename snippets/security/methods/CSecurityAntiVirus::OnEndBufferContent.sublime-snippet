@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::OnEndBufferContent(${1:&content})]]></content>
+	<tabTrigger>CSecurityAntiVirus::OnEndBufferContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

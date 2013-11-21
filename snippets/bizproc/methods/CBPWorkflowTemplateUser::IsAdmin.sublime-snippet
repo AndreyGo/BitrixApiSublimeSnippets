@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateUser::IsAdmin()]]></content>
+	<tabTrigger>CBPWorkflowTemplateUser::IsAdmin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

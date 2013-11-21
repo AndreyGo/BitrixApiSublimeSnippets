@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::DateToCharFunction(${1:strFieldName},${2:\$strType="FULL"},${3:\$lang=false},${4:\$bSearchInSitesOnly=false})]]></content>
+	<tabTrigger>CDatabase::DateToCharFunction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

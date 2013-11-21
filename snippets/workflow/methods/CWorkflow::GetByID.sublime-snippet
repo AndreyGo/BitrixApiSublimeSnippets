@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::GetByID(${1:ID})]]></content>
+	<tabTrigger>CWorkflow::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

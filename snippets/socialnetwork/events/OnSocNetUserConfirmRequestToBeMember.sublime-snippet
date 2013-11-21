@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetUserConfirmRequestToBeMember]]></content>
+	<tabTrigger>OnSocNetUserConfirmRequestToBeMember</tabTrigger>
+	<description>Bitrix CSocNetUserToGroup::UserConfirmRequestToBeMember</description>
+	<scope>source.php</scope>
+</snippet>

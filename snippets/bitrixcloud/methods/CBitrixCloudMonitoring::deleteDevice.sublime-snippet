@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::deleteDevice(${1:domain},${2:deviceId})]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::deleteDevice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

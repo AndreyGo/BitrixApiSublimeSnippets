@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterCalendarEventEdit]]></content>
+	<tabTrigger>OnAfterCalendarEventEdit</tabTrigger>
+	<description>Bitrix CCalendarEvent::Edit</description>
+	<scope>source.php</scope>
+</snippet>

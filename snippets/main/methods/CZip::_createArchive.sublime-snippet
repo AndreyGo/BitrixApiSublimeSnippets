@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_createArchive(${1:arFilesList},${2:&\$arResultList},${3:&\$arParams})]]></content>
+	<tabTrigger>CZip::_createArchive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

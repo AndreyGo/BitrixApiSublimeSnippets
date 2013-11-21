@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::GetArrayByID(${1:intID})]]></content>
+	<tabTrigger>CCatalogDiscountSave::GetArrayByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

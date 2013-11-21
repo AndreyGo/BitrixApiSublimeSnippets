@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::ext(${1:e1},${2:em})]]></content>
+	<tabTrigger>CRsaBcmathProvider::ext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

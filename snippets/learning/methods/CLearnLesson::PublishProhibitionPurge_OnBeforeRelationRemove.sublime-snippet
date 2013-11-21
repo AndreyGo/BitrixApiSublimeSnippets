@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::PublishProhibitionPurge_OnBeforeRelationRemove(${1:in_parentLessonId},${2:in_childLessonId})]]></content>
+	<tabTrigger>CLearnLesson::PublishProhibitionPurge_OnBeforeRelationRemove</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

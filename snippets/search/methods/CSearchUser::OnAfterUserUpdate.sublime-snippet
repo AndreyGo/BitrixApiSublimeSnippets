@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchUser::OnAfterUserUpdate(${1:&arFields})]]></content>
+	<tabTrigger>CSearchUser::OnAfterUserUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

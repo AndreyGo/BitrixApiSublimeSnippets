@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::Update(${1:intID},${2:arFields},${3:\$boolCalc = false})]]></content>
+	<tabTrigger>CCatalogDiscountSave::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

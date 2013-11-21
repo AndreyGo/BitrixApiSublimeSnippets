@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMCall::Wait(${1:arParams})]]></content>
+	<tabTrigger>CIMCall::Wait</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

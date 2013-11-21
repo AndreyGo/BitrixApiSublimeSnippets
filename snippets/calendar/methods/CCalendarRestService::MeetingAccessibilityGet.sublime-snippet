@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarRestService::MeetingAccessibilityGet(${1:\$arParams = array()},${2:\$nav = null},${3:\$server = null})]]></content>
+	<tabTrigger>CCalendarRestService::MeetingAccessibilityGet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BXDD_DragHover(${1:obPlacement},${2:x},${3:y})]]></content>
+	<tabTrigger>BXDD_DragHover</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

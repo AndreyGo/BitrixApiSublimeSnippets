@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::__TreeItemCompare(${1:a},${2:b})]]></content>
+	<tabTrigger>CComponentUtil::__TreeItemCompare</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

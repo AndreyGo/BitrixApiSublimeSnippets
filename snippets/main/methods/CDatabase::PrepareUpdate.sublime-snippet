@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::PrepareUpdate(${1:strTableName},${2:arFields},${3:\$strFileDir=""},${4:\$lang = false},${5:\$strTableAlias = ""})]]></content>
+	<tabTrigger>CDatabase::PrepareUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

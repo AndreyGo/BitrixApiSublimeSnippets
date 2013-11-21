@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser::convert_open_tag(${1:\$marker = "quote"})]]></content>
+	<tabTrigger>blogTextParser::convert_open_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowVote(${1:VOTE_ID},${2:\$template1=""})]]></content>
+	<tabTrigger>ShowVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

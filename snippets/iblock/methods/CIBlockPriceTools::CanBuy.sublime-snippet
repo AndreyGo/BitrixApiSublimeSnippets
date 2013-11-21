@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPriceTools::CanBuy(${1:IBLOCK_ID},${2:arCatalogPrices},${3:arItem})]]></content>
+	<tabTrigger>CIBlockPriceTools::CanBuy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

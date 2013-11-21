@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCatalogProductPriceList(${1:PRODUCT_ID},${2:\$by = "SORT"},${3:\$order = "ASC"})]]></content>
+	<tabTrigger>GetCatalogProductPriceList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

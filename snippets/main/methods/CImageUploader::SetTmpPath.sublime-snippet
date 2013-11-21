@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::SetTmpPath(${1:PackageGuid},${2:pathToTmp})]]></content>
+	<tabTrigger>CImageUploader::SetTmpPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

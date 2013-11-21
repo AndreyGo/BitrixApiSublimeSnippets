@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleGroupAccessToFlag::DeleteByFlag(${1:ORDER_FLAG})]]></content>
+	<tabTrigger>CSaleGroupAccessToFlag::DeleteByFlag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

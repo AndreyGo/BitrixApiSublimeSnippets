@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_mail(${1:\$big = false})]]></content>
+	<tabTrigger>CSiteCheckerTest::check_mail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

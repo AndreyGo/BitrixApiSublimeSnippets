@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PERFMON_STOP]]></content>
+	<tabTrigger>PERFMON_STOP</tabTrigger>
+	<description>Bitrix CPerfomanceKeeper::OnPageStart</description>
+	<scope>source.php</scope>
+</snippet>

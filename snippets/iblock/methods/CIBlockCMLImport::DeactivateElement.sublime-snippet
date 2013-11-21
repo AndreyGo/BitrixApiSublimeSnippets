@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::DeactivateElement(${1:action},${2:start_time},${3:interval})]]></content>
+	<tabTrigger>CIBlockCMLImport::DeactivateElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

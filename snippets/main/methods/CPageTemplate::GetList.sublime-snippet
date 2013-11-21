@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPageTemplate::GetList(${1:\$arSiteTemplates=array()})]]></content>
+	<tabTrigger>CPageTemplate::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

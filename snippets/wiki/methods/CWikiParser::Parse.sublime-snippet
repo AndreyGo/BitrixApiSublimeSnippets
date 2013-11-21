@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiParser::Parse(${1:text},${2:\$type = 'text'},${3:\$arFile = array()},${4:\$arParams = array()})]]></content>
+	<tabTrigger>CWikiParser::Parse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

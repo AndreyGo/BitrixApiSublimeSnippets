@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageSelectTemplate::OnPostForm()]]></content>
+	<tabTrigger>CPackageSelectTemplate::OnPostForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

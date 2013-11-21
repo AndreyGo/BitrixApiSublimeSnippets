@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketSLA::GetCriticalityArray(${1:slaID})]]></content>
+	<tabTrigger>CTicketSLA::GetCriticalityArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserPerms::SetPerm(${1:userID},${2:feature},${3:perm})]]></content>
+	<tabTrigger>CSocNetUserPerms::SetPerm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

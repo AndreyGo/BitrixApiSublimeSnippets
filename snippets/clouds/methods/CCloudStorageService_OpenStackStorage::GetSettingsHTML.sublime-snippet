@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_OpenStackStorage::GetSettingsHTML(${1:arBucket},${2:bServiceSet},${3:cur_SERVICE_ID},${4:bVarsFromForm})]]></content>
+	<tabTrigger>CCloudStorageService_OpenStackStorage::GetSettingsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

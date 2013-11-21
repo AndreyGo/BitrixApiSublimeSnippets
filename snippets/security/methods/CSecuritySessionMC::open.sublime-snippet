@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionMC::open(${1:savePath},${2:sessionName})]]></content>
+	<tabTrigger>CSecuritySessionMC::open</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

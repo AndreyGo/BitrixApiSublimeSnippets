@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::GetUserfieldsEditHtml(${1:eventId},${2:\$url = ''})]]></content>
+	<tabTrigger>CCalendarSceleton::GetUserfieldsEditHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

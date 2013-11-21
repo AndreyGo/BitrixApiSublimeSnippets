@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TruncateText(${1:strText},${2:intLen})]]></content>
+	<tabTrigger>TruncateText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

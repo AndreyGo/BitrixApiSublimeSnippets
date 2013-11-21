@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTax::AddExempt(${1:arFields})]]></content>
+	<tabTrigger>CSaleTax::AddExempt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

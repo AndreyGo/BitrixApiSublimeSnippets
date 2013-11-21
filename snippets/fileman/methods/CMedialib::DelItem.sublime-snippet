@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::DelItem(${1:id},${2:\$bCurrent = false},${3:\$colId = false})]]></content>
+	<tabTrigger>CMedialib::DelItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMChat::GetRelationById(${1:ID})]]></content>
+	<tabTrigger>CIMChat::GetRelationById</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

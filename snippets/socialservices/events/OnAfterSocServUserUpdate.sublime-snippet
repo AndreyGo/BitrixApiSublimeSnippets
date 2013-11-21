@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterSocServUserUpdate]]></content>
+	<tabTrigger>OnAfterSocServUserUpdate</tabTrigger>
+	<description>Bitrix CSocServAuth::Update</description>
+	<scope>source.php</scope>
+</snippet>

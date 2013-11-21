@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::__CustomizeLightEditor(${1:\$id = false},${2:\$templateFolder = ""})]]></content>
+	<tabTrigger>CCalendarSceleton::__CustomizeLightEditor</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

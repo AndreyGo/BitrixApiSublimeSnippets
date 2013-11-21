@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CList::OnGetDocumentAdminPage(${1:arElement})]]></content>
+	<tabTrigger>CList::OnGetDocumentAdminPage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

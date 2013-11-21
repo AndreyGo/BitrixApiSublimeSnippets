@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::OnChangeFile(${1:path},${2:site})]]></content>
+	<tabTrigger>CWorkflow::OnChangeFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

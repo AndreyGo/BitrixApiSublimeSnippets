@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumAutosave::Reset()]]></content>
+	<tabTrigger>CForumAutosave::Reset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

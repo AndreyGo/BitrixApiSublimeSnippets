@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::GetControlShow(${1:arParams})]]></content>
+	<tabTrigger>CGlobalCondCtrl::GetControlShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

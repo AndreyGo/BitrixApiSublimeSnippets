@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGoogleOAuthInterface::checkAccessToken()]]></content>
+	<tabTrigger>CGoogleOAuthInterface::checkAccessToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

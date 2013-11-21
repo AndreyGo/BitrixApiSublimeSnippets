@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminInformer::PrintHtml(${1:\$visCountParam = 3})]]></content>
+	<tabTrigger>CAdminInformer::PrintHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

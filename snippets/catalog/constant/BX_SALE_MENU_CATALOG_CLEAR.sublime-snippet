@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SALE_MENU_CATALOG_CLEAR]]></content>
+	<tabTrigger>BX_SALE_MENU_CATALOG_CLEAR</tabTrigger>
+	<description>Bitrix CCatalogAdmin::OnBuildSaleMenu</description>
+	<scope>source.php</scope>
+</snippet>

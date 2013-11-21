@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageStartInstall::ShowStep()]]></content>
+	<tabTrigger>CPackageStartInstall::ShowStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

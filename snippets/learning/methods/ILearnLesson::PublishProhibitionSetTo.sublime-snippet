@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::PublishProhibitionSetTo(${1:lessonId},${2:contextCourseLessonId},${3:isProhibited})]]></content>
+	<tabTrigger>ILearnLesson::PublishProhibitionSetTo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServFacebook::GetSettings()]]></content>
+	<tabTrigger>CSocServFacebook::GetSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

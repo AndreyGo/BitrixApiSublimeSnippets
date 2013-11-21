@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::GetSign(${1:userId},${2:sectId})]]></content>
+	<tabTrigger>CCalendarSect::GetSign</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

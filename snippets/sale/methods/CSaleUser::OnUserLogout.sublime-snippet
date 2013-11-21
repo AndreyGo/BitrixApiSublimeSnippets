@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUser::OnUserLogout(${1:userID})]]></content>
+	<tabTrigger>CSaleUser::OnUserLogout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFrame::SetHeader()]]></content>
+	<tabTrigger>CSecurityFrame::SetHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

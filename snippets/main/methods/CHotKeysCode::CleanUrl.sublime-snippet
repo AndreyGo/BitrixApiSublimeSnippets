@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeysCode::CleanUrl(${1:url})]]></content>
+	<tabTrigger>CHotKeysCode::CleanUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

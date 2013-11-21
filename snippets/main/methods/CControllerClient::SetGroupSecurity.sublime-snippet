@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::SetGroupSecurity(${1:group_code},${2:arPermissions},${3:\$arSubGroups = false})]]></content>
+	<tabTrigger>CControllerClient::SetGroupSecurity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

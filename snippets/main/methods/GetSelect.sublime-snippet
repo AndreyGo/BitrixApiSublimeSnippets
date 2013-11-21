@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSelect()]]></content>
+	<tabTrigger>GetSelect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

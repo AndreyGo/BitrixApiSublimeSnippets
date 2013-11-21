@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumRank::Add(${1:arFields})]]></content>
+	<tabTrigger>CForumRank::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

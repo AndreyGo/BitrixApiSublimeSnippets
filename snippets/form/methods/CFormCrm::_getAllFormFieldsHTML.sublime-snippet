@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::_getAllFormFieldsHTML(${1:WEB_FORM_ID},${2:RESULT_ID},${3:arAnswers})]]></content>
+	<tabTrigger>CFormCrm::_getAllFormFieldsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

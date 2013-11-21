@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::ResizePicture(${1:arFile},${2:arResize})]]></content>
+	<tabTrigger>CIBlock::ResizePicture</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

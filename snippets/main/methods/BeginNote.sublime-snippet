@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BeginNote(${1:\$sParams=""})]]></content>
+	<tabTrigger>BeginNote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

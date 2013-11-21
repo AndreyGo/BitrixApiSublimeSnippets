@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::countComponents(${1:&comps_count},${2:&\$comps_time})]]></content>
+	<tabTrigger>CPerfomanceKeeper::countComponents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

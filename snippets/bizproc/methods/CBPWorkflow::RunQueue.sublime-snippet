@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::RunQueue()]]></content>
+	<tabTrigger>CBPWorkflow::RunQueue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

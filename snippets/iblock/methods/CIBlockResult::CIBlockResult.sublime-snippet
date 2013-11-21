@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockResult::CIBlockResult(${1:res})]]></content>
+	<tabTrigger>CIBlockResult::CIBlockResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

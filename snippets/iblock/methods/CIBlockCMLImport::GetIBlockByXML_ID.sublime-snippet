@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::GetIBlockByXML_ID(${1:XML_ID})]]></content>
+	<tabTrigger>CIBlockCMLImport::GetIBlockByXML_ID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

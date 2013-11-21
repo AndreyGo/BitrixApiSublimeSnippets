@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowTitle(${1:\$property_name="title"},${2:\$strip_tags = true})]]></content>
+	<tabTrigger>CMain::ShowTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

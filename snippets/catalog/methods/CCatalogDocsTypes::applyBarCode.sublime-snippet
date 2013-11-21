@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDocsTypes::applyBarCode(${1:arFields},${2:userId})]]></content>
+	<tabTrigger>CCatalogDocsTypes::applyBarCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

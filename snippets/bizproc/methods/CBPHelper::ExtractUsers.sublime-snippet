@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::ExtractUsers(${1:arUsersDraft},${2:documentId},${3:\$bFirst = false})]]></content>
+	<tabTrigger>CBPHelper::ExtractUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

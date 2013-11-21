@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onMessageModerate]]></content>
+	<tabTrigger>onMessageModerate</tabTrigger>
+	<description>Bitrix ForumModerateMessage</description>
+	<scope>source.php</scope>
+</snippet>

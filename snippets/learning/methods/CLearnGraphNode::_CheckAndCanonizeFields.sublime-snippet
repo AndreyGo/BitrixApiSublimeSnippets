@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnGraphNode::_CheckAndCanonizeFields(${1:arFieldsMap},${2:arFields},${3:access_level},${4:\$forUpdate = false})]]></content>
+	<tabTrigger>CLearnGraphNode::_CheckAndCanonizeFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

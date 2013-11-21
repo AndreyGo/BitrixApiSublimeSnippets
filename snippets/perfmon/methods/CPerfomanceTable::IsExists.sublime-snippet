@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceTable::IsExists(${1:\$TABLE_NAME = false})]]></content>
+	<tabTrigger>CPerfomanceTable::IsExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSimpleHTMLParser::skipTags(${1:tmp})]]></content>
+	<tabTrigger>CForumSimpleHTMLParser::skipTags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

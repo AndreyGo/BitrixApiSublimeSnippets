@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroupAuthProvider::UpdateCodes(${1:USER_ID})]]></content>
+	<tabTrigger>CSocNetGroupAuthProvider::UpdateCodes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

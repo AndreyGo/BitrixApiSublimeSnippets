@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleDeductOrder]]></content>
+	<tabTrigger>OnSaleDeductOrder</tabTrigger>
+	<description>Bitrix CSaleOrder::DeductOrder</description>
+	<scope>source.php</scope>
+</snippet>

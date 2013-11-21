@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTopPanel::AddConstantHint(${1:element_id},${2:hint_title},${3:hint_text},${4:\$hint_id = false})]]></content>
+	<tabTrigger>CTopPanel::AddConstantHint</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

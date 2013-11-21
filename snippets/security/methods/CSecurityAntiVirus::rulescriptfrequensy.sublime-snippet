@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::rulescriptfrequensy()]]></content>
+	<tabTrigger>CSecurityAntiVirus::rulescriptfrequensy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

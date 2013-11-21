@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::SortMethodH(${1:a},${2:b})]]></content>
+	<tabTrigger>CSupportTimetableCache::SortMethodH</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

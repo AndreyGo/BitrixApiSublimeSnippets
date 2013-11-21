@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceSQL::Format(${1:strSql})]]></content>
+	<tabTrigger>CPerfomanceSQL::Format</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

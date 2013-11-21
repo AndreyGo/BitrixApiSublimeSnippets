@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLessonTree::BuildTreeRecursive(${1:rootLessonId},${2:arOrder},${3:arFilter},${4:\$depth = 0},${5:\$parentChapterId = NULL},${6:arSelectFields},${7:arRootPath})]]></content>
+	<tabTrigger>CLearnLessonTree::BuildTreeRecursive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

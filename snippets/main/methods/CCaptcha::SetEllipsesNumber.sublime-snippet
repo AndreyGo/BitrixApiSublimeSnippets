@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetEllipsesNumber(${1:num})]]></content>
+	<tabTrigger>CCaptcha::SetEllipsesNumber</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

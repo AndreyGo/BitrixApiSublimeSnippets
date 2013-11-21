@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::StemIndex(${1:arLID},${2:ID},${3:sContent})]]></content>
+	<tabTrigger>CSearch::StemIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

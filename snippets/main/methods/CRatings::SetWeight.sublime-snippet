@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::SetWeight(${1:arConfigs})]]></content>
+	<tabTrigger>CRatings::SetWeight</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

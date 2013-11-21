@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MAIL_DEFAULT_CHARSET]]></content>
+	<tabTrigger>BX_MAIL_DEFAULT_CHARSET</tabTrigger>
+	<description>Bitrix CMailHeader::Parse</description>
+	<scope>source.php</scope>
+</snippet>

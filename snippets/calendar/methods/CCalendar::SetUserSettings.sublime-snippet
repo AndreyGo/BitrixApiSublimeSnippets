@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SetUserSettings(${1:\$Settings = array()},${2:\$userId = false})]]></content>
+	<tabTrigger>CCalendar::SetUserSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

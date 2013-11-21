@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTMLPagesCache::SetOptions(${1:\$arOptions = array()},${2:\$bCompile = true})]]></content>
+	<tabTrigger>CHTMLPagesCache::SetOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

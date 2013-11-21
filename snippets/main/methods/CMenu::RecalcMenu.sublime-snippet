@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMenu::RecalcMenu(${1:\$bMultiSelect = false},${2:\$bCheckSelected = true})]]></content>
+	<tabTrigger>CMenu::RecalcMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

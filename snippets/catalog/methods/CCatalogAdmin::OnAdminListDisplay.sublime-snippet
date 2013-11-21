@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogAdmin::OnAdminListDisplay(${1:&obList})]]></content>
+	<tabTrigger>CCatalogAdmin::OnAdminListDisplay</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

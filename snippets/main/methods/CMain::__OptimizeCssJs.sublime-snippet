@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::__OptimizeCssJs(${1:\$arFile = array()},${2:\$arSrcFile = array()},${3:site_template},${4:\$unique = false},${5:\$sufix = 'default'},${6:\$type = 'css'},${7:\$bXhtmlStyle=true})]]></content>
+	<tabTrigger>CMain::__OptimizeCssJs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::InitFromArray(${1:arr})]]></content>
+	<tabTrigger>CDBResult::InitFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

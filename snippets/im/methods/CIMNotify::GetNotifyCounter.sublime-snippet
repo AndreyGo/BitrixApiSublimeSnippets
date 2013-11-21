@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::GetNotifyCounter(${1:\$arNotify = Array()})]]></content>
+	<tabTrigger>CIMNotify::GetNotifyCounter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

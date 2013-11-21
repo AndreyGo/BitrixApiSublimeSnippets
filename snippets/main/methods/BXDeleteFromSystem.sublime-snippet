@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BXDeleteFromSystem(${1:absoluteFilePath},${2:path},${3:site})]]></content>
+	<tabTrigger>BXDeleteFromSystem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

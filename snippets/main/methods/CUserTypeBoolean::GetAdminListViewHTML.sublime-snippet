@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeBoolean::GetAdminListViewHTML(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeBoolean::GetAdminListViewHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

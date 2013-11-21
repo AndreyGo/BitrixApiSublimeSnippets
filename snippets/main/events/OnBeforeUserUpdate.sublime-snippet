@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserUpdate]]></content>
+	<tabTrigger>OnBeforeUserUpdate</tabTrigger>
+	<description>Bitrix CUser::CheckFields</description>
+	<scope>source.php</scope>
+</snippet>

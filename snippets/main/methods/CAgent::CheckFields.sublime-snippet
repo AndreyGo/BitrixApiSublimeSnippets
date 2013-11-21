@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAgent::CheckFields(${1:&arFields},${2:\$ign_name = false})]]></content>
+	<tabTrigger>CAgent::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

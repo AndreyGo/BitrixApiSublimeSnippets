@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GenerateFilePath(${1:documentId})]]></content>
+	<tabTrigger>GenerateFilePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

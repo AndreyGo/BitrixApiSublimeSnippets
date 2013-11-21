@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fBuyerDelivery(${1:PERSON_TYPE_ID},${2:PAY_SYSTEM_ID})]]></content>
+	<tabTrigger>fBuyerDelivery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

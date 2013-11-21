@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::setTemplateEpilog(${1:arEpilogInfo})]]></content>
+	<tabTrigger>CBitrixComponent::setTemplateEpilog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

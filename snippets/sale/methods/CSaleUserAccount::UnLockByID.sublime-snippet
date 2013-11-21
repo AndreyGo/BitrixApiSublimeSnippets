@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserAccount::UnLockByID(${1:ID})]]></content>
+	<tabTrigger>CSaleUserAccount::UnLockByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

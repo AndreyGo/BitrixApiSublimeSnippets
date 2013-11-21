@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProductGroups::Delete(${1:ID})]]></content>
+	<tabTrigger>CCatalogProductGroups::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

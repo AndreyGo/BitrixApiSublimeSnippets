@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::getList(${1:\$pFilter = array()},${2:\$pMaxCount = 1})]]></content>
+	<tabTrigger>CSecuritySiteChecker::getList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

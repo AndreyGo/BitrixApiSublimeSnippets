@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::Timestamp(${1:date},${2:\$bRound = true})]]></content>
+	<tabTrigger>CCalendar::Timestamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

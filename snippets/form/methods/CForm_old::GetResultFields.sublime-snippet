@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetResultFields(${1:RESULT_ID},${2:arrFIELD_VARNAME},${3:&\$arrRES},${4:&\$arrANSWER})]]></content>
+	<tabTrigger>CForm_old::GetResultFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

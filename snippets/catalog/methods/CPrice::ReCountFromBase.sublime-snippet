@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::ReCountFromBase(${1:&arFields},${2:&\$boolBase})]]></content>
+	<tabTrigger>CPrice::ReCountFromBase</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

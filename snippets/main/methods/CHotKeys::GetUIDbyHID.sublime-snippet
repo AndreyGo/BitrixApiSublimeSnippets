@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::GetUIDbyHID(${1:hkID})]]></content>
+	<tabTrigger>CHotKeys::GetUIDbyHID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

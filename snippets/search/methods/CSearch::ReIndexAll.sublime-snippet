@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::ReIndexAll(${1:\$bFull = false},${2:\$max_execution_time = 0},${3:\$NS = Array()},${4:\$clear_suggest = false})]]></content>
+	<tabTrigger>CSearch::ReIndexAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

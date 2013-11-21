@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXAllShortUri::AddError(${1:error})]]></content>
+	<tabTrigger>CBXAllShortUri::AddError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

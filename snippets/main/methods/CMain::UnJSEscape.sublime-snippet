@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::UnJSEscape(${1:str})]]></content>
+	<tabTrigger>CMain::UnJSEscape</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

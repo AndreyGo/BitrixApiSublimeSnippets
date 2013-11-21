@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddUserField(${1:arUserField},${2:value},${3:&\$row})]]></content>
+	<tabTrigger>AddUserField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::GetUserFieldValue(${1:entity_id},${2:field_id},${3:value_id},${4:\$LANG=false})]]></content>
+	<tabTrigger>CUserTypeManager::GetUserFieldValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

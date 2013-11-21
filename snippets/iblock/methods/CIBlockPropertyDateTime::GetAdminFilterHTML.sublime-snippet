@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyDateTime::GetAdminFilterHTML(${1:arProperty},${2:strHTMLControlName})]]></content>
+	<tabTrigger>CIBlockPropertyDateTime::GetAdminFilterHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

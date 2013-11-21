@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagment::IdeaComment(${1:\$CommentId = false})]]></content>
+	<tabTrigger>CIdeaManagment::IdeaComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

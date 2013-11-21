@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBuilderLang::Collect(${1:c})]]></content>
+	<tabTrigger>CBuilderLang::Collect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

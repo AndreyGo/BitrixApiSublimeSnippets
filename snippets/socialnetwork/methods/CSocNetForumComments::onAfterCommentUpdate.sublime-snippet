@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetForumComments::onAfterCommentUpdate(${1:entityType},${2:entityId},${3:arData})]]></content>
+	<tabTrigger>CSocNetForumComments::onAfterCommentUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

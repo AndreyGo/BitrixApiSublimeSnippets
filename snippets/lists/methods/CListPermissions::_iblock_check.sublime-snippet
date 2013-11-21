@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListPermissions::_iblock_check(${1:iblock_type_id},${2:iblock_id})]]></content>
+	<tabTrigger>CListPermissions::_iblock_check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

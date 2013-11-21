@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetUserAvatar(${1:\$arUser = array()},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CCalendar::GetUserAvatar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::OnChangeFilePermissions(${1:path},${2:\$permission = array()},${3:\$old_permission = array()},${4:\$arGroups = false})]]></content>
+	<tabTrigger>CSearch::OnChangeFilePermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

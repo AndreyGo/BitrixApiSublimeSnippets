@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::ReplaceSectionUrl(${1:url},${2:arr},${3:\$server_name = false},${4:\$arrType = false})]]></content>
+	<tabTrigger>CIBlock::ReplaceSectionUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

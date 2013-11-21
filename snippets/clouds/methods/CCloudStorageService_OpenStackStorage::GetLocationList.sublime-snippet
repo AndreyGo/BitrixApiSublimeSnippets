@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_OpenStackStorage::GetLocationList()]]></content>
+	<tabTrigger>CCloudStorageService_OpenStackStorage::GetLocationList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

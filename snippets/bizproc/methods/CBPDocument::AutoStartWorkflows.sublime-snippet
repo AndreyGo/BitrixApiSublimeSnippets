@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::AutoStartWorkflows(${1:documentType},${2:autoExecute},${3:documentId},${4:arParameters},${5:&\$arErrors})]]></content>
+	<tabTrigger>CBPDocument::AutoStartWorkflows</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

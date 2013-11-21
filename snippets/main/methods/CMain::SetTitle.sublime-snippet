@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetTitle(${1:title},${2:\$arOptions = null})]]></content>
+	<tabTrigger>CMain::SetTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

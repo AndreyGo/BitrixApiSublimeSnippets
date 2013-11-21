@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::AddAdminContextMenu(${1:\$aContext=array()},${2:\$bShowExcel=true},${3:\$bShowSettings=true})]]></content>
+	<tabTrigger>CAdminSubList::AddAdminContextMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

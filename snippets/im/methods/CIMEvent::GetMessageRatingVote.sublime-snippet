@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMEvent::GetMessageRatingVote(${1:arParams},${2:\$bForMail = false})]]></content>
+	<tabTrigger>CIMEvent::GetMessageRatingVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

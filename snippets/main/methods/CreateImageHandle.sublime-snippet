@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CreateImageHandle(${1:width},${2:height},${3:\$background="FFFFFF"},${4:\$truecolor=true})]]></content>
+	<tabTrigger>CreateImageHandle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

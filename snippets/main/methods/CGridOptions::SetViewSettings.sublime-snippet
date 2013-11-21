@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::SetViewSettings(${1:view_id},${2:settings})]]></content>
+	<tabTrigger>CGridOptions::SetViewSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

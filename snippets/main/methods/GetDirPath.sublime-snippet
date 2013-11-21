@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDirPath(${1:sPath})]]></content>
+	<tabTrigger>GetDirPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyDateTime::GetPublicFilterHTML(${1:arProperty},${2:strHTMLControlName})]]></content>
+	<tabTrigger>CIBlockPropertyDateTime::GetPublicFilterHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

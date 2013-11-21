@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeysCode::GetIDByTitleObj(${1:strTitleObj})]]></content>
+	<tabTrigger>CHotKeysCode::GetIDByTitleObj</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

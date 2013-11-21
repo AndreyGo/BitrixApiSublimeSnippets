@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEvent::getSyslogPriorities()]]></content>
+	<tabTrigger>CSecurityEvent::getSyslogPriorities</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

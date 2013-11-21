@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::GetSearchParams(${1:entity_type},${2:entity_id},${3:feature},${4:operation})]]></content>
+	<tabTrigger>CSocNetSearch::GetSearchParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

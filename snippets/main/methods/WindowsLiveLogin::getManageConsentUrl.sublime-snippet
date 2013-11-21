@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getManageConsentUrl(${1:\$market=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::getManageConsentUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

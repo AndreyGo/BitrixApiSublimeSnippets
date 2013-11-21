@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::IsAdmin(${1:\$userID=false})]]></content>
+	<tabTrigger>CTicket::IsAdmin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

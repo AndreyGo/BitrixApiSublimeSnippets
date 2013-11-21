@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogImage::Delete(${1:ID})]]></content>
+	<tabTrigger>CBlogImage::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

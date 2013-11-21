@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::GroupAction()]]></content>
+	<tabTrigger>CAdminSubList::GroupAction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogGroup::Add(${1:arFields})]]></content>
+	<tabTrigger>CCatalogGroup::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

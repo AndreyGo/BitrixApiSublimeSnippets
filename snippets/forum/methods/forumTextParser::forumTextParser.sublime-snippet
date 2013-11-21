@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::forumTextParser(${1:\$lang = false},${2:\$pathToSmiles = ''},${3:\$type=false},${4:\$mode = 'full'})]]></content>
+	<tabTrigger>forumTextParser::forumTextParser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

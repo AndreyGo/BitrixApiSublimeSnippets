@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnLocationGroupDelete]]></content>
+	<tabTrigger>OnLocationGroupDelete</tabTrigger>
+	<description>Bitrix CSaleLocationGroup::Delete</description>
+	<scope>source.php</scope>
+</snippet>

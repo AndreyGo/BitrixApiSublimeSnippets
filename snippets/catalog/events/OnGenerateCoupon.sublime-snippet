@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGenerateCoupon]]></content>
+	<tabTrigger>OnGenerateCoupon</tabTrigger>
+	<description>Bitrix CatalogGenerateCoupon</description>
+	<scope>source.php</scope>
+</snippet>

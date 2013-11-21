@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::CleanUp()]]></content>
+	<tabTrigger>CWorkflow::CleanUp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

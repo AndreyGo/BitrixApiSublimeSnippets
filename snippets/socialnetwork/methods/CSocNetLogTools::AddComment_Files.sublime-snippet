@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::AddComment_Files(${1:arFields})]]></content>
+	<tabTrigger>CSocNetLogTools::AddComment_Files</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

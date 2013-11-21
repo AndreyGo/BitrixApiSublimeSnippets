@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::OnAfterUserLogin(${1:&arParams})]]></content>
+	<tabTrigger>CControllerClient::OnAfterUserLogin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

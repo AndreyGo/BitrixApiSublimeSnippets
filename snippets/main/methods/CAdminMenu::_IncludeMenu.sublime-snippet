@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMenu::_IncludeMenu(${1:fname})]]></content>
+	<tabTrigger>CAdminMenu::_IncludeMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

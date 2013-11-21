@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::RecalcIBlockID(${1:SocNetGroupID})]]></content>
+	<tabTrigger>CWikiSocnet::RecalcIBlockID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

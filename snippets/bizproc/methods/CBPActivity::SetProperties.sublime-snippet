@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::SetProperties(${1:\$arProperties = array()})]]></content>
+	<tabTrigger>CBPActivity::SetProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

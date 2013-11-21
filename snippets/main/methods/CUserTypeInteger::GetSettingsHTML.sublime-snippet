@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeInteger::GetSettingsHTML(${1:\$arUserField = false},${2:arHtmlControl},${3:bVarsFromForm})]]></content>
+	<tabTrigger>CUserTypeInteger::GetSettingsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

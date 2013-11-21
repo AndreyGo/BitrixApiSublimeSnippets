@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_extractFileAsString(${1:&arEntry},${2:&\$string})]]></content>
+	<tabTrigger>CZip::_extractFileAsString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

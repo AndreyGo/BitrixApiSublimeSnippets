@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_MergeIBArrays(${1:iblock_id},${2:\$iblock_code = false},${3:\$iblock_id2 = false},${4:\$iblock_code2 = false})]]></content>
+	<tabTrigger>CIBlock::_MergeIBArrays</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

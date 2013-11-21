@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAPTCHA_COMPATIBILITY]]></content>
+	<tabTrigger>CAPTCHA_COMPATIBILITY</tabTrigger>
+	<description>Bitrix CCaptcha::CheckCodeCrypt</description>
+	<scope>source.php</scope>
+</snippet>

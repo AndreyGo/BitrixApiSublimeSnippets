@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalog::OnBeforeIBlockElementDelete(${1:ID})]]></content>
+	<tabTrigger>CCatalog::OnBeforeIBlockElementDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

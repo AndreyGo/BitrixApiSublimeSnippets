@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearchPrepareFilter]]></content>
+	<tabTrigger>OnSearchPrepareFilter</tabTrigger>
+	<description>Bitrix CSearchTags::GetList</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXSanitizer::__construct()]]></content>
+	<tabTrigger>CBXSanitizer::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

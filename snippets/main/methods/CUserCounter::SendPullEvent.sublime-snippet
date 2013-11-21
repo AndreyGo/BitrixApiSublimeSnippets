@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::SendPullEvent(${1:user_id},${2:\$code = ""})]]></content>
+	<tabTrigger>CUserCounter::SendPullEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

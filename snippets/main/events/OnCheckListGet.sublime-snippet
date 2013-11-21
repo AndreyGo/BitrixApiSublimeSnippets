@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCheckListGet]]></content>
+	<tabTrigger>OnCheckListGet</tabTrigger>
+	<description>Bitrix CCheckList::__construct</description>
+	<scope>source.php</scope>
+</snippet>

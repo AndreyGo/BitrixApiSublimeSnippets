@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnHelper::setUpdatedToGraphStatus(${1:status})]]></content>
+	<tabTrigger>CLearnHelper::setUpdatedToGraphStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

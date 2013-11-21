@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BlogImageSize]]></content>
+	<tabTrigger>BlogImageSize</tabTrigger>
+	<description>Bitrix blogTextParser::blogTextParser</description>
+	<scope>source.php</scope>
+</snippet>

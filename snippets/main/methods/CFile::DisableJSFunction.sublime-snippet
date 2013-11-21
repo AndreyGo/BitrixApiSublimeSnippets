@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::DisableJSFunction(${1:\$b=true})]]></content>
+	<tabTrigger>CFile::DisableJSFunction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

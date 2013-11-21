@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFieldTypeList::GetByID(${1:type_id})]]></content>
+	<tabTrigger>CListFieldTypeList::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

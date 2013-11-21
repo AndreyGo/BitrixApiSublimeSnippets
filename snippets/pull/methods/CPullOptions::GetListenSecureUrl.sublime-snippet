@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::GetListenSecureUrl(${1:\$channelId = ""},${2:\$mobile = false})]]></content>
+	<tabTrigger>CPullOptions::GetListenSecureUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

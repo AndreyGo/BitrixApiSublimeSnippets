@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteUser::Delete(${1:USER_ID})]]></content>
+	<tabTrigger>CVoteUser::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

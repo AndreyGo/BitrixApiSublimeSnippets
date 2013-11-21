@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::ParseSqlBatch(${1:strSql},${2:\$bIncremental = False})]]></content>
+	<tabTrigger>CDatabase::ParseSqlBatch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

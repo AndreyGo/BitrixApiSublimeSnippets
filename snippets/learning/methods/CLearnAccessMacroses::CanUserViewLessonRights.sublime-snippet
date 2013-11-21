@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccessMacroses::CanUserViewLessonRights(${1:arParams})]]></content>
+	<tabTrigger>CLearnAccessMacroses::CanUserViewLessonRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

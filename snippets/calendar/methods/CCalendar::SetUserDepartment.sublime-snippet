@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SetUserDepartment(${1:\$userId = 0},${2:\$dep = array()})]]></content>
+	<tabTrigger>CCalendar::SetUserDepartment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

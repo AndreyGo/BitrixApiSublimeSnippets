@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::OnChangeFileComponent(${1:path},${2:site})]]></content>
+	<tabTrigger>CMain::OnChangeFileComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

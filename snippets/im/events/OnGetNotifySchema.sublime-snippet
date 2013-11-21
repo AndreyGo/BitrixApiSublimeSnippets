@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetNotifySchema]]></content>
+	<tabTrigger>OnGetNotifySchema</tabTrigger>
+	<description>Bitrix CIMNotifySchema::GetNotifySchema</description>
+	<scope>source.php</scope>
+</snippet>

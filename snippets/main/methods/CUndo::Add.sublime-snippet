@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUndo::Add(${1:\$params = array()})]]></content>
+	<tabTrigger>CUndo::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

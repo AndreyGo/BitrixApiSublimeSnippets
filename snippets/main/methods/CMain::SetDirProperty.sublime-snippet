@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetDirProperty(${1:PROPERTY_ID},${2:PROPERTY_VALUE},${3:\$path=false})]]></content>
+	<tabTrigger>CMain::SetDirProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

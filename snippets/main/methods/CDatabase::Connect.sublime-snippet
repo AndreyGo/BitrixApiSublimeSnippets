@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::Connect(${1:DBHost},${2:DBName},${3:DBLogin},${4:DBPassword})]]></content>
+	<tabTrigger>CDatabase::Connect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

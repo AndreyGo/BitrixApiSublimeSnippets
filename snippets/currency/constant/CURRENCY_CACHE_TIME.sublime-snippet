@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CURRENCY_CACHE_TIME]]></content>
+	<tabTrigger>CURRENCY_CACHE_TIME</tabTrigger>
+	<description>Bitrix CCurrencyRates::GetConvertFactorEx</description>
+	<scope>source.php</scope>
+</snippet>

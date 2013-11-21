@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_TEMPORARY_FILES_DIRECTORY]]></content>
+	<tabTrigger>BX_TEMPORARY_FILES_DIRECTORY</tabTrigger>
+	<description>Bitrix CTempFile::GetAbsoluteRoot</description>
+	<scope>source.php</scope>
+</snippet>

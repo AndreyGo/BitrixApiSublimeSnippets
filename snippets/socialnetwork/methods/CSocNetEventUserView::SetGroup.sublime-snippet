@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetEventUserView::SetGroup(${1:entityID},${2:\$bSetFeatures = false})]]></content>
+	<tabTrigger>CSocNetEventUserView::SetGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

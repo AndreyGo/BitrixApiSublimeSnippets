@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflowStatus::GetDropDownList(${1:\$SHOW_ALL="N"},${2:\$strOrder = "desc"},${3:\$arFilter = array()})]]></content>
+	<tabTrigger>CWorkflowStatus::GetDropDownList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

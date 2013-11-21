@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ValidateProperties(${1:\$arTestProperties = array()},${2:CBPWorkflowTemplateUser \$user = null})]]></content>
+	<tabTrigger>ValidateProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

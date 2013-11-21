@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterSocNetLogCommentAdd]]></content>
+	<tabTrigger>OnAfterSocNetLogCommentAdd</tabTrigger>
+	<description>Bitrix CSocNetLogComments::Add</description>
+	<scope>source.php</scope>
+</snippet>

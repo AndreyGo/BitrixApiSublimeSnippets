@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::Authorize(${1:login},${2:password})]]></content>
+	<tabTrigger>CSMTPConnection::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::__CheckSite(${1:site})]]></content>
+	<tabTrigger>CFileMan::__CheckSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

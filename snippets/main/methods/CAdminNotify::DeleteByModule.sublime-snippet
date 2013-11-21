@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminNotify::DeleteByModule(${1:moduleId})]]></content>
+	<tabTrigger>CAdminNotify::DeleteByModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_convertHeader2FileInfo(${1:arHeader},${2:&\$arInfo})]]></content>
+	<tabTrigger>CZip::_convertHeader2FileInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ImportTemplate(${1:id},${2:documentType},${3:autoExecute},${4:name},${5:description},${6:datum})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ImportTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

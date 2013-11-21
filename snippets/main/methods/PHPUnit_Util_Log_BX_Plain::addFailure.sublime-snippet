@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPUnit_Util_Log_BX_Plain::addFailure(${1:PHPUnit_Framework_Test test},${2:PHPUnit_Framework_AssertionFailedError e},${3:time})]]></content>
+	<tabTrigger>PHPUnit_Util_Log_BX_Plain::addFailure</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

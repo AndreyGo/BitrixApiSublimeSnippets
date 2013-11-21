@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::GetDocumentFromHistory(${1:historyId},${2:&\$arErrors})]]></content>
+	<tabTrigger>CBPDocument::GetDocumentFromHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

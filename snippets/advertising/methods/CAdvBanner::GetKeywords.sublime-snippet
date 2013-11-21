@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetKeywords(${1:\$TYPE_SID=""},${2:\$LOGIC=""},${3:\$EXACT_MATCH=""})]]></content>
+	<tabTrigger>CAdvBanner::GetKeywords</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

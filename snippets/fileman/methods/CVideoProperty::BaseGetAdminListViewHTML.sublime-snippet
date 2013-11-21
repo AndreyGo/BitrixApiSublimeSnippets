@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVideoProperty::BaseGetAdminListViewHTML(${1:val})]]></content>
+	<tabTrigger>CVideoProperty::BaseGetAdminListViewHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

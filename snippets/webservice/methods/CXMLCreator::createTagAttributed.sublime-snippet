@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLCreator::createTagAttributed(${1:heavyTag},${2:\$value = null})]]></content>
+	<tabTrigger>CXMLCreator::createTagAttributed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

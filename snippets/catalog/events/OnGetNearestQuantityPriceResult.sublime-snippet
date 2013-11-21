@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetNearestQuantityPriceResult]]></content>
+	<tabTrigger>OnGetNearestQuantityPriceResult</tabTrigger>
+	<description>Bitrix CCatalogProduct::GetNearestQuantityPrice</description>
+	<scope>source.php</scope>
+</snippet>

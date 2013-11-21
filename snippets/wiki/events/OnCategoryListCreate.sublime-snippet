@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCategoryListCreate]]></content>
+	<tabTrigger>OnCategoryListCreate</tabTrigger>
+	<description>Bitrix CWikiUtils::isCategoryVirtual</description>
+	<scope>source.php</scope>
+</snippet>

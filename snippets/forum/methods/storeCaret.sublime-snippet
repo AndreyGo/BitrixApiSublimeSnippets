@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[storeCaret(${1:textEl})]]></content>
+	<tabTrigger>storeCaret</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

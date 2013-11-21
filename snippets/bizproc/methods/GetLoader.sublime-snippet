@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetLoader()]]></content>
+	<tabTrigger>GetLoader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

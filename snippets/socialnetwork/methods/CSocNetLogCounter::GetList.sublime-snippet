@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogCounter::GetList(${1:\$arFilter = Array()},${2:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CSocNetLogCounter::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

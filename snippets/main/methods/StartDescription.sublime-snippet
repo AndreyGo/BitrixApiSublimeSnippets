@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartDescription(${1:\$icon = false},${2:\$additional = ''})]]></content>
+	<tabTrigger>StartDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

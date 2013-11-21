@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailFilterCondition::SetConditions(${1:FILTER_ID},${2:CONDITIONS},${3:\$bClearOther = true})]]></content>
+	<tabTrigger>CMailFilterCondition::SetConditions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

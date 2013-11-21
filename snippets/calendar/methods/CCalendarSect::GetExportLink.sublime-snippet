@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::GetExportLink(${1:sectionId},${2:\$type = ''},${3:\$ownerId = false})]]></content>
+	<tabTrigger>CCalendarSect::GetExportLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

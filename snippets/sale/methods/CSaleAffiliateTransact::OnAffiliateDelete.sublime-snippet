@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliateTransact::OnAffiliateDelete(${1:affiliateID})]]></content>
+	<tabTrigger>CSaleAffiliateTransact::OnAffiliateDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

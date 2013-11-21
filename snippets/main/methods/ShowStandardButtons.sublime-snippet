@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowStandardButtons(${1:\$arButtons = array('save'},${2:'cancel')})]]></content>
+	<tabTrigger>ShowStandardButtons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

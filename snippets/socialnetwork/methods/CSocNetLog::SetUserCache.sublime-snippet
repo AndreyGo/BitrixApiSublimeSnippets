@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::SetUserCache(${1:user_id},${2:max_id},${3:max_viewed_id},${4:count})]]></content>
+	<tabTrigger>CSocNetLog::SetUserCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

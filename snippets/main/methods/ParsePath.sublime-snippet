@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParsePath(${1:path},${2:\$bLast=false},${3:\$url=false},${4:\$param=""},${5:\$bLogical = false})]]></content>
+	<tabTrigger>ParsePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::AppendLangMessages()]]></content>
+	<tabTrigger>CMedialib::AppendLangMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

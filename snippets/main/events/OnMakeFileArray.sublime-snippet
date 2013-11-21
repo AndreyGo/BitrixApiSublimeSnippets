@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnMakeFileArray]]></content>
+	<tabTrigger>OnMakeFileArray</tabTrigger>
+	<description>Bitrix CFile::MakeFileArray</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSmile::GetLangByID(${1:SMILE_ID},${2:strLang})]]></content>
+	<tabTrigger>CSocNetSmile::GetLangByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

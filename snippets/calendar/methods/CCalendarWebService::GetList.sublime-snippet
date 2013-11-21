@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarWebService::GetList(${1:listName})]]></content>
+	<tabTrigger>CCalendarWebService::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

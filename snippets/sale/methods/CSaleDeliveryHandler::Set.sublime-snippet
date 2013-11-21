@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::Set(${1:SID},${2:arData},${3:\$SITE_ID = false})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

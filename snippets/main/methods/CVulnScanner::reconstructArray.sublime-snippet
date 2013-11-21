@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::reconstructArray(${1:tokens})]]></content>
+	<tabTrigger>CVulnScanner::reconstructArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

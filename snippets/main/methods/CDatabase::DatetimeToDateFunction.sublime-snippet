@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::DatetimeToDateFunction(${1:strValue})]]></content>
+	<tabTrigger>CDatabase::DatetimeToDateFunction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

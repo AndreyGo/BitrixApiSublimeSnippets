@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::AddVisibleHeaderColumn(${1:id})]]></content>
+	<tabTrigger>CAdminSubList::AddVisibleHeaderColumn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

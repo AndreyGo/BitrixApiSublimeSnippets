@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteCacheManager::OnAfterVoteChannelChange(${1:ID},${2:\$arFields = array()})]]></content>
+	<tabTrigger>CVoteCacheManager::OnAfterVoteChannelChange</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[T_INCLUDE_END]]></content>
+	<tabTrigger>T_INCLUDE_END</tabTrigger>
+	<description>Bitrix CQAACheckListTests::defineScanParams</description>
+	<scope>source.php</scope>
+</snippet>

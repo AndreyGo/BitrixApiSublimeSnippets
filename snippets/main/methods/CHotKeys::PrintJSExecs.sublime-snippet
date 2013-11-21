@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::PrintJSExecs(${1:execs},${2:\$controlName = ""},${3:\$scriptTags = true},${4:\$checkHK = false})]]></content>
+	<tabTrigger>CHotKeys::PrintJSExecs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::EditFormAddFields(${1:entity_id},${2:&\$arFields})]]></content>
+	<tabTrigger>CUserTypeManager::EditFormAddFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

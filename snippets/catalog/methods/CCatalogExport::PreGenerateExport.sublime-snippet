@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogExport::PreGenerateExport(${1:profile_id})]]></content>
+	<tabTrigger>CCatalogExport::PreGenerateExport</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

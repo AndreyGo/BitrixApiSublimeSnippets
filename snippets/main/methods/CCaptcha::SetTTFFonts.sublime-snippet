@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetTTFFonts(${1:arFonts})]]></content>
+	<tabTrigger>CCaptcha::SetTTFFonts</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::GetDocumentType(${1:documentId})]]></content>
+	<tabTrigger>CIBlockDocument::GetDocumentType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

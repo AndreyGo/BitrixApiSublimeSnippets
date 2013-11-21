@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetUserPermissionsForCalendar(${1:calendarId},${2:userId})]]></content>
+	<tabTrigger>CCalendar::GetUserPermissionsForCalendar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

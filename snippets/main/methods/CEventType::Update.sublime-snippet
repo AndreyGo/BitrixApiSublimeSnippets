@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventType::Update(${1:\$arID = array()},${2:\$arFields = array()})]]></content>
+	<tabTrigger>CEventType::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

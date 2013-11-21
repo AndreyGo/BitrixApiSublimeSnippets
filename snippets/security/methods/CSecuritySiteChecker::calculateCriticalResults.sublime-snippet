@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::calculateCriticalResults(${1:\$pResults = array()})]]></content>
+	<tabTrigger>CSecuritySiteChecker::calculateCriticalResults</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

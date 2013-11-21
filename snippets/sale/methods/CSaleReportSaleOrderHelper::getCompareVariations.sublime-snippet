@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleOrderHelper::getCompareVariations()]]></content>
+	<tabTrigger>CSaleReportSaleOrderHelper::getCompareVariations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

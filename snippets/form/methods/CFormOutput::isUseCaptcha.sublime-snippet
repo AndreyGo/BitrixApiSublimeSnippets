@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::isUseCaptcha()]]></content>
+	<tabTrigger>CFormOutput::isUseCaptcha</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

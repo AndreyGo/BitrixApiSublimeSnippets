@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetAdminEmails()]]></content>
+	<tabTrigger>CAdvContract::GetAdminEmails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

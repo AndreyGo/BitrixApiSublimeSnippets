@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::SetStat(${1:ID})]]></content>
+	<tabTrigger>CSocNetGroup::SetStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

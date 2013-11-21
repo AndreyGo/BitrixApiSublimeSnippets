@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminNotify::DeleteByTag(${1:tagId})]]></content>
+	<tabTrigger>CAdminNotify::DeleteByTag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

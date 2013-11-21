@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BinSubstr(${1:buf},${2:start})]]></content>
+	<tabTrigger>BinSubstr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

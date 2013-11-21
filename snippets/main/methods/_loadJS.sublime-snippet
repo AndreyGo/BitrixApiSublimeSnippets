@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_loadJS(${1:js},${2:bReturn})]]></content>
+	<tabTrigger>_loadJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

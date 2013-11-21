@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::SendEMail(${1:arContract},${2:\$mess=""})]]></content>
+	<tabTrigger>CAdvContract::SendEMail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

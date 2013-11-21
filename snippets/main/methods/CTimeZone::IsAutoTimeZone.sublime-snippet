@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::IsAutoTimeZone(${1:autoTimeZone})]]></content>
+	<tabTrigger>CTimeZone::IsAutoTimeZone</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

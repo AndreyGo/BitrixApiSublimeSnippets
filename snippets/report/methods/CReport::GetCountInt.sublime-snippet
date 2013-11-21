@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::GetCountInt(${1:\$owner = ''})]]></content>
+	<tabTrigger>CReport::GetCountInt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

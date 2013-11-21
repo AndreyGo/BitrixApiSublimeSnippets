@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::GetPolishNotation(${1:text})]]></content>
+	<tabTrigger>CBPCalc::GetPolishNotation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

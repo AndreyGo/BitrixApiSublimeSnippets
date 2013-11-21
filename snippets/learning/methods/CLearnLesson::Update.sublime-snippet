@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::Update(${1:id},${2:arFields})]]></content>
+	<tabTrigger>CLearnLesson::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

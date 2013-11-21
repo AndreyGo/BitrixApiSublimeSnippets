@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackup::getQuota()]]></content>
+	<tabTrigger>CBitrixCloudBackup::getQuota</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

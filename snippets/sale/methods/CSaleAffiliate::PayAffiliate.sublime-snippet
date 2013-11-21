@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliate::PayAffiliate(${1:affiliate},${2:payType},${3:&\$paySum})]]></content>
+	<tabTrigger>CSaleAffiliate::PayAffiliate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

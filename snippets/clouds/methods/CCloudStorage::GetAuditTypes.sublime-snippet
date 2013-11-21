@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::GetAuditTypes()]]></content>
+	<tabTrigger>CCloudStorage::GetAuditTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

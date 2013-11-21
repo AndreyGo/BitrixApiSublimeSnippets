@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnUserLogout]]></content>
+	<tabTrigger>OnUserLogout</tabTrigger>
+	<description>Bitrix CUser::Logout</description>
+	<scope>source.php</scope>
+</snippet>

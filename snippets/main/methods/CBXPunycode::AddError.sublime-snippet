@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::AddError(${1:error},${2:\$errorCode = null})]]></content>
+	<tabTrigger>CBXPunycode::AddError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

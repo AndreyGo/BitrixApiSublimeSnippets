@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::Add(${1:arFields})]]></content>
+	<tabTrigger>CSocNetUserToGroup::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

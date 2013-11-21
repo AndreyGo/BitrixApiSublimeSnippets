@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::__WriteCssJsCache(${1:file_path},${2:contents},${3:\$gzip_content = true})]]></content>
+	<tabTrigger>CMain::__WriteCssJsCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::ruleframevisiblity()]]></content>
+	<tabTrigger>CSecurityAntiVirus::ruleframevisiblity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

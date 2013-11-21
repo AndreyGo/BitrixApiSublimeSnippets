@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessage::GetLastSendMessage(${1:arParams})]]></content>
+	<tabTrigger>CIMMessage::GetLastSendMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

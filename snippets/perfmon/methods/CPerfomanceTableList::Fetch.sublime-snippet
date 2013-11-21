@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceTableList::Fetch()]]></content>
+	<tabTrigger>CPerfomanceTableList::Fetch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

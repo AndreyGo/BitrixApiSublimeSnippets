@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::searchSimilarVuln(${1:output},${2:max})]]></content>
+	<tabTrigger>CVulnScanner::searchSimilarVuln</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

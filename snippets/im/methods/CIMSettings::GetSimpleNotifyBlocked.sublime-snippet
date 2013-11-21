@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMSettings::GetSimpleNotifyBlocked(${1:\$byModule = false})]]></content>
+	<tabTrigger>CIMSettings::GetSimpleNotifyBlocked</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

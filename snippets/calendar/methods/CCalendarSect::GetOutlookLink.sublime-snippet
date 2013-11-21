@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::GetOutlookLink(${1:Params})]]></content>
+	<tabTrigger>CCalendarSect::GetOutlookLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

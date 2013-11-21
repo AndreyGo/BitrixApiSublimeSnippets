@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetSerializedForm(${1:arTemplate})]]></content>
+	<tabTrigger>GetSerializedForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

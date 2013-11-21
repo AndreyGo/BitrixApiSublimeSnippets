@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumGetTopicSort(${1:&field_name},${2:&\$direction},${3:\$arForumInfo = array()})]]></content>
+	<tabTrigger>ForumGetTopicSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

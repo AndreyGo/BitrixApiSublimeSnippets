@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormatDate(${1:\$format=""},${2:\$timestamp=""},${3:\$now=false})]]></content>
+	<tabTrigger>FormatDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

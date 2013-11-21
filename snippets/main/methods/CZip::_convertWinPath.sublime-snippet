@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_convertWinPath(${1:path},${2:\$removeDiskLetter = true})]]></content>
+	<tabTrigger>CZip::_convertWinPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

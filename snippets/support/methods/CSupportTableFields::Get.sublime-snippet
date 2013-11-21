@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::Get(${1:name},${2:\$row = null})]]></content>
+	<tabTrigger>CSupportTableFields::Get</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

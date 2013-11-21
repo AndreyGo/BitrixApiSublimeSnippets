@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileCacheCleaner::GetFileExpiration(${1:FileName})]]></content>
+	<tabTrigger>CFileCacheCleaner::GetFileExpiration</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

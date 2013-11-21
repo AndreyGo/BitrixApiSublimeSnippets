@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPage::Init()]]></content>
+	<tabTrigger>CAdminPage::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

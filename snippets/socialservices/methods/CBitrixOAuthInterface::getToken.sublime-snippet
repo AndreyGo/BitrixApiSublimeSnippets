@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixOAuthInterface::getToken()]]></content>
+	<tabTrigger>CBitrixOAuthInterface::getToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

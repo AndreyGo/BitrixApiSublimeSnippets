@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setPolicyUrl(${1:policyurl})]]></content>
+	<tabTrigger>WindowsLiveLogin::setPolicyUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

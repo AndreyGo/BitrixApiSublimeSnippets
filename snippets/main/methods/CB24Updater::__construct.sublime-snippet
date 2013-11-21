@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::__construct(${1:\$isProcessingMain = false})]]></content>
+	<tabTrigger>CB24Updater::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

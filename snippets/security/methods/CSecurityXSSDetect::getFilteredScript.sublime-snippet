@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::getFilteredScript(${1:strs})]]></content>
+	<tabTrigger>CSecurityXSSDetect::getFilteredScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryWhere::__construct(${1:table_aliases_regex})]]></content>
+	<tabTrigger>CPerfQueryWhere::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

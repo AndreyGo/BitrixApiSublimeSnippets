@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileFilter::getNonemptyFields(${1:filterId},${2:\$arFieldsParams = false})]]></content>
+	<tabTrigger>CAdminMobileFilter::getNonemptyFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

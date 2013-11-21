@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVideoProperty::BaseOnSearchContent(${1:val})]]></content>
+	<tabTrigger>CVideoProperty::BaseOnSearchContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

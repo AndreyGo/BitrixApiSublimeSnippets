@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarRestService::EventUpdate(${1:\$arParams = array()},${2:\$nav = null},${3:\$server = null})]]></content>
+	<tabTrigger>CCalendarRestService::EventUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

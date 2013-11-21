@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsForum::CalcUserRatingForumActivity(${1:arConfigs})]]></content>
+	<tabTrigger>CRatingsComponentsForum::CalcUserRatingForumActivity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

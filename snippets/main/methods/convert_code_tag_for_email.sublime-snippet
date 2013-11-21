@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convert_code_tag_for_email(${1:\$text=""},${2:\$arMsg=array()})]]></content>
+	<tabTrigger>convert_code_tag_for_email</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPage::ShowCSS()]]></content>
+	<tabTrigger>CAdminPage::ShowCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

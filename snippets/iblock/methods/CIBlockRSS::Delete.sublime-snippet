@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::Delete(${1:IBLOCK_ID})]]></content>
+	<tabTrigger>CIBlockRSS::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::ClearUpdateFolder(${1:updatesDirFull})]]></content>
+	<tabTrigger>CUpdateClientPartner::ClearUpdateFolder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

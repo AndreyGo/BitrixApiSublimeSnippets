@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::__ProcessCommand(${1:command},${2:\$arg = ''})]]></content>
+	<tabTrigger>CSMTPConnection::__ProcessCommand</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

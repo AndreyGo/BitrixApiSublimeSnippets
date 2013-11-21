@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogComments::UpdateLogData(${1:log_id},${2:\$bSetDate = true},${3:\$bSetDateByLastComment = false})]]></content>
+	<tabTrigger>CSocNetLogComments::UpdateLogData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

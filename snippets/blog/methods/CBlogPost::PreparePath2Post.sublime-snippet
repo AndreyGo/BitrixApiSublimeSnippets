@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::PreparePath2Post(${1:realUrl},${2:url},${3:\$arParams = array()})]]></content>
+	<tabTrigger>CBlogPost::PreparePath2Post</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

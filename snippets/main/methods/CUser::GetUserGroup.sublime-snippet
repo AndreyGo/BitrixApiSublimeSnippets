@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::GetUserGroup(${1:ID})]]></content>
+	<tabTrigger>CUser::GetUserGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

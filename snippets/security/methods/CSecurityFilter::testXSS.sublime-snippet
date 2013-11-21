@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::testXSS(${1:pValue},${2:\$pAction = "clear"})]]></content>
+	<tabTrigger>CSecurityFilter::testXSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

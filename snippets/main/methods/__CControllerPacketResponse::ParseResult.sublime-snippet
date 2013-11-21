@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketResponse::ParseResult(${1:result})]]></content>
+	<tabTrigger>__CControllerPacketResponse::ParseResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

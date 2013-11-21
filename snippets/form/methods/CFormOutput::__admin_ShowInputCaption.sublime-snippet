@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::__admin_ShowInputCaption(${1:FIELD_SID},${2:\$caption_css_class = ""},${3:\$unform = false})]]></content>
+	<tabTrigger>CFormOutput::__admin_ShowInputCaption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::DeleteWeekdayLink(${1:CONTRACT_ID})]]></content>
+	<tabTrigger>CAdvContract::DeleteWeekdayLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

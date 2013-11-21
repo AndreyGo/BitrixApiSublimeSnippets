@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::__getHandlersData(${1:arFullHandlersList},${2:\$SITE_ID = false})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::__getHandlersData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

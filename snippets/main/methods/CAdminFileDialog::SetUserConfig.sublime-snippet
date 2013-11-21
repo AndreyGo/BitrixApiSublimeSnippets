@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::SetUserConfig(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::SetUserConfig</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

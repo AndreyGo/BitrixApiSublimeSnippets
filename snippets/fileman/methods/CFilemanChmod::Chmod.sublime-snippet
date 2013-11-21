@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanChmod::Chmod(${1:file})]]></content>
+	<tabTrigger>CFilemanChmod::Chmod</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

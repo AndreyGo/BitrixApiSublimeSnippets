@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnPath::ExportUrlencoded()]]></content>
+	<tabTrigger>ILearnPath::ExportUrlencoded</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

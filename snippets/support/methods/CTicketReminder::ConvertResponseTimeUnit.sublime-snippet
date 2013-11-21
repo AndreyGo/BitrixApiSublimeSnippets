@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketReminder::ConvertResponseTimeUnit(${1:rt},${2:rtu})]]></content>
+	<tabTrigger>CTicketReminder::ConvertResponseTimeUnit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

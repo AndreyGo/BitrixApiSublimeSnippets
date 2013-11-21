@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::getPercent()]]></content>
+	<tabTrigger>CSecuritySiteChecker::getPercent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

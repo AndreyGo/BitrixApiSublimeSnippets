@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderChange::AddRecordsByFields(${1:orderId},${2:arOldFields},${3:arNewFields},${4:\$arDeleteFields = array()},${5:\$entity = ""})]]></content>
+	<tabTrigger>CSaleOrderChange::AddRecordsByFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

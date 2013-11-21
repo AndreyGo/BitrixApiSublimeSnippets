@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleBeforeReserveOrder]]></content>
+	<tabTrigger>OnSaleBeforeReserveOrder</tabTrigger>
+	<description>Bitrix CSaleOrder::ReserveOrder</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_User::setId(${1:id})]]></content>
+	<tabTrigger>WLL_User::setId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

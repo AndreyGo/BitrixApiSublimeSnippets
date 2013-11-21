@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdatesXML::Load(${1:file})]]></content>
+	<tabTrigger>CUpdatesXML::Load</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

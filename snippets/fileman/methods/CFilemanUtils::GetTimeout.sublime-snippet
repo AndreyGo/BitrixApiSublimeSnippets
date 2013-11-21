@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtils::GetTimeout()]]></content>
+	<tabTrigger>CFilemanUtils::GetTimeout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

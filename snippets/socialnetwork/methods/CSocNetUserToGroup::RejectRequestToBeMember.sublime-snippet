@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::RejectRequestToBeMember(${1:userID},${2:groupID},${3:arRelationID})]]></content>
+	<tabTrigger>CSocNetUserToGroup::RejectRequestToBeMember</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

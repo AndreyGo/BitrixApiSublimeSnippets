@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTMLPagesCache::IsOn()]]></content>
+	<tabTrigger>CHTMLPagesCache::IsOn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

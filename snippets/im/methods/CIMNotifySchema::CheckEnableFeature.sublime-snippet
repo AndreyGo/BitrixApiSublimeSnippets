@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotifySchema::CheckEnableFeature(${1:moduleId},${2:notifyEvent},${3:feature})]]></content>
+	<tabTrigger>CIMNotifySchema::CheckEnableFeature</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

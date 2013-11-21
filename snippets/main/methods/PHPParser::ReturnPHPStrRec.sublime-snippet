@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPParser::ReturnPHPStrRec(${1:arVal},${2:level},${3:\$comm=""})]]></content>
+	<tabTrigger>PHPParser::ReturnPHPStrRec</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

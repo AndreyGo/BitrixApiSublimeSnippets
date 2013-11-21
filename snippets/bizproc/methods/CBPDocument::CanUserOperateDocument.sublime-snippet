@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::CanUserOperateDocument(${1:operation},${2:userId},${3:parameterDocumentId},${4:\$arParameters = array()})]]></content>
+	<tabTrigger>CBPDocument::CanUserOperateDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

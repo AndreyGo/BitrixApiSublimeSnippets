@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::GetEnumByXML_ID(${1:PROP_ID},${2:XML_ID})]]></content>
+	<tabTrigger>CIBlockCMLImport::GetEnumByXML_ID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

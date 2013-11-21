@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetDiscountSave]]></content>
+	<tabTrigger>OnGetDiscountSave</tabTrigger>
+	<description>Bitrix CCatalogDiscountSave::GetDiscount</description>
+	<scope>source.php</scope>
+</snippet>

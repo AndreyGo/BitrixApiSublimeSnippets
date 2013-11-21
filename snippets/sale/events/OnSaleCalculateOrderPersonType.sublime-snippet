@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleCalculateOrderPersonType]]></content>
+	<tabTrigger>OnSaleCalculateOrderPersonType</tabTrigger>
+	<description>Bitrix CSaleOrder::DoCalculateOrder</description>
+	<scope>source.php</scope>
+</snippet>

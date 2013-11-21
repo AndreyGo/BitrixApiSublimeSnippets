@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::getUserIdForLogin(${1:pLogin})]]></content>
+	<tabTrigger>CSecurityUser::getUserIdForLogin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

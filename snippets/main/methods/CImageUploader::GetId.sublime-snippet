@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::GetId()]]></content>
+	<tabTrigger>CImageUploader::GetId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

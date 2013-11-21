@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::ClearCache(${1:\$arPath = false})]]></content>
+	<tabTrigger>CMedialib::ClearCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

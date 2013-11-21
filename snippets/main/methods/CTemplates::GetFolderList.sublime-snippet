@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTemplates::GetFolderList(${1:\$template_id = false})]]></content>
+	<tabTrigger>CTemplates::GetFolderList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

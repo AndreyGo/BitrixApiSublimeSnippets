@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::GetDiscountFilterCacheKey(${1:arCatalogGroups},${2:arUserGroups},${3:\$boolNeedClear = true})]]></content>
+	<tabTrigger>CCatalogDiscount::GetDiscountFilterCacheKey</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

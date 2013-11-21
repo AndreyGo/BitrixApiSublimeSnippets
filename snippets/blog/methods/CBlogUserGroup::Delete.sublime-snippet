@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUserGroup::Delete(${1:ID})]]></content>
+	<tabTrigger>CBlogUserGroup::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

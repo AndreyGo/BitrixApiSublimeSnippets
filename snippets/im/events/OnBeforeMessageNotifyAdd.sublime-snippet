@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeMessageNotifyAdd]]></content>
+	<tabTrigger>OnBeforeMessageNotifyAdd</tabTrigger>
+	<description>Bitrix CIMMessenger::Add</description>
+	<scope>source.php</scope>
+</snippet>

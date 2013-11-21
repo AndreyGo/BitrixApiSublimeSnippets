@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnForumCommentIMNotify]]></content>
+	<tabTrigger>OnForumCommentIMNotify</tabTrigger>
+	<description>Bitrix CSocNetForumComments::onAfterCommentAdd</description>
+	<scope>source.php</scope>
+</snippet>

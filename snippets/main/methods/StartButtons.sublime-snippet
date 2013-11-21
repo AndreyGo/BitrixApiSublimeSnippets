@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[StartButtons(${1:\$additional = ''})]]></content>
+	<tabTrigger>StartButtons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

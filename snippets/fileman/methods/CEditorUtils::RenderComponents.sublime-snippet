@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEditorUtils::RenderComponents(${1:arParams})]]></content>
+	<tabTrigger>CEditorUtils::RenderComponents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

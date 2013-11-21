@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLanguage::Delete(${1:ID})]]></content>
+	<tabTrigger>CLanguage::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

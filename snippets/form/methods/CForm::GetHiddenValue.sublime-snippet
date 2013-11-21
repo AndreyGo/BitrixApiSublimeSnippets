@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetHiddenValue(${1:FIELD_NAME},${2:arAnswer},${3:\$arrVALUES=false})]]></content>
+	<tabTrigger>CForm::GetHiddenValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

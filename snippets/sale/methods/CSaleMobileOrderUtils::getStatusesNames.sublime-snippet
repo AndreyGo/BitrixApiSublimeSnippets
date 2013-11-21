@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::getStatusesNames(${1:arStatusIds})]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::getStatusesNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

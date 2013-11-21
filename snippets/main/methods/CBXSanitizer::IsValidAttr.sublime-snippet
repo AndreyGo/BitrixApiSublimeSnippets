@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXSanitizer::IsValidAttr(${1:&arAttr})]]></content>
+	<tabTrigger>CBXSanitizer::IsValidAttr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

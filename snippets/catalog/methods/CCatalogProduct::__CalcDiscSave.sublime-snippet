@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProduct::__CalcDiscSave(${1:&arDiscSave},${2:&\$arResultDiscount},${3:&\$arParams})]]></content>
+	<tabTrigger>CCatalogProduct::__CalcDiscSave</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

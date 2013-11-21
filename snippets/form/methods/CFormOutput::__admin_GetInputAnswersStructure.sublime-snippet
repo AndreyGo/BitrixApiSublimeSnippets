@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::__admin_GetInputAnswersStructure(${1:FIELD_SID})]]></content>
+	<tabTrigger>CFormOutput::__admin_GetInputAnswersStructure</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

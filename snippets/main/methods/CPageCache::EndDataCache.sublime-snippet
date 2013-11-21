@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPageCache::EndDataCache()]]></content>
+	<tabTrigger>CPageCache::EndDataCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

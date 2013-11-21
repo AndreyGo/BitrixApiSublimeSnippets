@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetCSSArray()]]></content>
+	<tabTrigger>CMain::GetCSSArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

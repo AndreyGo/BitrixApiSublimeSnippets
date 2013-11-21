@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogCondCtrlIBlockFields::ApplyValues(${1:arOneCondition},${2:arControl})]]></content>
+	<tabTrigger>CCatalogCondCtrlIBlockFields::ApplyValues</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

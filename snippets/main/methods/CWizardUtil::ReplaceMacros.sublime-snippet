@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardUtil::ReplaceMacros(${1:filePath},${2:arReplace},${3:\$skipSharp = false})]]></content>
+	<tabTrigger>CWizardUtil::ReplaceMacros</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

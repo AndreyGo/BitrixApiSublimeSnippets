@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnHelper::MkOperationFilter(${1:key})]]></content>
+	<tabTrigger>CLearnHelper::MkOperationFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

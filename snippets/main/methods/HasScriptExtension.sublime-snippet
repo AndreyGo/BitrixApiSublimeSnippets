@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HasScriptExtension(${1:check_name})]]></content>
+	<tabTrigger>HasScriptExtension</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

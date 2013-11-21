@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::FixShow(${1:arBanner})]]></content>
+	<tabTrigger>CAdvBanner::FixShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

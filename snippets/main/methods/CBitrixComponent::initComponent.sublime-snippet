@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::initComponent(${1:componentName},${2:\$componentTemplate = false})]]></content>
+	<tabTrigger>CBitrixComponent::initComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

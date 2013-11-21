@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MS_SMTP]]></content>
+	<tabTrigger>BX_MS_SMTP</tabTrigger>
+	<description>Bitrix CEvent::HandleEvent</description>
+	<scope>source.php</scope>
+</snippet>

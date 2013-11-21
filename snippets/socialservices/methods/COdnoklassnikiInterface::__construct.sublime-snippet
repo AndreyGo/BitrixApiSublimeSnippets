@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COdnoklassnikiInterface::__construct(${1:appID},${2:appSecret},${3:appKey},${4:\$code=false})]]></content>
+	<tabTrigger>COdnoklassnikiInterface::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

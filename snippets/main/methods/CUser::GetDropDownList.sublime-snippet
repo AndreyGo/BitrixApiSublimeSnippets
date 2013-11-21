@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::GetDropDownList(${1:\$strSqlSearch="and ACTIVE='Y'"},${2:\$strSqlOrder="ORDER BY ID},${3:NAME},${4:LAST_NAME"})]]></content>
+	<tabTrigger>CUser::GetDropDownList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

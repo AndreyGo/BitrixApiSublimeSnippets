@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondCtrlBasketGroup::Parse(${1:arOneCondition})]]></content>
+	<tabTrigger>CSaleCondCtrlBasketGroup::Parse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

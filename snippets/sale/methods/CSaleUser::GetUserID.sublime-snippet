@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUser::GetUserID(${1:intFUserID})]]></content>
+	<tabTrigger>CSaleUser::GetUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

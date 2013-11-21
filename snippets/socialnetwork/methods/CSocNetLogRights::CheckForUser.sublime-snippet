@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogRights::CheckForUser(${1:logID},${2:userID},${3:\$siteID = SITE_ID})]]></content>
+	<tabTrigger>CSocNetLogRights::CheckForUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentNotify::GetNotify(${1:CustomNotifyClassName})]]></content>
+	<tabTrigger>CIdeaManagmentNotify::GetNotify</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatDestinationFromRights(${1:arRights},${2:arParams},${3:&\$iMoreCount = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatDestinationFromRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

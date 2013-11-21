@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPRootActivity::GetDocumentId()]]></content>
+	<tabTrigger>IBPRootActivity::GetDocumentId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

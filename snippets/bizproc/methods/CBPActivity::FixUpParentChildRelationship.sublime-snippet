@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::FixUpParentChildRelationship(${1:CBPActivity nestedActivity})]]></content>
+	<tabTrigger>CBPActivity::FixUpParentChildRelationship</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

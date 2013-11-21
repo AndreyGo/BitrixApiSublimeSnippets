@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::NavNext(${1:\$bSetGlobalVars=true},${2:\$strPrefix="str_"},${3:\$bDoEncode=true},${4:\$bSkipEntities=true})]]></content>
+	<tabTrigger>CDBResult::NavNext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

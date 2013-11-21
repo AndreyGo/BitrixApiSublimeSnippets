@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetFeatures(${1:aFeatures})]]></content>
+	<tabTrigger>SetFeatures</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

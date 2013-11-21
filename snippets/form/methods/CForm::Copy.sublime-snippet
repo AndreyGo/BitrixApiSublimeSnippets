@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::Copy(${1:ID},${2:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CForm::Copy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

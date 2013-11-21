@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormStatus::GetPermissionList(${1:STATUS_ID},${2:&\$arPERMISSION_VIEW},${3:&\$arPERMISSION_MOVE},${4:&\$arPERMISSION_EDIT},${5:&\$arPERMISSION_DELETE})]]></content>
+	<tabTrigger>CFormStatus::GetPermissionList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

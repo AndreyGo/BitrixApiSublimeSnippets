@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsUserVoted(${1:PUBLIC_VOTE_ID})]]></content>
+	<tabTrigger>IsUserVoted</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

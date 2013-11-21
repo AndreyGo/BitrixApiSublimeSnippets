@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParseDate(${1:strDate},${2:\$format="dmy"})]]></content>
+	<tabTrigger>ParseDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

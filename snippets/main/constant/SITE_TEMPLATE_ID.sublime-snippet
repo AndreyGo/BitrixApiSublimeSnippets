@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SITE_TEMPLATE_ID]]></content>
+	<tabTrigger>SITE_TEMPLATE_ID</tabTrigger>
+	<description>Bitrix CBitrixComponent::getCacheID</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::SubQuery(${1:strField},${2:arFilter})]]></content>
+	<tabTrigger>CIBlockElement::SubQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ExecuteModuleEvent(${1:arEvent},${2:\$param1=NULL},${3:\$param2=NULL},${4:\$param3=NULL},${5:\$param4=NULL},${6:\$param5=NULL},${7:\$param6=NULL},${8:\$param7=NULL},${9:\$param8=NULL},${10:\$param9=NULL},${11:\$param10=NULL})]]></content>
+	<tabTrigger>ExecuteModuleEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

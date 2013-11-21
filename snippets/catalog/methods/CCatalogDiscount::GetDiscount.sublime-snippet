@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::GetDiscount(${1:intProductID},${2:intIBlockID},${3:\$arCatalogGroups = array()},${4:\$arUserGroups = array()},${5:\$strRenewal = "N"},${6:\$siteID = false},${7:\$arDiscountCoupons = false},${8:\$boolSKU = true},${9:\$boolGetIDS = false})]]></content>
+	<tabTrigger>CCatalogDiscount::GetDiscount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

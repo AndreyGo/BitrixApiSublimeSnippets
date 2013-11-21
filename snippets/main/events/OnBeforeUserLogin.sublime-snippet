@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserLogin]]></content>
+	<tabTrigger>OnBeforeUserLogin</tabTrigger>
+	<description>Bitrix CUser::Login</description>
+	<scope>source.php</scope>
+</snippet>

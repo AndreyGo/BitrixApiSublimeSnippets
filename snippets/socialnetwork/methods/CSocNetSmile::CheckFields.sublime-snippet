@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSmile::CheckFields(${1:ACTION},${2:&\$arFields})]]></content>
+	<tabTrigger>CSocNetSmile::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

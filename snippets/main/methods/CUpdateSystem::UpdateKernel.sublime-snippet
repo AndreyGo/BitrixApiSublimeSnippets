@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::UpdateKernel(${1:updates_dir},${2:arModules},${3:&\$strError},${4:&\$arErrorModules},${5:&\$arSuccessModules})]]></content>
+	<tabTrigger>CUpdateSystem::UpdateKernel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

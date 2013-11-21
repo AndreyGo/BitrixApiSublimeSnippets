@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::WriteToTrackingService(${1:\$message = ""},${2:\$modifiedBy = 0},${3:\$trackingType = -1})]]></content>
+	<tabTrigger>CBPActivity::WriteToTrackingService</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

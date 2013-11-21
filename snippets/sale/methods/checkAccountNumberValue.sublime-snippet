@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checkAccountNumberValue(${1:templateType},${2:number_data},${3:number_prefix})]]></content>
+	<tabTrigger>checkAccountNumberValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

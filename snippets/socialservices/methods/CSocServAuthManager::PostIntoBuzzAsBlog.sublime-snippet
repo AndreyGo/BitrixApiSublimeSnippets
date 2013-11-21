@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuthManager::PostIntoBuzzAsBlog(${1:userTwit},${2:\$arSiteId=array()},${3:\$userLogin = ''})]]></content>
+	<tabTrigger>CSocServAuthManager::PostIntoBuzzAsBlog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

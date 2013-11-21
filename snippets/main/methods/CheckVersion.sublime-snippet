@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CheckVersion(${1:version1},${2:version2})]]></content>
+	<tabTrigger>CheckVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

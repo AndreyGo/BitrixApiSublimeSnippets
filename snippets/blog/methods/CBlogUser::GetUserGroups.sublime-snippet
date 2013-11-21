@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::GetUserGroups(${1:ID},${2:blogID},${3:\$joinStatus = ""},${4:\$selectType = BLOG_BY_BLOG_USER_ID},${5:\$bUrl = false})]]></content>
+	<tabTrigger>CBlogUser::GetUserGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

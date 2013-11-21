@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::Update(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CUser::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

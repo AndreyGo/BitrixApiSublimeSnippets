@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ConvertFilesToPost(${1:source},${2:&\$target},${3:\$field=false})]]></content>
+	<tabTrigger>CFile::ConvertFilesToPost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

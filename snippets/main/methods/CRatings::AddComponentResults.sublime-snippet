@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::AddComponentResults(${1:arComponentConfigs})]]></content>
+	<tabTrigger>CRatings::AddComponentResults</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

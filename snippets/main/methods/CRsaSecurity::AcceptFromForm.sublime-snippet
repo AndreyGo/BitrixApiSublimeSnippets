@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaSecurity::AcceptFromForm(${1:arParams})]]></content>
+	<tabTrigger>CRsaSecurity::AcceptFromForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::GetProperty(${1:IBLOCK_ID},${2:ELEMENT_ID},${3:\$by="sort"},${4:\$order="asc"},${5:\$arFilter = Array()})]]></content>
+	<tabTrigger>CIBlockElement::GetProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

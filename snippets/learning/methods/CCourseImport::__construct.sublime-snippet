@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourseImport::__construct(${1:PACKAGE_DIR},${2:arSITE_ID})]]></content>
+	<tabTrigger>CCourseImport::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

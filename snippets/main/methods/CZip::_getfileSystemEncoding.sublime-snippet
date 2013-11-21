@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_getfileSystemEncoding()]]></content>
+	<tabTrigger>CZip::_getfileSystemEncoding</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

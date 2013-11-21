@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::OnAfterFetch(${1:arUserField},${2:result})]]></content>
+	<tabTrigger>CUserTypeManager::OnAfterFetch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

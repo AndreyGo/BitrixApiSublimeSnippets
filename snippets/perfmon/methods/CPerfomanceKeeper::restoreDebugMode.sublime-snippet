@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::restoreDebugMode()]]></content>
+	<tabTrigger>CPerfomanceKeeper::restoreDebugMode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::Add(${1:arFields})]]></content>
+	<tabTrigger>CSocNetMessages::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

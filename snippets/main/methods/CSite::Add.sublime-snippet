@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::Add(${1:arFields})]]></content>
+	<tabTrigger>CSite::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

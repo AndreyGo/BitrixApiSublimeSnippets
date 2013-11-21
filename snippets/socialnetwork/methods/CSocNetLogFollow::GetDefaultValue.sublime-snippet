@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::GetDefaultValue(${1:user_id})]]></content>
+	<tabTrigger>CSocNetLogFollow::GetDefaultValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

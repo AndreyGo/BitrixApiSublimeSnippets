@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleActionCtrlDelivery::GetAtoms()]]></content>
+	<tabTrigger>CSaleActionCtrlDelivery::GetAtoms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

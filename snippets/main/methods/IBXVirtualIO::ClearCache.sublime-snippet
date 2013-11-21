@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXVirtualIO::ClearCache()]]></content>
+	<tabTrigger>IBXVirtualIO::ClearCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

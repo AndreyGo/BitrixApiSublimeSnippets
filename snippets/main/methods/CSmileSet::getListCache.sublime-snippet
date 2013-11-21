@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmileSet::getListCache(${1:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CSmileSet::getListCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

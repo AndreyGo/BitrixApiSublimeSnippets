@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceError::GetList(${1:arSelect},${2:arFilter},${3:arOrder},${4:\$bGroup = false})]]></content>
+	<tabTrigger>CPerfomanceError::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStackCacheManager::Set(${1:entity},${2:id},${3:value})]]></content>
+	<tabTrigger>CStackCacheManager::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

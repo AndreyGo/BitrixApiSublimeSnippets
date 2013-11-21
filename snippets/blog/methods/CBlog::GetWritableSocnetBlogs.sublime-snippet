@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::GetWritableSocnetBlogs(${1:\$user_id = 0},${2:\$type = "U"},${3:\$site_id = SITE_ID})]]></content>
+	<tabTrigger>CBlog::GetWritableSocnetBlogs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAdminMobileGetPushSettings]]></content>
+	<tabTrigger>OnAdminMobileGetPushSettings</tabTrigger>
+	<description>Bitrix CAdminMobilePush::OnAdminMobileGetPushSettings</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnQuote(${1:str},${2:type},${3:\$preserve_nulls = false})]]></content>
+	<tabTrigger>UnQuote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

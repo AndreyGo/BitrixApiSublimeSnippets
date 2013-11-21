@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileInput::ShowOpenerMenuHtml(${1:id},${2:\$data=false})]]></content>
+	<tabTrigger>CFileInput::ShowOpenerMenuHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

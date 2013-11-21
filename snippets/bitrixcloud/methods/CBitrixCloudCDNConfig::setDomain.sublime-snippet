@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::setDomain(${1:domain})]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::setDomain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

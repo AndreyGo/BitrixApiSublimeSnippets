@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_RackSpaceCloudFiles::SendCDNRequest(${1:settings},${2:verb},${3:bucket},${4:\$file_name=''},${5:\$params=''},${6:\$content=false},${7:\$additional_headers=array()})]]></content>
+	<tabTrigger>CCloudStorageService_RackSpaceCloudFiles::SendCDNRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogGroup::GetGroupsPerms(${1:\$arUserGroups = array()},${2:\$arCatalogGroupsFilter = array()})]]></content>
+	<tabTrigger>CCatalogGroup::GetGroupsPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

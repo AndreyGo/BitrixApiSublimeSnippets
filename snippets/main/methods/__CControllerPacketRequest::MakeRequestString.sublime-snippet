@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketRequest::MakeRequestString()]]></content>
+	<tabTrigger>__CControllerPacketRequest::MakeRequestString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

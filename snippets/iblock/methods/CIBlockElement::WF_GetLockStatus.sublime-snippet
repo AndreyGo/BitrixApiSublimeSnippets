@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_GetLockStatus(${1:ID},${2:&\$locked_by},${3:&\$date_lock})]]></content>
+	<tabTrigger>CIBlockElement::WF_GetLockStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

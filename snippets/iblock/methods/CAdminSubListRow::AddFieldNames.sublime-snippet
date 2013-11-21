@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubListRow::AddFieldNames(${1:strFieldName},${2:\$strFieldType = 'HIDDEN'})]]></content>
+	<tabTrigger>CAdminSubListRow::AddFieldNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::CanUserEditPost(${1:ID},${2:userID})]]></content>
+	<tabTrigger>CBlogPost::CanUserEditPost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

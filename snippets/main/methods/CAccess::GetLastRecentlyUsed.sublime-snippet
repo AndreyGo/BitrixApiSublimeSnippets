@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::GetLastRecentlyUsed(${1:provider})]]></content>
+	<tabTrigger>CAccess::GetLastRecentlyUsed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

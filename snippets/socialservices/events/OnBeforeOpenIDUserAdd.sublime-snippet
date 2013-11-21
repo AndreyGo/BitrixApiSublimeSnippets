@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeOpenIDUserAdd]]></content>
+	<tabTrigger>OnBeforeOpenIDUserAdd</tabTrigger>
+	<description>Bitrix COpenIDClient::Authorize</description>
+	<scope>source.php</scope>
+</snippet>

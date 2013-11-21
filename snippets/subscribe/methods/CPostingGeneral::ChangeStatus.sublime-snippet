@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingGeneral::ChangeStatus(${1:ID},${2:status})]]></content>
+	<tabTrigger>CPostingGeneral::ChangeStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

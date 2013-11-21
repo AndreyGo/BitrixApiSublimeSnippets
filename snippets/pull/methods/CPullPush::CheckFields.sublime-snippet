@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::CheckFields(${1:\$type = "ADD"},${2:&\$arFields = Array()})]]></content>
+	<tabTrigger>CPullPush::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

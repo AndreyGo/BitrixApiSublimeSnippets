@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::__GetTimeStampArray(${1:intSize},${2:strType},${3:\$boolDir = false})]]></content>
+	<tabTrigger>CCatalogDiscountSave::__GetTimeStampArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

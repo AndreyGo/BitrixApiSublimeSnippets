@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXMLNode::&__toString()]]></content>
+	<tabTrigger>CDataXMLNode::&__toString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

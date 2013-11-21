@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::ExecuteEvent(${1:eventName},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CControllerClient::ExecuteEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

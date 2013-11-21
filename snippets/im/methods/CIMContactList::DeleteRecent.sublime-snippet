@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::DeleteRecent(${1:entityId},${2:\$isChat = false},${3:\$userId = false})]]></content>
+	<tabTrigger>CIMContactList::DeleteRecent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

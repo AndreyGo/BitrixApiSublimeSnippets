@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLCreator::setAttribute(${1:attrName},${2:attrValue})]]></content>
+	<tabTrigger>CXMLCreator::setAttribute</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

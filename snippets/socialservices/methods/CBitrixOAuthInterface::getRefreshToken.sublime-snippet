@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixOAuthInterface::getRefreshToken()]]></content>
+	<tabTrigger>CBitrixOAuthInterface::getRefreshToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

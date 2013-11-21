@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getTrustedParams(${1:user},${2:\$retcode=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::getTrustedParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetTextWriting(${1:angleFrom},${2:angleTo},${3:startX},${4:distanceFrom},${5:distanceTo},${6:fontSize})]]></content>
+	<tabTrigger>CCaptcha::SetTextWriting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

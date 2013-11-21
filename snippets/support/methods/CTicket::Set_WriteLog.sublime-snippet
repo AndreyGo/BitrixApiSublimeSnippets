@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set_WriteLog(${1:nf},${2:v},${3:mf})]]></content>
+	<tabTrigger>CTicket::Set_WriteLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeFile::PrepareSettings(${1:arUserField})]]></content>
+	<tabTrigger>CUserTypeFile::PrepareSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

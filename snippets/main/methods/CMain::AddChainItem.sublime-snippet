@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddChainItem(${1:title},${2:\$link=""},${3:\$bUnQuote=true})]]></content>
+	<tabTrigger>CMain::AddChainItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

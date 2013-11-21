@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetVoteDiagramArray()]]></content>
+	<tabTrigger>GetVoteDiagramArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

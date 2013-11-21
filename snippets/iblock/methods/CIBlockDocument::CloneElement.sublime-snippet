@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::CloneElement(${1:ID},${2:\$arFields = array()})]]></content>
+	<tabTrigger>CIBlockDocument::CloneElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

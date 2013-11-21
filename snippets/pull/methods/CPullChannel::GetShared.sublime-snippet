@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::GetShared(${1:\$cache = true},${2:\$reOpen = false})]]></content>
+	<tabTrigger>CPullChannel::GetShared</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

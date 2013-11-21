@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterUnquotableWords::FilterPerm()]]></content>
+	<tabTrigger>CFilterUnquotableWords::FilterPerm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

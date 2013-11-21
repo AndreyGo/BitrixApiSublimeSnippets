@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVDataSale::SetFieldsType(${1:\$fields_type = "R"})]]></content>
+	<tabTrigger>CCSVDataSale::SetFieldsType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubResult::GetNavSize(${1:\$table_id=false},${2:\$nPageSize=20},${3:list_url})]]></content>
+	<tabTrigger>CAdminSubResult::GetNavSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

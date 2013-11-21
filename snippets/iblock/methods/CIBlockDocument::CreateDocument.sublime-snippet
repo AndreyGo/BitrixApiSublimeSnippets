@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::CreateDocument(${1:parentDocumentId},${2:arFields})]]></content>
+	<tabTrigger>CIBlockDocument::CreateDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

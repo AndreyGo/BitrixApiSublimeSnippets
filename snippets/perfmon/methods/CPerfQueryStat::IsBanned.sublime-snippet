@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryStat::IsBanned(${1:table},${2:columns})]]></content>
+	<tabTrigger>CPerfQueryStat::IsBanned</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

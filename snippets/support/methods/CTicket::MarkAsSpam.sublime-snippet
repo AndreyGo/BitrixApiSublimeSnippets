@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::MarkAsSpam(${1:ticketID},${2:\$exactly="Y"},${3:\$checkRights="Y"})]]></content>
+	<tabTrigger>CTicket::MarkAsSpam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

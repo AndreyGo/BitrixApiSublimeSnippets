@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::GetSerializedForm(${1:CBPActivity rootActivity})]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::GetSerializedForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

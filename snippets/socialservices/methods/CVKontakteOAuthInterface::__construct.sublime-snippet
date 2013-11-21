@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVKontakteOAuthInterface::__construct(${1:appID},${2:appSecret},${3:\$code=false})]]></content>
+	<tabTrigger>CVKontakteOAuthInterface::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

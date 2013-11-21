@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXFavAdmMenu::CheckFilterActivity(${1:currentUrl},${2:menuUrl},${3:activeSectUrl})]]></content>
+	<tabTrigger>CBXFavAdmMenu::CheckFilterActivity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

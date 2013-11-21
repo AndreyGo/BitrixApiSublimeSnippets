@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::SendEvent(${1:userGroupID},${2:\$mailTemplate = "SONET_INVITE_GROUP"})]]></content>
+	<tabTrigger>CSocNetUserToGroup::SendEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

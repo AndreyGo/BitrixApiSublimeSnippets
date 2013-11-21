@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElementEnum::GetNext(${1:\$bTextHtmlAuto=true},${2:\$use_tilda=true})]]></content>
+	<tabTrigger>CIBlockElementEnum::GetNext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

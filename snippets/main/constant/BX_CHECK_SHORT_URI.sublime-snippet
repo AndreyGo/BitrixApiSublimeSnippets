@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CHECK_SHORT_URI]]></content>
+	<tabTrigger>BX_CHECK_SHORT_URI</tabTrigger>
+	<description>Bitrix CMain::PrologActions</description>
+	<scope>source.php</scope>
+</snippet>

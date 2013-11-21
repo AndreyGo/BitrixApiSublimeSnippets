@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_transaction_lock(${1:IBLOCK_ID})]]></content>
+	<tabTrigger>CIBlock::_transaction_lock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::Update(${1:id},${2:arFields})]]></content>
+	<tabTrigger>CTicketDictionary::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

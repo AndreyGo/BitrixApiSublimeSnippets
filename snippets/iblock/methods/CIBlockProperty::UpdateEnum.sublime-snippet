@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockProperty::UpdateEnum(${1:ID},${2:arVALUES},${3:\$bForceDelete = true})]]></content>
+	<tabTrigger>CIBlockProperty::UpdateEnum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

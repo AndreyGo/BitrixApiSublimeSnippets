@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvertising::ClickAdv(${1:BANNER_ID})]]></content>
+	<tabTrigger>CAdvertising::ClickAdv</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

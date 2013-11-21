@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::SetLastActivityDate(${1:ID})]]></content>
+	<tabTrigger>CUser::SetLastActivityDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

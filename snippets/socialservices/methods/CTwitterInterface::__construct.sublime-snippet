@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::__construct(${1:appID},${2:appSecret},${3:\$token = false},${4:\$tokenVerifier = false},${5:\$tokenSecret = false})]]></content>
+	<tabTrigger>CTwitterInterface::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

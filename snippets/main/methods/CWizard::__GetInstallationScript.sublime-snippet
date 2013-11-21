@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__GetInstallationScript()]]></content>
+	<tabTrigger>CWizard::__GetInstallationScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

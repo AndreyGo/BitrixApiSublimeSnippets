@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::GetUserCodes(${1:USER_ID},${2:\$arFilter=array()})]]></content>
+	<tabTrigger>CAccess::GetUserCodes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

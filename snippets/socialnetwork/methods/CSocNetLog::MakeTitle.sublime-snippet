@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::MakeTitle(${1:titleTemplate},${2:title},${3:\$url = ""},${4:\$bHtml = true})]]></content>
+	<tabTrigger>CSocNetLog::MakeTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

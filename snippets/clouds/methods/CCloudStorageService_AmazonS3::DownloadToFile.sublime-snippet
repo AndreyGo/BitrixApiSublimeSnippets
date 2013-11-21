@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::DownloadToFile(${1:arBucket},${2:arFile},${3:filePath})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::DownloadToFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

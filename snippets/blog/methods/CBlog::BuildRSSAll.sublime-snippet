@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::BuildRSSAll(${1:\$GroupId = 0},${2:\$type = "RSS .92"},${3:\$numPosts = 10},${4:\$siteID = SITE_ID},${5:\$postTemplate=""},${6:\$userTemplate=""},${7:\$arAvBlog = Array()},${8:\$arPathTemplates = Array()},${9:\$arGroupID = Array()},${10:\$bUserSocNet = "N"})]]></content>
+	<tabTrigger>CBlog::BuildRSSAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

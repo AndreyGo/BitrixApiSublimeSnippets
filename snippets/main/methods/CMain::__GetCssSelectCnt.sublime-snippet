@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::__GetCssSelectCnt(${1:css})]]></content>
+	<tabTrigger>CMain::__GetCssSelectCnt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::StartAgent()]]></content>
+	<tabTrigger>CSupportTimetableCache::StartAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

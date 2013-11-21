@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSubscribe::GetListEx(${1:\$arOrder = array("ID"=>"ASC")},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CForumSubscribe::GetListEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::CheckFields(${1:ACTION},${2:&\$arFields},${3:\$ID = 0},${4:\$arParams = array()})]]></content>
+	<tabTrigger>CForumMessage::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

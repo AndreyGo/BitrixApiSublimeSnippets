@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetGroupUpdate]]></content>
+	<tabTrigger>OnSocNetGroupUpdate</tabTrigger>
+	<description>Bitrix CSocNetGroup::Update</description>
+	<scope>source.php</scope>
+</snippet>

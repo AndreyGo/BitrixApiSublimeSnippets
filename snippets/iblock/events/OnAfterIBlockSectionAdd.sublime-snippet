@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterIBlockSectionAdd]]></content>
+	<tabTrigger>OnAfterIBlockSectionAdd</tabTrigger>
+	<description>Bitrix CIBlockSection::Add</description>
+	<scope>source.php</scope>
+</snippet>

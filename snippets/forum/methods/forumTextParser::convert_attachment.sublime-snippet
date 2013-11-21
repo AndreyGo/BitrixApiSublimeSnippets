@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::convert_attachment(${1:\$fileID = ""},${2:\$p = ""},${3:\$type = ""},${4:\$text = ""})]]></content>
+	<tabTrigger>forumTextParser::convert_attachment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

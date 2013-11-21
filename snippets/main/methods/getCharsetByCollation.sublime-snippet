@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[getCharsetByCollation(${1:collation})]]></content>
+	<tabTrigger>getCharsetByCollation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

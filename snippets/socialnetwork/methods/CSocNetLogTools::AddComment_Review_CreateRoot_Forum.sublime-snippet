@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::AddComment_Review_CreateRoot_Forum(${1:arElement},${2:forumID},${3:\$bPostFirstMessage = false},${4:\$strFirstMessage = ""})]]></content>
+	<tabTrigger>CSocNetLogTools::AddComment_Review_CreateRoot_Forum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textParser::convert_close_tag(${1:\$marker = "quote"},${2:\$type = "html"})]]></content>
+	<tabTrigger>textParser::convert_close_tag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

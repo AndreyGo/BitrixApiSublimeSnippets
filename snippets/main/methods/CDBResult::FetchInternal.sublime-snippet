@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::FetchInternal()]]></content>
+	<tabTrigger>CDBResult::FetchInternal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

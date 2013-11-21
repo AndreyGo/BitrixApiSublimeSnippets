@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnRenderRightsEdit::RenderLessonRightsTab(${1:userId},${2:\$POSTName = 'LESSON_RIGHTS'},${3:lessonId},${4:readOnly})]]></content>
+	<tabTrigger>CLearnRenderRightsEdit::RenderLessonRightsTab</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormResult_old::Edit(${1:RESULT_ID},${2:arrVALUES},${3:\$TEMPLATE=""},${4:\$EDIT_ADDITIONAL="N"},${5:\$EDIT_STATUS="N"})]]></content>
+	<tabTrigger>CFormResult_old::Edit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

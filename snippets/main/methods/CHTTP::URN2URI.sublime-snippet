@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::URN2URI(${1:urn},${2:\$server_name = ''})]]></content>
+	<tabTrigger>CHTTP::URN2URI</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

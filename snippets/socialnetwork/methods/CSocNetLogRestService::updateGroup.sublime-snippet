@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogRestService::updateGroup(${1:arFields})]]></content>
+	<tabTrigger>CSocNetLogRestService::updateGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

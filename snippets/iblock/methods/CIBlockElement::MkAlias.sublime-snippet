@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::MkAlias(${1:max_alias_len},${2:alias},${3:&\$arIBlockLongProps})]]></content>
+	<tabTrigger>CIBlockElement::MkAlias</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailMessage::AddAttachment(${1:arFields})]]></content>
+	<tabTrigger>CMailMessage::AddAttachment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

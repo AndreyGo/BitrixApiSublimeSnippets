@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardStep::SetPrevStep(${1:stepID})]]></content>
+	<tabTrigger>CWizardStep::SetPrevStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

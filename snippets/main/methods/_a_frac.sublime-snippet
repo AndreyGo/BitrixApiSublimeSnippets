@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_a_frac(${1:x})]]></content>
+	<tabTrigger>_a_frac</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

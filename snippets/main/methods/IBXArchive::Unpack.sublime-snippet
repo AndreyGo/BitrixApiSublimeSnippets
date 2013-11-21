@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXArchive::Unpack(${1:strArchivePath})]]></content>
+	<tabTrigger>IBXArchive::Unpack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

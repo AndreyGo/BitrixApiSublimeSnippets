@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeRestartBuffer]]></content>
+	<tabTrigger>OnBeforeRestartBuffer</tabTrigger>
+	<description>Bitrix CMain::RestartBuffer</description>
+	<scope>source.php</scope>
+</snippet>

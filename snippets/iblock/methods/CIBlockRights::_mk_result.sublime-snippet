@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::_mk_result(${1:ID},${2:arOperations},${3:bAllow},${4:flags})]]></content>
+	<tabTrigger>CIBlockRights::_mk_result</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforePMCopy]]></content>
+	<tabTrigger>onBeforePMCopy</tabTrigger>
+	<description>Bitrix CForumPrivateMessage::Copy</description>
+	<scope>source.php</scope>
+</snippet>

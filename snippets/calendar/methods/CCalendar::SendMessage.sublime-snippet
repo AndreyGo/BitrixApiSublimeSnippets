@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SendMessage(${1:Params})]]></content>
+	<tabTrigger>CCalendar::SendMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

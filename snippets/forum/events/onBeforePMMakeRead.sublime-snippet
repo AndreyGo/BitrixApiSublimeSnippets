@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforePMMakeRead]]></content>
+	<tabTrigger>onBeforePMMakeRead</tabTrigger>
+	<description>Bitrix CForumPrivateMessage::MakeRead</description>
+	<scope>source.php</scope>
+</snippet>

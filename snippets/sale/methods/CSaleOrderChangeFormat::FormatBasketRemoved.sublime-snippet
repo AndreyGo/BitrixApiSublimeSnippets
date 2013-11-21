@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderChangeFormat::FormatBasketRemoved(${1:arData})]]></content>
+	<tabTrigger>CSaleOrderChangeFormat::FormatBasketRemoved</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

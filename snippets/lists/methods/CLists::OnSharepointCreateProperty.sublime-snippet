@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::OnSharepointCreateProperty(${1:arInputFields})]]></content>
+	<tabTrigger>CLists::OnSharepointCreateProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

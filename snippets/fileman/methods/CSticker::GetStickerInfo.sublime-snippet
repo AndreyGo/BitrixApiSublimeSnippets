@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::GetStickerInfo(${1:createdBy},${2:dateCreate},${3:modBy},${4:dateMod})]]></content>
+	<tabTrigger>CSticker::GetStickerInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

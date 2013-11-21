@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnRelationHelper::RenderForm(${1:oAccess},${2:LESSON_ID},${3:arOPathes})]]></content>
+	<tabTrigger>CLearnRelationHelper::RenderForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

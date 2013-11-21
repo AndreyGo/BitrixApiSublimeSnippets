@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::LogicEqualGreat(${1:arField},${2:mxValue})]]></content>
+	<tabTrigger>CGlobalCondCtrl::LogicEqualGreat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

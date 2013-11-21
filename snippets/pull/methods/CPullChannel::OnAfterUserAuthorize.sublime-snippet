@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::OnAfterUserAuthorize(${1:arParams})]]></content>
+	<tabTrigger>CPullChannel::OnAfterUserAuthorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

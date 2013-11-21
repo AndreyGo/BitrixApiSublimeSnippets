@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServBlogger::Authorize(${1:\$identity=false},${2:\$var=false})]]></content>
+	<tabTrigger>CSocServBlogger::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

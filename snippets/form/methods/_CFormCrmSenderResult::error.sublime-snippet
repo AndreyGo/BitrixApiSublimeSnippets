@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CFormCrmSenderResult::error()]]></content>
+	<tabTrigger>_CFormCrmSenderResult::error</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

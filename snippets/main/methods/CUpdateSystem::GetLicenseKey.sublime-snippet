@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::GetLicenseKey()]]></content>
+	<tabTrigger>CUpdateSystem::GetLicenseKey</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

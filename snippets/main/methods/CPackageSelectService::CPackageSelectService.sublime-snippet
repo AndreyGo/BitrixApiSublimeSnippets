@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageSelectService::CPackageSelectService(${1:package})]]></content>
+	<tabTrigger>CPackageSelectService::CPackageSelectService</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COpenIDClient::GetOpenIDAuthStep(${1:\$request_var='OPENID_IDENTITY'})]]></content>
+	<tabTrigger>COpenIDClient::GetOpenIDAuthStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

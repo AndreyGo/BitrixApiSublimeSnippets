@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::SendRequest(${1:arSettings},${2:verb},${3:bucket},${4:\$file_name='/'},${5:\$params=''},${6:\$content=''},${7:\$additional_headers=/*.(array[string]string).*/array()})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::SendRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

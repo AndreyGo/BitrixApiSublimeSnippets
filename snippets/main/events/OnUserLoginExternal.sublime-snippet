@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnUserLoginExternal]]></content>
+	<tabTrigger>OnUserLoginExternal</tabTrigger>
+	<description>Bitrix CUser::Login</description>
+	<scope>source.php</scope>
+</snippet>

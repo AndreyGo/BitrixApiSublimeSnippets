@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SetWebSocketStatus(${1:\$flag = "N"})]]></content>
+	<tabTrigger>CPullOptions::SetWebSocketStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

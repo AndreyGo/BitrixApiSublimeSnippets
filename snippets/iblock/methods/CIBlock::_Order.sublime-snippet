@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_Order(${1:by},${2:order},${3:default_order},${4:\$nullable = true})]]></content>
+	<tabTrigger>CIBlock::_Order</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

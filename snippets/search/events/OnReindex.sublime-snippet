@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnReindex]]></content>
+	<tabTrigger>OnReindex</tabTrigger>
+	<description>Bitrix CSearchParameters::GetModulesList</description>
+	<scope>source.php</scope>
+</snippet>

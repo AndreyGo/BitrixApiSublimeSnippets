@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumAutosave::LoadScript(${1:arParams})]]></content>
+	<tabTrigger>CForumAutosave::LoadScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

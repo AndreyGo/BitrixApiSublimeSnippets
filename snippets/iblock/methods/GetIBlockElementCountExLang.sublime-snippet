@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockElementCountExLang(${1:lang},${2:type},${3:\$arTypesInc = array()},${4:\$arTypesExc = array()},${5:\$arOrder = array("sort"=>"asc")},${6:\$cnt = 0},${7:\$arFilter = array()})]]></content>
+	<tabTrigger>GetIBlockElementCountExLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

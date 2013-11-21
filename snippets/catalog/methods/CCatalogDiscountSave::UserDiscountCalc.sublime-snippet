@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::UserDiscountCalc(${1:intID},${2:\$arFields = array()},${3:\$boolNew = false})]]></content>
+	<tabTrigger>CCatalogDiscountSave::UserDiscountCalc</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

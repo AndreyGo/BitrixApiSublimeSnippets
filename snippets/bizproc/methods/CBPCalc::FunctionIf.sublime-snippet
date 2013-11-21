@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::FunctionIf(${1:args})]]></content>
+	<tabTrigger>CBPCalc::FunctionIf</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

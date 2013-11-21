@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::Dump(${1:\$level = 3})]]></content>
+	<tabTrigger>CBPActivity::Dump</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

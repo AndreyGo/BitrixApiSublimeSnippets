@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::Authorize(${1:id},${2:\$bSave = false},${3:\$bUpdate = true})]]></content>
+	<tabTrigger>CUser::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

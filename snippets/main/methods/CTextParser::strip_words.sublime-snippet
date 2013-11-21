@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTextParser::strip_words(${1:string},${2:count})]]></content>
+	<tabTrigger>CTextParser::strip_words</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

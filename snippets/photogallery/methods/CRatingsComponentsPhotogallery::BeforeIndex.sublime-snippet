@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsPhotogallery::BeforeIndex(${1:arParams})]]></content>
+	<tabTrigger>CRatingsComponentsPhotogallery::BeforeIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::IsAssociativeArray(${1:ar})]]></content>
+	<tabTrigger>CBPHelper::IsAssociativeArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

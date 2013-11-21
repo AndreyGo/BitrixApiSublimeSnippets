@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::FaultActivity(${1:CBPActivity activity},${2:Exception e},${3:\$arEventParameters = array()})]]></content>
+	<tabTrigger>CBPWorkflow::FaultActivity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

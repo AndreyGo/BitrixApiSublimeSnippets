@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubContextMenu::GetActiveClassByID(${1:icon_id})]]></content>
+	<tabTrigger>CAdminSubContextMenu::GetActiveClassByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

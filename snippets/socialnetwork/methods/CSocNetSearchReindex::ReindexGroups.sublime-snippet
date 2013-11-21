@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::ReindexGroups(${1:last_id})]]></content>
+	<tabTrigger>CSocNetSearchReindex::ReindexGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

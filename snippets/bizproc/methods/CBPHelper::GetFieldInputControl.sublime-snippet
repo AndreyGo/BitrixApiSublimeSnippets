@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::GetFieldInputControl(${1:documentType},${2:arFieldType},${3:arFieldName},${4:fieldValue},${5:\$bAllowSelection = false})]]></content>
+	<tabTrigger>CBPHelper::GetFieldInputControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

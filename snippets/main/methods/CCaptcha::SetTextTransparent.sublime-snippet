@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetTextTransparent(${1:bTransparentText},${2:\$transparentTextPercent = 10})]]></content>
+	<tabTrigger>CCaptcha::SetTextTransparent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetMessageByID(${1:id},${2:\$checkRights="Y"},${3:\$get_user_name="Y"})]]></content>
+	<tabTrigger>CTicket::GetMessageByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

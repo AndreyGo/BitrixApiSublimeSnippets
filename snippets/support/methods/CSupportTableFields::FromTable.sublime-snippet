@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::FromTable(${1:table},${2:\$fields = self::ALL},${3:\$notNull = array()},${4:\$removeExistingRows = false})]]></content>
+	<tabTrigger>CSupportTableFields::FromTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

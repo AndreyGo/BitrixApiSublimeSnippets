@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::SetKeywords(${1:keywords},${2:\$TYPE_SID=""},${3:\$LOGIC="DESIRED"})]]></content>
+	<tabTrigger>CAdvBanner::SetKeywords</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::Add(${1:arFields})]]></content>
+	<tabTrigger>CFormCrm::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

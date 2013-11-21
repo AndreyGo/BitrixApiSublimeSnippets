@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::GetSocNetGroups(${1:entity_type},${2:entity_id},${3:\$operation = "view_post"})]]></content>
+	<tabTrigger>CBlogPost::GetSocNetGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

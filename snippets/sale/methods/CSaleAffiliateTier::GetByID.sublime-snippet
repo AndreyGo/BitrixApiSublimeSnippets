@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliateTier::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSaleAffiliateTier::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

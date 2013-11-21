@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetResultPermission(${1:RESULT_ID},${2:&\$CURRENT_STATUS_ID})]]></content>
+	<tabTrigger>CForm_old::GetResultPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

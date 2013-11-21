@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetClassByID(${1:icon_id})]]></content>
+	<tabTrigger>GetClassByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

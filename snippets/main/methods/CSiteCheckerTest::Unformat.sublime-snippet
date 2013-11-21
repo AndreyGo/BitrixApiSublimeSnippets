@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::Unformat(${1:str})]]></content>
+	<tabTrigger>CSiteCheckerTest::Unformat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

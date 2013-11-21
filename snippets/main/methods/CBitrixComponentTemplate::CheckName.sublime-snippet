@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::CheckName(${1:name})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::CheckName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

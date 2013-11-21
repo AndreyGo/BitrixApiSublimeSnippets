@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setMaxscale(${1:maxScale})]]></content>
+	<tabTrigger>CMobile::setMaxscale</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

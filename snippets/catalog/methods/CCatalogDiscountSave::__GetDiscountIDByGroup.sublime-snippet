@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountSave::__GetDiscountIDByGroup(${1:\$arUserGroup = array()})]]></content>
+	<tabTrigger>CCatalogDiscountSave::__GetDiscountIDByGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

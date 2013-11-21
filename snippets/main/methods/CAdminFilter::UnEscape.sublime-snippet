@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::UnEscape(${1:aFilter})]]></content>
+	<tabTrigger>CAdminFilter::UnEscape</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

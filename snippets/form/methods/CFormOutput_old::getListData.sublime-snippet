@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput_old::getListData()]]></content>
+	<tabTrigger>CFormOutput_old::getListData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

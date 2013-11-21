@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobilePush::getOptions(${1:\$path = ""})]]></content>
+	<tabTrigger>CAdminMobilePush::getOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

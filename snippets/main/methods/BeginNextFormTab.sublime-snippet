@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BeginNextFormTab()]]></content>
+	<tabTrigger>BeginNextFormTab</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

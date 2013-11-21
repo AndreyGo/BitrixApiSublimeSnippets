@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::GetFieldInputValue(${1:documentType},${2:arFieldType},${3:arFieldName},${4:arRequest},${5:&\$arErrors})]]></content>
+	<tabTrigger>CBPHelper::GetFieldInputValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

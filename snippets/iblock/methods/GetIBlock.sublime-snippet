@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlock(${1:ID},${2:\$type = ""})]]></content>
+	<tabTrigger>GetIBlock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

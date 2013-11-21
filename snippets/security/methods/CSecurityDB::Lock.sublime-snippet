@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityDB::Lock(${1:id},${2:\$timeout = 60})]]></content>
+	<tabTrigger>CSecurityDB::Lock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

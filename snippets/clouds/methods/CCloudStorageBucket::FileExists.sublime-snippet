@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageBucket::FileExists(${1:filePath})]]></content>
+	<tabTrigger>CCloudStorageBucket::FileExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchFiles::CSearchFiles()]]></content>
+	<tabTrigger>CSearchFiles::CSearchFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

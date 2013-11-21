@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPServer::Run()]]></content>
+	<tabTrigger>CSMTPServer::Run</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

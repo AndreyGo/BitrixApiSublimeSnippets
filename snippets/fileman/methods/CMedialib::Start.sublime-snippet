@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::Start(${1:Params})]]></content>
+	<tabTrigger>CMedialib::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

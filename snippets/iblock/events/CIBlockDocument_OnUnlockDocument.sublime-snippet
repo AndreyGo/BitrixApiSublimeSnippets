@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument_OnUnlockDocument]]></content>
+	<tabTrigger>CIBlockDocument_OnUnlockDocument</tabTrigger>
+	<description>Bitrix CIBlockDocument::UnlockDocument</description>
+	<scope>source.php</scope>
+</snippet>

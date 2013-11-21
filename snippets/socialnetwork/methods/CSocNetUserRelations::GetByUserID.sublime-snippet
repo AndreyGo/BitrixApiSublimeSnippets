@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::GetByUserID(${1:user1ID},${2:user2ID})]]></content>
+	<tabTrigger>CSocNetUserRelations::GetByUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

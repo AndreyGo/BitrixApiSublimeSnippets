@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumStat::RegisterUSER_OLD(${1:\$arFields = array()})]]></content>
+	<tabTrigger>CForumStat::RegisterUSER_OLD</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

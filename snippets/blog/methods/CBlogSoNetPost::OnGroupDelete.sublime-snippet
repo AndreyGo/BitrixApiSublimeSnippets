@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogSoNetPost::OnGroupDelete(${1:ID})]]></content>
+	<tabTrigger>CBlogSoNetPost::OnGroupDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

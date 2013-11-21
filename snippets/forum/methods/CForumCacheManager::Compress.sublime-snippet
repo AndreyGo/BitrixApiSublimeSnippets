@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumCacheManager::Compress(${1:arDictCollection})]]></content>
+	<tabTrigger>CForumCacheManager::Compress</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

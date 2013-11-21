@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::WrongDateInterval(${1:CURRENT_VOTE_ID},${2:DATE_START},${3:DATE_END},${4:CHANNEL_ID})]]></content>
+	<tabTrigger>CVote::WrongDateInterval</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

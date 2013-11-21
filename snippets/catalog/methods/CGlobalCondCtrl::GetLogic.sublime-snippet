@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::GetLogic(${1:\$arOperators = false})]]></content>
+	<tabTrigger>CGlobalCondCtrl::GetLogic</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

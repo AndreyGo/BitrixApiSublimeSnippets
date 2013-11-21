@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPRuntime::GetActivityDescription(${1:code})]]></content>
+	<tabTrigger>CBPRuntime::GetActivityDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

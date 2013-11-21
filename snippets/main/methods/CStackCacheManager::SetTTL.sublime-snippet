@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStackCacheManager::SetTTL(${1:entity},${2:ttl})]]></content>
+	<tabTrigger>CStackCacheManager::SetTTL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

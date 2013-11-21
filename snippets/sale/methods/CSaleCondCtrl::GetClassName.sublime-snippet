@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondCtrl::GetClassName()]]></content>
+	<tabTrigger>CSaleCondCtrl::GetClassName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

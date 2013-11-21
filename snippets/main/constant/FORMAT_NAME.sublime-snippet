@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FORMAT_NAME]]></content>
+	<tabTrigger>FORMAT_NAME</tabTrigger>
+	<description>Bitrix CSite::SelectBoxName</description>
+	<scope>source.php</scope>
+</snippet>

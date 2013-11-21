@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::IncludeString(${1:string},${2:\$arIcons=false})]]></content>
+	<tabTrigger>CMain::IncludeString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

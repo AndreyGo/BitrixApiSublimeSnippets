@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCatalogGroups(${1:\$by = "SORT"},${2:\$order = "ASC"})]]></content>
+	<tabTrigger>GetCatalogGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

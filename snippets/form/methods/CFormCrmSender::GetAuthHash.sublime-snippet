@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::GetAuthHash()]]></content>
+	<tabTrigger>CFormCrmSender::GetAuthHash</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

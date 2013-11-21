@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockSectionListWithCnt(${1:IBLOCK},${2:\$SECT_ID = false},${3:\$arOrder = array("left_margin"=>"asc")},${4:\$cnt = 0},${5:\$arFilter = array()})]]></content>
+	<tabTrigger>GetIBlockSectionListWithCnt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

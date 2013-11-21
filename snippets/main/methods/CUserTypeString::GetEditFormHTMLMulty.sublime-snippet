@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeString::GetEditFormHTMLMulty(${1:arUserField},${2:arHtmlControl})]]></content>
+	<tabTrigger>CUserTypeString::GetEditFormHTMLMulty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

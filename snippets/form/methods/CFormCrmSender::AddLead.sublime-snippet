@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::AddLead(${1:arLeadFields})]]></content>
+	<tabTrigger>CFormCrmSender::AddLead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

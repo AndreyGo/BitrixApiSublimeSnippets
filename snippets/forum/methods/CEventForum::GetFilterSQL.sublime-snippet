@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventForum::GetFilterSQL(${1:var})]]></content>
+	<tabTrigger>CEventForum::GetFilterSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

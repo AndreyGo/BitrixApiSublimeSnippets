@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdater::InstallComponent(${1:componentName},${2:\$arDeleteFiles = array()})]]></content>
+	<tabTrigger>CUpdater::InstallComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

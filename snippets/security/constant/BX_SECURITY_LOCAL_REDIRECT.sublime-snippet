@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_LOCAL_REDIRECT]]></content>
+	<tabTrigger>BX_SECURITY_LOCAL_REDIRECT</tabTrigger>
+	<description>Bitrix CSecurityRedirect::EndBufferContent</description>
+	<scope>source.php</scope>
+</snippet>

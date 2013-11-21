@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__GetFileName(${1:fileName},${2:postFix})]]></content>
+	<tabTrigger>CWizard::__GetFileName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

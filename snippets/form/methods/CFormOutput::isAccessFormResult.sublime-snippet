@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::isAccessFormResult(${1:arrResult})]]></content>
+	<tabTrigger>CFormOutput::isAccessFormResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

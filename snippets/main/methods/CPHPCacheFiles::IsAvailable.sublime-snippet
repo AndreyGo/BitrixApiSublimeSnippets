@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheFiles::IsAvailable()]]></content>
+	<tabTrigger>CPHPCacheFiles::IsAvailable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

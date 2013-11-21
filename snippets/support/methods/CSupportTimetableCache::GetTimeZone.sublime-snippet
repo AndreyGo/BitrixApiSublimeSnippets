@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::GetTimeZone()]]></content>
+	<tabTrigger>CSupportTimetableCache::GetTimeZone</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

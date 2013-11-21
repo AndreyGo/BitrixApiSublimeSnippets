@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServYandex::Authorize(${1:\$identity=false},${2:\$var=false})]]></content>
+	<tabTrigger>CSocServYandex::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

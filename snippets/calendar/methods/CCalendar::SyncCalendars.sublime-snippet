@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SyncCalendars(${1:connectionType},${2:arCalendars},${3:entityType},${4:entityId},${5:\$connectionId = null})]]></content>
+	<tabTrigger>CCalendar::SyncCalendars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

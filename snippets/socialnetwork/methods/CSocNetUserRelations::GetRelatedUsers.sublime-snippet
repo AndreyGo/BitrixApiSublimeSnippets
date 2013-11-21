@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::GetRelatedUsers(${1:userID},${2:relation},${3:\$arNavStartParams = false},${4:\$bActiveOnly = "N"})]]></content>
+	<tabTrigger>CSocNetUserRelations::GetRelatedUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

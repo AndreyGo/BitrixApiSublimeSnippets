@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::ApplyAccessRestrictions(${1:event},${2:\$userId = false})]]></content>
+	<tabTrigger>CCalendarEvent::ApplyAccessRestrictions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

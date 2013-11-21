@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GLOBAL_ACTIVE_VALUE]]></content>
+	<tabTrigger>GLOBAL_ACTIVE_VALUE</tabTrigger>
+	<description>Bitrix CSocNetUser::OnAfterUserUpdate</description>
+	<scope>source.php</scope>
+</snippet>

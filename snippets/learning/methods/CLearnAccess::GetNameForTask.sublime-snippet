@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccess::GetNameForTask(${1:taskId})]]></content>
+	<tabTrigger>CLearnAccess::GetNameForTask</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

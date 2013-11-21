@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDN::_preg_quote(${1:str})]]></content>
+	<tabTrigger>CBitrixCloudCDN::_preg_quote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

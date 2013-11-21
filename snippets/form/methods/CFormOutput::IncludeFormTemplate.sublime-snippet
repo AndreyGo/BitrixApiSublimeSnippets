@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::IncludeFormTemplate()]]></content>
+	<tabTrigger>CFormOutput::IncludeFormTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

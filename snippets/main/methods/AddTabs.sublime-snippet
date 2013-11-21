@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddTabs(${1:&customTabber})]]></content>
+	<tabTrigger>AddTabs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

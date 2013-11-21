@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringDomainResult::offsetSet(${1:offset},${2:value})]]></content>
+	<tabTrigger>CBitrixCloudMonitoringDomainResult::offsetSet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

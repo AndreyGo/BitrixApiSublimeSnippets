@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::setSites(${1:sites})]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::setSites</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

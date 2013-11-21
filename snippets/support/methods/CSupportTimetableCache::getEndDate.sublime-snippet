@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::getEndDate(${1:sla},${2:periodMin0},${3:dateFrom},${4:\$secondTry = false})]]></content>
+	<tabTrigger>CSupportTimetableCache::getEndDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

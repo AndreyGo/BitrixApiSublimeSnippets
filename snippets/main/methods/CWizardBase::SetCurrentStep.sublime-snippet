@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::SetCurrentStep(${1:stepID})]]></content>
+	<tabTrigger>CWizardBase::SetCurrentStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

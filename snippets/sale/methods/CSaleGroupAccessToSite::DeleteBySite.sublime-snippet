@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleGroupAccessToSite::DeleteBySite(${1:SITE_ID})]]></content>
+	<tabTrigger>CSaleGroupAccessToSite::DeleteBySite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

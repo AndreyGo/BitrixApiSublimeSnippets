@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforePMSend]]></content>
+	<tabTrigger>onBeforePMSend</tabTrigger>
+	<description>Bitrix CForumPrivateMessage::Send</description>
+	<scope>source.php</scope>
+</snippet>

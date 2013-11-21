@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogAdmin::OnBuildSaleTaxMenu(${1:&arItems})]]></content>
+	<tabTrigger>CCatalogAdmin::OnBuildSaleTaxMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddSelectField(${1:id},${2:\$arValues = Array()},${3:\$arAttributes = Array()})]]></content>
+	<tabTrigger>AddSelectField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUserGroupPerms::Delete(${1:ID})]]></content>
+	<tabTrigger>CBlogUserGroupPerms::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

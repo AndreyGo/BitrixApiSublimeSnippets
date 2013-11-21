@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::SearchLogic(${1:strValue},${2:arLogic})]]></content>
+	<tabTrigger>CGlobalCondCtrl::SearchLogic</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

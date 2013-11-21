@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::DeleteGroupLink(${1:BANNER_ID})]]></content>
+	<tabTrigger>CAdvBanner::DeleteGroupLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

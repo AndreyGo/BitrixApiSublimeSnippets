@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::fieldInFilter(${1:&filter},${2:fieldPathStr})]]></content>
+	<tabTrigger>CSaleReportUserHelper::fieldInFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::GetSize(${1:v})]]></content>
+	<tabTrigger>CImageUploader::GetSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

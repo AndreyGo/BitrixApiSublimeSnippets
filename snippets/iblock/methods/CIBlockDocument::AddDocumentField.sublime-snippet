@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::AddDocumentField(${1:documentType},${2:arFields})]]></content>
+	<tabTrigger>CIBlockDocument::AddDocumentField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

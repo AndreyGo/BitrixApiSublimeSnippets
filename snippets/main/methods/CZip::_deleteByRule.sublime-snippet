@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_deleteByRule(${1:&arResultList},${2:&\$arParams})]]></content>
+	<tabTrigger>CZip::_deleteByRule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

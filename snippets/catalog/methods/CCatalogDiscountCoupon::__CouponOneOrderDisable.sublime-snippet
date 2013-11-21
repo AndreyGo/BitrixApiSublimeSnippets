@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountCoupon::__CouponOneOrderDisable(${1:arCoupons})]]></content>
+	<tabTrigger>CCatalogDiscountCoupon::__CouponOneOrderDisable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

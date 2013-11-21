@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPanelCreate]]></content>
+	<tabTrigger>OnPanelCreate</tabTrigger>
+	<description>Bitrix CTopPanel::InitPanelIcons</description>
+	<scope>source.php</scope>
+</snippet>

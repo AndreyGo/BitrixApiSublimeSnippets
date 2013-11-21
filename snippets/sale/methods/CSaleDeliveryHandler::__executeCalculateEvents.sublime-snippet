@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::__executeCalculateEvents(${1:SID},${2:profile},${3:arOrder},${4:arReturn})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::__executeCalculateEvents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

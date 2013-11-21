@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::GetMeetingStatus(${1:userId},${2:eventId})]]></content>
+	<tabTrigger>CCalendarEvent::GetMeetingStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

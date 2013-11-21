@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::onAfterCommentUpdateAfter(${1:entityType},${2:eventID},${3:arData},${4:\$logID = false})]]></content>
+	<tabTrigger>CCalendarLiveFeed::onAfterCommentUpdateAfter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

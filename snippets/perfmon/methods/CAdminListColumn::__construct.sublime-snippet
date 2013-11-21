@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListColumn::__construct(${1:id},${2:info})]]></content>
+	<tabTrigger>CAdminListColumn::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

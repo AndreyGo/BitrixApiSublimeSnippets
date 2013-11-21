@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialibItem::GetFullPath(${1:arImage},${2:\$upload_dir = false})]]></content>
+	<tabTrigger>CMedialibItem::GetFullPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

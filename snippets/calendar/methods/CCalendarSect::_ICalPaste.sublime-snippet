@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::_ICalPaste(${1:str})]]></content>
+	<tabTrigger>CCalendarSect::_ICalPaste</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

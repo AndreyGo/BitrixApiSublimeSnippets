@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::getUniqueHash(${1:user_id},${2:app_id})]]></content>
+	<tabTrigger>CPullPush::getUniqueHash</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

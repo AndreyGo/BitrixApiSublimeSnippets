@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportHolidays::Delete(${1:id},${2:\$checkRights=true})]]></content>
+	<tabTrigger>CSupportHolidays::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

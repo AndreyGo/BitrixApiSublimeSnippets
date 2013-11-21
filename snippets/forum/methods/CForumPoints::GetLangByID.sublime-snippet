@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPoints::GetLangByID(${1:POINTS_ID},${2:strLang})]]></content>
+	<tabTrigger>CForumPoints::GetLangByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

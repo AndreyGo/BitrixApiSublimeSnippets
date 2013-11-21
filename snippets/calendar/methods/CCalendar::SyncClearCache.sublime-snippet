@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::SyncClearCache()]]></content>
+	<tabTrigger>CCalendar::SyncClearCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

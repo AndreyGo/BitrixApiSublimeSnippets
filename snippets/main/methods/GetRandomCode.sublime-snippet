@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetRandomCode(${1:\$len=8})]]></content>
+	<tabTrigger>GetRandomCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::CAllDBResult(${1:\$res = null})]]></content>
+	<tabTrigger>CDBResult::CAllDBResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

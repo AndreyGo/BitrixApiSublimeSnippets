@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::GetEventsCount(${1:\$timestampX = ''})]]></content>
+	<tabTrigger>CSecurityFilter::GetEventsCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

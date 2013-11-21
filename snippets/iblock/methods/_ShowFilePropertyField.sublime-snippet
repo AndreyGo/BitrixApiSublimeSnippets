@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_ShowFilePropertyField(${1:name},${2:property_fields},${3:values},${4:\$max_file_size_show=50000},${5:\$bVarsFromForm = false})]]></content>
+	<tabTrigger>_ShowFilePropertyField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXArchive::__construct()]]></content>
+	<tabTrigger>CBXArchive::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

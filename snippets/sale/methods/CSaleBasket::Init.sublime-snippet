@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::Init(${1:\$bVar = False},${2:\$bSkipFUserInit = False})]]></content>
+	<tabTrigger>CSaleBasket::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

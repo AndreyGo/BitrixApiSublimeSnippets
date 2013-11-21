@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CloudDownload::__construct(${1:id})]]></content>
+	<tabTrigger>CloudDownload::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

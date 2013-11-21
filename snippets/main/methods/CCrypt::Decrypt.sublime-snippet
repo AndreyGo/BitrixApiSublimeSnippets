@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCrypt::Decrypt(${1:cipher})]]></content>
+	<tabTrigger>CCrypt::Decrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::ActivateCoupon(${1:coupon},${2:&\$strError},${3:\$lang = false},${4:\$stableVersionsOnly = "Y"})]]></content>
+	<tabTrigger>CUpdateClientPartner::ActivateCoupon</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

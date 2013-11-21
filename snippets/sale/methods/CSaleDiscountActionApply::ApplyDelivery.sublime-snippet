@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscountActionApply::ApplyDelivery(${1:&arOrder},${2:dblValue},${3:strUnit})]]></content>
+	<tabTrigger>CSaleDiscountActionApply::ApplyDelivery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

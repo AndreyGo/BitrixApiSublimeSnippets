@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::getPreparedTemplate(${1:template},${2:arFields})]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::getPreparedTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceIndexComplete::GetList(${1:\$arFilter = array()},${2:\$arOrder = array()})]]></content>
+	<tabTrigger>CPerfomanceIndexComplete::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

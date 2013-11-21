@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddPanelButtonMenu(${1:button_id},${2:arMenuItem})]]></content>
+	<tabTrigger>CMain::AddPanelButtonMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

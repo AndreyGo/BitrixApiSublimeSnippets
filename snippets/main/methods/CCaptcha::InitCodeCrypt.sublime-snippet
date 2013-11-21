@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::InitCodeCrypt(${1:codeCrypt},${2:\$password = ""})]]></content>
+	<tabTrigger>CCaptcha::InitCodeCrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

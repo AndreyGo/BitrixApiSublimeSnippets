@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::highlightLine(${1:line},${2:\$tokens = array()},${3:\$tainted_vars = array()},${4:\$comment = ''})]]></content>
+	<tabTrigger>CVulnScanner::highlightLine</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

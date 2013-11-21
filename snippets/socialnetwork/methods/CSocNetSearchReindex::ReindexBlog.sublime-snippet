@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::ReindexBlog(${1:entity_type},${2:last_id})]]></content>
+	<tabTrigger>CSocNetSearchReindex::ReindexBlog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

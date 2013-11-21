@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCatalogGroup(${1:CATALOG_GROUP_ID})]]></content>
+	<tabTrigger>GetCatalogGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

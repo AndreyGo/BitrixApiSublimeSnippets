@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::GetPublishUrl(${1:\$channelId = ""})]]></content>
+	<tabTrigger>CPullOptions::GetPublishUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

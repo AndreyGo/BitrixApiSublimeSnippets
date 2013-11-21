@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXML::&SelectNodes(${1:strNode})]]></content>
+	<tabTrigger>CDataXML::&SelectNodes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

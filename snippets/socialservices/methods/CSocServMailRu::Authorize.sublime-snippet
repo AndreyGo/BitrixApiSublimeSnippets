@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServMailRu::Authorize(${1:\$identity=false},${2:\$var=false})]]></content>
+	<tabTrigger>CSocServMailRu::Authorize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

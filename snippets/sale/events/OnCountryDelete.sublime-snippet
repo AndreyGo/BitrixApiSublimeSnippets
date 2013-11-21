@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCountryDelete]]></content>
+	<tabTrigger>OnCountryDelete</tabTrigger>
+	<description>Bitrix CSaleLocation::DeleteCountry</description>
+	<scope>source.php</scope>
+</snippet>

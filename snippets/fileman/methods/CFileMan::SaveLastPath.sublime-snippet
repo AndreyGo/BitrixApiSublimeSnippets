@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::SaveLastPath(${1:path})]]></content>
+	<tabTrigger>CFileMan::SaveLastPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSection::_check_rights_sql(${1:min_permission})]]></content>
+	<tabTrigger>CIBlockSection::_check_rights_sql</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentPanel::__construct(${1:component},${2:componentName},${3:componentTemplate},${4:parentComponent},${5:bComponentEnabled})]]></content>
+	<tabTrigger>CComponentPanel::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

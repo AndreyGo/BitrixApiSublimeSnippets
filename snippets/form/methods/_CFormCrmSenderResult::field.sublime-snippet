@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CFormCrmSenderResult::field(${1:field})]]></content>
+	<tabTrigger>_CFormCrmSenderResult::field</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

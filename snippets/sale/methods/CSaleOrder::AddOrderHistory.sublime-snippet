@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrder::AddOrderHistory(${1:OldFields},${2:NewFields})]]></content>
+	<tabTrigger>CSaleOrder::AddOrderHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

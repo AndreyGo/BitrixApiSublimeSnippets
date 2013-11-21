@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textParser::pre_convert_list(${1:\$text = ""})]]></content>
+	<tabTrigger>textParser::pre_convert_list</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

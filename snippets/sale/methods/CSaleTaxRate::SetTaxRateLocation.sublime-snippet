@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTaxRate::SetTaxRateLocation(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CSaleTaxRate::SetTaxRateLocation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

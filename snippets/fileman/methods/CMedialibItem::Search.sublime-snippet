@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialibItem::Search(${1:arQuery},${2:\$arTypes = array()})]]></content>
+	<tabTrigger>CMedialibItem::Search</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

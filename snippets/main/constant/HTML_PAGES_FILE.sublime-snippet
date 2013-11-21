@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HTML_PAGES_FILE]]></content>
+	<tabTrigger>HTML_PAGES_FILE</tabTrigger>
+	<description>Bitrix CHTMLPagesCache::OnEpilog</description>
+	<scope>source.php</scope>
+</snippet>

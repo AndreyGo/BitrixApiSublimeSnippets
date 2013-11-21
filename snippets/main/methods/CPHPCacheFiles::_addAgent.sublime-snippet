@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheFiles::_addAgent()]]></content>
+	<tabTrigger>CPHPCacheFiles::_addAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

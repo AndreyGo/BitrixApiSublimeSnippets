@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormStatus::GetTemplateList(${1:STATUS_ID})]]></content>
+	<tabTrigger>CFormStatus::GetTemplateList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

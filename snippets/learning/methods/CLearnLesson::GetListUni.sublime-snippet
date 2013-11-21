@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetListUni(${1:\$arOrder = array()},${2:\$arFilter = array()},${3:\$arSelectFields = array()},${4:\$mode = self::GET_LIST_ALL},${5:\$lessonId = -1})]]></content>
+	<tabTrigger>CLearnLesson::GetListUni</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

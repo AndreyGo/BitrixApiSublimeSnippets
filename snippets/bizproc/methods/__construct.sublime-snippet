@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__construct()]]></content>
+	<tabTrigger>__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

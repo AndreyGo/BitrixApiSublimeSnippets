@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPhotogalleryElement::CheckElement(${1:ID},${2:&\$arElement},${3:&\$arSection},${4:&\$arGallery})]]></content>
+	<tabTrigger>CPhotogalleryElement::CheckElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

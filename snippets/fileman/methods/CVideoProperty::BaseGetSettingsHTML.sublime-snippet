@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVideoProperty::BaseGetSettingsHTML(${1:name},${2:val})]]></content>
+	<tabTrigger>CVideoProperty::BaseGetSettingsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

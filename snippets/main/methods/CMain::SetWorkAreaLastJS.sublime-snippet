@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetWorkAreaLastJS(${1:\$lastKey = 0})]]></content>
+	<tabTrigger>CMain::SetWorkAreaLastJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

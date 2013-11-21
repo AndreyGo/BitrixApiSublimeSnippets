@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMeasure::GetList(${1:\$category = false})]]></content>
+	<tabTrigger>CSaleMeasure::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

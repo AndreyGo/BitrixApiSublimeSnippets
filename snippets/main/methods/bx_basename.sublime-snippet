@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bx_basename(${1:path},${2:\$ext=""})]]></content>
+	<tabTrigger>bx_basename</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElementRights::DeleteAllRights()]]></content>
+	<tabTrigger>CIBlockElementRights::DeleteAllRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

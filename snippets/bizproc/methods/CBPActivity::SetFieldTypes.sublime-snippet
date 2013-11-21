@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::SetFieldTypes(${1:\$arFieldTypes = array()})]]></content>
+	<tabTrigger>CBPActivity::SetFieldTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

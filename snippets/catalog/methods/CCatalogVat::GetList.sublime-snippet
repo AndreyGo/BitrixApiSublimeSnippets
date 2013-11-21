@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogVat::GetList(${1:\$arOrder = array('CSORT' => 'ASC')},${2:\$arFilter = array()},${3:\$arFields = array()})]]></content>
+	<tabTrigger>CCatalogVat::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

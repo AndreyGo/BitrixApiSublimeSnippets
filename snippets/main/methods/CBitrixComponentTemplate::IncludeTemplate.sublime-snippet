@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::IncludeTemplate(${1:&arResult})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::IncludeTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

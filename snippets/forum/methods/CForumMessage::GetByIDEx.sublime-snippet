@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::GetByIDEx(${1:ID},${2:\$arAddParams = array()})]]></content>
+	<tabTrigger>CForumMessage::GetByIDEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

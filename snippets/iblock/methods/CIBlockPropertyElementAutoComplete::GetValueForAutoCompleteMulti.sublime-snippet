@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementAutoComplete::GetValueForAutoCompleteMulti(${1:arProperty},${2:arValues},${3:\$arBanSym=""},${4:\$arRepSym=""})]]></content>
+	<tabTrigger>CIBlockPropertyElementAutoComplete::GetValueForAutoCompleteMulti</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

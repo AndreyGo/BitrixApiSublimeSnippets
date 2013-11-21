@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementAutoComplete::GetUserTypeDescription()]]></content>
+	<tabTrigger>CIBlockPropertyElementAutoComplete::GetUserTypeDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

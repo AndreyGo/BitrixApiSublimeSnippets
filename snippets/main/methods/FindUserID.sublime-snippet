@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FindUserID(${1:tag_name},${2:tag_value},${3:\$user_name=""},${4:\$form_name = "form1"},${5:\$tag_size = "3"},${6:\$tag_maxlength=""},${7:\$button_value = "..."},${8:\$tag_class="typeinput"},${9:\$button_class="tablebodybutton"},${10:\$search_page="/bitrix/admin/user_search.php"})]]></content>
+	<tabTrigger>FindUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

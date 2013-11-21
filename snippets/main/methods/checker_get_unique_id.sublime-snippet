@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[checker_get_unique_id()]]></content>
+	<tabTrigger>checker_get_unique_id</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

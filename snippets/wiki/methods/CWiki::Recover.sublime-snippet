@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::Recover(${1:HISTORY_ID},${2:ID},${3:IBLOCK_ID})]]></content>
+	<tabTrigger>CWiki::Recover</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

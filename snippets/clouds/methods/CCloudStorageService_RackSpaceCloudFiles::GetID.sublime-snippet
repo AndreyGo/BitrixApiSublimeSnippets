@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_RackSpaceCloudFiles::GetID()]]></content>
+	<tabTrigger>CCloudStorageService_RackSpaceCloudFiles::GetID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

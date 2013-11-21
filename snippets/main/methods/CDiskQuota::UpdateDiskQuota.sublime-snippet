@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDiskQuota::UpdateDiskQuota(${1:type},${2:size},${3:action})]]></content>
+	<tabTrigger>CDiskQuota::UpdateDiskQuota</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

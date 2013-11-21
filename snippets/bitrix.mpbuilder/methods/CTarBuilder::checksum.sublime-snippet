@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTarBuilder::checksum(${1:str})]]></content>
+	<tabTrigger>CTarBuilder::checksum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

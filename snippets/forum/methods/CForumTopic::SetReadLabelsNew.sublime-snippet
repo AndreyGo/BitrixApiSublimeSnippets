@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumTopic::SetReadLabelsNew(${1:ID},${2:\$update = false},${3:\$LastVisit = false},${4:\$arAddParams = array()})]]></content>
+	<tabTrigger>CForumTopic::SetReadLabelsNew</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

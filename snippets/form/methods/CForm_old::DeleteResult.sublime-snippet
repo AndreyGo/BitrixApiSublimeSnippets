@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::DeleteResult(${1:ID},${2:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CForm_old::DeleteResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

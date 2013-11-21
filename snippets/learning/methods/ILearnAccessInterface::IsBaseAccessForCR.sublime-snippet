@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnAccessInterface::IsBaseAccessForCR(${1:in_bitmaskRequested},${2:\$isUseCache = false})]]></content>
+	<tabTrigger>ILearnAccessInterface::IsBaseAccessForCR</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::getNextName(${1:\$file = ''})]]></content>
+	<tabTrigger>CTar::getNextName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

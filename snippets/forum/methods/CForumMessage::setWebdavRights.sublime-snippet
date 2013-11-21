@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::setWebdavRights(${1:arFilter},${2:rights})]]></content>
+	<tabTrigger>CForumMessage::setWebdavRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

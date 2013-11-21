@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_checkDir(${1:dir},${2:\$isDir = false})]]></content>
+	<tabTrigger>CZip::_checkDir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

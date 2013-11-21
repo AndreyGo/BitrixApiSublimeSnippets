@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCodeEditor::Show(${1:params})]]></content>
+	<tabTrigger>CCodeEditor::Show</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

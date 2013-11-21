@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SM_VERSION]]></content>
+	<tabTrigger>SM_VERSION</tabTrigger>
+	<description>Bitrix CUpdateSystem::GetModules</description>
+	<scope>source.php</scope>
+</snippet>

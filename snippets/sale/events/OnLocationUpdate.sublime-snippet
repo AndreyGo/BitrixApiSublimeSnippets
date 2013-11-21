@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnLocationUpdate]]></content>
+	<tabTrigger>OnLocationUpdate</tabTrigger>
+	<description>Bitrix CSaleLocation::UpdateLocation</description>
+	<scope>source.php</scope>
+</snippet>

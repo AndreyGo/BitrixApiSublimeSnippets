@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeIBlockElementAdd]]></content>
+	<tabTrigger>OnBeforeIBlockElementAdd</tabTrigger>
+	<description>Bitrix CIBlockElement::CheckFields</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageSelectStructure::DisplayTree(${1:&arStructure},${2:\$systemTree = false})]]></content>
+	<tabTrigger>CPackageSelectStructure::DisplayTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

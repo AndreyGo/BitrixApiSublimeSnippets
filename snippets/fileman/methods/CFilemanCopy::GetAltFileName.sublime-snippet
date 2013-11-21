@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanCopy::GetAltFileName(${1:absPath},${2:name},${3:\$bDir = false})]]></content>
+	<tabTrigger>CFilemanCopy::GetAltFileName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

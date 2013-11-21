@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSitePath::Delete(${1:ID})]]></content>
+	<tabTrigger>CSitePath::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

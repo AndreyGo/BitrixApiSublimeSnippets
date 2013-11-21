@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketRequest::Send(${1:url},${2:page})]]></content>
+	<tabTrigger>__CControllerPacketRequest::Send</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

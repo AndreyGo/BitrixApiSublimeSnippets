@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ScaleImage(${1:sourceImageWidth},${2:sourceImageHeight},${3:arSize},${4:resizeType},${5:&\$bNeedCreatePicture},${6:&\$arSourceSize},${7:&\$arDestinationSize})]]></content>
+	<tabTrigger>CFile::ScaleImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

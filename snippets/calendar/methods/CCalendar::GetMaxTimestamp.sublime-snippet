@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetMaxTimestamp()]]></content>
+	<tabTrigger>CCalendar::GetMaxTimestamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudWebService::setDebug(${1:bActive})]]></content>
+	<tabTrigger>CBitrixCloudWebService::setDebug</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

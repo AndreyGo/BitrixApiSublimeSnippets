@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGetFilterList]]></content>
+	<tabTrigger>OnGetFilterList</tabTrigger>
+	<description>Bitrix CMailFilter::GetFilterList</description>
+	<scope>source.php</scope>
+</snippet>

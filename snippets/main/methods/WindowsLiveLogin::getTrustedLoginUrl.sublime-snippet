@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getTrustedLoginUrl()]]></content>
+	<tabTrigger>WindowsLiveLogin::getTrustedLoginUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

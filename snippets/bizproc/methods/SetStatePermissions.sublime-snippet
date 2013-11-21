@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetStatePermissions(${1:workflowId},${2:\$arStatePermissions = array()},${3:\$bRewrite = true})]]></content>
+	<tabTrigger>SetStatePermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

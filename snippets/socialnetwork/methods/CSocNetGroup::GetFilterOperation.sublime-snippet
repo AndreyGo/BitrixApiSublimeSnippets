@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::GetFilterOperation(${1:key})]]></content>
+	<tabTrigger>CSocNetGroup::GetFilterOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

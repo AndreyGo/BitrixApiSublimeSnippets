@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertySKU::GetPropertyFieldHtml(${1:arProperty},${2:arValue},${3:strHTMLControlName})]]></content>
+	<tabTrigger>CIBlockPropertySKU::GetPropertyFieldHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

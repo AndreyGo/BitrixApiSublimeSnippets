@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::GetByCodeID(${1:codeID})]]></content>
+	<tabTrigger>CHotKeys::GetByCodeID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

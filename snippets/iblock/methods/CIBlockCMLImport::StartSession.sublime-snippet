@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::StartSession(${1:sess_id})]]></content>
+	<tabTrigger>CIBlockCMLImport::StartSession</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

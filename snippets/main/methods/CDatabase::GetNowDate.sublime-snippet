@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::GetNowDate()]]></content>
+	<tabTrigger>CDatabase::GetNowDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

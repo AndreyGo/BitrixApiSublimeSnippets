@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRightsStorage::OnGroupDelete(${1:GROUP_ID})]]></content>
+	<tabTrigger>CIBlockRightsStorage::OnGroupDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

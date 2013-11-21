@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPriceUpdate]]></content>
+	<tabTrigger>OnPriceUpdate</tabTrigger>
+	<description>Bitrix CPrice::Update</description>
+	<scope>source.php</scope>
+</snippet>

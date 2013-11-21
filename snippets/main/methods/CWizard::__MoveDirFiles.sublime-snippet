@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__MoveDirFiles(${1:&arFiles})]]></content>
+	<tabTrigger>CWizard::__MoveDirFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

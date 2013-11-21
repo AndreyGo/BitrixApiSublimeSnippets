@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystemAction::GetParamValue(${1:key})]]></content>
+	<tabTrigger>CSalePaySystemAction::GetParamValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

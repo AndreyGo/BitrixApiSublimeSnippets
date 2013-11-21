@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtils::GetModifyTime(${1:path})]]></content>
+	<tabTrigger>CFilemanUtils::GetModifyTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

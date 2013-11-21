@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RewriteFile(${1:abs_path},${2:strContent})]]></content>
+	<tabTrigger>RewriteFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

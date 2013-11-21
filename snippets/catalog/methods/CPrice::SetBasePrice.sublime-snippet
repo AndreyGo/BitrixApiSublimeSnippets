@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::SetBasePrice(${1:ProductID},${2:Price},${3:Currency},${4:\$quantityFrom = 0},${5:\$quantityTo = 0},${6:\$bGetID = false})]]></content>
+	<tabTrigger>CPrice::SetBasePrice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

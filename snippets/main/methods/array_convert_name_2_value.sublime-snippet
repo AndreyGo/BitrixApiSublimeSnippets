@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[array_convert_name_2_value(${1:arr})]]></content>
+	<tabTrigger>array_convert_name_2_value</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

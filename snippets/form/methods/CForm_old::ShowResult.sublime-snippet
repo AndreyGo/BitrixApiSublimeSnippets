@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::ShowResult(${1:RESULT_ID},${2:\$TEMPLATE=""},${3:\$TEMPLATE_TYPE="show"},${4:\$SHOW_ADDITIONAL="N"},${5:\$SHOW_ANSWER_VALUE="Y"},${6:\$SHOW_STATUS="N"})]]></content>
+	<tabTrigger>CForm_old::ShowResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

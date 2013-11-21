@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::RemoveAgent(${1:arParams})]]></content>
+	<tabTrigger>CCalendar::RemoveAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

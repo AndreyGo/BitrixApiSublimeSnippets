@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::CheckWorkflowParameters(${1:arTemplateParameters},${2:arPossibleValues},${3:documentType},${4:&\$arErrors})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::CheckWorkflowParameters</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

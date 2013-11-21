@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::__InitFile(${1:old_id},${2:&\$arFields},${3:fname})]]></content>
+	<tabTrigger>CIBlockElement::__InitFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

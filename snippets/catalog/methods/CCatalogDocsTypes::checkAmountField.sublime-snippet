@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDocsTypes::checkAmountField(${1:arDocElement})]]></content>
+	<tabTrigger>CCatalogDocsTypes::checkAmountField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

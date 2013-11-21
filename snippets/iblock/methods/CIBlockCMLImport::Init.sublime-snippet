@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::Init(${1:&next_step},${2:\$files_dir = false},${3:\$use_crc = true},${4:\$preview = false},${5:\$detail = false},${6:\$use_offers = false},${7:\$use_iblock_type_id = false},${8:\$table_name = "b_xml_tree"})]]></content>
+	<tabTrigger>CIBlockCMLImport::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

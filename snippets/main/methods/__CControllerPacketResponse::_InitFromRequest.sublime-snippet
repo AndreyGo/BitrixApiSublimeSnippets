@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketResponse::_InitFromRequest(${1:oPacket},${2:\$arExclude = array('operation'},${3:'arParameters')})]]></content>
+	<tabTrigger>__CControllerPacketResponse::_InitFromRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

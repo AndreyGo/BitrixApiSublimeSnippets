@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePdf::__construct(${1:\$orientation = 'P'},${2:\$unit = 'mm'},${3:\$size = 'A4'})]]></content>
+	<tabTrigger>CSalePdf::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

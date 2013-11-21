@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetModuleEvents(${1:MODULE_ID},${2:MESSAGE_ID},${3:\$bReturnArray = false})]]></content>
+	<tabTrigger>GetModuleEvents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

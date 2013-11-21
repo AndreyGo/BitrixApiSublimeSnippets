@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::GetFileOperations(${1:arPath},${2:\$arGroups=false})]]></content>
+	<tabTrigger>CUser::GetFileOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

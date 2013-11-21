@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__FillArrays(${1:intDiscountID},${2:&\$arFields},${3:strEntityID})]]></content>
+	<tabTrigger>CCatalogDiscount::__FillArrays</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

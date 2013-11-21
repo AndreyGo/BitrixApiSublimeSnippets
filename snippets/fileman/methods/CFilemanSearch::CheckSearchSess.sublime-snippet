@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::CheckSearchSess(${1:searchSess})]]></content>
+	<tabTrigger>CFilemanSearch::CheckSearchSess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

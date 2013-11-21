@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBlogPostMentionNotifyIm]]></content>
+	<tabTrigger>OnBlogPostMentionNotifyIm</tabTrigger>
+	<description>Bitrix CBlogPost::NotifyIm</description>
+	<scope>source.php</scope>
+</snippet>

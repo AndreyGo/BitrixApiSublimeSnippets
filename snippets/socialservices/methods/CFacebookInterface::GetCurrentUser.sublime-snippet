@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFacebookInterface::GetCurrentUser()]]></content>
+	<tabTrigger>CFacebookInterface::GetCurrentUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

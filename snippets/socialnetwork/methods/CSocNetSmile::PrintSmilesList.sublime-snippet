@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSmile::PrintSmilesList(${1:num_cols},${2:\$strLang = False},${3:\$strPath2Icons = False},${4:\$cacheTime = False})]]></content>
+	<tabTrigger>CSocNetSmile::PrintSmilesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

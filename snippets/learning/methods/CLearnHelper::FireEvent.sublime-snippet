@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnHelper::FireEvent(${1:eventName},${2:eventParams})]]></content>
+	<tabTrigger>CLearnHelper::FireEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

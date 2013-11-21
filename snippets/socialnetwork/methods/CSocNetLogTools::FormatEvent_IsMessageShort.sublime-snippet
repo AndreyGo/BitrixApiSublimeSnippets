@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatEvent_IsMessageShort(${1:message},${2:\$short_message = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatEvent_IsMessageShort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::Save()]]></content>
+	<tabTrigger>CBPActivity::Save</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetComponentID(${1:componentName},${2:componentTemplate},${3:additionalID})]]></content>
+	<tabTrigger>CAjax::GetComponentID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

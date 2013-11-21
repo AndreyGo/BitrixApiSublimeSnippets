@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserOptions::SetCookieOptions(${1:cookieName})]]></content>
+	<tabTrigger>CUserOptions::SetCookieOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

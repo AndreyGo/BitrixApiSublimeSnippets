@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackup::addBackupJob(${1:secret_key},${2:url},${3:\$time = 0},${4:\$weekdays = array()})]]></content>
+	<tabTrigger>CBitrixCloudBackup::addBackupJob</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

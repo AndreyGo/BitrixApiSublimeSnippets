@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatEvent_SystemFriends(${1:arFields},${2:arParams},${3:\$bMail = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatEvent_SystemFriends</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

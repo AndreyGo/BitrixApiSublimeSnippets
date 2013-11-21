@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnMedialibItemView]]></content>
+	<tabTrigger>OnMedialibItemView</tabTrigger>
+	<description>Bitrix CMedialib::GetItemViewHTML</description>
+	<scope>source.php</scope>
+</snippet>

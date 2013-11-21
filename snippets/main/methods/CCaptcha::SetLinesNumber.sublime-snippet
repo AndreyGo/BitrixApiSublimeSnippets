@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetLinesNumber(${1:num})]]></content>
+	<tabTrigger>CCaptcha::SetLinesNumber</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

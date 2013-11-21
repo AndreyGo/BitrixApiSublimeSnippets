@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::Ucs4ToUtf8(${1:input})]]></content>
+	<tabTrigger>CBXPunycode::Ucs4ToUtf8</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

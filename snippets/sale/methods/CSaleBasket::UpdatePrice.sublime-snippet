@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::UpdatePrice(${1:ID},${2:\$callbackFunc = ""},${3:\$module = ""},${4:\$productID = 0},${5:\$quantity = 0},${6:\$renewal = "N"},${7:\$productProvider = ""})]]></content>
+	<tabTrigger>CSaleBasket::UpdatePrice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

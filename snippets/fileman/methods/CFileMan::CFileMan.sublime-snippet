@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::CFileMan()]]></content>
+	<tabTrigger>CFileMan::CFileMan</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

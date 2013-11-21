@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTaxRate::GetList(${1:\$arOrder = array("APPLY_ORDER"=>"ASC")},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CSaleTaxRate::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

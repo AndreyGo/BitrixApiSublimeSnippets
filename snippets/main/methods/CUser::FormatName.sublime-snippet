@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::FormatName(${1:NAME_TEMPLATE},${2:arUser},${3:\$bUseLogin = true},${4:\$bHTMLSpec = true})]]></content>
+	<tabTrigger>CUser::FormatName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

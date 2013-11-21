@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnGraphRelation::Link(${1:parentNodeId},${2:childNodeId},${3:arProperties})]]></content>
+	<tabTrigger>CLearnGraphRelation::Link</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

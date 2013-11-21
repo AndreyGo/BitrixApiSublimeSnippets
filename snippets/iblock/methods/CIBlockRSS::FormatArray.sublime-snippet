@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::FormatArray(${1:&arRes},${2:\$bOutChannel=false})]]></content>
+	<tabTrigger>CIBlockRSS::FormatArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

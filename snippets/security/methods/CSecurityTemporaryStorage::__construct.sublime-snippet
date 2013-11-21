@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityTemporaryStorage::__construct(${1:\$sessionKey = ''},${2:\$forceFlush = false})]]></content>
+	<tabTrigger>CSecurityTemporaryStorage::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

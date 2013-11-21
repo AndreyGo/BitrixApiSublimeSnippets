@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarWebService::__getRow(${1:event},${2:listName},${3:&\$last_change})]]></content>
+	<tabTrigger>CCalendarWebService::__getRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

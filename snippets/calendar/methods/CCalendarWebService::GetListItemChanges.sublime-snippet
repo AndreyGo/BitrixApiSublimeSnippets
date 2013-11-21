@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarWebService::GetListItemChanges(${1:listName},${2:\$viewFields = ''},${3:\$since = ''},${4:\$contains = ''})]]></content>
+	<tabTrigger>CCalendarWebService::GetListItemChanges</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

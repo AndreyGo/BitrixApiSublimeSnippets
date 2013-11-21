@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_openAppend()]]></content>
+	<tabTrigger>CArchiver::_openAppend</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

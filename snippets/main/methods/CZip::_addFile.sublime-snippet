@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_addFile(${1:filename},${2:&\$arHeader},${3:addDir},${4:removeDir},${5:removeAllDir},${6:&\$arParams})]]></content>
+	<tabTrigger>CZip::_addFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

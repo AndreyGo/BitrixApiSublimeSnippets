@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput_old::Init(${1:arParams},${2:\$admin = false})]]></content>
+	<tabTrigger>CFormOutput_old::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

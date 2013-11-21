@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::SetMailTemplate(${1:WEB_FORM_ID},${2:\$ADD_NEW_TEMPLATE="Y"},${3:\$old_SID=""},${4:\$bReturnFullInfo = false})]]></content>
+	<tabTrigger>CForm::SetMailTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowAjaxHead(${1:\$bXhtmlStyle = true},${2:\$showCSS = true},${3:\$showStrings = true},${4:\$showScripts = true})]]></content>
+	<tabTrigger>CMain::ShowAjaxHead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

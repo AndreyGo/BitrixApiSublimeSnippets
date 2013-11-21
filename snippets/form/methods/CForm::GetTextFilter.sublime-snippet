@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetTextFilter(${1:FID},${2:\$size="45"},${3:\$field_text="class=\"inputtext\""},${4:\$field_checkbox="class=\"inputcheckbox\""})]]></content>
+	<tabTrigger>CForm::GetTextFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

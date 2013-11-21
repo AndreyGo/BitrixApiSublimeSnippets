@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::IsExistsDiscountFilterCache(${1:arCatalogGroups},${2:arUserGroups})]]></content>
+	<tabTrigger>CCatalogDiscount::IsExistsDiscountFilterCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfAccelWinCache::CPerfAccelWinCache()]]></content>
+	<tabTrigger>CPerfAccelWinCache::CPerfAccelWinCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

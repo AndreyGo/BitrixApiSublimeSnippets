@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::GetTransfersOfState(${1:arWorkflowTemplate},${2:stateName})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::GetTransfersOfState</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliate::OnBeforeUserDelete(${1:UserID})]]></content>
+	<tabTrigger>CSaleAffiliate::OnBeforeUserDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

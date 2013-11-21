@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDocs::update(${1:id},${2:arFields})]]></content>
+	<tabTrigger>CCatalogDocs::update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

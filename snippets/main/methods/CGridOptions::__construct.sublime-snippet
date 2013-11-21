@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::__construct(${1:grid_id})]]></content>
+	<tabTrigger>CGridOptions::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

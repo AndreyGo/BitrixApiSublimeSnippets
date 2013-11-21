@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogAdmin::OnBuildSaleExportMenu(${1:strItemID})]]></content>
+	<tabTrigger>CCatalogAdmin::OnBuildSaleExportMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

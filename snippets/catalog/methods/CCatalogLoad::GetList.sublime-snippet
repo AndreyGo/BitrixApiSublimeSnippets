@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogLoad::GetList(${1:\$arOrder=Array("LAST_USED"=>"DESC")},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CCatalogLoad::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

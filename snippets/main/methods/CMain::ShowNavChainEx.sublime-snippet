@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowNavChainEx(${1:\$path=false},${2:\$iNumFrom=0},${3:\$sNavChainPath=false})]]></content>
+	<tabTrigger>CMain::ShowNavChainEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnDocumentElementDelete]]></content>
+	<tabTrigger>OnDocumentElementDelete</tabTrigger>
+	<description>Bitrix CCatalogStoreDocsElementAll::OnDocumentBarcodeDelete</description>
+	<scope>source.php</scope>
+</snippet>

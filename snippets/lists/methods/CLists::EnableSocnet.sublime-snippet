@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::EnableSocnet(${1:\$bActive = false})]]></content>
+	<tabTrigger>CLists::EnableSocnet</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

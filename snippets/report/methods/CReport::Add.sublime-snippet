@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::Add(${1:settings})]]></content>
+	<tabTrigger>CReport::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

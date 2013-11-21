@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::_Init()]]></content>
+	<tabTrigger>CMobile::_Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

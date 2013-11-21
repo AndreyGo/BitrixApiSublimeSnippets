@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetForm(${1:form_params},${2:container_id},${3:ajax_id},${4:\$bReplace = true},${5:\$bShadow = true})]]></content>
+	<tabTrigger>CAjax::GetForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

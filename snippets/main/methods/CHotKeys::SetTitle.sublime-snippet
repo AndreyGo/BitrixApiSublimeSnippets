@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::SetTitle(${1:className},${2:\$forHint = false})]]></content>
+	<tabTrigger>CHotKeys::SetTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

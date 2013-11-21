@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convertTimeToMilitary(${1:strTime},${2:\$fromFormat = 'H:MI T'},${3:\$toFormat = 'HH:MI'})]]></content>
+	<tabTrigger>convertTimeToMilitary</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

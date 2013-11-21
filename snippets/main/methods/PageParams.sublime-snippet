@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PageParams(${1:\$bUrlEncode = true})]]></content>
+	<tabTrigger>PageParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

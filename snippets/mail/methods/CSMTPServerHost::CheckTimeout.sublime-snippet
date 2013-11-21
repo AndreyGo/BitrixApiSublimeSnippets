@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPServerHost::CheckTimeout(${1:timeout})]]></content>
+	<tabTrigger>CSMTPServerHost::CheckTimeout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

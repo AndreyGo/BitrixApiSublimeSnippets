@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPushManager::_MakeJson(${1:arData},${2:bWS},${3:bSkipTilda})]]></content>
+	<tabTrigger>CPushManager::_MakeJson</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::IsOldVersion()]]></content>
+	<tabTrigger>CVote::IsOldVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

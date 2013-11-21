@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrlComplex::Parse(${1:arOneCondition})]]></content>
+	<tabTrigger>CGlobalCondCtrlComplex::Parse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

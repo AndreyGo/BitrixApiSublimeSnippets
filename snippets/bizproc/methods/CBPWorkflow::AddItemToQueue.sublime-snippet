@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::AddItemToQueue(${1:item})]]></content>
+	<tabTrigger>CBPWorkflow::AddItemToQueue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

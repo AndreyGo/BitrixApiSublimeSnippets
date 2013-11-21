@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetStatList(${1:by},${2:order},${3:arFilter})]]></content>
+	<tabTrigger>CAdvContract::GetStatList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

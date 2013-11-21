@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountCoupon::SetCouponByManage(${1:intUserID},${2:strCoupon})]]></content>
+	<tabTrigger>CCatalogDiscountCoupon::SetCouponByManage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

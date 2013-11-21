@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::SetLastVisit()]]></content>
+	<tabTrigger>CBlogUser::SetLastVisit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

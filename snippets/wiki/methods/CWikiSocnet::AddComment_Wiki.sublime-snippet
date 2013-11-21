@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::AddComment_Wiki(${1:arFields})]]></content>
+	<tabTrigger>CWikiSocnet::AddComment_Wiki</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

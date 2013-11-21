@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeHTMLEditorScriptsGet]]></content>
+	<tabTrigger>OnBeforeHTMLEditorScriptsGet</tabTrigger>
+	<description>Bitrix </description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockDropDownListEx(${1:IBLOCK_ID},${2:strTypeName},${3:strIBlockName},${4:\$arFilter = false},${5:\$onChangeType = ''},${6:\$onChangeIBlock = ''},${7:\$strAddType = ''},${8:\$strAddIBlock = ''})]]></content>
+	<tabTrigger>GetIBlockDropDownListEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

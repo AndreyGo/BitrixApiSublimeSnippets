@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::LoadWorkflow(${1:instanceId})]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::LoadWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

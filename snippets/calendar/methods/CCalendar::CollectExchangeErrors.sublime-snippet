@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::CollectExchangeErrors(${1:\$arErrors = array()})]]></content>
+	<tabTrigger>CCalendar::CollectExchangeErrors</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

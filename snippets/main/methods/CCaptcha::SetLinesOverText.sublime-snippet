@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetLinesOverText(${1:bLinesOverText})]]></content>
+	<tabTrigger>CCaptcha::SetLinesOverText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

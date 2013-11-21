@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocation::setPrefixes(${1:prefixes})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocation::setPrefixes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

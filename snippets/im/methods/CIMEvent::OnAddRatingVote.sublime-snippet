@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMEvent::OnAddRatingVote(${1:id},${2:arParams})]]></content>
+	<tabTrigger>CIMEvent::OnAddRatingVote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

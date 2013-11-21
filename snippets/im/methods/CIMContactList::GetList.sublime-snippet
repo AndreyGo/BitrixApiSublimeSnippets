@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::GetList(${1:\$arParams = Array()})]]></content>
+	<tabTrigger>CIMContactList::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

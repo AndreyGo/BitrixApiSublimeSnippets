@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SetExcludeSites(${1:sites})]]></content>
+	<tabTrigger>CPullOptions::SetExcludeSites</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

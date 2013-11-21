@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderUserProps::ClearEmpty()]]></content>
+	<tabTrigger>CSaleOrderUserProps::ClearEmpty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

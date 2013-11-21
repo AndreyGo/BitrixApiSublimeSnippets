@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAuxiliary::CheckAccess(${1:userID},${2:itemMD5},${3:periodLength},${4:periodType})]]></content>
+	<tabTrigger>CSaleAuxiliary::CheckAccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

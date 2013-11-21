@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::LetterToOperations(${1:\$letter = ''})]]></content>
+	<tabTrigger>CIBlockRights::LetterToOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

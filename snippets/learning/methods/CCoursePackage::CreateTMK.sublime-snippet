@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCoursePackage::CreateTMK(${1:arParams},${2:\$res_id = 1})]]></content>
+	<tabTrigger>CCoursePackage::CreateTMK</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

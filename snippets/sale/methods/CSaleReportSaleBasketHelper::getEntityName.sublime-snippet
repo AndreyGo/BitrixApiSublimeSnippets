@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleBasketHelper::getEntityName()]]></content>
+	<tabTrigger>CSaleReportSaleBasketHelper::getEntityName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

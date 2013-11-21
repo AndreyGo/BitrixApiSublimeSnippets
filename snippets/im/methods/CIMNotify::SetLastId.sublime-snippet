@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::SetLastId(${1:chatId},${2:\$lastId = null})]]></content>
+	<tabTrigger>CIMNotify::SetLastId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

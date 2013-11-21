@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::GetNewChannelId()]]></content>
+	<tabTrigger>CPullChannel::GetNewChannelId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::rulescriptglobals()]]></content>
+	<tabTrigger>CSecurityAntiVirus::rulescriptglobals</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

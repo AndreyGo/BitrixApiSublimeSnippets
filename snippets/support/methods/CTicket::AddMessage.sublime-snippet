@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::AddMessage(${1:ticketID},${2:arFields},${3:&\$arrFILES},${4:\$checkRights="Y"})]]></content>
+	<tabTrigger>CTicket::AddMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccess::GetSymbolsAccessibleToLesson(${1:in_lessonId},${2:in_bitmaskOperations},${3:\$isUseCache = false})]]></content>
+	<tabTrigger>CLearnAccess::GetSymbolsAccessibleToLesson</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

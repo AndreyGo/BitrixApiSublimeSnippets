@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::ShowParams()]]></content>
+	<tabTrigger>CGlobalCondTree::ShowParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

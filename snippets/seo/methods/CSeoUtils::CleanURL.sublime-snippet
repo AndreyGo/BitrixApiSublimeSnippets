@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoUtils::CleanURL(${1:URL})]]></content>
+	<tabTrigger>CSeoUtils::CleanURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

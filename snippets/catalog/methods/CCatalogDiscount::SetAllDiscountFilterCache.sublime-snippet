@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::SetAllDiscountFilterCache(${1:arDiscountCache},${2:\$boolNeedClear = true})]]></content>
+	<tabTrigger>CCatalogDiscount::SetAllDiscountFilterCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

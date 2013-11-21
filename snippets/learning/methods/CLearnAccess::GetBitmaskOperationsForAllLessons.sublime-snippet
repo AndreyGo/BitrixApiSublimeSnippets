@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccess::GetBitmaskOperationsForAllLessons(${1:arUserAccessSymbols})]]></content>
+	<tabTrigger>CLearnAccess::GetBitmaskOperationsForAllLessons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

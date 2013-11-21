@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarType::CheckType(${1:xmlId},${2:\$userId = false})]]></content>
+	<tabTrigger>CCalendarType::CheckType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXFavUrls::GetPresetId(${1:url})]]></content>
+	<tabTrigger>CBXFavUrls::GetPresetId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

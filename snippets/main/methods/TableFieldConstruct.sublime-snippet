@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TableFieldConstruct(${1:f0})]]></content>
+	<tabTrigger>TableFieldConstruct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSubscriptionGeneral::UpdateRubrics(${1:ID},${2:aRubric},${3:\$SITE_ID=false})]]></content>
+	<tabTrigger>CSubscriptionGeneral::UpdateRubrics</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

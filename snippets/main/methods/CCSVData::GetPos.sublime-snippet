@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVData::GetPos()]]></content>
+	<tabTrigger>CCSVData::GetPos</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterOrderAddHistory]]></content>
+	<tabTrigger>OnAfterOrderAddHistory</tabTrigger>
+	<description>Bitrix CSaleOrder::AddOrderHistory</description>
+	<scope>source.php</scope>
+</snippet>

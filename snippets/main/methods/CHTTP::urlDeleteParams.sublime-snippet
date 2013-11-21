@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::urlDeleteParams(${1:url},${2:delete_params},${3:\$options = array()})]]></content>
+	<tabTrigger>CHTTP::urlDeleteParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

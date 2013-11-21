@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::setHeader(${1:key},${2:value})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::setHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

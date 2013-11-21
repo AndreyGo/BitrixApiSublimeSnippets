@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MkDateTime(${1:strDT},${2:\$format="d.m.Y H:i:s"})]]></content>
+	<tabTrigger>MkDateTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

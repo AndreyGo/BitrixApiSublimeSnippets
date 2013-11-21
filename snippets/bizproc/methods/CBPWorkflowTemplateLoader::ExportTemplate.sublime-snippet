@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ExportTemplate(${1:id},${2:\$bCompress = true})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ExportTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

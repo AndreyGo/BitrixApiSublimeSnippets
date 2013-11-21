@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::GetGUIFieldEdit(${1:documentType},${2:formName},${3:fieldName},${4:fieldValue},${5:arDocumentField},${6:bAllowSelection})]]></content>
+	<tabTrigger>CBPHelper::GetGUIFieldEdit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

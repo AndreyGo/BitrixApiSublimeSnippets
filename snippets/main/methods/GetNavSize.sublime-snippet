@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetNavSize(${1:\$table_id=false},${2:\$nPageSize=20})]]></content>
+	<tabTrigger>GetNavSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

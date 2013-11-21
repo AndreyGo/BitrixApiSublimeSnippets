@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchUser::SetGroups(${1:arGroups})]]></content>
+	<tabTrigger>CSearchUser::SetGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

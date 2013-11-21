@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteDirFiles(${1:frDir},${2:toDir},${3:\$arExept = array()})]]></content>
+	<tabTrigger>DeleteDirFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

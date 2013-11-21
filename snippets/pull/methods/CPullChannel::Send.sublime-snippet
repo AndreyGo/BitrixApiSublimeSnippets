@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::Send(${1:channelId},${2:message},${3:\$method = 'POST'},${4:\$timeout = 5},${5:\$dont_wait_answer = true})]]></content>
+	<tabTrigger>CPullChannel::Send</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

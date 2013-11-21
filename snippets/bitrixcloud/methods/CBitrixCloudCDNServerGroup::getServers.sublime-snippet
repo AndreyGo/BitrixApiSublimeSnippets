@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNServerGroup::getServers()]]></content>
+	<tabTrigger>CBitrixCloudCDNServerGroup::getServers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

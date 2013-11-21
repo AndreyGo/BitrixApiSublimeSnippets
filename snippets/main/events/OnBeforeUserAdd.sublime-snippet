@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserAdd]]></content>
+	<tabTrigger>OnBeforeUserAdd</tabTrigger>
+	<description>Bitrix CUser::CheckFields</description>
+	<scope>source.php</scope>
+</snippet>

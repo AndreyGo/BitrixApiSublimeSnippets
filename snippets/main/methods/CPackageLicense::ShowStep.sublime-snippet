@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageLicense::ShowStep()]]></content>
+	<tabTrigger>CPackageLicense::ShowStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

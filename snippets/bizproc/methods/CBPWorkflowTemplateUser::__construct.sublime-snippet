@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateUser::__construct(${1:\$userId = null})]]></content>
+	<tabTrigger>CBPWorkflowTemplateUser::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

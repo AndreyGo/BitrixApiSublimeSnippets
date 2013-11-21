@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddGroupError(${1:strError},${2:\$id = false})]]></content>
+	<tabTrigger>AddGroupError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

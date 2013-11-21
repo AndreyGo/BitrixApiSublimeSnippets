@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFacebookInterface::GetAccessToken(${1:redirect_uri})]]></content>
+	<tabTrigger>CFacebookInterface::GetAccessToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

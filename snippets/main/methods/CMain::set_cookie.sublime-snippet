@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::set_cookie(${1:name},${2:value},${3:\$time=false},${4:\$folder="/"},${5:\$domain=false},${6:\$secure=false},${7:\$spread=true},${8:\$name_prefix=false},${9:\$httpOnly=false})]]></content>
+	<tabTrigger>CMain::set_cookie</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

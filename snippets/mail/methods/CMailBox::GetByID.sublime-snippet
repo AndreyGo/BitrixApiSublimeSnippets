@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::GetByID(${1:ID})]]></content>
+	<tabTrigger>CMailBox::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

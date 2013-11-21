@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearchIndex(${1:entity_id},${2:ID})]]></content>
+	<tabTrigger>OnSearchIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

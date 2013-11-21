@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetTasks(${1:ID},${2:\$onlyMainTasks=true},${3:\$module_id=false})]]></content>
+	<tabTrigger>CGroup::GetTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

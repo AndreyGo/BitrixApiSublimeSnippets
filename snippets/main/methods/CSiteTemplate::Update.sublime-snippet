@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteTemplate::Update(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CSiteTemplate::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

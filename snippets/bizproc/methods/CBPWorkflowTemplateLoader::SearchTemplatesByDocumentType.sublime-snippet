@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::SearchTemplatesByDocumentType(${1:documentType},${2:\$autoExecute = -1})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::SearchTemplatesByDocumentType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

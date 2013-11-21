@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFieldList::Order(${1:a},${2:b})]]></content>
+	<tabTrigger>CListFieldList::Order</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPUnit_Util_Log_BX_Plain::write(${1:buffer})]]></content>
+	<tabTrigger>PHPUnit_Util_Log_BX_Plain::write</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogDestination::GetGratMedalUsers(${1:\$arParams = Array()})]]></content>
+	<tabTrigger>CSocNetLogDestination::GetGratMedalUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

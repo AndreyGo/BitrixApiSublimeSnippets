@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::GetProductProvider(${1:arBasketItem})]]></content>
+	<tabTrigger>CSaleBasket::GetProductProvider</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

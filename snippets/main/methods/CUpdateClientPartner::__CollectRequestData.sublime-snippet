@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::__CollectRequestData(${1:&strError},${2:\$lang = false},${3:\$stableVersionsOnly = "Y"},${4:\$arRequestedModules = array()},${5:\$arAdditionalData = array()},${6:\$bStrongList = false})]]></content>
+	<tabTrigger>CUpdateClientPartner::__CollectRequestData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SESSION_MEMCACHE_HOST]]></content>
+	<tabTrigger>BX_SECURITY_SESSION_MEMCACHE_HOST</tabTrigger>
+	<description>Bitrix CSecuritySessionMC::isStorageEnabled</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FORMAT_DATETIME]]></content>
+	<tabTrigger>FORMAT_DATETIME</tabTrigger>
+	<description>Bitrix CSite::GetDateFormat</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminResult(${1:res},${2:table_id})]]></content>
+	<tabTrigger>CAdminResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

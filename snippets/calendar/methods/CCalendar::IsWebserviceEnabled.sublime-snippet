@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsWebserviceEnabled()]]></content>
+	<tabTrigger>CCalendar::IsWebserviceEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

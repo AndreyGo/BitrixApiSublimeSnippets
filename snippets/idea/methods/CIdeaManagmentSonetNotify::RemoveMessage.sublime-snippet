@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentSonetNotify::RemoveMessage(${1:\$MessageId = false})]]></content>
+	<tabTrigger>CIdeaManagmentSonetNotify::RemoveMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::AddToUserGroup(${1:ID},${2:blogID},${3:\$arGroups = array()},${4:\$joinStatus = "Y"},${5:\$selectType = BLOG_BY_BLOG_USER_ID},${6:\$action = BLOG_CHANGE})]]></content>
+	<tabTrigger>CBlogUser::AddToUserGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

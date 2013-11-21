@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogCounter::Increment(${1:log_id},${2:\$entity_type = false},${3:\$entity_id = false},${4:\$event_id = false},${5:\$created_by_id = false},${6:\$arOfEntities = false},${7:\$arAdmin = false},${8:\$transport = false},${9:\$visible = "Y"},${10:\$type = "L"})]]></content>
+	<tabTrigger>CSocNetLogCounter::Increment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

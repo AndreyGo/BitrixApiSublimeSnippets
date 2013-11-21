@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageInstallSite::CPackageInstallSite(${1:package},${2:siteID})]]></content>
+	<tabTrigger>CPackageInstallSite::CPackageInstallSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

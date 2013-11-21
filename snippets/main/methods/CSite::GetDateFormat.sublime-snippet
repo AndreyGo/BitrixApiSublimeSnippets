@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetDateFormat(${1:\$type="FULL"},${2:\$lang=false},${3:\$bSearchInSitesOnly=false})]]></content>
+	<tabTrigger>CSite::GetDateFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

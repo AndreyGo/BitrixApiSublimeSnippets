@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fill_arc(${1:start},${2:end},${3:color})]]></content>
+	<tabTrigger>fill_arc</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

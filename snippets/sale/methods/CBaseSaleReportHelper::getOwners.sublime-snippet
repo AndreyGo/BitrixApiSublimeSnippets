@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::getOwners()]]></content>
+	<tabTrigger>CBaseSaleReportHelper::getOwners</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

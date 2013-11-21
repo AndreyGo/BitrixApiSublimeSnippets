@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::AddEditAction(${1:entryId},${2:editLink},${3:\$editTitle = false},${4:\$arParams = array()})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::AddEditAction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

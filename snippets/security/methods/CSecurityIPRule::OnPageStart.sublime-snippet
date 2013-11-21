@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::OnPageStart(${1:\$use_query = false})]]></content>
+	<tabTrigger>CSecurityIPRule::OnPageStart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::GetIBVersion(${1:iblock_id})]]></content>
+	<tabTrigger>CIBlockElement::GetIBVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

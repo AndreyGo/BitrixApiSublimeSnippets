@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::__sortList(${1:&arHandlersList},${2:arSort})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::__sortList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

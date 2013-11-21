@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NewMessageForum(${1:FID},${2:\$LAST_POST_DATE = false})]]></content>
+	<tabTrigger>NewMessageForum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

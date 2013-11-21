@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVideo::GetSettingsHTML(${1:\$arUserField = array()},${2:arHtmlControl},${3:bVarsFromForm})]]></content>
+	<tabTrigger>CUserTypeVideo::GetSettingsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

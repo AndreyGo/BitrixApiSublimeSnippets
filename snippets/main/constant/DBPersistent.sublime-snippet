@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DBPersistent]]></content>
+	<tabTrigger>DBPersistent</tabTrigger>
+	<description>Bitrix CDatabase::Connect</description>
+	<scope>source.php</scope>
+</snippet>

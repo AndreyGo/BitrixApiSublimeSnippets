@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::SetDefaultRowsOption(${1:filterId},${2:rows})]]></content>
+	<tabTrigger>CAdminFilter::SetDefaultRowsOption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

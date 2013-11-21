@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowFileSelectDialog(${1:event},${2:arResultDest},${3:\$arPath = array()},${4:\$fileFilter = ""},${5:\$bAllowFolderSelect = False})]]></content>
+	<tabTrigger>CMain::ShowFileSelectDialog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

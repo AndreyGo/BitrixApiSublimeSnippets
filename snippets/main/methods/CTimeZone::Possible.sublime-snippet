@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::Possible()]]></content>
+	<tabTrigger>CTimeZone::Possible</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

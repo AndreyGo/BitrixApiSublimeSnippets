@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityTemporaryStorage::clearAll()]]></content>
+	<tabTrigger>CSecurityTemporaryStorage::clearAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

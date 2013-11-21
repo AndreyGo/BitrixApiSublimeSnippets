@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPageOption::GetOptionInt(${1:module_id},${2:name},${3:\$def=""},${4:\$site=false})]]></content>
+	<tabTrigger>CPageOption::GetOptionInt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

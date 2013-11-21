@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::GetByUrl(${1:BLOG_URL},${2:\$arGroup = Array()})]]></content>
+	<tabTrigger>CBlog::GetByUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

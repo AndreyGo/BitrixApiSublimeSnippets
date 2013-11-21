@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventLog::GetList(${1:\$arOrder = Array("ID" => "DESC")},${2:\$arFilter = array()},${3:\$arNavParams = false})]]></content>
+	<tabTrigger>CEventLog::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

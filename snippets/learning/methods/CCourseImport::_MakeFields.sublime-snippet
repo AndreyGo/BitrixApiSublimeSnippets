@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourseImport::_MakeFields(${1:&arFields},${2:\$itemType = null})]]></content>
+	<tabTrigger>CCourseImport::_MakeFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

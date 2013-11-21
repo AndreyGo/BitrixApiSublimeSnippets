@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMEvent::OnUserDelete(${1:ID})]]></content>
+	<tabTrigger>CIMEvent::OnUserDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

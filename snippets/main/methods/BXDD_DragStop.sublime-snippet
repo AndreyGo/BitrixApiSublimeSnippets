@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BXDD_DragStop()]]></content>
+	<tabTrigger>BXDD_DragStop</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

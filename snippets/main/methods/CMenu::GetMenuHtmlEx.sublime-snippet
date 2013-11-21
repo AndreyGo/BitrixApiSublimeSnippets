@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMenu::GetMenuHtmlEx()]]></content>
+	<tabTrigger>CMenu::GetMenuHtmlEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

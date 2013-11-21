@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_DISABLE_TEMPLATE_EDITOR]]></content>
+	<tabTrigger>BX_DISABLE_TEMPLATE_EDITOR</tabTrigger>
+	<description>Bitrix ShowParamsHTMLByArray</description>
+	<scope>source.php</scope>
+</snippet>

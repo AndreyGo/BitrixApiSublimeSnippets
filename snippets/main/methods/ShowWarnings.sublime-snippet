@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowWarnings(${1:form},${2:messages},${3:\$aFields=false})]]></content>
+	<tabTrigger>ShowWarnings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

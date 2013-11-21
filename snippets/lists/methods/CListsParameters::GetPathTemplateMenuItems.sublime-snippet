@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListsParameters::GetPathTemplateMenuItems(${1:menuType},${2:action_function},${3:menuID},${4:\$inputID = ""})]]></content>
+	<tabTrigger>CListsParameters::GetPathTemplateMenuItems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

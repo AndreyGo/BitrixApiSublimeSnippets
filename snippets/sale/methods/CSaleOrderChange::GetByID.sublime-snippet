@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderChange::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSaleOrderChange::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

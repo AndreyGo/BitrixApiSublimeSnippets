@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::Add(${1:arFields},${2:\$bSendEvent = true})]]></content>
+	<tabTrigger>CSocNetLog::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

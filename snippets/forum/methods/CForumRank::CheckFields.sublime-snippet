@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumRank::CheckFields(${1:ACTION},${2:&\$arFields})]]></content>
+	<tabTrigger>CForumRank::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

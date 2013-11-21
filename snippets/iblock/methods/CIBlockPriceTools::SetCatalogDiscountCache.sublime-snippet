@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPriceTools::SetCatalogDiscountCache(${1:arCatalogGroups},${2:arUserGroups})]]></content>
+	<tabTrigger>CIBlockPriceTools::SetCatalogDiscountCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

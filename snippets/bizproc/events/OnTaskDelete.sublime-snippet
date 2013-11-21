@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTaskDelete]]></content>
+	<tabTrigger>OnTaskDelete</tabTrigger>
+	<description>Bitrix DeleteByWorkflow</description>
+	<scope>source.php</scope>
+</snippet>

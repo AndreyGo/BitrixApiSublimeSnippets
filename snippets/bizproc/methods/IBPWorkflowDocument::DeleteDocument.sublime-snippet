@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::DeleteDocument(${1:documentId})]]></content>
+	<tabTrigger>IBPWorkflowDocument::DeleteDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

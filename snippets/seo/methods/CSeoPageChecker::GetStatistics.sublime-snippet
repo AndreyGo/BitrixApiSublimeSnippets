@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoPageChecker::GetStatistics()]]></content>
+	<tabTrigger>CSeoPageChecker::GetStatistics</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

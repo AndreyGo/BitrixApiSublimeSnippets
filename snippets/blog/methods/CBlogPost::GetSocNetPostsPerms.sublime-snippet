@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::GetSocNetPostsPerms(${1:entity_type},${2:entity_id})]]></content>
+	<tabTrigger>CBlogPost::GetSocNetPostsPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

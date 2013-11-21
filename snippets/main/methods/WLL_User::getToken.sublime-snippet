@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_User::getToken()]]></content>
+	<tabTrigger>WLL_User::getToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetDayLen()]]></content>
+	<tabTrigger>CCalendar::GetDayLen</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

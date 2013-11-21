@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::InitJS(${1:JSConfig})]]></content>
+	<tabTrigger>CCalendarSceleton::InitJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

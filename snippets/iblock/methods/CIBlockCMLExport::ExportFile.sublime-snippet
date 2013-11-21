@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::ExportFile(${1:FILE_ID})]]></content>
+	<tabTrigger>CIBlockCMLExport::ExportFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

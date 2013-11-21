@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullWatch::DeferredSql(${1:\$userId = false})]]></content>
+	<tabTrigger>CPullWatch::DeferredSql</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

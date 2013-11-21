@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforeTopicAdd]]></content>
+	<tabTrigger>onBeforeTopicAdd</tabTrigger>
+	<description>Bitrix CForumTopic::Add</description>
+	<scope>source.php</scope>
+</snippet>

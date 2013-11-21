@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceSQL::Clear()]]></content>
+	<tabTrigger>CPerfomanceSQL::Clear</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

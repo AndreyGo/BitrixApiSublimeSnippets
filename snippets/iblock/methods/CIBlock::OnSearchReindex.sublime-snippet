@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::OnSearchReindex(${1:\$NS=Array()},${2:\$oCallback=NULL},${3:\$callback_method=""})]]></content>
+	<tabTrigger>CIBlock::OnSearchReindex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

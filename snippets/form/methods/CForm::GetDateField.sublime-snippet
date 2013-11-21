@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetDateField(${1:FIELD_NAME},${2:FORM_NAME},${3:\$VALUE=""},${4:\$FIELD_WIDTH=""},${5:\$PARAM=""})]]></content>
+	<tabTrigger>CForm::GetDateField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::SetCurUri(${1:\$uri=false})]]></content>
+	<tabTrigger>CAdvBanner::SetCurUri</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

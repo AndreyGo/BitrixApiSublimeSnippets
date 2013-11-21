@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeSendMailToAuthor]]></content>
+	<tabTrigger>OnBeforeSendMailToAuthor</tabTrigger>
+	<description>Bitrix CTicket::Set_sendMails</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::InputFile(${1:strFieldName},${2:int_field_size},${3:strImageID},${4:\$strImageStorePath=false},${5:\$int_max_file_size=0},${6:\$strFileType="IMAGE"},${7:\$field_file="class=typefile"},${8:\$description_size=0},${9:\$field_text="class=typeinput"},${10:\$field_checkbox=""},${11:\$bShowNotes = true},${12:\$bShowFilePath = true})]]></content>
+	<tabTrigger>CFile::InputFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::SendRequestToBeFriend(${1:senderUserID},${2:targetUserID},${3:message})]]></content>
+	<tabTrigger>CSocNetUserRelations::SendRequestToBeFriend</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

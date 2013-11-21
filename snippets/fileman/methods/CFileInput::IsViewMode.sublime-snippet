@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileInput::IsViewMode()]]></content>
+	<tabTrigger>CFileInput::IsViewMode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

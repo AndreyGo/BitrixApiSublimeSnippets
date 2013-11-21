@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetShowIncludeAreas(${1:\$bShow=true})]]></content>
+	<tabTrigger>CMain::SetShowIncludeAreas</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

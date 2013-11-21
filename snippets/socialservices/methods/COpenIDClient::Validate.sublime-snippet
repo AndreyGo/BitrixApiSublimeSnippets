@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COpenIDClient::Validate()]]></content>
+	<tabTrigger>COpenIDClient::Validate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

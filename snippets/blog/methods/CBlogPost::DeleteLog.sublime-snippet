@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::DeleteLog(${1:postID},${2:\$bMicroblog = false})]]></content>
+	<tabTrigger>CBlogPost::DeleteLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

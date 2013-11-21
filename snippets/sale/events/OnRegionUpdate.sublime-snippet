@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnRegionUpdate]]></content>
+	<tabTrigger>OnRegionUpdate</tabTrigger>
+	<description>Bitrix CSaleLocation::UpdateRegion</description>
+	<scope>source.php</scope>
+</snippet>

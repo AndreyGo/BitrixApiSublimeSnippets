@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDN::domainChanged()]]></content>
+	<tabTrigger>CBitrixCloudCDN::domainChanged</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

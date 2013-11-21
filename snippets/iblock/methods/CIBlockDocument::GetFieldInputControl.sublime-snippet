@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::GetFieldInputControl(${1:documentType},${2:arFieldType},${3:arFieldName},${4:fieldValue},${5:\$bAllowSelection = false},${6:\$publicMode = false})]]></content>
+	<tabTrigger>CIBlockDocument::GetFieldInputControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

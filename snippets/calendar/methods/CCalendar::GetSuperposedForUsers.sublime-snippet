@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetSuperposedForUsers(${1:arUsers},${2:\$userId = false})]]></content>
+	<tabTrigger>CCalendar::GetSuperposedForUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

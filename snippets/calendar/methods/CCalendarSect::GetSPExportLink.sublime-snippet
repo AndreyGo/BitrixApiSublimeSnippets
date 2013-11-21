@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::GetSPExportLink()]]></content>
+	<tabTrigger>CCalendarSect::GetSPExportLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAgent::AddAgent(${1:N/A})]]></content>
+	<tabTrigger>CAgent::AddAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

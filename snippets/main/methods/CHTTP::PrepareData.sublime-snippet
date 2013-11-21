@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::PrepareData(${1:arPostData},${2:\$prefix = ''})]]></content>
+	<tabTrigger>CHTTP::PrepareData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

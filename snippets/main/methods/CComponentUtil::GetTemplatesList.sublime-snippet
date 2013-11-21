@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::GetTemplatesList(${1:componentName},${2:\$currentTemplate = false})]]></content>
+	<tabTrigger>CComponentUtil::GetTemplatesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

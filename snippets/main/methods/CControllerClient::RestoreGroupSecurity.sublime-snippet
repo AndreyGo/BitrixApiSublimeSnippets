@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::RestoreGroupSecurity(${1:group_code},${2:arModules})]]></content>
+	<tabTrigger>CControllerClient::RestoreGroupSecurity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListPage::getDataSource(${1:arOrder},${2:arFilter},${3:arSelect})]]></content>
+	<tabTrigger>CAdminListPage::getDataSource</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

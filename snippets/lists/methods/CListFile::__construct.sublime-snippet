@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFile::__construct(${1:list_id},${2:section_id},${3:element_id},${4:field_id},${5:file_id})]]></content>
+	<tabTrigger>CListFile::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

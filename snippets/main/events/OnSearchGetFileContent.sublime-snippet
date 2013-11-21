@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearchGetFileContent]]></content>
+	<tabTrigger>OnSearchGetFileContent</tabTrigger>
+	<description>Bitrix CUserTypeFile::__GetFileContent</description>
+	<scope>source.php</scope>
+</snippet>

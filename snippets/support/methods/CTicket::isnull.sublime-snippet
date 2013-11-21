@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::isnull(${1:field},${2:alternative})]]></content>
+	<tabTrigger>CTicket::isnull</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

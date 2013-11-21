@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetLang(${1:\$cur_dir=false},${2:\$cur_host=false})]]></content>
+	<tabTrigger>CMain::GetLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

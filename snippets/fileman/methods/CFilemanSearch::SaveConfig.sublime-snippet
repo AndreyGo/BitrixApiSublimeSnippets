@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanSearch::SaveConfig(${1:arConfig})]]></content>
+	<tabTrigger>CFilemanSearch::SaveConfig</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

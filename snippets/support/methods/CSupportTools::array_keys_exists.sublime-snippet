@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTools::array_keys_exists(${1:key},${2:arr},${3:\$more0 = ""},${4:\$andOr = "&&"})]]></content>
+	<tabTrigger>CSupportTools::array_keys_exists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

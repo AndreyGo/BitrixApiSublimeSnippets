@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailTools::IsEightBit(${1:str})]]></content>
+	<tabTrigger>CMailTools::IsEightBit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

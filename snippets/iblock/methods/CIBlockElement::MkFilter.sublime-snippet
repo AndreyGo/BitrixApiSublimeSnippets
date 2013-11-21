@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::MkFilter(${1:arFilter},${2:&\$arJoinProps},${3:&\$arAddWhereFields},${4:\$level = 0},${5:\$bPropertyLeftJoin = false})]]></content>
+	<tabTrigger>CIBlockElement::MkFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

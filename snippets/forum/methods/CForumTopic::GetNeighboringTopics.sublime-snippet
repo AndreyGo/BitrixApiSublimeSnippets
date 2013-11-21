@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumTopic::GetNeighboringTopics(${1:TID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumTopic::GetNeighboringTopics</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

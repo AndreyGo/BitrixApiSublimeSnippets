@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUrlRewriter::printArray(${1:arr})]]></content>
+	<tabTrigger>CUrlRewriter::printArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleStatus::CreateMailTemplate(${1:ID})]]></content>
+	<tabTrigger>CSaleStatus::CreateMailTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

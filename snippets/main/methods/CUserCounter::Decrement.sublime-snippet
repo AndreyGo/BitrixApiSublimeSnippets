@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::Decrement(${1:user_id},${2:code},${3:\$site_id = SITE_ID},${4:\$sendPull = true},${5:\$decrement = 1})]]></content>
+	<tabTrigger>CUserCounter::Decrement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

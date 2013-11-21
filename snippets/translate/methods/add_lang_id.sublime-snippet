@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[add_lang_id(${1:path},${2:lang_id},${3:arTLangs})]]></content>
+	<tabTrigger>add_lang_id</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

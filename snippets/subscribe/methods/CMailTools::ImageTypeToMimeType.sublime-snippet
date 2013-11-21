@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailTools::ImageTypeToMimeType(${1:type})]]></content>
+	<tabTrigger>CMailTools::ImageTypeToMimeType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

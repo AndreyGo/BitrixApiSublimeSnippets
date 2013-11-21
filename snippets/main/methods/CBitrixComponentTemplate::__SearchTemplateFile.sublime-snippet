@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::__SearchTemplateFile(${1:path},${2:fileName})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::__SearchTemplateFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

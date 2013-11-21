@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::getDefaultColumns()]]></content>
+	<tabTrigger>CSaleReportUserHelper::getDefaultColumns</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

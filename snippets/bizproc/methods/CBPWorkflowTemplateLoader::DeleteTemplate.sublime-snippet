@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::DeleteTemplate(${1:id})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::DeleteTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

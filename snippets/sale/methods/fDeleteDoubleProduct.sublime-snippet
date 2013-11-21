@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fDeleteDoubleProduct(${1:\$arShoppingCart = array()},${2:\$arDelete = array()},${3:\$showAll = 'N'})]]></content>
+	<tabTrigger>fDeleteDoubleProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePersonType::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSalePersonType::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

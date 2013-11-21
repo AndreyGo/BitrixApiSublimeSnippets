@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::HaveRole(${1:role},${2:\$USER_ID=false})]]></content>
+	<tabTrigger>CAdvContract::HaveRole</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

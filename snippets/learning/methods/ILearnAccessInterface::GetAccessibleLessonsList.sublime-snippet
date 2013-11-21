@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnAccessInterface::GetAccessibleLessonsList(${1:in_bitmaskOperations},${2:\$isUseCache = false})]]></content>
+	<tabTrigger>ILearnAccessInterface::GetAccessibleLessonsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

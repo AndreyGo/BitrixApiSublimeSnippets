@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EndRightBar()]]></content>
+	<tabTrigger>EndRightBar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

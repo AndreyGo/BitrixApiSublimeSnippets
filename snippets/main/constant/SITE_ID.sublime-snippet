@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SITE_ID]]></content>
+	<tabTrigger>SITE_ID</tabTrigger>
+	<description>Bitrix CSite::GetNameFormat</description>
+	<scope>source.php</scope>
+</snippet>

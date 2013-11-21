@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDeductDocsType::conductDocument(${1:documentId},${2:userId},${3:currency},${4:contractorId})]]></content>
+	<tabTrigger>CCatalogDeductDocsType::conductDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

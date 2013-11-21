@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::SetHiden(${1:\$ids = array()},${2:bHide})]]></content>
+	<tabTrigger>CSticker::SetHiden</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

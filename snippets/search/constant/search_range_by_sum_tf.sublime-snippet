@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[search_range_by_sum_tf]]></content>
+	<tabTrigger>search_range_by_sum_tf</tabTrigger>
+	<description>Bitrix CSearch::GetFreqStatistics</description>
+	<scope>source.php</scope>
+</snippet>

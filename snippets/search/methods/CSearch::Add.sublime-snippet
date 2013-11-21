@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::Add(${1:arFields})]]></content>
+	<tabTrigger>CSearch::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

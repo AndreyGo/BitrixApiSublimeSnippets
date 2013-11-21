@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::finalizeLastTest()]]></content>
+	<tabTrigger>CSecuritySiteChecker::finalizeLastTest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

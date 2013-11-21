@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Button(${1:item},${2:hkInst})]]></content>
+	<tabTrigger>Button</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

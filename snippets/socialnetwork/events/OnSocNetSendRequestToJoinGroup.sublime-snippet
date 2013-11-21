@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetSendRequestToJoinGroup]]></content>
+	<tabTrigger>OnSocNetSendRequestToJoinGroup</tabTrigger>
+	<description>Bitrix CSocNetUserToGroup::SendRequestToJoinGroup</description>
+	<scope>source.php</scope>
+</snippet>

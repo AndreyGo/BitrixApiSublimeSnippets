@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::IsFriends2(${1:firstUserID},${2:secondUserID})]]></content>
+	<tabTrigger>CSocNetUserRelations::IsFriends2</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

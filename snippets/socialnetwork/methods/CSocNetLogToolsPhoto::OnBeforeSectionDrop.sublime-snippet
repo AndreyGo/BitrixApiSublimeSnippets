@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogToolsPhoto::OnBeforeSectionDrop(${1:sectionID},${2:arComponentParams},${3:arComponentResult},${4:&\$arSectionID},${5:&\$arElementID})]]></content>
+	<tabTrigger>CSocNetLogToolsPhoto::OnBeforeSectionDrop</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::GetTemplateContent(${1:filename},${2:\$lang=LANG},${3:\$arTemplates=Array()})]]></content>
+	<tabTrigger>CFileMan::GetTemplateContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

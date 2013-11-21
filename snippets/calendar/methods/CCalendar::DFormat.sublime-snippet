@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::DFormat(${1:\$bTime = true})]]></content>
+	<tabTrigger>CCalendar::DFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

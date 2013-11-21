@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetScriptFileExt()]]></content>
+	<tabTrigger>GetScriptFileExt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketSLA::GetSheduleArray(${1:slaID})]]></content>
+	<tabTrigger>CTicketSLA::GetSheduleArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

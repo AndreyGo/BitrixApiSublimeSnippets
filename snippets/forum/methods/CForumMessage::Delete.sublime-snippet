@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::Delete(${1:ID})]]></content>
+	<tabTrigger>CForumMessage::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

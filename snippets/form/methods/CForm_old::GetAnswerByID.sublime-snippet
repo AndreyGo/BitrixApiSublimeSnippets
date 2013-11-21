@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetAnswerByID(${1:ID})]]></content>
+	<tabTrigger>CForm_old::GetAnswerByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

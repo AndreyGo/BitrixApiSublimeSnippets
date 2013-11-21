@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPhotogalleryElement::OnRecalcGalleries(${1:ID},${2:INDEX})]]></content>
+	<tabTrigger>CPhotogalleryElement::OnRecalcGalleries</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

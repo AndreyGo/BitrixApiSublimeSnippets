@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReport::getFullColumnTitle(${1:view},${2:viewColumns},${3:fullHumanTitles})]]></content>
+	<tabTrigger>CReport::getFullColumnTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

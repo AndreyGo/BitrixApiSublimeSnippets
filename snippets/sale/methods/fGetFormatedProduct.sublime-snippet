@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fGetFormatedProduct(${1:USER_ID},${2:LID},${3:arData},${4:currency},${5:\$type = ''})]]></content>
+	<tabTrigger>fGetFormatedProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::IsAdvertiser(${1:\$USER_ID=false})]]></content>
+	<tabTrigger>CAdvContract::IsAdvertiser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

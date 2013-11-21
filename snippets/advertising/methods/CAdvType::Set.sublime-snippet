@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvType::Set(${1:arFields},${2:OLD_SID},${3:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CAdvType::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::GetLocalization()]]></content>
+	<tabTrigger>CImageUploader::GetLocalization</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

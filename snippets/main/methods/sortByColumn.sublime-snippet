@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sortByColumn(${1:array &\$array},${2:columns},${3:\$callbacks = ''},${4:\$defaultValueIfNotSetValue = null},${5:\$preserveKeys = false})]]></content>
+	<tabTrigger>sortByColumn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

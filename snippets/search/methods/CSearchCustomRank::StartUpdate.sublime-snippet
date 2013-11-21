@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchCustomRank::StartUpdate()]]></content>
+	<tabTrigger>CSearchCustomRank::StartUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

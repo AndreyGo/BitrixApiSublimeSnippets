@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsHttpResponseSuccess(${1:res},${2:strRequest},${3:&\$strHeaders = ''},${4:\$bHideRequest = false})]]></content>
+	<tabTrigger>IsHttpResponseSuccess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

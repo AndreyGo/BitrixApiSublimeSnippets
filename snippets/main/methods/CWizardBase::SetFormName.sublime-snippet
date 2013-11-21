@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::SetFormName(${1:formName})]]></content>
+	<tabTrigger>CWizardBase::SetFormName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

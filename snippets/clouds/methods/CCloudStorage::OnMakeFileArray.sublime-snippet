@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::OnMakeFileArray(${1:arSourceFile},${2:&\$arDestination})]]></content>
+	<tabTrigger>CCloudStorage::OnMakeFileArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

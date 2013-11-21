@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnSharedArgManager::GetParsedOptions()]]></content>
+	<tabTrigger>CLearnSharedArgManager::GetParsedOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

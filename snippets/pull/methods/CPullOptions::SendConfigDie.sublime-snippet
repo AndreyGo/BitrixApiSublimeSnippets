@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SendConfigDie()]]></content>
+	<tabTrigger>CPullOptions::SendConfigDie</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMCall::MessageToPrivate(${1:fromUserId},${2:toUserId},${3:messageId},${4:\$getUserData = false},${5:\$addGenderToMessageId = true})]]></content>
+	<tabTrigger>CIMCall::MessageToPrivate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

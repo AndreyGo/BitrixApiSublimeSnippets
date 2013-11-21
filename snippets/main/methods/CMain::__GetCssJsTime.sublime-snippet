@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::__GetCssJsTime(${1:css_file})]]></content>
+	<tabTrigger>CMain::__GetCssJsTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

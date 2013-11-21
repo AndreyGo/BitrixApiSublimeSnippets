@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::GetSections(${1:\$arFilter = array()})]]></content>
+	<tabTrigger>CCheckList::GetSections</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

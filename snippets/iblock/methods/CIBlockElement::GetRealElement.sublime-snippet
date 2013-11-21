@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::GetRealElement(${1:ID})]]></content>
+	<tabTrigger>CIBlockElement::GetRealElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

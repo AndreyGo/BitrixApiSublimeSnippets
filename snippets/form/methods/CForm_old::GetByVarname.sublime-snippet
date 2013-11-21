@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetByVarname(${1:VARNAME})]]></content>
+	<tabTrigger>CForm_old::GetByVarname</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

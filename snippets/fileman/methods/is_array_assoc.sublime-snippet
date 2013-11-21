@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[is_array_assoc(${1:arr})]]></content>
+	<tabTrigger>is_array_assoc</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

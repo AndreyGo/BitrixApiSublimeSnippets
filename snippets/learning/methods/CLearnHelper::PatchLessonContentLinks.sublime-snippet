@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnHelper::PatchLessonContentLinks(${1:strContent},${2:\$contextCourseId = false})]]></content>
+	<tabTrigger>CLearnHelper::PatchLessonContentLinks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

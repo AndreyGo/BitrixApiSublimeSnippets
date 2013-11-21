@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddCheckBoxField(${1:id},${2:content},${3:required},${4:value},${5:checked},${6:\$arParams=array()})]]></content>
+	<tabTrigger>AddCheckBoxField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

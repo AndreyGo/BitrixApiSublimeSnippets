@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_FORK_AGENTS_AND_EVENTS_FUNCTION]]></content>
+	<tabTrigger>BX_FORK_AGENTS_AND_EVENTS_FUNCTION</tabTrigger>
+	<description>Bitrix CAgent::ExecuteAgents</description>
+	<scope>source.php</scope>
+</snippet>

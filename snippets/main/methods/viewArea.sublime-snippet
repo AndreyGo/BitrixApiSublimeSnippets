@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[viewArea(${1:area},${2:bSilent})]]></content>
+	<tabTrigger>viewArea</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

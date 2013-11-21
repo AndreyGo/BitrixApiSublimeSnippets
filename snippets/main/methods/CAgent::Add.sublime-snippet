@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAgent::Add(${1:arFields})]]></content>
+	<tabTrigger>CAgent::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

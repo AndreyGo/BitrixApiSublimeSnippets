@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::CanUserAddMessage(${1:TID},${2:arUserGroups},${3:\$iUserID = 0},${4:\$ExternalPermission = false})]]></content>
+	<tabTrigger>CForumMessage::CanUserAddMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

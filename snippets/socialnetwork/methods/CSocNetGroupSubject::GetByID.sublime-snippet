@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroupSubject::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSocNetGroupSubject::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

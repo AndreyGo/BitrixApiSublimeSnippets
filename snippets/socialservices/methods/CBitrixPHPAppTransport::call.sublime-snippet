@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixPHPAppTransport::call(${1:methodName},${2:\$additionalParams = ''})]]></content>
+	<tabTrigger>CBitrixPHPAppTransport::call</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

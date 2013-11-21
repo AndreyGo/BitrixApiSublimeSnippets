@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetFields(${1:ID})]]></content>
+	<tabTrigger>CIBlock::GetFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

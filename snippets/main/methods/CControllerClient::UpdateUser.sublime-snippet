@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::UpdateUser(${1:\$arFields = Array()},${2:\$FORMAT_DATE = false},${3:\$FORMAT_DATETIME = false})]]></content>
+	<tabTrigger>CControllerClient::UpdateUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

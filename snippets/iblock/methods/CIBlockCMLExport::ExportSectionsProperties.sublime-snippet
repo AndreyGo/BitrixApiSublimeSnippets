@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::ExportSectionsProperties(${1:arUserFields})]]></content>
+	<tabTrigger>CIBlockCMLExport::ExportSectionsProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

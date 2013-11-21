@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetListEx(${1:\$arOrder = Array("ID" => "DESC")},${2:\$arFilter = Array()},${3:\$arGroupBy = false},${4:\$arNavStartParams = false},${5:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CGroup::GetListEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrency::Delete(${1:currency})]]></content>
+	<tabTrigger>CCurrency::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PULL_PUSH_SANDBOX]]></content>
+	<tabTrigger>PULL_PUSH_SANDBOX</tabTrigger>
+	<description>Bitrix CIMMessenger::SendBadges</description>
+	<scope>source.php</scope>
+</snippet>

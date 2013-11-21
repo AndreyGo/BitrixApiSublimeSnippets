@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionVirtual::destroy(${1:id})]]></content>
+	<tabTrigger>CSecuritySessionVirtual::destroy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

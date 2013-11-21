@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::traverseVar(${1:var},${2:\$id = -1})]]></content>
+	<tabTrigger>CVulnScanner::traverseVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

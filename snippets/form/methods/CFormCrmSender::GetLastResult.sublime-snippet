@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::GetLastResult()]]></content>
+	<tabTrigger>CFormCrmSender::GetLastResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

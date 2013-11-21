@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[showAccountNumberDateExample(${1:period})]]></content>
+	<tabTrigger>showAccountNumberDateExample</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

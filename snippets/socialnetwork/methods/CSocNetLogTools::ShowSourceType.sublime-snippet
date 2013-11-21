@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::ShowSourceType(${1:\$source_type = false},${2:\$bMobile = false})]]></content>
+	<tabTrigger>CSocNetLogTools::ShowSourceType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

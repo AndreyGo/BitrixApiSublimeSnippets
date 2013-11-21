@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingTemplate::AddPosting(${1:arRubric})]]></content>
+	<tabTrigger>CPostingTemplate::AddPosting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

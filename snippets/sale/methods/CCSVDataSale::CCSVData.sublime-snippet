@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVDataSale::CCSVData(${1:\$fields_type = "R"},${2:\$first_header = false})]]></content>
+	<tabTrigger>CCSVDataSale::CCSVData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

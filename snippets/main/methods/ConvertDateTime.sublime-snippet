@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConvertDateTime(${1:datetime},${2:\$to_format=false},${3:\$from_site=false},${4:\$bSearchInSitesOnly = false})]]></content>
+	<tabTrigger>ConvertDateTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

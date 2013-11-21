@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeIndexDelete]]></content>
+	<tabTrigger>OnBeforeIndexDelete</tabTrigger>
+	<description>Bitrix CSearch::DeleteIndex</description>
+	<scope>source.php</scope>
+</snippet>

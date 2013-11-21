@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryJoin::parse_right(${1:sql})]]></content>
+	<tabTrigger>CPerfQueryJoin::parse_right</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTools::GetGroupUsers(${1:group_id})]]></content>
+	<tabTrigger>CSocNetTools::GetGroupUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

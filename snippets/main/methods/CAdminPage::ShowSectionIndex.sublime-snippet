@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPage::ShowSectionIndex(${1:menu_id},${2:\$module_id=false},${3:\$mode=false})]]></content>
+	<tabTrigger>CAdminPage::ShowSectionIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::EraseOldFolders(${1:\$iCnt = 1})]]></content>
+	<tabTrigger>CUpdateSystem::EraseOldFolders</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

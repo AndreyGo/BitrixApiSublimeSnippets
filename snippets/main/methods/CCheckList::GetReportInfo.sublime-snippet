@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::GetReportInfo()]]></content>
+	<tabTrigger>CCheckList::GetReportInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

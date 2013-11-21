@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketSLA::Delete(${1:id},${2:\$checkRights=true})]]></content>
+	<tabTrigger>CTicketSLA::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

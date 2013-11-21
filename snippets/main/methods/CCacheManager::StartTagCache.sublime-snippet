@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCacheManager::StartTagCache(${1:relativePath})]]></content>
+	<tabTrigger>CCacheManager::StartTagCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

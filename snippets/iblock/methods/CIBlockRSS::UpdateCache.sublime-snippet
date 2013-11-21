@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::UpdateCache(${1:cacheKey},${2:CACHE},${3:HOURS_CACHE},${4:bCACHED})]]></content>
+	<tabTrigger>CIBlockRSS::UpdateCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

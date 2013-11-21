@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ConvertTimeStamp(${1:\$timestamp=false},${2:\$type="SHORT"},${3:\$site=false},${4:\$bSearchInSitesOnly = false})]]></content>
+	<tabTrigger>ConvertTimeStamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSimpleHTMLParser::getInnerHTML(${1:startLabel},${2:endLabel},${3:\$multiple=false})]]></content>
+	<tabTrigger>CForumSimpleHTMLParser::getInnerHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

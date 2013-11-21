@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::getSyncCounter(${1:pBinSecret},${2:pSync1},${3:pSync2},${4:&\$pMessages})]]></content>
+	<tabTrigger>CSecurityUser::getSyncCounter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

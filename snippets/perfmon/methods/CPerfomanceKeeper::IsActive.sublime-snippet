@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::IsActive()]]></content>
+	<tabTrigger>CPerfomanceKeeper::IsActive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

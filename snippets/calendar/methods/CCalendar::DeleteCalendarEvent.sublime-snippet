@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::DeleteCalendarEvent(${1:calendarId},${2:eventId},${3:userId},${4:\$oEvent = false})]]></content>
+	<tabTrigger>CCalendar::DeleteCalendarEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

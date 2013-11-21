@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__UpdateSubdiscount(${1:intDiscountID},${2:&\$arConditions})]]></content>
+	<tabTrigger>CCatalogDiscount::__UpdateSubdiscount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

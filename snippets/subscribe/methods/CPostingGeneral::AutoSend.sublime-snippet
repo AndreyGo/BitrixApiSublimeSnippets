@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingGeneral::AutoSend(${1:\$ID=false},${2:\$limit=false},${3:\$site_id=false})]]></content>
+	<tabTrigger>CPostingGeneral::AutoSend</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

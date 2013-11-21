@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::GetServerHelpUpdates(${1:&strError},${2:\$lang = false},${3:\$stableVersionsOnly = "Y"})]]></content>
+	<tabTrigger>CUpdateSystem::GetServerHelpUpdates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

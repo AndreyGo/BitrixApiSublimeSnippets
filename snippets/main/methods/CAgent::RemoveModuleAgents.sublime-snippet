@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAgent::RemoveModuleAgents(${1:module})]]></content>
+	<tabTrigger>CAgent::RemoveModuleAgents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

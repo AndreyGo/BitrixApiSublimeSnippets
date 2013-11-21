@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::&_parseFileParams(${1:&vFileList})]]></content>
+	<tabTrigger>CArchiver::&_parseFileParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

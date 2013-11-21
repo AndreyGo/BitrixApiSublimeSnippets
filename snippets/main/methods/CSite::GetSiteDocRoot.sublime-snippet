@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetSiteDocRoot(${1:site})]]></content>
+	<tabTrigger>CSite::GetSiteDocRoot</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

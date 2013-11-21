@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSuperCoupon::UseCoupon(${1:coupon})]]></content>
+	<tabTrigger>CSupportSuperCoupon::UseCoupon</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

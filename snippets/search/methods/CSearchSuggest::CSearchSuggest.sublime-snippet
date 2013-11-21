@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchSuggest::CSearchSuggest(${1:\$strFilterMD5 = ""},${2:\$phrase = ""})]]></content>
+	<tabTrigger>CSearchSuggest::CSearchSuggest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

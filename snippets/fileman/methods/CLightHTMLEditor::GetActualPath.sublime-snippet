@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLightHTMLEditor::GetActualPath(${1:path})]]></content>
+	<tabTrigger>CLightHTMLEditor::GetActualPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

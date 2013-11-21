@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_readBlock()]]></content>
+	<tabTrigger>CArchiver::_readBlock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

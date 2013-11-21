@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::PrepareSql(${1:&arFields},${2:arOrder},${3:&\$arFilter},${4:arSelectFields})]]></content>
+	<tabTrigger>CPullPush::PrepareSql</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

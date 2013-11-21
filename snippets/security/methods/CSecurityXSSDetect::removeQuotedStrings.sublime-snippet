@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::removeQuotedStrings(${1:pString},${2:\$pIsSaveQuotes = true})]]></content>
+	<tabTrigger>CSecurityXSSDetect::removeQuotedStrings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

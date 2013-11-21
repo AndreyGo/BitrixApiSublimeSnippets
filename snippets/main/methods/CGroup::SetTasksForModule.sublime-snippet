@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::SetTasksForModule(${1:module_id},${2:arGroupTask})]]></content>
+	<tabTrigger>CGroup::SetTasksForModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

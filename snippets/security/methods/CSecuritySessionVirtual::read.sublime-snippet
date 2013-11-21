@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionVirtual::read(${1:id})]]></content>
+	<tabTrigger>CSecuritySessionVirtual::read</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

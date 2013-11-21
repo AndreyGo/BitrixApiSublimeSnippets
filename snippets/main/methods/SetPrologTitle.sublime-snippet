@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPrologTitle(${1:prolog},${2:title})]]></content>
+	<tabTrigger>SetPrologTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

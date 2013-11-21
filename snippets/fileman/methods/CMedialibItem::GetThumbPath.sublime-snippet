@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialibItem::GetThumbPath(${1:arImage})]]></content>
+	<tabTrigger>CMedialibItem::GetThumbPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

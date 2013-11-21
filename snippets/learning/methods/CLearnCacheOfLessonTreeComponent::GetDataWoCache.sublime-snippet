@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnCacheOfLessonTreeComponent::GetDataWoCache(${1:courseId})]]></content>
+	<tabTrigger>CLearnCacheOfLessonTreeComponent::GetDataWoCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

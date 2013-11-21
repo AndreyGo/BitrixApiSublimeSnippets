@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFilterStr(${1:arr},${2:\$button="set_filter"})]]></content>
+	<tabTrigger>GetFilterStr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

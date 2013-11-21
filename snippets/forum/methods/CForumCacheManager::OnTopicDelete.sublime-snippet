@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumCacheManager::OnTopicDelete(${1:&ID},${2:arTopic})]]></content>
+	<tabTrigger>CForumCacheManager::OnTopicDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

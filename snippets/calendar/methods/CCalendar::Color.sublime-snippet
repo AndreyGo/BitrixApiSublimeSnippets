@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::Color(${1:\$color = ''},${2:\$defaultColor = true})]]></content>
+	<tabTrigger>CCalendar::Color</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvert::GetCountOld()]]></content>
+	<tabTrigger>CCatalogDiscountConvert::GetCountOld</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

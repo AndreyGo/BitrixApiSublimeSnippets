@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementList::GetOptionsHtml(${1:arProperty},${2:values},${3:&\$bWasSelect})]]></content>
+	<tabTrigger>CIBlockPropertyElementList::GetOptionsHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

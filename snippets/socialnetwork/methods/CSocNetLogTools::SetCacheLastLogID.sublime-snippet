@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::SetCacheLastLogID(${1:\$type = "log"},${2:id})]]></content>
+	<tabTrigger>CSocNetLogTools::SetCacheLastLogID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

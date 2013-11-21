@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySessionMC::isStorageEnabled()]]></content>
+	<tabTrigger>CSecuritySessionMC::isStorageEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

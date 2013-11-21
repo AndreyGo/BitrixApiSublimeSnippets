@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnQuoteArr(${1:&arr},${2:\$syb = false},${3:\$preserve_nulls = false})]]></content>
+	<tabTrigger>UnQuoteArr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

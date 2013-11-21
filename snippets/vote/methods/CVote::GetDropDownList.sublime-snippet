@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::GetDropDownList()]]></content>
+	<tabTrigger>CVote::GetDropDownList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

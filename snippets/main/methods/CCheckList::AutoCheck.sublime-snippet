@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::AutoCheck(${1:arTestID},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CCheckList::AutoCheck</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

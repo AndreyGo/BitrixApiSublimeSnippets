@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileInput::DisplayFile(${1:\$arFile = array()},${2:\$ind = 0})]]></content>
+	<tabTrigger>CFileInput::DisplayFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

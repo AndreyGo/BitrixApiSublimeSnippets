@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::UpdateDocument(${1:documentId},${2:arFields})]]></content>
+	<tabTrigger>IBPWorkflowDocument::UpdateDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

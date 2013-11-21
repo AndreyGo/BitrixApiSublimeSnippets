@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::ClearForm(${1:form_params},${2:\$ajax_id = false})]]></content>
+	<tabTrigger>CAjax::ClearForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

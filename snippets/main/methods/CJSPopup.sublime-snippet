@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CJSPopup(${1:\$title = ''},${2:\$arConfig = array()})]]></content>
+	<tabTrigger>CJSPopup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

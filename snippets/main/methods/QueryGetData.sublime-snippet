@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[QueryGetData(${1:SITE},${2:PORT},${3:PATH},${4:QUERY_STR},${5:&\$errno},${6:&\$errstr},${7:\$sMethod="GET"},${8:\$sProto=""},${9:\$sContentType = 'N'})]]></content>
+	<tabTrigger>QueryGetData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTempFile::_absolute_path_recursive_delete(${1:path})]]></content>
+	<tabTrigger>CTempFile::_absolute_path_recursive_delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

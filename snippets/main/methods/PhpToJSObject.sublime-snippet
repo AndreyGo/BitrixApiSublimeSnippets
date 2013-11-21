@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhpToJSObject(${1:arData},${2:\$bWS = false},${3:\$bSkipTilda = false},${4:\$bExtType = false})]]></content>
+	<tabTrigger>PhpToJSObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

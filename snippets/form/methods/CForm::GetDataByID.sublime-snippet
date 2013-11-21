@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetDataByID(${1:WEB_FORM_ID},${2:&\$arForm},${3:&\$arQuestions},${4:&\$arAnswers},${5:&\$arDropDown},${6:&\$arMultiSelect},${7:\$additional="N"},${8:\$active="N"})]]></content>
+	<tabTrigger>CForm::GetDataByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

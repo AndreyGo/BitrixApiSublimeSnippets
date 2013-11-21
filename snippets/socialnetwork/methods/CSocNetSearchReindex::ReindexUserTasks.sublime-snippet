@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::ReindexUserTasks(${1:arSection},${2:path},${3:last_id})]]></content>
+	<tabTrigger>CSocNetSearchReindex::ReindexUserTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

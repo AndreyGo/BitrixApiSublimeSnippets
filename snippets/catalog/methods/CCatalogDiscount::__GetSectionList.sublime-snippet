@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__GetSectionList(${1:intIBlockID},${2:intProductID})]]></content>
+	<tabTrigger>CCatalogDiscount::__GetSectionList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryWhere::_or2in(${1:or_match})]]></content>
+	<tabTrigger>CPerfQueryWhere::_or2in</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

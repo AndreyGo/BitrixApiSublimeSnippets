@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::getSql(${1:query})]]></content>
+	<tabTrigger>CSupportSearch::getSql</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

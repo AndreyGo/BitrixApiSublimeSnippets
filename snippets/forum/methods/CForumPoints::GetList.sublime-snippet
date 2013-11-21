@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPoints::GetList(${1:\$arOrder = array("MIN_POINTS"=>"ASC")},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CForumPoints::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

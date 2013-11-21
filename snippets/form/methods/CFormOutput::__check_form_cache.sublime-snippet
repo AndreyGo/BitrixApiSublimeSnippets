@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::__check_form_cache()]]></content>
+	<tabTrigger>CFormOutput::__check_form_cache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

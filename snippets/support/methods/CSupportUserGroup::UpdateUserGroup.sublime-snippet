@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportUserGroup::UpdateUserGroup(${1:groupID},${2:userID},${3:arFields})]]></content>
+	<tabTrigger>CSupportUserGroup::UpdateUserGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

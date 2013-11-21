@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogEvents::Delete(${1:ID})]]></content>
+	<tabTrigger>CSocNetLogEvents::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

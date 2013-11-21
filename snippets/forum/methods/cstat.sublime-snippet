@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[cstat()]]></content>
+	<tabTrigger>cstat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

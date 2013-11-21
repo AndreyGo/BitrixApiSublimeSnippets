@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageUpload::getPartSize()]]></content>
+	<tabTrigger>CCloudStorageUpload::getPartSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

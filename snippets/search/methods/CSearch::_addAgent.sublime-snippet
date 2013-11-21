@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::_addAgent()]]></content>
+	<tabTrigger>CSearch::_addAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

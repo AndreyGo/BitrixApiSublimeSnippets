@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::__construct(${1:iblock_id},${2:field_id},${3:label},${4:sort})]]></content>
+	<tabTrigger>CListField::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

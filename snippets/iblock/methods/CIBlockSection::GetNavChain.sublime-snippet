@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSection::GetNavChain(${1:IBLOCK_ID},${2:SECTION_ID},${3:\$arSelect = array()})]]></content>
+	<tabTrigger>CIBlockSection::GetNavChain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

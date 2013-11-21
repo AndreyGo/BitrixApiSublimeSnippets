@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::IsSupportClient(${1:\$userID=false})]]></content>
+	<tabTrigger>CTicket::IsSupportClient</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

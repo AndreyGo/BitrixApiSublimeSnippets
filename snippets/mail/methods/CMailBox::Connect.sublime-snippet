@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::Connect(${1:mailbox_id})]]></content>
+	<tabTrigger>CMailBox::Connect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

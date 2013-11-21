@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_readEndCentralDir(${1:&arCentralDir})]]></content>
+	<tabTrigger>CZip::_readEndCentralDir</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

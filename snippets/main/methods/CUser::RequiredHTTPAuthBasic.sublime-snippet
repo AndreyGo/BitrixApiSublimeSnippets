@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::RequiredHTTPAuthBasic(${1:\$Realm = "Bitrix"})]]></content>
+	<tabTrigger>CUser::RequiredHTTPAuthBasic</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

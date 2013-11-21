@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::__GetFileContent(${1:FILE_ID})]]></content>
+	<tabTrigger>CIBlockElement::__GetFileContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

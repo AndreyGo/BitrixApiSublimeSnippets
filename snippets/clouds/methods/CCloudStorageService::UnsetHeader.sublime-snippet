@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService::UnsetHeader(${1:name})]]></content>
+	<tabTrigger>CCloudStorageService::UnsetHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

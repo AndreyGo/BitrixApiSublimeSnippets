@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogImage::AddImageResizeHandler(${1:arParams})]]></content>
+	<tabTrigger>CBlogImage::AddImageResizeHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

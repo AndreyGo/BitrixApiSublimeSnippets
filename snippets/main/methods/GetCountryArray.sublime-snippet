@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCountryArray(${1:\$lang=LANGUAGE_ID})]]></content>
+	<tabTrigger>GetCountryArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

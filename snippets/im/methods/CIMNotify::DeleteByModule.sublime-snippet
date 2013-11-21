@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::DeleteByModule(${1:moduleId},${2:\$moduleEvent = ''})]]></content>
+	<tabTrigger>CIMNotify::DeleteByModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

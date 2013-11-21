@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::__construct(${1:file_name},${2:arParams},${3:\$template = '.default'},${4:\$component_template = ''})]]></content>
+	<tabTrigger>CVulnScanner::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnProductQuantityTrace]]></content>
+	<tabTrigger>OnProductQuantityTrace</tabTrigger>
+	<description>Bitrix CCatalogProduct::QuantityTracer</description>
+	<scope>source.php</scope>
+</snippet>

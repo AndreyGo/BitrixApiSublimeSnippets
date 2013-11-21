@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServVKontakte::GetSettings()]]></content>
+	<tabTrigger>CSocServVKontakte::GetSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

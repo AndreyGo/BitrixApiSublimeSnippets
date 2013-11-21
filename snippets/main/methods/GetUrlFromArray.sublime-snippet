@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetUrlFromArray(${1:arr})]]></content>
+	<tabTrigger>GetUrlFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

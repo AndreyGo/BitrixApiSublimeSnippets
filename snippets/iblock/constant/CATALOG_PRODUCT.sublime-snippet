@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CATALOG_PRODUCT]]></content>
+	<tabTrigger>CATALOG_PRODUCT</tabTrigger>
+	<description>Bitrix CIBlock::GetAdminSectionListLink</description>
+	<scope>source.php</scope>
+</snippet>

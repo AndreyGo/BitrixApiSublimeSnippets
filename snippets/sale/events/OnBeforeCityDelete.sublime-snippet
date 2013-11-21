@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeCityDelete]]></content>
+	<tabTrigger>OnBeforeCityDelete</tabTrigger>
+	<description>Bitrix CSaleLocation::DeleteCity</description>
+	<scope>source.php</scope>
+</snippet>

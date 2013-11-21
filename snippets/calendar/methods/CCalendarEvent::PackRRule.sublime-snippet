@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::PackRRule(${1:\$RRule = array()})]]></content>
+	<tabTrigger>CCalendarEvent::PackRRule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

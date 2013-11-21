@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormAnswer::Delete(${1:ID},${2:\$QUESTION_ID=false})]]></content>
+	<tabTrigger>CFormAnswer::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetLineColorRGB(${1:color_1},${2:color_2})]]></content>
+	<tabTrigger>CCaptcha::SetLineColorRGB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::__PrepareSort(${1:\$aSort=array()},${2:\$strSearchContentAlias="sc."},${3:\$bTagsCloud = false})]]></content>
+	<tabTrigger>CSearch::__PrepareSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

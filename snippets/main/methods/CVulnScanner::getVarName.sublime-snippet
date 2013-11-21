@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::getVarName(${1:token},${2:\$level = -1})]]></content>
+	<tabTrigger>CVulnScanner::getVarName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

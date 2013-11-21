@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiUtils::htmlspecialchars_decode(${1:str})]]></content>
+	<tabTrigger>CWikiUtils::htmlspecialchars_decode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

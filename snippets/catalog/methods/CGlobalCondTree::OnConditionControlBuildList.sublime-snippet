@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::OnConditionControlBuildList()]]></content>
+	<tabTrigger>CGlobalCondTree::OnConditionControlBuildList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

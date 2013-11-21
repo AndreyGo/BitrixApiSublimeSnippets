@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::miller(${1:in},${2:b})]]></content>
+	<tabTrigger>CRsaBcmathProvider::miller</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

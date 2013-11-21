@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetFileAccessPermission(${1:path},${2:arPermissions},${3:\$bOverWrite=true})]]></content>
+	<tabTrigger>CMain::SetFileAccessPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

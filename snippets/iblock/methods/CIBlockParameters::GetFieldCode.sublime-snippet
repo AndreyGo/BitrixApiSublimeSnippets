@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockParameters::GetFieldCode(${1:name},${2:parent},${3:\$options = array()})]]></content>
+	<tabTrigger>CIBlockParameters::GetFieldCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

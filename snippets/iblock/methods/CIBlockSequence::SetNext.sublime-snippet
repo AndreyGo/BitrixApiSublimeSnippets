@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSequence::SetNext(${1:value})]]></content>
+	<tabTrigger>CIBlockSequence::SetNext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

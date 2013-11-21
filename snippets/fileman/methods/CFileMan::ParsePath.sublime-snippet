@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::ParsePath(${1:path},${2:\$bLast=false},${3:\$url=false},${4:\$param=""},${5:\$bLogical = false})]]></content>
+	<tabTrigger>CFileMan::ParsePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

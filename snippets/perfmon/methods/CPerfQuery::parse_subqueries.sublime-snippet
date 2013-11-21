@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQuery::parse_subqueries()]]></content>
+	<tabTrigger>CPerfQuery::parse_subqueries</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSimpleHTMLParser::getTagHTML(${1:search})]]></content>
+	<tabTrigger>CForumSimpleHTMLParser::getTagHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

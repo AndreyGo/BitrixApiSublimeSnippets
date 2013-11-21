@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::Clear(${1:user_id},${2:code},${3:\$site_id = SITE_ID},${4:\$sendPull = true})]]></content>
+	<tabTrigger>CUserCounter::Clear</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

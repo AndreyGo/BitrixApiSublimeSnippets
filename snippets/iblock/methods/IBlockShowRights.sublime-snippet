@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBlockShowRights(${1:entity_type},${2:iblock_id},${3:id},${4:section_title},${5:variable_name},${6:arPossibleRights},${7:arActualRights},${8:\$bDefault = false},${9:\$bForceInherited = false},${10:\$arSelected = array()},${11:\$arHighLight = array()})]]></content>
+	<tabTrigger>IBlockShowRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

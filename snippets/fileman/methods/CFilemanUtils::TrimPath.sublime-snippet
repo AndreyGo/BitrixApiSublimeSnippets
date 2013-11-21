@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtils::TrimPath(${1:path},${2:\$docRoot = false})]]></content>
+	<tabTrigger>CFilemanUtils::TrimPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

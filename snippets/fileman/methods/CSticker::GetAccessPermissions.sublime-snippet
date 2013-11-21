@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::GetAccessPermissions()]]></content>
+	<tabTrigger>CSticker::GetAccessPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

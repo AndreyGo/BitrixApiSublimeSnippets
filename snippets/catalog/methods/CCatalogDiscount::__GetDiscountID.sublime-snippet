@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__GetDiscountID(${1:arFilter})]]></content>
+	<tabTrigger>CCatalogDiscount::__GetDiscountID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

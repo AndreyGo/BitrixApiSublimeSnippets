@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPEventActivity::Unsubscribe(${1:IBPActivityExternalEventListener eventHandler})]]></content>
+	<tabTrigger>IBPEventActivity::Unsubscribe</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetDestinationUsers(${1:arCodes},${2:\$bFetchUsers = false})]]></content>
+	<tabTrigger>CCalendar::GetDestinationUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UpdateDocument(${1:parameterDocumentId},${2:arFields})]]></content>
+	<tabTrigger>UpdateDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

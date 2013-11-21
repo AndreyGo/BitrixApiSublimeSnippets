@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::CheckTemplate(${1:FORM_TEMPLATE},${2:&\$arrFS})]]></content>
+	<tabTrigger>CFormOutput::CheckTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

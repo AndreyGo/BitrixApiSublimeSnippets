@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiDiff::PrintView(${1:C},${2:X},${3:Y},${4:\$start=0},${5:\$end=1000})]]></content>
+	<tabTrigger>CWikiDiff::PrintView</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

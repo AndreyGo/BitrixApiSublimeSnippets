@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccessMacroses::ParseParamsWithUser(${1:arParams},${2:arParserOptions})]]></content>
+	<tabTrigger>CLearnAccessMacroses::ParseParamsWithUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

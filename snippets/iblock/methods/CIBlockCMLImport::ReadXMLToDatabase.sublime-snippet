@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ReadXMLToDatabase(${1:fp},${2:&\$NS},${3:\$time_limit=0},${4:\$read_size = 1024})]]></content>
+	<tabTrigger>CIBlockCMLImport::ReadXMLToDatabase</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

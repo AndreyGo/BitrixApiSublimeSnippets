@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogMovingDocsType::cancellationDocument(${1:documentId},${2:userId})]]></content>
+	<tabTrigger>CCatalogMovingDocsType::cancellationDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

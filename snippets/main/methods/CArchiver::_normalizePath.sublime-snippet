@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_normalizePath(${1:strPath})]]></content>
+	<tabTrigger>CArchiver::_normalizePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

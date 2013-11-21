@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSearchCheckPermissions]]></content>
+	<tabTrigger>OnSearchCheckPermissions</tabTrigger>
+	<description>Bitrix CSearchUser::CheckCurrentUserGroups</description>
+	<scope>source.php</scope>
+</snippet>

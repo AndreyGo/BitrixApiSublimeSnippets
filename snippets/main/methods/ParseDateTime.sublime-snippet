@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ParseDateTime(${1:datetime},${2:\$format=false})]]></content>
+	<tabTrigger>ParseDateTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

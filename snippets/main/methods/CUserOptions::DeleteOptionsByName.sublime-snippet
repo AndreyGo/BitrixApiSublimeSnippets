@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserOptions::DeleteOptionsByName(${1:category},${2:name})]]></content>
+	<tabTrigger>CUserOptions::DeleteOptionsByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

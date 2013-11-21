@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::GetRatingUserPropEx(${1:ratingId},${2:entityId})]]></content>
+	<tabTrigger>CRatings::GetRatingUserPropEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

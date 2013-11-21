@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentAjax::__isAjaxURL(${1:url})]]></content>
+	<tabTrigger>CComponentAjax::__isAjaxURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

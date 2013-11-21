@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::Start()]]></content>
+	<tabTrigger>CBPWorkflow::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

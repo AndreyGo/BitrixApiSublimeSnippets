@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::initComponentVariables(${1:componentPage},${2:arComponentVariables},${3:arVariableAliases},${4:&\$arVariables})]]></content>
+	<tabTrigger>CComponentEngine::initComponentVariables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::SetCommentFileRights(${1:arData},${2:logID})]]></content>
+	<tabTrigger>CCalendarLiveFeed::SetCommentFileRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

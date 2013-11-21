@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventType::GetByID(${1:ID},${2:LID})]]></content>
+	<tabTrigger>CEventType::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

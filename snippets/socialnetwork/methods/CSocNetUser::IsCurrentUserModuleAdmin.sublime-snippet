@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::IsCurrentUserModuleAdmin(${1:\$site_id = SITE_ID},${2:\$bUseSession = true})]]></content>
+	<tabTrigger>CSocNetUser::IsCurrentUserModuleAdmin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

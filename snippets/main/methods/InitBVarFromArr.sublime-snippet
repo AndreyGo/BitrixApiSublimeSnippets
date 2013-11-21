@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitBVarFromArr(${1:arr})]]></content>
+	<tabTrigger>InitBVarFromArr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

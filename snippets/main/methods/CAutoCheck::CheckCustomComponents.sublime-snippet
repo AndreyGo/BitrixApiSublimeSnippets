@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoCheck::CheckCustomComponents(${1:arParams})]]></content>
+	<tabTrigger>CAutoCheck::CheckCustomComponents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

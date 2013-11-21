@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSnippets::UpdateContentInfo(${1:&ar},${2:&\$arKeys},${3:template})]]></content>
+	<tabTrigger>CSnippets::UpdateContentInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

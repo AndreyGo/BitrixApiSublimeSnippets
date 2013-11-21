@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::SetRecent(${1:entityId},${2:messageId},${3:\$isChat = false},${4:\$userId = false})]]></content>
+	<tabTrigger>CIMContactList::SetRecent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_AV_STARTED]]></content>
+	<tabTrigger>BX_SECURITY_AV_STARTED</tabTrigger>
+	<description>Bitrix CSecurityAntiVirus::OnPageStart</description>
+	<scope>source.php</scope>
+</snippet>

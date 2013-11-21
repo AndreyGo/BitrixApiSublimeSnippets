@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumGroup::CanUserDeleteGroup(${1:ID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumGroup::CanUserDeleteGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::IsInCommonKernel()]]></content>
+	<tabTrigger>CControllerClient::IsInCommonKernel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

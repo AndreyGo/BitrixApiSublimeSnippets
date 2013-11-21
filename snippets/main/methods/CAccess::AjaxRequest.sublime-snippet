@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::AjaxRequest(${1:arParams})]]></content>
+	<tabTrigger>CAccess::AjaxRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

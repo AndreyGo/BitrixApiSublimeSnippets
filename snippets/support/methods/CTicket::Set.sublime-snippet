@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set(${1:arFields},${2:&\$MID},${3:\$id=""},${4:\$checkRights="Y"},${5:\$sendEmailToAuthor="Y"},${6:\$sendEmailToTechsupport="Y"})]]></content>
+	<tabTrigger>CTicket::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

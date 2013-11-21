@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::GetNameFieldsForQuery(${1:sNameTemplate},${2:\$userTablePrefix = "U."})]]></content>
+	<tabTrigger>CForumUser::GetNameFieldsForQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

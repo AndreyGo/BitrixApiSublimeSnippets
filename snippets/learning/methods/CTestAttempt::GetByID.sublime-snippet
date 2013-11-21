@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTestAttempt::GetByID(${1:ID})]]></content>
+	<tabTrigger>CTestAttempt::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

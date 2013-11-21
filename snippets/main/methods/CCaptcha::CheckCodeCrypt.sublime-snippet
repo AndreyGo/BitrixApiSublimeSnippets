@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::CheckCodeCrypt(${1:userCode},${2:codeCrypt},${3:\$password = ""},${4:\$bUpperCode = True})]]></content>
+	<tabTrigger>CCaptcha::CheckCodeCrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

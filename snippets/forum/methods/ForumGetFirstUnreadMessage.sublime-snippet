@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumGetFirstUnreadMessage(${1:FID},${2:TID})]]></content>
+	<tabTrigger>ForumGetFirstUnreadMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

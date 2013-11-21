@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetTitle(${1:\$title = ''})]]></content>
+	<tabTrigger>SetTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

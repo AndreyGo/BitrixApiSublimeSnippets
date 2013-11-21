@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::LinkFiles2Document(${1:arUploadedFiles},${2:DOCUMENT_ID})]]></content>
+	<tabTrigger>CWorkflow::LinkFiles2Document</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

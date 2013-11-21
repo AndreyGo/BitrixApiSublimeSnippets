@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogComment::_IndexPostComments(${1:\$arParams = Array()})]]></content>
+	<tabTrigger>CBlogComment::_IndexPostComments</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

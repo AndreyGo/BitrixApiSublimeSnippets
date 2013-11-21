@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetCatalogProduct(${1:PRODUCT_ID})]]></content>
+	<tabTrigger>GetCatalogProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

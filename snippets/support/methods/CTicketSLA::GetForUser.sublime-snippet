@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketSLA::GetForUser(${1:\$siteID=false},${2:\$userID=false})]]></content>
+	<tabTrigger>CTicketSLA::GetForUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

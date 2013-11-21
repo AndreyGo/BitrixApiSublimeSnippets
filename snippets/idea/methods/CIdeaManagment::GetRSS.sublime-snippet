@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagment::GetRSS(${1:BlogCode},${2:\$type = "rss2.0"},${3:\$numPosts = 10},${4:\$siteID = SITE_ID},${5:\$arPathTemplates = Array()},${6:\$arFilterExt = array()})]]></content>
+	<tabTrigger>CIdeaManagment::GetRSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

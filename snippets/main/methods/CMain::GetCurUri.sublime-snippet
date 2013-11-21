@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetCurUri(${1:\$addParam=""},${2:\$get_index_page=null})]]></content>
+	<tabTrigger>CMain::GetCurUri</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

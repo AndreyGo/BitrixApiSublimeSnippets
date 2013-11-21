@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::Check(${1:WEB_FORM_ID},${2:\$arrVALUES=false},${3:\$RESULT_ID=false},${4:\$CHECK_RIGHTS="Y"},${5:\$RETURN_ARRAY="N"})]]></content>
+	<tabTrigger>CForm::Check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

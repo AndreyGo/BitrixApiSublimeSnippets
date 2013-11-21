@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrmSender::__construct(${1:ID},${2:\$arAuth = null})]]></content>
+	<tabTrigger>CFormCrmSender::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::RenameCategoryOnPage(${1:pageText},${2:oldCategoryName},${3:newCategoryName})]]></content>
+	<tabTrigger>CWiki::RenameCategoryOnPage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

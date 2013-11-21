@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::GetContent()]]></content>
+	<tabTrigger>CZip::GetContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

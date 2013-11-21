@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADMIN_SECTION]]></content>
+	<tabTrigger>ADMIN_SECTION</tabTrigger>
+	<description>Bitrix CMain::GetLang</description>
+	<scope>source.php</scope>
+</snippet>

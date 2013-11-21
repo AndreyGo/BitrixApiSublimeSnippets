@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetDynamicList_SQL(${1:strSqlSearch})]]></content>
+	<tabTrigger>CAdvBanner::GetDynamicList_SQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

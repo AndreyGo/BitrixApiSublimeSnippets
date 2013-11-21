@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::setSiteCurrencyId(${1:currencyId})]]></content>
+	<tabTrigger>CBaseSaleReportHelper::setSiteCurrencyId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleAffiliate::CheckAffiliateFunc(${1:affiliate})]]></content>
+	<tabTrigger>CSaleAffiliate::CheckAffiliateFunc</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

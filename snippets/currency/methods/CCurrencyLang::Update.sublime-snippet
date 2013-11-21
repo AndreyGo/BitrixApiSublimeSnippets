@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrencyLang::Update(${1:currency},${2:lang},${3:arFields})]]></content>
+	<tabTrigger>CCurrencyLang::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

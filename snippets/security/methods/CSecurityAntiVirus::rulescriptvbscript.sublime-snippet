@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::rulescriptvbscript()]]></content>
+	<tabTrigger>CSecurityAntiVirus::rulescriptvbscript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFieldList::_save_form_settings(${1:form_id})]]></content>
+	<tabTrigger>CListFieldList::_save_form_settings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementList::GetElements(${1:IBLOCK_ID})]]></content>
+	<tabTrigger>CIBlockPropertyElementList::GetElements</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

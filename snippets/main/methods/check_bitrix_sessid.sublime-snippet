@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[check_bitrix_sessid(${1:\$varname='sessid'})]]></content>
+	<tabTrigger>check_bitrix_sessid</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

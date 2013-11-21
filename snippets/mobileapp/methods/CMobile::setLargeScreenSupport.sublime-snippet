@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setLargeScreenSupport(${1:largeScreenSupport})]]></content>
+	<tabTrigger>CMobile::setLargeScreenSupport</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetAdditionalFileURL(${1:file},${2:\$bSkipCheck=false})]]></content>
+	<tabTrigger>GetAdditionalFileURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

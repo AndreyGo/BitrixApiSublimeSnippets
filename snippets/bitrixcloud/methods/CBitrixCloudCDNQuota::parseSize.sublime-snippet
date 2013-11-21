@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNQuota::parseSize(${1:str})]]></content>
+	<tabTrigger>CBitrixCloudCDNQuota::parseSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

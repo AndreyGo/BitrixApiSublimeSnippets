@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::__ParseServerData(${1:&strServerOutput},${2:&\$arRes},${3:&\$strError})]]></content>
+	<tabTrigger>CUpdateClientPartner::__ParseServerData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

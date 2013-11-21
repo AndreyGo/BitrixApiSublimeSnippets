@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUserPoints::Delete(${1:FROM_USER_ID},${2:TO_USER_ID})]]></content>
+	<tabTrigger>CForumUserPoints::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

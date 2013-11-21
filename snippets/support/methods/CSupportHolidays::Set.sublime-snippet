@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportHolidays::Set(${1:arFields},${2:arFieldsSLA) //arFields},${3:\$arFieldsSLA = array(0 => array("HOLIDAYS_ID" => 1},${4:"SLA_ID" => 1)},${5:1 => array("HOLIDAYS_ID" => 2},${6:"SLA_ID" => 2) ...})]]></content>
+	<tabTrigger>CSupportHolidays::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

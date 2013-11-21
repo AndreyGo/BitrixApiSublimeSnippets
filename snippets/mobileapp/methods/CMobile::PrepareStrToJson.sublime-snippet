@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::PrepareStrToJson(${1:\$s = ''})]]></content>
+	<tabTrigger>CMobile::PrepareStrToJson</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

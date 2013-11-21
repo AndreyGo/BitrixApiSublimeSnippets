@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::isnormalname(${1:nm},${2:&\$l})]]></content>
+	<tabTrigger>CSecurityAntiVirus::isnormalname</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

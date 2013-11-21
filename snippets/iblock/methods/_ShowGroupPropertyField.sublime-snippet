@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_ShowGroupPropertyField(${1:name},${2:property_fields},${3:values})]]></content>
+	<tabTrigger>_ShowGroupPropertyField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

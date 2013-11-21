@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullWatch::CheckExpireAgent()]]></content>
+	<tabTrigger>CPullWatch::CheckExpireAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

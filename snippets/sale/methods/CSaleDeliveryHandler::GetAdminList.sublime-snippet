@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::GetAdminList(${1:\$arSort = array("SORT" => "ASC")})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::GetAdminList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CForumDBResult::_CForumDBResult(${1:res},${2:\$params = array()})]]></content>
+	<tabTrigger>_CForumDBResult::_CForumDBResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::GetPublicList(${1:\$arFilter=Array()},${2:\$strSqlOrder="ORDER BY C.C_SORT},${3:C.ID},${4:V.DATE_START desc"})]]></content>
+	<tabTrigger>CVote::GetPublicList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

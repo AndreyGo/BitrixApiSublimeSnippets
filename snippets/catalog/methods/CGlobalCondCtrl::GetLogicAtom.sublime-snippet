@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::GetLogicAtom(${1:arLogic})]]></content>
+	<tabTrigger>CGlobalCondCtrl::GetLogicAtom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

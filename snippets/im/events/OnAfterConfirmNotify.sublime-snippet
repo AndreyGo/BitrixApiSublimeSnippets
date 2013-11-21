@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterConfirmNotify]]></content>
+	<tabTrigger>OnAfterConfirmNotify</tabTrigger>
+	<description>Bitrix CIMNotify::Confirm</description>
+	<scope>source.php</scope>
+</snippet>

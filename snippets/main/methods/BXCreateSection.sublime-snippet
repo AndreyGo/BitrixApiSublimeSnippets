@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BXCreateSection(${1:&fileContent},${2:&\$sectionFileContent},${3:&\$absoluteFilePath},${4:&\$sectionPath})]]></content>
+	<tabTrigger>BXCreateSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

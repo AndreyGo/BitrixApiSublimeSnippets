@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::TableExists(${1:tableName})]]></content>
+	<tabTrigger>CDatabase::TableExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

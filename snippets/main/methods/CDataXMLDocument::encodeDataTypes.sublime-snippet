@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXMLDocument::encodeDataTypes(${1:name},${2:value})]]></content>
+	<tabTrigger>CDataXMLDocument::encodeDataTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteTemplate::__GetByStylesTitle(${1:file})]]></content>
+	<tabTrigger>CSiteTemplate::__GetByStylesTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

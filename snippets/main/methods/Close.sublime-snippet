@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Close(${1:\$bReload = true},${2:\$back_url = false})]]></content>
+	<tabTrigger>Close</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

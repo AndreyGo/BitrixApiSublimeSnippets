@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEventForum::MakeForumObject()]]></content>
+	<tabTrigger>CEventForum::MakeForumObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSubscription::Delete(${1:ID})]]></content>
+	<tabTrigger>CSocNetSubscription::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

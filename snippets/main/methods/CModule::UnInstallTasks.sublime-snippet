@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::UnInstallTasks()]]></content>
+	<tabTrigger>CModule::UnInstallTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

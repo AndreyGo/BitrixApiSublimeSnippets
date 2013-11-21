@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumStat::CleanUp(${1:\$period = 48})]]></content>
+	<tabTrigger>CForumStat::CleanUp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

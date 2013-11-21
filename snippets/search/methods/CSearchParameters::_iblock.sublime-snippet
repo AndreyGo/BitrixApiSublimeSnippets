@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchParameters::_iblock(${1:arParam},${2:strFILTER})]]></content>
+	<tabTrigger>CSearchParameters::_iblock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

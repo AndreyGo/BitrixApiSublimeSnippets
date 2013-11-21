@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::OnAfterSectionDrop(${1:ID},${2:arFields},${3:arComponentParams},${4:arComponentResult})]]></content>
+	<tabTrigger>CSocNetLogTools::OnAfterSectionDrop</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

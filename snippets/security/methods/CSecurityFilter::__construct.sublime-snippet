@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::__construct(${1:\$customOptions = array()},${2:\$char = ""})]]></content>
+	<tabTrigger>CSecurityFilter::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

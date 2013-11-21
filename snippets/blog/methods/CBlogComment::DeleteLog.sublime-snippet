@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogComment::DeleteLog(${1:commentID})]]></content>
+	<tabTrigger>CBlogComment::DeleteLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

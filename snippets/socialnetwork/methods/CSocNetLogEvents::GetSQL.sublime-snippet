@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogEvents::GetSQL(${1:user_id},${2:arMyEntities},${3:transport},${4:visible},${5:\$table_alias = "L"})]]></content>
+	<tabTrigger>CSocNetLogEvents::GetSQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

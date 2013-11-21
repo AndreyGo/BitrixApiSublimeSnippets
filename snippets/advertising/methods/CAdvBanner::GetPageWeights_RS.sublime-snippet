@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetPageWeights_RS()]]></content>
+	<tabTrigger>CAdvBanner::GetPageWeights_RS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SKIP_TIMEZONE_COOKIE]]></content>
+	<tabTrigger>BX_SKIP_TIMEZONE_COOKIE</tabTrigger>
+	<description>Bitrix CMain::PrologActions</description>
+	<scope>source.php</scope>
+</snippet>

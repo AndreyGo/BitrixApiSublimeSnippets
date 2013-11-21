@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSteganos::__ShowData()]]></content>
+	<tabTrigger>CSteganos::__ShowData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

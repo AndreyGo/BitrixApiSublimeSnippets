@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::GetCityByID(${1:ID})]]></content>
+	<tabTrigger>CSaleLocation::GetCityByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

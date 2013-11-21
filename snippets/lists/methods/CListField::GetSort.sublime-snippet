@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::GetSort()]]></content>
+	<tabTrigger>CListField::GetSort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

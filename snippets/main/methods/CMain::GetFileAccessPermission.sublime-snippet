@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetFileAccessPermission(${1:path},${2:\$groups=false},${3:\$task_mode=false})]]></content>
+	<tabTrigger>CMain::GetFileAccessPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

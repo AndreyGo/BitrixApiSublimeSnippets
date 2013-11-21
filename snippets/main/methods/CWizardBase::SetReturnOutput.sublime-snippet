@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::SetReturnOutput(${1:\$mode = true})]]></content>
+	<tabTrigger>CWizardBase::SetReturnOutput</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

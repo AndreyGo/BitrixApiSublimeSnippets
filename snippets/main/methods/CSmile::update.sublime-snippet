@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmile::update(${1:id},${2:arFields})]]></content>
+	<tabTrigger>CSmile::update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::CheckEMail(${1:email})]]></content>
+	<tabTrigger>CUpdateSystem::CheckEMail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

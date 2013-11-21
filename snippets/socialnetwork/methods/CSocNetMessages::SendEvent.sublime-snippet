@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::SendEvent(${1:messageID},${2:\$mailTemplate = "SONET_NEW_MESSAGE"})]]></content>
+	<tabTrigger>CSocNetMessages::SendEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

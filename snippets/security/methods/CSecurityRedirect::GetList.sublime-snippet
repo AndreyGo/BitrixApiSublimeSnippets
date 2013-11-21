@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityRedirect::GetList()]]></content>
+	<tabTrigger>CSecurityRedirect::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

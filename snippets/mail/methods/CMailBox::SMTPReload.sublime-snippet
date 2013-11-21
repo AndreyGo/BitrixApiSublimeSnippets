@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::SMTPReload()]]></content>
+	<tabTrigger>CMailBox::SMTPReload</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormValidator::err_mess()]]></content>
+	<tabTrigger>CFormValidator::err_mess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

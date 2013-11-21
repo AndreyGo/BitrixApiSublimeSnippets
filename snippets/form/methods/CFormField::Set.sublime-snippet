@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormField::Set(${1:arFields},${2:\$FIELD_ID=false},${3:\$CHECK_RIGHTS="Y"},${4:\$UPDATE_FILTER="Y"})]]></content>
+	<tabTrigger>CFormField::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

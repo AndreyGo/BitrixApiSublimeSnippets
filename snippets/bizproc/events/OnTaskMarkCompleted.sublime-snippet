@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTaskMarkCompleted]]></content>
+	<tabTrigger>OnTaskMarkCompleted</tabTrigger>
+	<description>Bitrix MarkCompleted</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocations::getLocationByName(${1:location_name})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocations::getLocationByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

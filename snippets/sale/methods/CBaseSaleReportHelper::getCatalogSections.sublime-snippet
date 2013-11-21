@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::getCatalogSections()]]></content>
+	<tabTrigger>CBaseSaleReportHelper::getCatalogSections</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

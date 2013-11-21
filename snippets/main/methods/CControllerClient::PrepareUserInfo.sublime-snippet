@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::PrepareUserInfo(${1:arUser})]]></content>
+	<tabTrigger>CControllerClient::PrepareUserInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

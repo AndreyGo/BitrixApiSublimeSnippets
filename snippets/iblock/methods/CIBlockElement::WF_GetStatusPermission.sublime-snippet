@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_GetStatusPermission(${1:STATUS_ID},${2:\$ID = false})]]></content>
+	<tabTrigger>CIBlockElement::WF_GetStatusPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_GetProductUrl(${1:OF_ELEMENT_ID},${2:OF_IBLOCK_ID},${3:\$server_name = false},${4:\$arrType = false})]]></content>
+	<tabTrigger>CIBlock::_GetProductUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

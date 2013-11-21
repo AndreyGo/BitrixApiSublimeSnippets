@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::GetTableFieldsList(${1:table})]]></content>
+	<tabTrigger>CDatabase::GetTableFieldsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

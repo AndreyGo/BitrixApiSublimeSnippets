@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[roundDB(${1:value},${2:\$len=18},${3:\$dec=4})]]></content>
+	<tabTrigger>roundDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

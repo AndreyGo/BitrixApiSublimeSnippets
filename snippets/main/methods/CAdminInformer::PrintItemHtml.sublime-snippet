@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminInformer::PrintItemHtml(${1:itemIdx},${2:bVisible})]]></content>
+	<tabTrigger>CAdminInformer::PrintItemHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

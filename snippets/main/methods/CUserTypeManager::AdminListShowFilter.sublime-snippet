@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::AdminListShowFilter(${1:entity_id})]]></content>
+	<tabTrigger>CUserTypeManager::AdminListShowFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

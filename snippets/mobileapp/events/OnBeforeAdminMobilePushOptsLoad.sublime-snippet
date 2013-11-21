@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeAdminMobilePushOptsLoad]]></content>
+	<tabTrigger>OnBeforeAdminMobilePushOptsLoad</tabTrigger>
+	<description>Bitrix CAdminMobilePush::getOptions</description>
+	<scope>source.php</scope>
+</snippet>

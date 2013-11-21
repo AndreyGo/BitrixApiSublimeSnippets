@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumGetEntity(${1:entityId},${2:\$value = true})]]></content>
+	<tabTrigger>ForumGetEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

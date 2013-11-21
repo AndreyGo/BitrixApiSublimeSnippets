@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPriceTools::GetItemPrices(${1:IBLOCK_ID},${2:arCatalogPrices},${3:arItem},${4:\$bVATInclude = true},${5:\$arCurrencyParams = array()},${6:\$USER_ID = 0},${7:\$LID = SITE_ID})]]></content>
+	<tabTrigger>CIBlockPriceTools::GetItemPrices</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

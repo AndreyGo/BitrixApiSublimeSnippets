@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetectVariables::getOriginalValue(${1:\$pKey = ""})]]></content>
+	<tabTrigger>CSecurityXSSDetectVariables::getOriginalValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

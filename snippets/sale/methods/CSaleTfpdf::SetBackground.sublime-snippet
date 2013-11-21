@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTfpdf::SetBackground(${1:image},${2:\$bgHeight = 0},${3:\$bgWidth = 0},${4:\$style = 'none'})]]></content>
+	<tabTrigger>CSaleTfpdf::SetBackground</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::BuildDialog(${1:Params})]]></content>
+	<tabTrigger>CMedialib::BuildDialog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

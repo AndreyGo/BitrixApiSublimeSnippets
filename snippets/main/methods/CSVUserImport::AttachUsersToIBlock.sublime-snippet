@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSVUserImport::AttachUsersToIBlock(${1:iblockID})]]></content>
+	<tabTrigger>CSVUserImport::AttachUsersToIBlock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

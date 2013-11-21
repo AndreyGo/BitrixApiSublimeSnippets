@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetMeetingSection(${1:userId},${2:\$bCreate = false})]]></content>
+	<tabTrigger>CCalendar::GetMeetingSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

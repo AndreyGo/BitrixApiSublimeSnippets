@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::GetAllPagesNotAuth(${1:arResult})]]></content>
+	<tabTrigger>CTwitterInterface::GetAllPagesNotAuth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_BUFFER_USED]]></content>
+	<tabTrigger>BX_BUFFER_USED</tabTrigger>
+	<description>Bitrix CMain::PrologActions</description>
+	<scope>source.php</scope>
+</snippet>

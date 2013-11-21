@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockResult::SetIBlockTag(${1:iblock_id})]]></content>
+	<tabTrigger>CIBlockResult::SetIBlockTag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

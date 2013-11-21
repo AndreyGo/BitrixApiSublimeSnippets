@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnHelper::SQLClauseForAllSubLessons(${1:parentLessonId})]]></content>
+	<tabTrigger>CLearnHelper::SQLClauseForAllSubLessons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

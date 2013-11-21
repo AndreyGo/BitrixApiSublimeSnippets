@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetAdminEmails()]]></content>
+	<tabTrigger>CTicket::GetAdminEmails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

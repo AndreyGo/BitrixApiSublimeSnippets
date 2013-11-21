@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bxstrrpos(${1:haystack},${2:needle})]]></content>
+	<tabTrigger>bxstrrpos</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

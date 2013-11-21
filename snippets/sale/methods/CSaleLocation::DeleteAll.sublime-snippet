@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::DeleteAll()]]></content>
+	<tabTrigger>CSaleLocation::DeleteAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

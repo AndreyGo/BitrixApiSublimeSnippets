@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_writeHeader(${1:strFilename},${2:strFilename_stored})]]></content>
+	<tabTrigger>CArchiver::_writeHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

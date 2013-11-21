@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFavorites::err_mess()]]></content>
+	<tabTrigger>CFavorites::err_mess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

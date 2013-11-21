@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLang::GetByID(${1:LID})]]></content>
+	<tabTrigger>CSaleLang::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

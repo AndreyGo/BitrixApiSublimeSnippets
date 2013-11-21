@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMHistory::SearchChatMessage(${1:searchText},${2:chatId},${3:\$bTimeZone = true})]]></content>
+	<tabTrigger>CIMHistory::SearchChatMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

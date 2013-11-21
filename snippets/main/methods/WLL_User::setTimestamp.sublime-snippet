@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_User::setTimestamp(${1:timestamp})]]></content>
+	<tabTrigger>WLL_User::setTimestamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

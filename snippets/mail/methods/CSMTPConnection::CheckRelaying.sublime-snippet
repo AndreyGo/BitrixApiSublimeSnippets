@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::CheckRelaying(${1:email})]]></content>
+	<tabTrigger>CSMTPConnection::CheckRelaying</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

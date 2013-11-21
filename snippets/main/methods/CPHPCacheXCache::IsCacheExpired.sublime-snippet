@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheXCache::IsCacheExpired(${1:path})]]></content>
+	<tabTrigger>CPHPCacheXCache::IsCacheExpired</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

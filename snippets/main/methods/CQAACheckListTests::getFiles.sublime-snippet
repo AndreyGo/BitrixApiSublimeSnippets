@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CQAACheckListTests::getFiles(${1:path},${2:skip_preg},${3:filetypes},${4:doc_root})]]></content>
+	<tabTrigger>CQAACheckListTests::getFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

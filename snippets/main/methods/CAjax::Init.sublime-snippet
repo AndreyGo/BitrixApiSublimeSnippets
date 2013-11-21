@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::Init()]]></content>
+	<tabTrigger>CAjax::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

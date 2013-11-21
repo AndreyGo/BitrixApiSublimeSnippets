@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchParameters::ConvertParamsToFilter(${1:arParams},${2:strFilterParamName})]]></content>
+	<tabTrigger>CSearchParameters::ConvertParamsToFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

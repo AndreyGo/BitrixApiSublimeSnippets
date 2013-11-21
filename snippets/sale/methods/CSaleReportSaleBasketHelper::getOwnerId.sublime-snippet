@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleBasketHelper::getOwnerId()]]></content>
+	<tabTrigger>CSaleReportSaleBasketHelper::getOwnerId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

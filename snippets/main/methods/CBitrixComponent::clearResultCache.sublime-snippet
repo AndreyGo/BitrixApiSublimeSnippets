@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::clearResultCache(${1:\$additionalCacheID = false},${2:\$cachePath = false})]]></content>
+	<tabTrigger>CBitrixComponent::clearResultCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

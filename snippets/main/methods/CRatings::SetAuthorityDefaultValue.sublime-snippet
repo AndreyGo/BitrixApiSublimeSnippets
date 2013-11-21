@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::SetAuthorityDefaultValue(${1:arParams})]]></content>
+	<tabTrigger>CRatings::SetAuthorityDefaultValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

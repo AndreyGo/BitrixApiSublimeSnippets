@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumGroup::CanUserAddGroup(${1:arUserGroups})]]></content>
+	<tabTrigger>CForumGroup::CanUserAddGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

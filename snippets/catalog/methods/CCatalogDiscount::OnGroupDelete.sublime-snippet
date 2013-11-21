@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::OnGroupDelete(${1:GroupID})]]></content>
+	<tabTrigger>CCatalogDiscount::OnGroupDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

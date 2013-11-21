@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClientRequestTo::Send(${1:\$page="/bitrix/admin/controller_ws.php"})]]></content>
+	<tabTrigger>CControllerClientRequestTo::Send</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

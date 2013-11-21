@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_cleanFile()]]></content>
+	<tabTrigger>CZip::_cleanFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforeResultAdd]]></content>
+	<tabTrigger>onBeforeResultAdd</tabTrigger>
+	<description>Bitrix CFormResult::Add</description>
+	<scope>source.php</scope>
+</snippet>

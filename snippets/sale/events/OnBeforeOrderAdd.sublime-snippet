@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeOrderAdd]]></content>
+	<tabTrigger>OnBeforeOrderAdd</tabTrigger>
+	<description>Bitrix CSaleOrder::Add</description>
+	<scope>source.php</scope>
+</snippet>

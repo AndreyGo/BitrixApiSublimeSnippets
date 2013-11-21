@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::Update(${1:ID},${2:arFields},${3:\$bWorkFlow=false},${4:\$bUpdateSearch=true},${5:\$bResizePictures=false},${6:\$bCheckDiskQuota=true})]]></content>
+	<tabTrigger>CIBlockElement::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

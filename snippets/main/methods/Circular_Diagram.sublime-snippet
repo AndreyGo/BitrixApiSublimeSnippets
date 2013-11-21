@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Circular_Diagram(${1:ImageHandle},${2:arr},${3:background_color},${4:diameter},${5:centerX},${6:centerY},${7:\$antialiase=true})]]></content>
+	<tabTrigger>Circular_Diagram</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

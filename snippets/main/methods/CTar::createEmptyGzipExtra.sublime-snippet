@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::createEmptyGzipExtra(${1:file})]]></content>
+	<tabTrigger>CTar::createEmptyGzipExtra</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

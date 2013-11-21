@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeLocationAdd]]></content>
+	<tabTrigger>OnBeforeLocationAdd</tabTrigger>
+	<description>Bitrix CSaleLocation::AddLocation</description>
+	<scope>source.php</scope>
+</snippet>

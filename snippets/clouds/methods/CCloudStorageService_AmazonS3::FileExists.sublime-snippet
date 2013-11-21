@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::FileExists(${1:arBucket},${2:filePath})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::FileExists</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

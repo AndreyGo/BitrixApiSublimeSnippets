@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSnippets::GetGroups(${1:Params})]]></content>
+	<tabTrigger>CSnippets::GetGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

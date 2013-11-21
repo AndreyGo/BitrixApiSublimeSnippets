@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSteganos::__GetHiddenInfo()]]></content>
+	<tabTrigger>CSteganos::__GetHiddenInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

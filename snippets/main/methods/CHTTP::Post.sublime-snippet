@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::Post(${1:url},${2:arPostData})]]></content>
+	<tabTrigger>CHTTP::Post</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

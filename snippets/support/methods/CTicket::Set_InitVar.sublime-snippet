@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Set_InitVar(${1:&arFields},${2:id},${3:checkRights},${4:sendEmailToAuthor},${5:sendEmailToTechsupport})]]></content>
+	<tabTrigger>CTicket::Set_InitVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

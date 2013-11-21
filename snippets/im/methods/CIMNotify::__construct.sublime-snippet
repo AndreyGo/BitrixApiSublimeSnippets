@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::__construct(${1:\$user_id = false},${2:\$arParams = Array()})]]></content>
+	<tabTrigger>CIMNotify::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

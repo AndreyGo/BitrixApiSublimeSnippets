@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetGroupRight(${1:module_id},${2:group_id},${3:right},${4:\$site_id=false})]]></content>
+	<tabTrigger>CMain::SetGroupRight</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

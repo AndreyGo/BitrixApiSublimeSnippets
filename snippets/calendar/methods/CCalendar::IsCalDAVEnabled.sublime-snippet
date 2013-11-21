@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsCalDAVEnabled()]]></content>
+	<tabTrigger>CCalendar::IsCalDAVEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

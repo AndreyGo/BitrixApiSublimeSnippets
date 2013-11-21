@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTranslateEventHandlers::TranslatOnPanelCreate()]]></content>
+	<tabTrigger>CTranslateEventHandlers::TranslatOnPanelCreate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

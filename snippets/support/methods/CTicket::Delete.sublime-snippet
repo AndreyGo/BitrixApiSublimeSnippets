@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::Delete(${1:ticketID},${2:\$checkRights="Y"})]]></content>
+	<tabTrigger>CTicket::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

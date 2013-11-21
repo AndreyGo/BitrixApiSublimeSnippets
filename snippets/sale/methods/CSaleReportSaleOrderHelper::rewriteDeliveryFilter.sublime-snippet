@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleOrderHelper::rewriteDeliveryFilter(${1:&filter})]]></content>
+	<tabTrigger>CSaleReportSaleOrderHelper::rewriteDeliveryFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetPanelButtons(${1:\$IBLOCK_ID=0},${2:\$ELEMENT_ID=0},${3:\$SECTION_ID=0},${4:\$arOptions=array()})]]></content>
+	<tabTrigger>CIBlock::GetPanelButtons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPageCache::StartDataCache(${1:TTL},${2:\$uniq_str=false},${3:\$initdir=false},${4:\$basedir = "cache"})]]></content>
+	<tabTrigger>CPageCache::StartDataCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

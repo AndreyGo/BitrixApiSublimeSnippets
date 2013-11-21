@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::AddEventHandler(${1:eventName},${2:IBPActivityExternalEventListener eventHandler})]]></content>
+	<tabTrigger>CBPWorkflow::AddEventHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

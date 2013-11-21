@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPageCache::GetPath(${1:uniq_str})]]></content>
+	<tabTrigger>CPageCache::GetPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

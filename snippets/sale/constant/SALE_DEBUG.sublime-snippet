@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_DEBUG]]></content>
+	<tabTrigger>SALE_DEBUG</tabTrigger>
+	<description>Bitrix CSaleOrderChange::Update</description>
+	<scope>source.php</scope>
+</snippet>

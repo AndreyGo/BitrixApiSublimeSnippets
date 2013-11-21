@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDirScan::__construct()]]></content>
+	<tabTrigger>CDirScan::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogMetaWeblog::EditPost(${1:params})]]></content>
+	<tabTrigger>CBlogMetaWeblog::EditPost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

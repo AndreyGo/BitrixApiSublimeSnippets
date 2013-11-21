@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetRedirectURL(${1:url},${2:arBanner})]]></content>
+	<tabTrigger>CAdvBanner::GetRedirectURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

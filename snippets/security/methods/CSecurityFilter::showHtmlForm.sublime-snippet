@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::showHtmlForm(${1:\$originalPostVars = array()})]]></content>
+	<tabTrigger>CSecurityFilter::showHtmlForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

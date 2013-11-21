@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::MkPropertySelect(${1:PR_ID},${2:db_prop},${3:&\$arIBlockLongProps},${4:&\$arIBlockConvProps},${5:&\$arJoinProps},${6:&\$arIBlockMultProps},${7:&\$arIBlockNumProps},${8:bWasGroup},${9:sGroupBy},${10:&\$sSelect},${11:\$bSort = false})]]></content>
+	<tabTrigger>CIBlockElement::MkPropertySelect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

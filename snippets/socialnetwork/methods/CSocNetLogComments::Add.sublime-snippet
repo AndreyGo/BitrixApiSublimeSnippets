@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogComments::Add(${1:arFields},${2:\$bSetSource = false},${3:\$bSendEvent = true},${4:\$bSetLogUpDate = true})]]></content>
+	<tabTrigger>CSocNetLogComments::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

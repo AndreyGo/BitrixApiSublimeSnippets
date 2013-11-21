@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReportHelper::buildSelectTreePopupElelemnt(${1:humanTitle},${2:fullHumanTitle},${3:fieldDefinition},${4:fieldType})]]></content>
+	<tabTrigger>CReportHelper::buildSelectTreePopupElelemnt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

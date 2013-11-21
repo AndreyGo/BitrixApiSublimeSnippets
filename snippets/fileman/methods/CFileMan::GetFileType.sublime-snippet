@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::GetFileType(${1:path})]]></content>
+	<tabTrigger>CFileMan::GetFileType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

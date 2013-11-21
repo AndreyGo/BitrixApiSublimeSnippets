@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterDictionary::CheckFields(${1:\$arFields = array()},${2:\$ACTION = "ADD"})]]></content>
+	<tabTrigger>CFilterDictionary::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

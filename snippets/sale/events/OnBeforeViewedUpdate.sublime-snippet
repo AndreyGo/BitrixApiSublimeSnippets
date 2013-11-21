@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeViewedUpdate]]></content>
+	<tabTrigger>OnBeforeViewedUpdate</tabTrigger>
+	<description>Bitrix CSaleViewedProduct::Update</description>
+	<scope>source.php</scope>
+</snippet>

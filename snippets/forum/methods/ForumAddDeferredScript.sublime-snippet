@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumAddDeferredScript(${1:script})]]></content>
+	<tabTrigger>ForumAddDeferredScript</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

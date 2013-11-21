@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetMenuList(${1:\$arFilter=Array()},${2:\$check_rights="Y"})]]></content>
+	<tabTrigger>CForm::GetMenuList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

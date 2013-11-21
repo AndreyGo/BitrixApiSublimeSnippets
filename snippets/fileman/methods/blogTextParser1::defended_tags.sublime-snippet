@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::defended_tags(${1:text},${2:\$tag = 'replace'})]]></content>
+	<tabTrigger>blogTextParser1::defended_tags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

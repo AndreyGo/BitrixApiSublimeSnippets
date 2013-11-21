@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::ReindexGroupTasks(${1:iblock_id},${2:path},${3:last_id})]]></content>
+	<tabTrigger>CSocNetSearchReindex::ReindexGroupTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

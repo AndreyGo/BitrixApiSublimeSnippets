@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CATALOG_LOAD_NO_STEP]]></content>
+	<tabTrigger>CATALOG_LOAD_NO_STEP</tabTrigger>
+	<description>Bitrix CCatalogImport::PreGenerateImport</description>
+	<scope>source.php</scope>
+</snippet>

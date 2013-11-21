@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::SetFilterParams(${1:Filter})]]></content>
+	<tabTrigger>CSticker::SetFilterParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::GetTemplateProps(${1:componentName},${2:templateName},${3:\$siteTemplate = ""},${4:\$arCurrentValues = array()})]]></content>
+	<tabTrigger>CComponentUtil::GetTemplateProps</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

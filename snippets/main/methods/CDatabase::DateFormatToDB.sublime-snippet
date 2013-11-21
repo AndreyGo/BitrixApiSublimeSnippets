@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::DateFormatToDB(${1:format},${2:\$field = false})]]></content>
+	<tabTrigger>CDatabase::DateFormatToDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Rel2Abs(${1:curdir},${2:relpath})]]></content>
+	<tabTrigger>Rel2Abs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

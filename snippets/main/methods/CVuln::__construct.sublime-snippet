@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVuln::__construct(${1:filename},${2:line},${3:name},${4:tokens},${5:dependencies},${6:tainted_vars},${7:comment})]]></content>
+	<tabTrigger>CVuln::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

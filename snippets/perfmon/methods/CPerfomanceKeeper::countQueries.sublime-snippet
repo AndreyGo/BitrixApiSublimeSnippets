@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::countQueries(${1:&query_count},${2:&\$query_time})]]></content>
+	<tabTrigger>CPerfomanceKeeper::countQueries</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

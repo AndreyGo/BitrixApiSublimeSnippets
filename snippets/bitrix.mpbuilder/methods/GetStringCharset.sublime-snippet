@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetStringCharset(${1:str})]]></content>
+	<tabTrigger>GetStringCharset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

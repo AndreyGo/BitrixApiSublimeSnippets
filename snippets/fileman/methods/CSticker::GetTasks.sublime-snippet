@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::GetTasks()]]></content>
+	<tabTrigger>CSticker::GetTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

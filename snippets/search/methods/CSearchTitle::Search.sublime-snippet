@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchTitle::Search(${1:\$phrase = ""},${2:\$nTopCount = 5},${3:\$arParams = array()},${4:\$bNotFilter = false},${5:\$order = ""})]]></content>
+	<tabTrigger>CSearchTitle::Search</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

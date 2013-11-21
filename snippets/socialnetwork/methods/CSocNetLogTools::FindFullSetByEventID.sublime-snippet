@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FindFullSetByEventID(${1:event_id})]]></content>
+	<tabTrigger>CSocNetLogTools::FindFullSetByEventID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

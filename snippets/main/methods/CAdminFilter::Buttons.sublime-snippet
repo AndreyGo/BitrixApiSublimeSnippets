@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::Buttons(${1:\$aParams=false})]]></content>
+	<tabTrigger>CAdminFilter::Buttons</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

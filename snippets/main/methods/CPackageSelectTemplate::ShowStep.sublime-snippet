@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageSelectTemplate::ShowStep()]]></content>
+	<tabTrigger>CPackageSelectTemplate::ShowStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

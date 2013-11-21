@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::SetStatus(${1:newStatus},${2:\$arEventParameters = array()})]]></content>
+	<tabTrigger>CBPActivity::SetStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

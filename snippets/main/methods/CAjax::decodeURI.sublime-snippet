@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::decodeURI(${1:str})]]></content>
+	<tabTrigger>CAjax::decodeURI</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

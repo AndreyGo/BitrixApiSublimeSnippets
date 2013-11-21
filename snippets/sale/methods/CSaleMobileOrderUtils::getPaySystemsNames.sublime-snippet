@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::getPaySystemsNames(${1:arPaySystemsIds})]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::getPaySystemsNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

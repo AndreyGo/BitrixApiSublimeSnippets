@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::RequireAutoloadClass(${1:className})]]></content>
+	<tabTrigger>CModule::RequireAutoloadClass</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

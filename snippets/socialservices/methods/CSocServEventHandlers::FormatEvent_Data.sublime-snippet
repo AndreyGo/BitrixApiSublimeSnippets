@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServEventHandlers::FormatEvent_Data(${1:arFields},${2:arParams},${3:\$bMail = false})]]></content>
+	<tabTrigger>CSocServEventHandlers::FormatEvent_Data</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceTable::Init(${1:TABLE_NAME})]]></content>
+	<tabTrigger>CPerfomanceTable::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

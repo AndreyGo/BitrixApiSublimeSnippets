@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::DoDeleteToDav(${1:Params},${2:oCurEvent})]]></content>
+	<tabTrigger>CCalendar::DoDeleteToDav</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

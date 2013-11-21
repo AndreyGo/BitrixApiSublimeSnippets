@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Bar_Diagram(${1:ImageHandle},${2:arData},${3:MinY},${4:MaxY},${5:gridInfo})]]></content>
+	<tabTrigger>Bar_Diagram</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

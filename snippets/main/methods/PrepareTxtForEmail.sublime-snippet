@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PrepareTxtForEmail(${1:text},${2:\$lang=false},${3:\$convert_url_tag=true},${4:\$convert_image_tag=true})]]></content>
+	<tabTrigger>PrepareTxtForEmail</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_TIME_LOCK_USER]]></content>
+	<tabTrigger>SALE_TIME_LOCK_USER</tabTrigger>
+	<description>Bitrix CSaleUserAccount::Lock</description>
+	<scope>source.php</scope>
+</snippet>

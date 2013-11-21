@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFavorites::OnLanguageDelete(${1:language_id})]]></content>
+	<tabTrigger>CFavorites::OnLanguageDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

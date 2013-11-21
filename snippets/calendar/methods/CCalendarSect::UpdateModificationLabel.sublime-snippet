@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::UpdateModificationLabel(${1:\$arId = array()})]]></content>
+	<tabTrigger>CCalendarSect::UpdateModificationLabel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

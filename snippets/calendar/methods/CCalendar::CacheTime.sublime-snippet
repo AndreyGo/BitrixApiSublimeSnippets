@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::CacheTime(${1:\$time = false})]]></content>
+	<tabTrigger>CCalendar::CacheTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStackCacheEntry::Clean()]]></content>
+	<tabTrigger>CStackCacheEntry::Clean</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

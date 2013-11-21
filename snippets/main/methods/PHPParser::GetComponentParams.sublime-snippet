@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPParser::GetComponentParams(${1:instruction},${2:arAllStr})]]></content>
+	<tabTrigger>PHPParser::GetComponentParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

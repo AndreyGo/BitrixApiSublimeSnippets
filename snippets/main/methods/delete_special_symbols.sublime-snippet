@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[delete_special_symbols(${1:text},${2:\$replace=""})]]></content>
+	<tabTrigger>delete_special_symbols</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

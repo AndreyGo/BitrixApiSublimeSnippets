@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckList::PointUpdate(${1:arTestID},${2:\$arPointFields = array()})]]></content>
+	<tabTrigger>CCheckList::PointUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

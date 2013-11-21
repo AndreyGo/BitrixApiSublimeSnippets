@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteCacheManager::OnBeforeVoteAnswerUpdate(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CVoteCacheManager::OnBeforeVoteAnswerUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

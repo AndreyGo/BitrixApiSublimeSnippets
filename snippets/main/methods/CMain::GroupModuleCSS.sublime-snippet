@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GroupModuleCSS(${1:\$from = ''},${2:\$to = ''})]]></content>
+	<tabTrigger>CMain::GroupModuleCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

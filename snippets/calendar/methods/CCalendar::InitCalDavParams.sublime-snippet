@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::InitCalDavParams(${1:&JSConfig})]]></content>
+	<tabTrigger>CCalendar::InitCalDavParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

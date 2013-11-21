@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuthManager::GetTwitMessages(${1:\$lastTwitId = "1"},${2:\$counter = 1})]]></content>
+	<tabTrigger>CSocServAuthManager::GetTwitMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

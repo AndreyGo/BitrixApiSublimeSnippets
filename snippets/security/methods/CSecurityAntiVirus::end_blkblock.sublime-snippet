@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::end_blkblock()]]></content>
+	<tabTrigger>CSecurityAntiVirus::end_blkblock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

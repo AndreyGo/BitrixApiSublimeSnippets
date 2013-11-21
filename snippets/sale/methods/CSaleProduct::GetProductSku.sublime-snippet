@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleProduct::GetProductSku(${1:USER_ID},${2:LID},${3:PRODUCT_ID},${4:\$PRODUCT_NAME = ''},${5:\$CURRENCY = ''},${6:\$arProduct = array()})]]></content>
+	<tabTrigger>CSaleProduct::GetProductSku</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

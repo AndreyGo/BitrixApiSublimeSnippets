@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_PrepareData()]]></content>
+	<tabTrigger>_PrepareData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

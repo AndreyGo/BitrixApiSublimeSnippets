@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::Lock()]]></content>
+	<tabTrigger>CB24Updater::Lock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

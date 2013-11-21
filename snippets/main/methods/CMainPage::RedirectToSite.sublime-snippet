@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMainPage::RedirectToSite(${1:site})]]></content>
+	<tabTrigger>CMainPage::RedirectToSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

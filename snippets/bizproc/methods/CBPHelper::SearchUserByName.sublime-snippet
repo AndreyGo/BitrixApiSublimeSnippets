@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::SearchUserByName(${1:user})]]></content>
+	<tabTrigger>CBPHelper::SearchUserByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterLetter::Add(${1:arFields})]]></content>
+	<tabTrigger>CFilterLetter::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

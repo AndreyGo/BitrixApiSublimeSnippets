@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::OrderDeduction(${1:orderID},${2:\$bReturn = false},${3:\$recurringID = 0},${4:\$bAutoDeduction = true},${5:\$arStoreBarcodeOrderFormData  = array()})]]></content>
+	<tabTrigger>CSaleBasket::OrderDeduction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

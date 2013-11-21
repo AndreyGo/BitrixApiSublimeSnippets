@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminInformer::AddItem(${1:arParams})]]></content>
+	<tabTrigger>CAdminInformer::AddItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

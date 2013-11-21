@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElementEnum::GetTreeList(${1:IBLOCK_ID},${2:\$ACTIVE_FILTER="N"})]]></content>
+	<tabTrigger>CIBlockElementEnum::GetTreeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

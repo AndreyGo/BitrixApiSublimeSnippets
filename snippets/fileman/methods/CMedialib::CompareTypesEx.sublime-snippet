@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::CompareTypesEx(${1:typeMix},${2:arType})]]></content>
+	<tabTrigger>CMedialib::CompareTypesEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectBoxMFromArray(${1:strBoxName},${2:a},${3:arr},${4:\$strDetText = ""},${5:\$strDetText_selected = false},${6:\$size = "5"},${7:\$field1="class='typeselect'"})]]></content>
+	<tabTrigger>SelectBoxMFromArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListRow(${1:&aHeaders},${2:table_id})]]></content>
+	<tabTrigger>CAdminListRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

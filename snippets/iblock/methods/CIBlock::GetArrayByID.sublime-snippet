@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetArrayByID(${1:ID},${2:\$FIELD = ""})]]></content>
+	<tabTrigger>CIBlock::GetArrayByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

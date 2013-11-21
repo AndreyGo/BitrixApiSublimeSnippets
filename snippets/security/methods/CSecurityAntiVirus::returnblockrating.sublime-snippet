@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::returnblockrating()]]></content>
+	<tabTrigger>CSecurityAntiVirus::returnblockrating</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

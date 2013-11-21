@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::IsManager(${1:\$USER_ID=false})]]></content>
+	<tabTrigger>CAdvContract::IsManager</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

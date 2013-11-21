@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CQAACheckListTests::checkVulnerabilities(${1:arParams})]]></content>
+	<tabTrigger>CQAACheckListTests::checkVulnerabilities</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

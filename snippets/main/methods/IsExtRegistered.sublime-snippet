@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsExtRegistered(${1:ext})]]></content>
+	<tabTrigger>IsExtRegistered</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

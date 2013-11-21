@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::beforeViewDataQuery(${1:&select},${2:&\$filter},${3:&\$group},${4:&\$order},${5:&\$limit},${6:&\$options},${7:&\$runtime})]]></content>
+	<tabTrigger>CSaleReportUserHelper::beforeViewDataQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

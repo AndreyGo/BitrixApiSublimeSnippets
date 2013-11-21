@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnStoreProductUpdate]]></content>
+	<tabTrigger>OnStoreProductUpdate</tabTrigger>
+	<description>Bitrix CCatalogStoreProductAll::Update</description>
+	<scope>source.php</scope>
+</snippet>

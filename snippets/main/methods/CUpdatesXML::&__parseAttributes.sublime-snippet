@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdatesXML::&__parseAttributes(${1:attributeString})]]></content>
+	<tabTrigger>CUpdatesXML::&__parseAttributes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

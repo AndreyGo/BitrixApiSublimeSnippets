@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::getTokensInfo(${1:tokens},${2:\$var_declare = true},${3:\$function = ''})]]></content>
+	<tabTrigger>CVulnScanner::getTokensInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

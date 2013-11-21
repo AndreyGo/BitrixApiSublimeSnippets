@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::FormatEvent_SystemGroups(${1:arFields},${2:arParams},${3:\$bMail = false})]]></content>
+	<tabTrigger>CSocNetLog::FormatEvent_SystemGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

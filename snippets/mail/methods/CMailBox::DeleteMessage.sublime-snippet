@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailBox::DeleteMessage(${1:msgnum})]]></content>
+	<tabTrigger>CMailBox::DeleteMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

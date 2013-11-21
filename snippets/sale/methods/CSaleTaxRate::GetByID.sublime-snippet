@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTaxRate::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSaleTaxRate::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

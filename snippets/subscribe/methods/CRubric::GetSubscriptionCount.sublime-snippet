@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRubric::GetSubscriptionCount(${1:ID})]]></content>
+	<tabTrigger>CRubric::GetSubscriptionCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

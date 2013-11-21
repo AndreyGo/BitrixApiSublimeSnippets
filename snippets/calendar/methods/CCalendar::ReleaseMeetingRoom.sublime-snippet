@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::ReleaseMeetingRoom(${1:Params})]]></content>
+	<tabTrigger>CCalendar::ReleaseMeetingRoom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

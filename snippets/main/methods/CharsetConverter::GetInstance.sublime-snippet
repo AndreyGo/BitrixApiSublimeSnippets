@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharsetConverter::GetInstance()]]></content>
+	<tabTrigger>CharsetConverter::GetInstance</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

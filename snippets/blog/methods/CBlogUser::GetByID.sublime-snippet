@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::GetByID(${1:ID},${2:\$selectType = BLOG_BY_BLOG_USER_ID})]]></content>
+	<tabTrigger>CBlogUser::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

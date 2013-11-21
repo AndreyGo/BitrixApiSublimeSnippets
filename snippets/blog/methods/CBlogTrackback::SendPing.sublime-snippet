@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogTrackback::SendPing(${1:postID},${2:\$arPingUrls = array()})]]></content>
+	<tabTrigger>CBlogTrackback::SendPing</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

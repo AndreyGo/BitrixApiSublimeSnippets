@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudSecurityService_AmazonS3::GetFederationToken(${1:arBucket},${2:Policy},${3:Name},${4:\$DurationSeconds = 129600/*36h*/})]]></content>
+	<tabTrigger>CCloudSecurityService_AmazonS3::GetFederationToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

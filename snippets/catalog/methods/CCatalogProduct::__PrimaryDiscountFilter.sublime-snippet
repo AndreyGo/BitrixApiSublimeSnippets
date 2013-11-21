@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProduct::__PrimaryDiscountFilter(${1:&arDiscount},${2:&\$arPriceDiscount},${3:&\$arDiscSave},${4:&\$arParams})]]></content>
+	<tabTrigger>CCatalogProduct::__PrimaryDiscountFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

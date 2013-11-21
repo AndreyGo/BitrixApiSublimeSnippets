@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::FindItemByPresetId(${1:strID})]]></content>
+	<tabTrigger>CAdminFilter::FindItemByPresetId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

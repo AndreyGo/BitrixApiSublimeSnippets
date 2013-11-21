@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::OnOrderProduct(${1:\$callbackFunc = ""},${2:\$module = ""},${3:\$productID = 0},${4:\$quantity = 0},${5:\$productProvider = ""})]]></content>
+	<tabTrigger>CSaleBasket::OnOrderProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringResult::setExpirationTime(${1:time})]]></content>
+	<tabTrigger>CBitrixCloudMonitoringResult::setExpirationTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

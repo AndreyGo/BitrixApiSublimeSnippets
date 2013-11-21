@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNQuota::saveOption(${1:CBitrixCloudOption option})]]></content>
+	<tabTrigger>CBitrixCloudCDNQuota::saveOption</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

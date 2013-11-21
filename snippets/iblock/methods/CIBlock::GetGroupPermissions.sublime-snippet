@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetGroupPermissions(${1:ID})]]></content>
+	<tabTrigger>CIBlock::GetGroupPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

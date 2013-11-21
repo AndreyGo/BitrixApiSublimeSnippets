@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::CanDo(${1:operation},${2:\$sectId = 0},${3:\$userId = false})]]></content>
+	<tabTrigger>CCalendarSect::CanDo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_readHeader(${1:v_binary_data},${2:&\$v_header})]]></content>
+	<tabTrigger>CArchiver::_readHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

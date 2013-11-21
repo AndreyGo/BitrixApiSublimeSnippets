@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_getButtonsHtml()]]></content>
+	<tabTrigger>_getButtonsHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

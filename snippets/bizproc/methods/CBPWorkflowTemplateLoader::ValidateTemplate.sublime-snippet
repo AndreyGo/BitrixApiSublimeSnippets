@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ValidateTemplate(${1:arActivity},${2:user})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ValidateTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetAdditionaFieldTypeList()]]></content>
+	<tabTrigger>CForm_old::GetAdditionaFieldTypeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

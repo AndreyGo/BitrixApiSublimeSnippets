@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SKIP_FRAMECHECK]]></content>
+	<tabTrigger>BX_SECURITY_SKIP_FRAMECHECK</tabTrigger>
+	<description>Bitrix CSecurityFrame::SetHeader</description>
+	<scope>source.php</scope>
+</snippet>

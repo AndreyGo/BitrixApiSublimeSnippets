@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageCancel::ShowStep()]]></content>
+	<tabTrigger>CPackageCancel::ShowStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

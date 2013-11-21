@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::CallStaticMethod(${1:code},${2:method},${3:\$arParameters = array()})]]></content>
+	<tabTrigger>CBPActivity::CallStaticMethod</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

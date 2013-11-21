@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::CAdminSubList(${1:table_id},${2:\$sort=false},${3:list_url},${4:\$arHideHeaders = false})]]></content>
+	<tabTrigger>CAdminSubList::CAdminSubList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

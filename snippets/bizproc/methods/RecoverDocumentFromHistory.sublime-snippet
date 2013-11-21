@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RecoverDocumentFromHistory(${1:parameterDocumentId},${2:arDocument})]]></content>
+	<tabTrigger>RecoverDocumentFromHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

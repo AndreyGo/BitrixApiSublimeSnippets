@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportHolidays::GetSLAByID(${1:id},${2:\$needObj = false})]]></content>
+	<tabTrigger>CSupportHolidays::GetSLAByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

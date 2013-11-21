@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPriceAdd]]></content>
+	<tabTrigger>OnPriceAdd</tabTrigger>
+	<description>Bitrix CPrice::Add</description>
+	<scope>source.php</scope>
+</snippet>

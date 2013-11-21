@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::OrderCanceled(${1:orderID},${2:bCancel})]]></content>
+	<tabTrigger>CSaleBasket::OrderCanceled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

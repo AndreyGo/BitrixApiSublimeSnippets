@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::SetControllerAdmin(${1:\$isAdmin=true})]]></content>
+	<tabTrigger>CUser::SetControllerAdmin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

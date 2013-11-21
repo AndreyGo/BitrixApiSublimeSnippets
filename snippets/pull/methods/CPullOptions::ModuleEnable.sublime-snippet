@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::ModuleEnable()]]></content>
+	<tabTrigger>CPullOptions::ModuleEnable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

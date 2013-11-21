@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerTools::UnpackFileArchive(${1:strfile},${2:path_to})]]></content>
+	<tabTrigger>CControllerTools::UnpackFileArchive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

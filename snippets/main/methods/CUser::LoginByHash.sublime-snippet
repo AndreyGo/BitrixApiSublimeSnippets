@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::LoginByHash(${1:login},${2:hash})]]></content>
+	<tabTrigger>CUser::LoginByHash</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

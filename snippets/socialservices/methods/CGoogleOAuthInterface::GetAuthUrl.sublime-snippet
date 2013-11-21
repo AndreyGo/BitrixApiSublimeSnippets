@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGoogleOAuthInterface::GetAuthUrl(${1:redirect_uri},${2:\$state = ''})]]></content>
+	<tabTrigger>CGoogleOAuthInterface::GetAuthUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

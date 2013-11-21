@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NO_AGENT_CHECK]]></content>
+	<tabTrigger>NO_AGENT_CHECK</tabTrigger>
+	<description>Bitrix CAgent::CheckAgents</description>
+	<scope>source.php</scope>
+</snippet>

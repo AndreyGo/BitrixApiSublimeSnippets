@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsPHP(${1:src})]]></content>
+	<tabTrigger>IsPHP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

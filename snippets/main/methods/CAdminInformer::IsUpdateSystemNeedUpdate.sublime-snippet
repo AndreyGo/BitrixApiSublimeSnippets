@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminInformer::IsUpdateSystemNeedUpdate(${1:sError})]]></content>
+	<tabTrigger>CAdminInformer::IsUpdateSystemNeedUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

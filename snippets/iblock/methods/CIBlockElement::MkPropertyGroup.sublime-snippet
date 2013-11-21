@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::MkPropertyGroup(${1:db_prop},${2:&\$arJoinProps},${3:\$bSort = false})]]></content>
+	<tabTrigger>CIBlockElement::MkPropertyGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

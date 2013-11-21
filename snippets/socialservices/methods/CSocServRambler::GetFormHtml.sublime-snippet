@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServRambler::GetFormHtml(${1:arParams})]]></content>
+	<tabTrigger>CSocServRambler::GetFormHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

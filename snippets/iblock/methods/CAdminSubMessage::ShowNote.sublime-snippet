@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubMessage::ShowNote(${1:message})]]></content>
+	<tabTrigger>CAdminSubMessage::ShowNote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

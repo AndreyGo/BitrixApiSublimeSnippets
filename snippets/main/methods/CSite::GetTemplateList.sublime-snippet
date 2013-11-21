@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetTemplateList(${1:site_id})]]></content>
+	<tabTrigger>CSite::GetTemplateList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

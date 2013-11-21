@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[perfmonErrorHandler(${1:errno},${2:errstr},${3:errfile},${4:errline})]]></content>
+	<tabTrigger>perfmonErrorHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

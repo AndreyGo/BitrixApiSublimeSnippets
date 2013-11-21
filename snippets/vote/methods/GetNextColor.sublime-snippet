@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetNextColor(${1:&color},${2:&\$current_color},${3:total},${4:\$start_color="0000CC"},${5:\$end_color="FFFFCC"})]]></content>
+	<tabTrigger>GetNextColor</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

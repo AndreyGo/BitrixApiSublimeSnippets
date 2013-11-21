@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailImap::sendCommand(${1:command})]]></content>
+	<tabTrigger>CMailImap::sendCommand</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

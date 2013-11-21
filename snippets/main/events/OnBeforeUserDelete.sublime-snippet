@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserDelete]]></content>
+	<tabTrigger>OnBeforeUserDelete</tabTrigger>
+	<description>Bitrix CUser::Delete</description>
+	<scope>source.php</scope>
+</snippet>

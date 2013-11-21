@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceIndexComplete::DeleteByTableName(${1:table},${2:columns})]]></content>
+	<tabTrigger>CPerfomanceIndexComplete::DeleteByTableName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetable::Set(${1:arFields},${2:arFieldsShedule) //arFields},${3:\$arFieldsShedule = array(0 => array("ID" => 1 ...)},${4:1 => array("ID" => 3 ...) ...})]]></content>
+	<tabTrigger>CSupportTimetable::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

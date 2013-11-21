@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::BBParseToHTML(${1:str},${2:\$bForList = false})]]></content>
+	<tabTrigger>CSticker::BBParseToHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

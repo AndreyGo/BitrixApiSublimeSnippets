@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddEventHandler(${1:FROM_MODULE_ID},${2:MESSAGE_ID},${3:CALLBACK},${4:\$SORT=100},${5:\$FULL_PATH = false})]]></content>
+	<tabTrigger>AddEventHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

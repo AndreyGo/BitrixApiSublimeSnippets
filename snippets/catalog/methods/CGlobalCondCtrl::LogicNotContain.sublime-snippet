@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::LogicNotContain(${1:arField},${2:mxValue})]]></content>
+	<tabTrigger>CGlobalCondCtrl::LogicNotContain</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

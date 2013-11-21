@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::RemoveFromController(${1:controller_login},${2:controller_password})]]></content>
+	<tabTrigger>CControllerClient::RemoveFromController</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

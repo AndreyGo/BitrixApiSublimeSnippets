@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EchoGraphData(${1:arrayX},${2:MinX},${3:MaxX},${4:arrayY},${5:MinY},${6:MaxY},${7:arrX},${8:arrY},${9:\$die=true})]]></content>
+	<tabTrigger>EchoGraphData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNServerGroups::fromXMLNode(${1:CDataXMLNode node})]]></content>
+	<tabTrigger>CBitrixCloudCDNServerGroups::fromXMLNode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

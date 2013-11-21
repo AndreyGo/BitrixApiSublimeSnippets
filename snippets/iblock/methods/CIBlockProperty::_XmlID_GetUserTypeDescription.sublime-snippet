@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockProperty::_XmlID_GetUserTypeDescription()]]></content>
+	<tabTrigger>CIBlockProperty::_XmlID_GetUserTypeDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

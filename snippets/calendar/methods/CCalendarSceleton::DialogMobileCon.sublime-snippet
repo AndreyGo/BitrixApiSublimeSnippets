@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::DialogMobileCon(${1:Params})]]></content>
+	<tabTrigger>CCalendarSceleton::DialogMobileCon</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

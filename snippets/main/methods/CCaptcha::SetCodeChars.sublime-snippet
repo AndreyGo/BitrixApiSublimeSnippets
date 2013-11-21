@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::SetCodeChars(${1:arChars})]]></content>
+	<tabTrigger>CCaptcha::SetCodeChars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

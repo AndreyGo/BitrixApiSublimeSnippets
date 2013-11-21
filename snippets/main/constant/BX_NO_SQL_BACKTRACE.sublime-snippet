@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_NO_SQL_BACKTRACE]]></content>
+	<tabTrigger>BX_NO_SQL_BACKTRACE</tabTrigger>
+	<description>Bitrix CDatabase::addDebugQuery</description>
+	<scope>source.php</scope>
+</snippet>

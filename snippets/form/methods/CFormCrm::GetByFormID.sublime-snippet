@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::GetByFormID(${1:FORM_ID})]]></content>
+	<tabTrigger>CFormCrm::GetByFormID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

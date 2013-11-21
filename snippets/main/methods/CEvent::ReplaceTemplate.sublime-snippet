@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEvent::ReplaceTemplate(${1:str},${2:ar},${3:\$bNewLineToBreak=false})]]></content>
+	<tabTrigger>CEvent::ReplaceTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

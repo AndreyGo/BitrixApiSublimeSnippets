@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetLinkEx(${1:real_url},${2:public_url},${3:text},${4:container_id},${5:\$additional = ''})]]></content>
+	<tabTrigger>CAjax::GetLinkEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

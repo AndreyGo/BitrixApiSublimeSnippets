@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::__GetStepLayout()]]></content>
+	<tabTrigger>CWizardBase::__GetStepLayout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

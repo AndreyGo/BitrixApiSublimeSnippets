@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::GetDateTimeFormatDefault()]]></content>
+	<tabTrigger>CComponentUtil::GetDateTimeFormatDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

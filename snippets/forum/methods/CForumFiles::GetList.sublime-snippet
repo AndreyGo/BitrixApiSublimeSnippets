@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::GetList(${1:\$arOrder = Array("ID"=>"ASC")},${2:\$arFilter = Array()},${3:\$iNum = 0},${4:\$arAddParams = array()})]]></content>
+	<tabTrigger>CForumFiles::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

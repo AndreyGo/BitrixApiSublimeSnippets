@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClientRequestTo::CControllerClientRequestTo(${1:operation},${2:\$arParameters = Array()})]]></content>
+	<tabTrigger>CControllerClientRequestTo::CControllerClientRequestTo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

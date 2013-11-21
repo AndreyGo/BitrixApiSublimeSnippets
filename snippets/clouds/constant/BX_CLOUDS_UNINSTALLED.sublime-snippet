@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CLOUDS_UNINSTALLED]]></content>
+	<tabTrigger>BX_CLOUDS_UNINSTALLED</tabTrigger>
+	<description>Bitrix CCloudStorage::OnBuildGlobalMenu</description>
+	<scope>source.php</scope>
+</snippet>

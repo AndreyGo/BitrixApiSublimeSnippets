@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::addChildCSS(${1:cssPath})]]></content>
+	<tabTrigger>CBitrixComponent::addChildCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

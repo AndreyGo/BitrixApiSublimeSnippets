@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CFormCrmSenderResult::__construct(${1:result_text})]]></content>
+	<tabTrigger>_CFormCrmSenderResult::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

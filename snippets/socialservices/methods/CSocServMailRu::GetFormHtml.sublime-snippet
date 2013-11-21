@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServMailRu::GetFormHtml(${1:arParams})]]></content>
+	<tabTrigger>CSocServMailRu::GetFormHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

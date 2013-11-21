@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvertTmp::GetLastID()]]></content>
+	<tabTrigger>CCatalogDiscountConvertTmp::GetLastID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

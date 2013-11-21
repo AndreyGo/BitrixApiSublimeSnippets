@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserPerms::Delete(${1:ID})]]></content>
+	<tabTrigger>CSocNetUserPerms::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::DeleteEvent(${1:ID},${2:\$bSyncDAV = true})]]></content>
+	<tabTrigger>CCalendar::DeleteEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

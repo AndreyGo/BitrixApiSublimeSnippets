@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetCurPageParam(${1:\$strParam=""},${2:\$arParamKill=array()},${3:\$get_index_page=null})]]></content>
+	<tabTrigger>CMain::GetCurPageParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

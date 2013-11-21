@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSVUserImport::&GetCsvObject()]]></content>
+	<tabTrigger>CSVUserImport::&GetCsvObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

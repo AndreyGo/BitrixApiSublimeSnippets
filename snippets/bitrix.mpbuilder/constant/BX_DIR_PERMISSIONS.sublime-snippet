@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_DIR_PERMISSIONS]]></content>
+	<tabTrigger>BX_DIR_PERMISSIONS</tabTrigger>
+	<description>Bitrix CBuilderLang::__construct</description>
+	<scope>source.php</scope>
+</snippet>

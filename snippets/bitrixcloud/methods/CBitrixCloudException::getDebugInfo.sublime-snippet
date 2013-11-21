@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudException::getDebugInfo()]]></content>
+	<tabTrigger>CBitrixCloudException::getDebugInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

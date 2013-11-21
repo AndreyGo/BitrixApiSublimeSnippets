@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyVideo::ConvertToDB(${1:arProperty},${2:value})]]></content>
+	<tabTrigger>CIBlockPropertyVideo::ConvertToDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsExchangeEnabled(${1:\$userId = false})]]></content>
+	<tabTrigger>CCalendar::IsExchangeEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

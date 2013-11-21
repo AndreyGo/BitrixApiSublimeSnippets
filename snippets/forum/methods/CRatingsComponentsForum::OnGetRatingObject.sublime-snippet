@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsForum::OnGetRatingObject()]]></content>
+	<tabTrigger>CRatingsComponentsForum::OnGetRatingObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

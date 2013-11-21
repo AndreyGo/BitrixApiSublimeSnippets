@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::getRndPrime(${1:cnt})]]></content>
+	<tabTrigger>CRsaBcmathProvider::getRndPrime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

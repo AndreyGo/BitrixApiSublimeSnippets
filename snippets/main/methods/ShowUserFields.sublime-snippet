@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowUserFields(${1:PROPERTY_ID},${2:ID},${3:bVarsFromForm})]]></content>
+	<tabTrigger>ShowUserFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

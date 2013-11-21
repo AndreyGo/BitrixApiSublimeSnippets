@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::AddLangJS(${1:content})]]></content>
+	<tabTrigger>CMain::AddLangJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetUniqueCSS(${1:\$id = ''},${2:\$cssType = 'page'})]]></content>
+	<tabTrigger>CMain::SetUniqueCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

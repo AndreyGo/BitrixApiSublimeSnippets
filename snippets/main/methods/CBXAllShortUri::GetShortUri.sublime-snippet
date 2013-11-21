@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXAllShortUri::GetShortUri(${1:uri})]]></content>
+	<tabTrigger>CBXAllShortUri::GetShortUri</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

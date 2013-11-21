@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::GetSettingsDefaults()]]></content>
+	<tabTrigger>CListField::GetSettingsDefaults</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

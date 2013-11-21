@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TxtToHTML(${1:N/A})]]></content>
+	<tabTrigger>TxtToHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStudent::Delete(${1:ID})]]></content>
+	<tabTrigger>CStudent::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

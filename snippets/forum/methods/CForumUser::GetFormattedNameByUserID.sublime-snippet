@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::GetFormattedNameByUserID(${1:userID},${2:\$template = ""},${3:\$arUser = array()})]]></content>
+	<tabTrigger>CForumUser::GetFormattedNameByUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

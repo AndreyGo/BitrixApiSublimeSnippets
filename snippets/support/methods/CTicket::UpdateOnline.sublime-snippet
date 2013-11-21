@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::UpdateOnline(${1:ticketID},${2:\$userID=false},${3:\$currentMode=""})]]></content>
+	<tabTrigger>CTicket::UpdateOnline</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

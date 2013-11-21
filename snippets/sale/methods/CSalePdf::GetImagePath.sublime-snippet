@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePdf::GetImagePath(${1:file})]]></content>
+	<tabTrigger>CSalePdf::GetImagePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXMLDocument::elementsByName(${1:tagname})]]></content>
+	<tabTrigger>CDataXMLDocument::elementsByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

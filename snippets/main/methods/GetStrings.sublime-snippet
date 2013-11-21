@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetStrings(${1:&item},${2:key},${3:p})]]></content>
+	<tabTrigger>GetStrings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

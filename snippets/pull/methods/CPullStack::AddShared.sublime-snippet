@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullStack::AddShared(${1:arMessage})]]></content>
+	<tabTrigger>CPullStack::AddShared</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

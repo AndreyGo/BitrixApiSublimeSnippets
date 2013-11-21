@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourse::TimeToStr(${1:seconds})]]></content>
+	<tabTrigger>CCourse::TimeToStr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

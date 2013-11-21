@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::SetOptions(${1:arOptions})]]></content>
+	<tabTrigger>CZip::SetOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

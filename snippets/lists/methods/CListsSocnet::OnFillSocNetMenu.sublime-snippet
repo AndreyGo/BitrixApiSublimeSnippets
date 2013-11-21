@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListsSocnet::OnFillSocNetMenu(${1:&arResult},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CListsSocnet::OnFillSocNetMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

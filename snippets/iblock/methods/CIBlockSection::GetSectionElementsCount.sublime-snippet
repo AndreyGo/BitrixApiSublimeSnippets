@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSection::GetSectionElementsCount(${1:ID},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CIBlockSection::GetSectionElementsCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

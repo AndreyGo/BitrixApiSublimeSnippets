@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::SetLastAttendees(${1:attendees})]]></content>
+	<tabTrigger>CCalendarEvent::SetLastAttendees</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

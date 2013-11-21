@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::CleanUpOnline()]]></content>
+	<tabTrigger>CTicket::CleanUpOnline</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

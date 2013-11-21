@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::GetSocNetPermsCode(${1:ID})]]></content>
+	<tabTrigger>CBlogPost::GetSocNetPermsCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

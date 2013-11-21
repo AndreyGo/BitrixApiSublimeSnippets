@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSuperCoupon::Delete(${1:ID})]]></content>
+	<tabTrigger>CSupportSuperCoupon::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

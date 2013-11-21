@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBackup::GetBucketFileList(${1:BUCKET_ID},${2:path})]]></content>
+	<tabTrigger>CBackup::GetBucketFileList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::InitTableVarsForEdit(${1:tablename},${2:\$strIdentFrom="str_"},${3:\$strIdentTo="str_"},${4:\$strSuffixFrom=""},${5:\$bAlways=false})]]></content>
+	<tabTrigger>CDatabase::InitTableVarsForEdit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

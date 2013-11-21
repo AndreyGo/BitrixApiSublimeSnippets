@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::DelTypes(${1:\$arIds = array()})]]></content>
+	<tabTrigger>CMedialib::DelTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormAnswer::Copy(${1:ID},${2:\$NEW_QUESTION_ID=false})]]></content>
+	<tabTrigger>CFormAnswer::Copy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

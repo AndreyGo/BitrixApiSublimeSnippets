@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MEMCACHE_CONNECTED]]></content>
+	<tabTrigger>BX_MEMCACHE_CONNECTED</tabTrigger>
+	<description>Bitrix CPHPCacheMemcache::IsAvailable</description>
+	<scope>source.php</scope>
+</snippet>

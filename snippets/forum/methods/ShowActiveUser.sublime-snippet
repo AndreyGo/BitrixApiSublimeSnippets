@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowActiveUser(${1:\$arFields = array()})]]></content>
+	<tabTrigger>ShowActiveUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

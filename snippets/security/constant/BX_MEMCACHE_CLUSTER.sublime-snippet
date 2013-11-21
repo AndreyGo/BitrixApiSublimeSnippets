@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MEMCACHE_CLUSTER]]></content>
+	<tabTrigger>BX_MEMCACHE_CLUSTER</tabTrigger>
+	<description>Bitrix CSecuritySystemInformation::getMemCacheSID</description>
+	<scope>source.php</scope>
+</snippet>

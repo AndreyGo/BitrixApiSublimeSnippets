@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::getWorstUptime(${1:\$testId = ""},${2:\$domainName = ""})]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::getWorstUptime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeDocumentDelete]]></content>
+	<tabTrigger>OnBeforeDocumentDelete</tabTrigger>
+	<description>Bitrix CCatalogDocs::delete</description>
+	<scope>source.php</scope>
+</snippet>

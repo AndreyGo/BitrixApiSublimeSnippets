@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_writeCentralFileHeader(${1:&arHeader})]]></content>
+	<tabTrigger>CZip::_writeCentralFileHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

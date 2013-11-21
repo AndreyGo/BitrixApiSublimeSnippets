@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::formatHiddenFields(${1:array pArray},${2:\$pPrefix = ""})]]></content>
+	<tabTrigger>CSecurityFilter::formatHiddenFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

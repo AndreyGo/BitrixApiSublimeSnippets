@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::SetOnline(${1:\$userId = null},${2:\$cache = false})]]></content>
+	<tabTrigger>CIMContactList::SetOnline</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMTableSchema::__construct()]]></content>
+	<tabTrigger>CIMTableSchema::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

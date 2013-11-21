@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ReadCatalogData(${1:&SECTION_MAP},${2:&\$PRICES_MAP})]]></content>
+	<tabTrigger>CIBlockCMLImport::ReadCatalogData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

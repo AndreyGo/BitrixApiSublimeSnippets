@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::SetUFRights(${1:files},${2:rights})]]></content>
+	<tabTrigger>CSocNetLogTools::SetUFRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

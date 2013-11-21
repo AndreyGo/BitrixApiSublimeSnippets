@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterVoteQuestionDelete]]></content>
+	<tabTrigger>onAfterVoteQuestionDelete</tabTrigger>
+	<description>Bitrix CVoteQuestion::Delete</description>
+	<scope>source.php</scope>
+</snippet>

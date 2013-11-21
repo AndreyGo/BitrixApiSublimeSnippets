@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::GetHolidays(${1:dateB},${2:dateE},${3:arrS},${4:arFilter})]]></content>
+	<tabTrigger>CSupportTimetableCache::GetHolidays</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetOwnerName(${1:\$type = ''},${2:\$ownerId = ''})]]></content>
+	<tabTrigger>CCalendar::GetOwnerName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

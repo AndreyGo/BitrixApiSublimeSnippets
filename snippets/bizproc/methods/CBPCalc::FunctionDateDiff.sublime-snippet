@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::FunctionDateDiff(${1:args})]]></content>
+	<tabTrigger>CBPCalc::FunctionDateDiff</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

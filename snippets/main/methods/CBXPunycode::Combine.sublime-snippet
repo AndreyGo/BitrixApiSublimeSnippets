@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::Combine(${1:input})]]></content>
+	<tabTrigger>CBXPunycode::Combine</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

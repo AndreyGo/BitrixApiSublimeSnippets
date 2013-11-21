@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListsSocnet::OnInitSocNetComponentVariables(${1:&arVariableAliases},${2:&\$arCustomPagesPath})]]></content>
+	<tabTrigger>CListsSocnet::OnInitSocNetComponentVariables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

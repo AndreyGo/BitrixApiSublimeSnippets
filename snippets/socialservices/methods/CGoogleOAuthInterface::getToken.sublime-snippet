@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGoogleOAuthInterface::getToken()]]></content>
+	<tabTrigger>CGoogleOAuthInterface::getToken</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

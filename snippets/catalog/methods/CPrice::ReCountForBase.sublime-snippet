@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::ReCountForBase(${1:&arFields})]]></content>
+	<tabTrigger>CPrice::ReCountForBase</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

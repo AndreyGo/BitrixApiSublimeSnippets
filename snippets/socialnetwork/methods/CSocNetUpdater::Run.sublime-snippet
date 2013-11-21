@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUpdater::Run(${1:version})]]></content>
+	<tabTrigger>CSocNetUpdater::Run</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPUnit_Util_Log_BX_Plain::writeCase(${1:status},${2:time},${3:array \$trace = array()},${4:\$message = ''},${5:\$test = NULL})]]></content>
+	<tabTrigger>PHPUnit_Util_Log_BX_Plain::writeCase</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

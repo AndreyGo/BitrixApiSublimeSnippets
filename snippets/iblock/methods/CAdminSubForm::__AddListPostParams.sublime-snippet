@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubForm::__AddListPostParams(${1:strKey},${2:strValue})]]></content>
+	<tabTrigger>CAdminSubForm::__AddListPostParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

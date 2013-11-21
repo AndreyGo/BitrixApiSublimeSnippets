@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::strlen(${1:s})]]></content>
+	<tabTrigger>CTar::strlen</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

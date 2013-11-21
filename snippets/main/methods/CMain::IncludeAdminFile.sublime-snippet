@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::IncludeAdminFile(${1:strTitle},${2:filepath})]]></content>
+	<tabTrigger>CMain::IncludeAdminFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

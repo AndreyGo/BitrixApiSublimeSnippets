@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarType::GetArrayPermissions(${1:\$arTypes = array()})]]></content>
+	<tabTrigger>CCalendarType::GetArrayPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

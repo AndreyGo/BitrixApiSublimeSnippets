@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_writeCentralHeader(${1:entriesNumber},${2:blockSize},${3:offset},${4:comment})]]></content>
+	<tabTrigger>CZip::_writeCentralHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

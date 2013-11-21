@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ImportXMLFile(${1:file_name},${2:\$iblock_type="-"},${3:\$site_id=''},${4:\$section_action="D"},${5:\$element_action="D"},${6:\$use_crc=false},${7:\$preview=false},${8:\$sync=false},${9:\$return_last_error=false},${10:\$return_iblock_id=false})]]></content>
+	<tabTrigger>ImportXMLFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

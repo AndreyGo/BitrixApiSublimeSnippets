@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::OutputJSRes(${1:\$reqId = false},${2:\$Res = false})]]></content>
+	<tabTrigger>CCalendar::OutputJSRes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

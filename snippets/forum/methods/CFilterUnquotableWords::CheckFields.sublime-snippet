@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilterUnquotableWords::CheckFields(${1:\$action = "INSERT"},${2:\$ID = false},${3:\$arFields = array()})]]></content>
+	<tabTrigger>CFilterUnquotableWords::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDebugInfo::__construct(${1:\$is_comp = true})]]></content>
+	<tabTrigger>CDebugInfo::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

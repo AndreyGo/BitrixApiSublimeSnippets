@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::IsPersonal(${1:\$type = false},${2:\$ownerId = false},${3:\$userId = false})]]></content>
+	<tabTrigger>CCalendar::IsPersonal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

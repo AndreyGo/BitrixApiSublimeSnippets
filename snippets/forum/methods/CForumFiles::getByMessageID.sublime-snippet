@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::getByMessageID(${1:ID})]]></content>
+	<tabTrigger>CForumFiles::getByMessageID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

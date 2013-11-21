@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogImage::ImageFixSize(${1:aFile})]]></content>
+	<tabTrigger>CBlogImage::ImageFixSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

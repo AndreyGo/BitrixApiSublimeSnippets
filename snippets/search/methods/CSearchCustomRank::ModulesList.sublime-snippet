@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchCustomRank::ModulesList()]]></content>
+	<tabTrigger>CSearchCustomRank::ModulesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

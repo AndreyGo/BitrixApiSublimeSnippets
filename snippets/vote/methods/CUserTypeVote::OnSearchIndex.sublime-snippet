@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVote::OnSearchIndex(${1:arUserField})]]></content>
+	<tabTrigger>CUserTypeVote::OnSearchIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

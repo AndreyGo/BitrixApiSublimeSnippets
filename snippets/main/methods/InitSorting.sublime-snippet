@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitSorting(${1:\$Path=false},${2:\$sByVar="by"},${3:\$sOrderVar="order"})]]></content>
+	<tabTrigger>InitSorting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

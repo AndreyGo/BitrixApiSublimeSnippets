@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::__main_post_form_get_cid_webdav_cal(${1:\$arResult = false},${2:\$arParams = false})]]></content>
+	<tabTrigger>CCalendarSceleton::__main_post_form_get_cid_webdav_cal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

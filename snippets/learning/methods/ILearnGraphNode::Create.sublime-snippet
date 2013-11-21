@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnGraphNode::Create(${1:arFields})]]></content>
+	<tabTrigger>ILearnGraphNode::Create</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

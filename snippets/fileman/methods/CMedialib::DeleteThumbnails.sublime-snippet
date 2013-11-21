@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::DeleteThumbnails()]]></content>
+	<tabTrigger>CMedialib::DeleteThumbnails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

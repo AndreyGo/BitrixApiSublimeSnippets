@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateResult::__construct(${1:res},${2:useGZipCompression})]]></content>
+	<tabTrigger>CBPWorkflowTemplateResult::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

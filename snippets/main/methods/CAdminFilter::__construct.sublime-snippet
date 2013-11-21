@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::__construct(${1:id},${2:\$popup=false},${3:\$arExtraParams=array()})]]></content>
+	<tabTrigger>CAdminFilter::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

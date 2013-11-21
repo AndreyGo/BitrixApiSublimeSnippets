@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SaleFormatCurrency(${1:fSum},${2:strCurrency},${3:\$OnlyValue = False})]]></content>
+	<tabTrigger>SaleFormatCurrency</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

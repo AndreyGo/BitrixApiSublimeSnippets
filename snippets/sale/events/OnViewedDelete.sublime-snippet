@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnViewedDelete]]></content>
+	<tabTrigger>OnViewedDelete</tabTrigger>
+	<description>Bitrix CSaleViewedProduct::DeleteForUser</description>
+	<scope>source.php</scope>
+</snippet>

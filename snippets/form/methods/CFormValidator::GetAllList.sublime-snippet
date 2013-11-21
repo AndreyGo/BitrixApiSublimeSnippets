@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormValidator::GetAllList(${1:\$arFilter = array()})]]></content>
+	<tabTrigger>CFormValidator::GetAllList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

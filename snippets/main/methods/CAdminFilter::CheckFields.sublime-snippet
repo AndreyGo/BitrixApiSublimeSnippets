@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::CheckFields(${1:arFields})]]></content>
+	<tabTrigger>CAdminFilter::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

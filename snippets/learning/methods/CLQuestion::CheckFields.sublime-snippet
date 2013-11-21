@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLQuestion::CheckFields(${1:&arFields},${2:\$ID = false})]]></content>
+	<tabTrigger>CLQuestion::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

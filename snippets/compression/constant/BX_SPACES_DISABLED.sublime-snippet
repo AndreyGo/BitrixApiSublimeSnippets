@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SPACES_DISABLED]]></content>
+	<tabTrigger>BX_SPACES_DISABLED</tabTrigger>
+	<description>Bitrix CCompress::OnAfterEpilog</description>
+	<scope>source.php</scope>
+</snippet>

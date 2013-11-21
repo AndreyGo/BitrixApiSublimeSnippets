@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::GetListCalendar(${1:blogID},${2:\$year = false},${3:\$month = false},${4:\$day = false})]]></content>
+	<tabTrigger>CBlogPost::GetListCalendar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

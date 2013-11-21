@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_DH_INITIALIZED]]></content>
+	<tabTrigger>SALE_DH_INITIALIZED</tabTrigger>
+	<description>Bitrix CSaleDeliveryHandler::Calculate</description>
+	<scope>source.php</scope>
+</snippet>

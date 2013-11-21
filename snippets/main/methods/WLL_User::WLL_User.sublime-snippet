@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_User::WLL_User(${1:timestamp},${2:id},${3:flags},${4:context},${5:token})]]></content>
+	<tabTrigger>WLL_User::WLL_User</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__ConvertProperties(${1:&arProduct},${2:&\$arProps},${3:\$arParams = false})]]></content>
+	<tabTrigger>CCatalogDiscount::__ConvertProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

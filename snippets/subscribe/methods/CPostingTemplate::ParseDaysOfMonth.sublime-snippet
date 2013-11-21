@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingTemplate::ParseDaysOfMonth(${1:strDaysOfMonth})]]></content>
+	<tabTrigger>CPostingTemplate::ParseDaysOfMonth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

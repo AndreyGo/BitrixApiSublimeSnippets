@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetPanel()]]></content>
+	<tabTrigger>CMain::GetPanel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

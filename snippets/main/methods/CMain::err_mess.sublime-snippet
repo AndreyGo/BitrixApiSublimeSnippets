@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::err_mess()]]></content>
+	<tabTrigger>CMain::err_mess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

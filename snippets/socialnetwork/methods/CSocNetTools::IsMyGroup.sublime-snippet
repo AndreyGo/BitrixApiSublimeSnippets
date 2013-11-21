@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTools::IsMyGroup(${1:entity_id})]]></content>
+	<tabTrigger>CSocNetTools::IsMyGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

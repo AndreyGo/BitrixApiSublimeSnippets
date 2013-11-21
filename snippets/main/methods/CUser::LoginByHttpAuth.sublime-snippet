@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::LoginByHttpAuth()]]></content>
+	<tabTrigger>CUser::LoginByHttpAuth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

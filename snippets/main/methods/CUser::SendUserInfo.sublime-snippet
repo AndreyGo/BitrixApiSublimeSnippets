@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::SendUserInfo(${1:ID},${2:SITE_ID},${3:MSG},${4:\$bImmediate=false},${5:\$eventName="USER_INFO"})]]></content>
+	<tabTrigger>CUser::SendUserInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

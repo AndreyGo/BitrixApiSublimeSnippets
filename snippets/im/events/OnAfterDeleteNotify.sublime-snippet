@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterDeleteNotify]]></content>
+	<tabTrigger>OnAfterDeleteNotify</tabTrigger>
+	<description>Bitrix CIMNotify::DeleteWithCheck</description>
+	<scope>source.php</scope>
+</snippet>

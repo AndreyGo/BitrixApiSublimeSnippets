@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::CheckFields(${1:ACTION},${2:&\$arFields},${3:\$ID = 0})]]></content>
+	<tabTrigger>CBlog::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

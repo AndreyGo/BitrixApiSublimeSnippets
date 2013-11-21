@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::UnMarkPageAsUpdated(${1:iBlockId},${2:iSocCatId},${3:name})]]></content>
+	<tabTrigger>CWiki::UnMarkPageAsUpdated</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

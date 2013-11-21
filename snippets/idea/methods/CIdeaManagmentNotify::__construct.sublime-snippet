@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentNotify::__construct(${1:\$arNotification = array()})]]></content>
+	<tabTrigger>CIdeaManagmentNotify::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

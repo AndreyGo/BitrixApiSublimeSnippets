@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SetAdditionalCSS(${1:Path2css},${2:\$additional=false})]]></content>
+	<tabTrigger>CMain::SetAdditionalCSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

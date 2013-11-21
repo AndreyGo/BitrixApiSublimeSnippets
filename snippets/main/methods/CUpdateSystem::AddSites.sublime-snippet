@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::AddSites(${1:strCheck},${2:&\$strError},${3:\$lang = false},${4:\$stableVersionsOnly = "Y"})]]></content>
+	<tabTrigger>CUpdateSystem::AddSites</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

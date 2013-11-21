@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CurrencyFormat]]></content>
+	<tabTrigger>CurrencyFormat</tabTrigger>
+	<description>Bitrix CurrencyFormat</description>
+	<scope>source.php</scope>
+</snippet>

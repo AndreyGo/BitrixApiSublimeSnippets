@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::ConnectToHost(${1:\$host = false},${2:\$port = false},${3:\$ssl = false})]]></content>
+	<tabTrigger>CSiteCheckerTest::ConnectToHost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

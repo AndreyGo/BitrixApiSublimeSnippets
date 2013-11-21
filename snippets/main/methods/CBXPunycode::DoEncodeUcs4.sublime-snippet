@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::DoEncodeUcs4(${1:input})]]></content>
+	<tabTrigger>CBXPunycode::DoEncodeUcs4</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

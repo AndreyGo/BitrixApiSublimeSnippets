@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPeriodHtml(${1:sFromName},${2:sToName},${3:\$sFromVal=""},${4:\$sToVal=""},${5:\$bSelectShow=false},${6:\$size="10"},${7:\$bTime=false},${8:arPeriod})]]></content>
+	<tabTrigger>GetPeriodHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

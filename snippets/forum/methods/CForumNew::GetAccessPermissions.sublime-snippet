@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::GetAccessPermissions(${1:ID},${2:\$TYPE = "ONE"})]]></content>
+	<tabTrigger>CForumNew::GetAccessPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

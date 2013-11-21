@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNConfig::isContentRewriteEnabled()]]></content>
+	<tabTrigger>CBitrixCloudCDNConfig::isContentRewriteEnabled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

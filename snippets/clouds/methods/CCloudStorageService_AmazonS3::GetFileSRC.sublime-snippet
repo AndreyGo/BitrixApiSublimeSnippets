@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::GetFileSRC(${1:arBucket},${2:arFile})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::GetFileSRC</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

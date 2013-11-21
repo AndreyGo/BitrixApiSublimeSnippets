@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeManager::AddUserFields(${1:entity_id},${2:arRes},${3:&\$row})]]></content>
+	<tabTrigger>CUserTypeManager::AddUserFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

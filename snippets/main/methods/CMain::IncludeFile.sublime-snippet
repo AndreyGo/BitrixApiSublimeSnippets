@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::IncludeFile(${1:rel_path},${2:\$arParams = array()},${3:\$arFunctionParams = array()})]]></content>
+	<tabTrigger>CMain::IncludeFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

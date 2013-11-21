@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::UpdateStat(${1:provider},${2:USER_ID})]]></content>
+	<tabTrigger>CAccess::UpdateStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

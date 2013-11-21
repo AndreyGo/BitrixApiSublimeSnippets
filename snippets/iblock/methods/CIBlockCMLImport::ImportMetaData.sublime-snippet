@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ImportMetaData(${1:xml_root_id},${2:IBLOCK_TYPE},${3:IBLOCK_LID},${4:\$bUpdateIBlock = true})]]></content>
+	<tabTrigger>CIBlockCMLImport::ImportMetaData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

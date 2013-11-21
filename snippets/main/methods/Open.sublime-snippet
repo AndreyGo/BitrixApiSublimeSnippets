@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Open(${1:mode})]]></content>
+	<tabTrigger>Open</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

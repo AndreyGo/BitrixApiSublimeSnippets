@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrder::StatusOrder(${1:ID},${2:val})]]></content>
+	<tabTrigger>CSaleOrder::StatusOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

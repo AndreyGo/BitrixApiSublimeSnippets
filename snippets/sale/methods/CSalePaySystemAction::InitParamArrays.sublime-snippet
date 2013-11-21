@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystemAction::InitParamArrays(${1:arOrder},${2:\$orderID = 0},${3:\$psParams = ""})]]></content>
+	<tabTrigger>CSalePaySystemAction::InitParamArrays</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

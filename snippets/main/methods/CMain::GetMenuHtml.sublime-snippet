@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetMenuHtml(${1:\$type="left"},${2:\$bMenuExt=false},${3:\$template = false},${4:\$sInitDir = false})]]></content>
+	<tabTrigger>CMain::GetMenuHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

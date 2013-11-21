@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddGroupActionTable(${1:arActions},${2:\$arParams=array()})]]></content>
+	<tabTrigger>AddGroupActionTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteAnswer::GetList(${1:QUESTION_ID},${2:\$by="s_c_sort"},${3:\$order="asc"},${4:\$arFilter=array()})]]></content>
+	<tabTrigger>CVoteAnswer::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

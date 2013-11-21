@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::OnInitSocNetComponentVariables(${1:&arVariableAliases},${2:&\$arCustomPagesPath})]]></content>
+	<tabTrigger>CWikiSocnet::OnInitSocNetComponentVariables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

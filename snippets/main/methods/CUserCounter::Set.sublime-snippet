@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::Set(${1:user_id},${2:code},${3:value},${4:\$site_id = SITE_ID},${5:\$tag = ''},${6:\$sendPull = true})]]></content>
+	<tabTrigger>CUserCounter::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

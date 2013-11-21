@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleProduct::GetProductListIblockInfo(${1:arProductId})]]></content>
+	<tabTrigger>CSaleProduct::GetProductListIblockInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

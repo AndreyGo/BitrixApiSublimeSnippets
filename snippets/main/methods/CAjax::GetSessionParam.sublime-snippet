@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetSessionParam(${1:\$ajax_id = false})]]></content>
+	<tabTrigger>CAjax::GetSessionParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

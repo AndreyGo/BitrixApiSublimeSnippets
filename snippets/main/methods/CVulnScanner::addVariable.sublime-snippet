@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVulnScanner::addVariable(${1:var},${2:id},${3:line},${4:start},${5:end},${6:\$comment = ''},${7:\$customTokens = array()})]]></content>
+	<tabTrigger>CVulnScanner::addVariable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

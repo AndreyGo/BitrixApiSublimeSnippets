@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::HTTPQuery(${1:method},${2:url},${3:\$postdata = ''})]]></content>
+	<tabTrigger>CHTTP::HTTPQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

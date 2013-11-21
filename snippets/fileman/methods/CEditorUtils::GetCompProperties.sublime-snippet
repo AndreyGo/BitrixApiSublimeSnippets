@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEditorUtils::GetCompProperties(${1:name},${2:\$template = ''},${3:\$siteTemplateId = ''},${4:\$arCurVals = array()})]]></content>
+	<tabTrigger>CEditorUtils::GetCompProperties</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

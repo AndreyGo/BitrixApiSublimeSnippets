@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumPrintSmilesList(${1:num_cols},${2:\$strLang = false},${3:\$strPath2Icons = false})]]></content>
+	<tabTrigger>ForumPrintSmilesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

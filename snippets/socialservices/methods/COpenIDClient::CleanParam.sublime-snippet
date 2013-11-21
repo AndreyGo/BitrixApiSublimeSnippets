@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COpenIDClient::CleanParam(${1:\$state=false})]]></content>
+	<tabTrigger>COpenIDClient::CleanParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

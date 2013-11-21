@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::GetDestinationFromRights(${1:arRights},${2:arParams})]]></content>
+	<tabTrigger>CSocNetLogTools::GetDestinationFromRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

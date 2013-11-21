@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_SECURITY_SESSION_MEMCACHE_PORT]]></content>
+	<tabTrigger>BX_SECURITY_SESSION_MEMCACHE_PORT</tabTrigger>
+	<description>Bitrix CSecuritySessionMC::newConnection</description>
+	<scope>source.php</scope>
+</snippet>

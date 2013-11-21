@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCreateWorkflow]]></content>
+	<tabTrigger>OnCreateWorkflow</tabTrigger>
+	<description>Bitrix CBPRuntime::CreateWorkflow</description>
+	<scope>source.php</scope>
+</snippet>

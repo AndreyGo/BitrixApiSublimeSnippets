@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::GetCalDAVConnectionId(${1:\$section = 0})]]></content>
+	<tabTrigger>CCalendarSect::GetCalDAVConnectionId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

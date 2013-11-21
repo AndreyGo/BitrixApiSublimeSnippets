@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnClearCouponList]]></content>
+	<tabTrigger>OnClearCouponList</tabTrigger>
+	<description>Bitrix CSaleBasket::DoGetUserShoppingCart</description>
+	<scope>source.php</scope>
+</snippet>

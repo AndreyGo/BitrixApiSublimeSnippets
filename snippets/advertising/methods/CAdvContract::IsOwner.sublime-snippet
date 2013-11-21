@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::IsOwner(${1:CONTRACT_ID},${2:\$USER_ID=false})]]></content>
+	<tabTrigger>CAdvContract::IsOwner</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

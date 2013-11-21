@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogStoreDocsElementAll::CheckFields(${1:action},${2:&\$arFields})]]></content>
+	<tabTrigger>CCatalogStoreDocsElementAll::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

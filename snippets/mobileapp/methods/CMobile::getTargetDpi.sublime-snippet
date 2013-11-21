@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::getTargetDpi()]]></content>
+	<tabTrigger>CMobile::getTargetDpi</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

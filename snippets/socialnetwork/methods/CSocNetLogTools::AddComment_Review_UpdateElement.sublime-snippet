@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::AddComment_Review_UpdateElement(${1:arElement},${2:topicID},${3:bNewTopic})]]></content>
+	<tabTrigger>CSocNetLogTools::AddComment_Review_UpdateElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

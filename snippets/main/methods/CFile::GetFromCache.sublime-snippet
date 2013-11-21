@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetFromCache(${1:FILE_ID})]]></content>
+	<tabTrigger>CFile::GetFromCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

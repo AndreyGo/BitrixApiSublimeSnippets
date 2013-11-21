@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCancelRatingVote]]></content>
+	<tabTrigger>OnCancelRatingVote</tabTrigger>
+	<description>Bitrix CRatings::CancelRatingVote</description>
+	<scope>source.php</scope>
+</snippet>

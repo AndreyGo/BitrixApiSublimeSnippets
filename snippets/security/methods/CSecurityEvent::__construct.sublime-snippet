@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEvent::__construct()]]></content>
+	<tabTrigger>CSecurityEvent::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

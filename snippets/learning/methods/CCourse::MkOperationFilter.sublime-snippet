@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourse::MkOperationFilter(${1:key})]]></content>
+	<tabTrigger>CCourse::MkOperationFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

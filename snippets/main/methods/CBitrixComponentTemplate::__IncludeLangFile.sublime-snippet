@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::__IncludeLangFile(${1:path})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::__IncludeLangFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

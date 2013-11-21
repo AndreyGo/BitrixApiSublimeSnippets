@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTLangFiles(${1:path},${2:\$IS_LANG_DIR = false})]]></content>
+	<tabTrigger>GetTLangFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

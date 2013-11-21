@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_errorLog(${1:errorName},${2:\$errorString = ''})]]></content>
+	<tabTrigger>CZip::_errorLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

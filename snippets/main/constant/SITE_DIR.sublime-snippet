@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SITE_DIR]]></content>
+	<tabTrigger>SITE_DIR</tabTrigger>
+	<description>Bitrix CMenu::Init</description>
+	<scope>source.php</scope>
+</snippet>

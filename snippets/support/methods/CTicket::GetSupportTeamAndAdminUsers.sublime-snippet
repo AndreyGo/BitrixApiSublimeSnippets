@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetSupportTeamAndAdminUsers()]]></content>
+	<tabTrigger>CTicket::GetSupportTeamAndAdminUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::UnGzipArchive(${1:&updatesDir},${2:&\$strError},${3:\$bDelArch = true})]]></content>
+	<tabTrigger>CUpdateClientPartner::UnGzipArchive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

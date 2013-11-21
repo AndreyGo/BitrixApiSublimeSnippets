@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearchReindex::ReindexIBlock(${1:iblock_id},${2:entity_type},${3:feature},${4:operation},${5:path_template},${6:arFieldList},${7:last_id})]]></content>
+	<tabTrigger>CSocNetSearchReindex::ReindexIBlock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

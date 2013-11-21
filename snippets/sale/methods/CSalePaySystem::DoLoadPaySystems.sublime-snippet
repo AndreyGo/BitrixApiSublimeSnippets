@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystem::DoLoadPaySystems(${1:personType},${2:\$deliveryId = 0},${3:\$arDeliveryMap = null})]]></content>
+	<tabTrigger>CSalePaySystem::DoLoadPaySystems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

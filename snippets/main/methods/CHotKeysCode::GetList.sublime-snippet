@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeysCode::GetList(${1:\$aSort = array()},${2:\$arFilter = array()},${3:\$showEmptyName = true})]]></content>
+	<tabTrigger>CHotKeysCode::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

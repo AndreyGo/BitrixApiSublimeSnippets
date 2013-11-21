@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketRequest::RedirectRequest(${1:url})]]></content>
+	<tabTrigger>__CControllerPacketRequest::RedirectRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::normdev(${1:words_count})]]></content>
+	<tabTrigger>CSearch::normdev</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

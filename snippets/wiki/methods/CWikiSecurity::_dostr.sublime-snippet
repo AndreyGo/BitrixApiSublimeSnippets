@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSecurity::_dostr(${1:&str})]]></content>
+	<tabTrigger>CWikiSecurity::_dostr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWebService::TestComponent(${1:wsname})]]></content>
+	<tabTrigger>CWebService::TestComponent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

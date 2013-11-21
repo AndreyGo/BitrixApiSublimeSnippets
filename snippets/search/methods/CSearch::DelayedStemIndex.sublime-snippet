@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::DelayedStemIndex()]]></content>
+	<tabTrigger>CSearch::DelayedStemIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnAccessMacroses::CanUserAddLessonToParentLesson(${1:arParams})]]></content>
+	<tabTrigger>CLearnAccessMacroses::CanUserAddLessonToParentLesson</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

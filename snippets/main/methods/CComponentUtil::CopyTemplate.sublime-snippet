@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::CopyTemplate(${1:componentName},${2:templateName},${3:siteTemplate},${4:newSiteTemplate},${5:\$newName = false},${6:\$bRewrite = false})]]></content>
+	<tabTrigger>CComponentUtil::CopyTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

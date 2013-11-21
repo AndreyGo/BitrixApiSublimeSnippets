@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLQuestion::GetCount(${1:\$arFilter=Array()})]]></content>
+	<tabTrigger>CLQuestion::GetCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

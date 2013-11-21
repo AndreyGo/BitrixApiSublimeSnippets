@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::GetPermission(${1:\$iblock_type_id = false})]]></content>
+	<tabTrigger>CLists::GetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

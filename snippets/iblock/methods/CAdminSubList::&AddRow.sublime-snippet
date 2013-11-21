@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::&AddRow(${1:\$id = false},${2:\$arRes = Array()},${3:\$link = false},${4:\$title = false},${5:\$boolBX = false})]]></content>
+	<tabTrigger>CAdminSubList::&AddRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

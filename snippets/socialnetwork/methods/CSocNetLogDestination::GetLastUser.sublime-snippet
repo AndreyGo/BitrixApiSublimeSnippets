@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogDestination::GetLastUser()]]></content>
+	<tabTrigger>CSocNetLogDestination::GetLastUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

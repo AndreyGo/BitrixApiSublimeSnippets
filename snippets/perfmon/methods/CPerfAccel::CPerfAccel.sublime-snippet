@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfAccel::CPerfAccel(${1:enabled},${2:cache_ttl},${3:max_file_size},${4:check_mtime},${5:memory_total},${6:memory_used},${7:\$cache_limit=-1})]]></content>
+	<tabTrigger>CPerfAccel::CPerfAccel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

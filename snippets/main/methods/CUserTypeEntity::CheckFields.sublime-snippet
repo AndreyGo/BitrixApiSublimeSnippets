@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeEntity::CheckFields(${1:ID},${2:arFields},${3:\$bCheckUserType = true})]]></content>
+	<tabTrigger>CUserTypeEntity::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

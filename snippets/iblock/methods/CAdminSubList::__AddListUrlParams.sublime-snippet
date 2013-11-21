@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::__AddListUrlParams(${1:strKey},${2:strValue})]]></content>
+	<tabTrigger>CAdminSubList::__AddListUrlParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

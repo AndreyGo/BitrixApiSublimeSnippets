@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::ExtractUsersFromUserGroups(${1:value},${2:activity})]]></content>
+	<tabTrigger>CBPHelper::ExtractUsersFromUserGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

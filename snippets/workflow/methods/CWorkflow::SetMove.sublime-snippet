@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::SetMove(${1:DOCUMENT_ID},${2:STATUS_ID},${3:OLD_STATUS_ID},${4:LOG_ID})]]></content>
+	<tabTrigger>CWorkflow::SetMove</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSectionRights::GetList(${1:arFilter})]]></content>
+	<tabTrigger>CIBlockSectionRights::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

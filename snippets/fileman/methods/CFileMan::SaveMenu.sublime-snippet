@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::SaveMenu(${1:path},${2:aMenuLinksTmp},${3:sMenuTemplateTmp})]]></content>
+	<tabTrigger>CFileMan::SaveMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMenu::_SetActiveItems(${1:&aMenu},${2:\$aSections=array()})]]></content>
+	<tabTrigger>CAdminMenu::_SetActiveItems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

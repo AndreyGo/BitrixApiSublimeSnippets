@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeSocNetFeaturesPermsUpdate]]></content>
+	<tabTrigger>OnBeforeSocNetFeaturesPermsUpdate</tabTrigger>
+	<description>Bitrix CSocNetFeaturesPerms::Update</description>
+	<scope>source.php</scope>
+</snippet>

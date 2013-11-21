@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetAdminElementListLink(${1:IBLOCK_ID},${2:\$arParams = array()},${3:\$strAdd = ""})]]></content>
+	<tabTrigger>CIBlock::GetAdminElementListLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

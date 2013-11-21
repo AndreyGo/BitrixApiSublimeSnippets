@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddMessage2Log(${1:sText},${2:\$sModule = ""},${3:\$traceDepth = 6},${4:\$bShowArgs = false})]]></content>
+	<tabTrigger>AddMessage2Log</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

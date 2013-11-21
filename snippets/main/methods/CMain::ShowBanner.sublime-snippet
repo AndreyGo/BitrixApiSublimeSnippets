@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowBanner(${1:type},${2:\$html_before=""},${3:\$html_after=""})]]></content>
+	<tabTrigger>CMain::ShowBanner</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

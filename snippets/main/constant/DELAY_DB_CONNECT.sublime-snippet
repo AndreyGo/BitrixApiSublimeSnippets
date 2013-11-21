@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DELAY_DB_CONNECT]]></content>
+	<tabTrigger>DELAY_DB_CONNECT</tabTrigger>
+	<description>Bitrix CDatabase::Connect</description>
+	<scope>source.php</scope>
+</snippet>

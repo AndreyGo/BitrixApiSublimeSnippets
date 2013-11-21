@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::GetFields(${1:LINK_ID})]]></content>
+	<tabTrigger>CFormCrm::GetFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

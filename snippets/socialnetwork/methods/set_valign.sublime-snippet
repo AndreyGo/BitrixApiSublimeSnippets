@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[set_valign(${1:ctrlType},${2:\$bIsMultiple = false})]]></content>
+	<tabTrigger>set_valign</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

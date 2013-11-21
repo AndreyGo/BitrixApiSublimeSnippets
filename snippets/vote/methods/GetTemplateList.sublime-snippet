@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTemplateList(${1:\$type="SV"},${2:\$path="xxx"})]]></content>
+	<tabTrigger>GetTemplateList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

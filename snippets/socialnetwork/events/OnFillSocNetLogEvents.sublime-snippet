@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnFillSocNetLogEvents]]></content>
+	<tabTrigger>OnFillSocNetLogEvents</tabTrigger>
+	<description>Bitrix </description>
+	<scope>source.php</scope>
+</snippet>

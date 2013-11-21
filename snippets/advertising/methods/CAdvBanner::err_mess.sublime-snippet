@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::err_mess()]]></content>
+	<tabTrigger>CAdvBanner::err_mess</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

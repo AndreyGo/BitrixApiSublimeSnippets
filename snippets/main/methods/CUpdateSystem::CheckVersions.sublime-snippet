@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::CheckVersions(${1:&arRes},${2:&\$strError},${3:\$arSelectedModules = false})]]></content>
+	<tabTrigger>CUpdateSystem::CheckVersions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

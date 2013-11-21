@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetFeatures::SetFeature(${1:type},${2:id},${3:feature},${4:active},${5:\$featureName = false})]]></content>
+	<tabTrigger>CSocNetFeatures::SetFeature</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

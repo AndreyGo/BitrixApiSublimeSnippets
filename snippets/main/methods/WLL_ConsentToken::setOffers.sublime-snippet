@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WLL_ConsentToken::setOffers(${1:offers})]]></content>
+	<tabTrigger>WLL_ConsentToken::setOffers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

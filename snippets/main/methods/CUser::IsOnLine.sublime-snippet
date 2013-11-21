@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::IsOnLine(${1:id},${2:\$interval = 120})]]></content>
+	<tabTrigger>CUser::IsOnLine</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

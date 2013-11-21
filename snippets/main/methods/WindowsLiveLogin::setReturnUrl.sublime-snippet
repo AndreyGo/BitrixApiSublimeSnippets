@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setReturnUrl(${1:returnurl})]]></content>
+	<tabTrigger>WindowsLiveLogin::setReturnUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

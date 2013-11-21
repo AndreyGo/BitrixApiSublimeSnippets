@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListsSocnet::OnFillSocNetFeaturesList(${1:&arSocNetFeaturesSettings})]]></content>
+	<tabTrigger>CListsSocnet::OnFillSocNetFeaturesList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::GetPostID(${1:postID},${2:code},${3:\$allowCode = false})]]></content>
+	<tabTrigger>CBlogPost::GetPostID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

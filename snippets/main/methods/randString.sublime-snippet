@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[randString(${1:\$pass_len=10},${2:\$pass_chars=false})]]></content>
+	<tabTrigger>randString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

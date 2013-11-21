@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FormatEvent_Forum(${1:arFields},${2:arParams},${3:\$bMail = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FormatEvent_Forum</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

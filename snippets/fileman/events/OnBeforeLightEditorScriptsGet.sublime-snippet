@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeLightEditorScriptsGet]]></content>
+	<tabTrigger>OnBeforeLightEditorScriptsGet</tabTrigger>
+	<description>Bitrix CLightHTMLEditor::Init</description>
+	<scope>source.php</scope>
+</snippet>

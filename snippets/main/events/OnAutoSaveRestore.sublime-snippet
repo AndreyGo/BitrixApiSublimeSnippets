@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAutoSaveRestore]]></content>
+	<tabTrigger>OnAutoSaveRestore</tabTrigger>
+	<description>Bitrix CAutoSave::_Restore</description>
+	<scope>source.php</scope>
+</snippet>

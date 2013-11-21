@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fGetUserName(${1:USER_ID})]]></content>
+	<tabTrigger>fGetUserName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

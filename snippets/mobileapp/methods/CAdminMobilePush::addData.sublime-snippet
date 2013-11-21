@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobilePush::addData(${1:branchName},${2:arData})]]></content>
+	<tabTrigger>CAdminMobilePush::addData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

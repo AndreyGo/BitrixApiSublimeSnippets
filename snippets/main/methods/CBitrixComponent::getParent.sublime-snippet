@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::getParent()]]></content>
+	<tabTrigger>CBitrixComponent::getParent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

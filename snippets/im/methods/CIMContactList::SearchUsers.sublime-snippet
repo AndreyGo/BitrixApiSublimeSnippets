@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::SearchUsers(${1:searchText})]]></content>
+	<tabTrigger>CIMContactList::SearchUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

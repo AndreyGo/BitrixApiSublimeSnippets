@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::__checkPath4Template(${1:pageTemplate},${2:currentPageUrl},${3:&\$arVariables})]]></content>
+	<tabTrigger>CComponentEngine::__checkPath4Template</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

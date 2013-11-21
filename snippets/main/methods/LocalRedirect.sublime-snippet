@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LocalRedirect(${1:url},${2:\$skip_security_check=false},${3:\$status="302 Found"})]]></content>
+	<tabTrigger>LocalRedirect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::URLEncode(${1:str})]]></content>
+	<tabTrigger>CIBlockCMLImport::URLEncode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetFeaturesUpdate]]></content>
+	<tabTrigger>OnSocNetFeaturesUpdate</tabTrigger>
+	<description>Bitrix CSocNetFeatures::Update</description>
+	<scope>source.php</scope>
+</snippet>

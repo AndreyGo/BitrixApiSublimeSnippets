@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::PrepareInsert(${1:strTableName},${2:arFields},${3:\$strFileDir=""},${4:\$lang=false})]]></content>
+	<tabTrigger>CDatabase::PrepareInsert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

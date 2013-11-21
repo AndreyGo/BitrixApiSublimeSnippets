@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::__construct(${1:user_id},${2:group_id},${3:arParams})]]></content>
+	<tabTrigger>CSocNetSearch::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

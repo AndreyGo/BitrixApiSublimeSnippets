@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSection::Delete(${1:ID},${2:\$bCheckPermissions = true})]]></content>
+	<tabTrigger>CIBlockSection::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

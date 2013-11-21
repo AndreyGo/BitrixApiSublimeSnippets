@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPoints::CanUserDeletePoints(${1:ID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumPoints::CanUserDeletePoints</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

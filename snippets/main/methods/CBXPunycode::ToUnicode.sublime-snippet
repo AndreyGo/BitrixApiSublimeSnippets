@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::ToUnicode(${1:domainName},${2:&\$arErrors})]]></content>
+	<tabTrigger>CBXPunycode::ToUnicode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

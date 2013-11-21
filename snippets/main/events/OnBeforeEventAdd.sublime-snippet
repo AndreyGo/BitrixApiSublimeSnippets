@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeEventAdd]]></content>
+	<tabTrigger>OnBeforeEventAdd</tabTrigger>
+	<description>Bitrix CEvent::Send</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CopyDirFiles(${1:pathFrom},${2:pathTo},${3:\$bRewrite = true},${4:\$bDeleteAfterCopy = false})]]></content>
+	<tabTrigger>CopyDirFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

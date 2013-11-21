@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormStatus::CheckFields(${1:arFields},${2:STATUS_ID},${3:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CFormStatus::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

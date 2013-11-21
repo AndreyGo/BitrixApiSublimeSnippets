@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::Analyze(${1:&content})]]></content>
+	<tabTrigger>CSecurityAntiVirus::Analyze</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

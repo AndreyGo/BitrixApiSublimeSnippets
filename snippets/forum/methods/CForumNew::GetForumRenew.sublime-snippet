@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::GetForumRenew(${1:arParams})]]></content>
+	<tabTrigger>CForumNew::GetForumRenew</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::GetDocumentForHistory(${1:documentId},${2:historyIndex})]]></content>
+	<tabTrigger>IBPWorkflowDocument::GetDocumentForHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::_Add(${1:ID})]]></content>
+	<tabTrigger>CIBlock::_Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

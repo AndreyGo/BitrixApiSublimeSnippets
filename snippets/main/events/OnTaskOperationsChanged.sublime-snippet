@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTaskOperationsChanged]]></content>
+	<tabTrigger>OnTaskOperationsChanged</tabTrigger>
+	<description>Bitrix CTask::SetOperations</description>
+	<scope>source.php</scope>
+</snippet>

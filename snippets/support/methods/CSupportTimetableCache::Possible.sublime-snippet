@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::Possible(${1:\$d = ""})]]></content>
+	<tabTrigger>CSupportTimetableCache::Possible</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

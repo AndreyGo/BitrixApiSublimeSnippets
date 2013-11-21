@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::TransferMember2Moderator(${1:userID},${2:groupID},${3:arRelationID},${4:currentUserIsAdmin})]]></content>
+	<tabTrigger>CSocNetUserToGroup::TransferMember2Moderator</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

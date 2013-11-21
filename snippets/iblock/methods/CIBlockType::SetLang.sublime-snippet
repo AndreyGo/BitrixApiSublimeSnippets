@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockType::SetLang(${1:ID},${2:arLang})]]></content>
+	<tabTrigger>CIBlockType::SetLang</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

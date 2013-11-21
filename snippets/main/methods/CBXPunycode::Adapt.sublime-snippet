@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::Adapt(${1:delta},${2:numPoints},${3:isFirst})]]></content>
+	<tabTrigger>CBXPunycode::Adapt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

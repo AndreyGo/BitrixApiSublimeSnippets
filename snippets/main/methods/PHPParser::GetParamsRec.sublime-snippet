@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPParser::GetParamsRec(${1:params},${2:&\$arAllStr},${3:&\$arResult})]]></content>
+	<tabTrigger>PHPParser::GetParamsRec</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

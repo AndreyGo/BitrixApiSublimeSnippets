@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::extractFiles(${1:strPath},${2:\$vFileList = false})]]></content>
+	<tabTrigger>CArchiver::extractFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFinder::GetFinderItemStructure(${1:arParams},${2:arItem})]]></content>
+	<tabTrigger>CFinder::GetFinderItemStructure</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

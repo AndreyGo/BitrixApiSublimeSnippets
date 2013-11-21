@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_GetCurrentStatus(${1:ELEMENT_ID},${2:&\$STATUS_TITLE})]]></content>
+	<tabTrigger>CIBlockElement::WF_GetCurrentStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

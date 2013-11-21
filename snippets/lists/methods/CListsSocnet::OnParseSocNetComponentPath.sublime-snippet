@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListsSocnet::OnParseSocNetComponentPath(${1:&arUrlTemplates},${2:&\$arCustomPagesPath},${3:arParams})]]></content>
+	<tabTrigger>CListsSocnet::OnParseSocNetComponentPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

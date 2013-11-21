@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::Calculate(${1:STEP},${2:SID},${3:profile},${4:arOrder},${5:currency},${6:\$TMP = false},${7:\$SITE_ID = false})]]></content>
+	<tabTrigger>CSaleDeliveryHandler::Calculate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

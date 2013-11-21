@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetAccessTasks(${1:\$binging = 'calendar_section'})]]></content>
+	<tabTrigger>CCalendar::GetAccessTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

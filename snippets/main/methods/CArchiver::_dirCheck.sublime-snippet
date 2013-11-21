@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_dirCheck(${1:p_dir})]]></content>
+	<tabTrigger>CArchiver::_dirCheck</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

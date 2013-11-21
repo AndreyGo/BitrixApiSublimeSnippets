@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVideoProperty::BaseCheckFields(${1:val})]]></content>
+	<tabTrigger>CVideoProperty::BaseCheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

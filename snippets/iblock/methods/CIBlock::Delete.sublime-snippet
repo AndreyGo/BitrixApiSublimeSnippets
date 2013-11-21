@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::Delete(${1:ID})]]></content>
+	<tabTrigger>CIBlock::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

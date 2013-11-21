@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::__construct(${1:\$strQuery=false},${2:\$SITE_ID=false},${3:\$MODULE_ID=false},${4:\$ITEM_ID=false},${5:\$PARAM1=false},${6:\$PARAM2=false},${7:\$aSort=array()},${8:\$aParamsEx=array()},${9:\$bTagsCloud = false})]]></content>
+	<tabTrigger>CSearch::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

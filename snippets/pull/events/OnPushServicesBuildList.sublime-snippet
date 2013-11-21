@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPushServicesBuildList]]></content>
+	<tabTrigger>OnPushServicesBuildList</tabTrigger>
+	<description>Bitrix CPushManager::__construct</description>
+	<scope>source.php</scope>
+</snippet>

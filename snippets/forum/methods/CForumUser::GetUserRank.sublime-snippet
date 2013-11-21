@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::GetUserRank(${1:USER_ID},${2:\$strLang = false})]]></content>
+	<tabTrigger>CForumUser::GetUserRank</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

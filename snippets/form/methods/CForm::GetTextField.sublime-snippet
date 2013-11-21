@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetTextField(${1:FIELD_NAME},${2:\$VALUE=""},${3:\$SIZE=""},${4:\$PARAM=""})]]></content>
+	<tabTrigger>CForm::GetTextField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

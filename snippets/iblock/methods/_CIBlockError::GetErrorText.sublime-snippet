@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CIBlockError::GetErrorText(${1:\$error = false})]]></content>
+	<tabTrigger>_CIBlockError::GetErrorText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

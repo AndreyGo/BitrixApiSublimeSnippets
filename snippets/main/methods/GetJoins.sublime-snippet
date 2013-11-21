@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetJoins()]]></content>
+	<tabTrigger>GetJoins</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscount::__Unpack(${1:arOrder},${2:strUnpack})]]></content>
+	<tabTrigger>CSaleDiscount::__Unpack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

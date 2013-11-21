@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetStateTitle(${1:workflowId})]]></content>
+	<tabTrigger>GetStateTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

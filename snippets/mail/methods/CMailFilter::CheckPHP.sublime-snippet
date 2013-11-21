@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailFilter::CheckPHP(${1:code},${2:field_name})]]></content>
+	<tabTrigger>CMailFilter::CheckPHP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

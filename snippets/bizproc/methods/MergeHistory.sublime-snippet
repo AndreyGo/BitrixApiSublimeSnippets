@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MergeHistory(${1:firstDocumentId},${2:secondDocumentId})]]></content>
+	<tabTrigger>MergeHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCheckListTools::AdminPolicyLevel()]]></content>
+	<tabTrigger>CCheckListTools::AdminPolicyLevel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

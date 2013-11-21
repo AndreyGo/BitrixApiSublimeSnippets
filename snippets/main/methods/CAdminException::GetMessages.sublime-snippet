@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminException::GetMessages()]]></content>
+	<tabTrigger>CAdminException::GetMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

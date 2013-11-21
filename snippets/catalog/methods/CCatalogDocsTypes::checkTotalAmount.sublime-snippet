@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDocsTypes::checkTotalAmount(${1:elementId})]]></content>
+	<tabTrigger>CCatalogDocsTypes::checkTotalAmount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

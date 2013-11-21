@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::UpdateLangs(${1:updates_dir},${2:arLangs},${3:&\$strError},${4:&\$arErrorLangs},${5:&\$arSuccessLangs})]]></content>
+	<tabTrigger>CUpdateSystem::UpdateLangs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

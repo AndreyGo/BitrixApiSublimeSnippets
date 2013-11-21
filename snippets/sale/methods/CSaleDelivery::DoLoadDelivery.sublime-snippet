@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDelivery::DoLoadDelivery(${1:location},${2:locationZip},${3:weight},${4:price},${5:currency},${6:\$siteId = null})]]></content>
+	<tabTrigger>CSaleDelivery::DoLoadDelivery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

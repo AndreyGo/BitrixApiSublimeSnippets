@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PANEL_EDIT_SECTION_BTN]]></content>
+	<tabTrigger>PANEL_EDIT_SECTION_BTN</tabTrigger>
+	<description>Bitrix CIBlock::AddPanelButtons</description>
+	<scope>source.php</scope>
+</snippet>

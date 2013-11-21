@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::RecoverDocumentFromHistory(${1:documentId},${2:arDocument})]]></content>
+	<tabTrigger>IBPWorkflowDocument::RecoverDocumentFromHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

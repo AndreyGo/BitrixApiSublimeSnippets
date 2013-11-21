@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bitrix_sessid_set(${1:\$val=false})]]></content>
+	<tabTrigger>bitrix_sessid_set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

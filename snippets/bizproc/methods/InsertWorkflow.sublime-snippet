@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InsertWorkflow(${1:id},${2:buffer},${3:status},${4:bUnlocked})]]></content>
+	<tabTrigger>InsertWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

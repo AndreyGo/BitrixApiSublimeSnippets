@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetTemplatePath(${1:rel_path})]]></content>
+	<tabTrigger>CMain::GetTemplatePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

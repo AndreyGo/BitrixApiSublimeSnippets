@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetable::GetSheduleByID(${1:id},${2:\$needObj = false})]]></content>
+	<tabTrigger>CSupportTimetable::GetSheduleByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

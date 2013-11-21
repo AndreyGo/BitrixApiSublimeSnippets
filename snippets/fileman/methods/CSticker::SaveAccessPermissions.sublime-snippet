@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::SaveAccessPermissions(${1:arTaskPerm})]]></content>
+	<tabTrigger>CSticker::SaveAccessPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

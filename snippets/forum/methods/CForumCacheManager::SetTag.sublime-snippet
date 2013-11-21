@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumCacheManager::SetTag(${1:path},${2:tags})]]></content>
+	<tabTrigger>CForumCacheManager::SetTag</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

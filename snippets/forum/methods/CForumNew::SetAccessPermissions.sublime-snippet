@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::SetAccessPermissions(${1:ID},${2:arGROUP_ID})]]></content>
+	<tabTrigger>CForumNew::SetAccessPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

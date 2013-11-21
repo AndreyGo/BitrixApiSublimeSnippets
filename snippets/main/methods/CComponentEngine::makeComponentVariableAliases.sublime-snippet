@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::makeComponentVariableAliases(${1:arDefaultVariableAliases},${2:arCustomVariableAliases})]]></content>
+	<tabTrigger>CComponentEngine::makeComponentVariableAliases</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

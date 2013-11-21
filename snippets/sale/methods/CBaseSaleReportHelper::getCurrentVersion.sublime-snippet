@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::getCurrentVersion()]]></content>
+	<tabTrigger>CBaseSaleReportHelper::getCurrentVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

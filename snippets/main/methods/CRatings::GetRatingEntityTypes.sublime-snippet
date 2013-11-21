@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::GetRatingEntityTypes(${1:\$objectType = null})]]></content>
+	<tabTrigger>CRatings::GetRatingEntityTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

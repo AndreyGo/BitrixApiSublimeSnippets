@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::__get(${1:name})]]></content>
+	<tabTrigger>CBPActivity::__get</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

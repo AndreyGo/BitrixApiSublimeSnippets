@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::GetCurrentModules(${1:&strError})]]></content>
+	<tabTrigger>CUpdateClientPartner::GetCurrentModules</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

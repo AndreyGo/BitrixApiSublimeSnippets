@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::ParseRRULE(${1:\$rule = ''})]]></content>
+	<tabTrigger>CCalendarEvent::ParseRRULE</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

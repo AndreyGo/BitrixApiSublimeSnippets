@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTest::GetCount(${1:\$arFilter = Array()})]]></content>
+	<tabTrigger>CTest::GetCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

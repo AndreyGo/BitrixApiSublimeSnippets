@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[quoteMessageEx(${1:theAuthor})]]></content>
+	<tabTrigger>quoteMessageEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BeforeIndex]]></content>
+	<tabTrigger>BeforeIndex</tabTrigger>
+	<description>Bitrix CSearch::Index</description>
+	<scope>source.php</scope>
+</snippet>

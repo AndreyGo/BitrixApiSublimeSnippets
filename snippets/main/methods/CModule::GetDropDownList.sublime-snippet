@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::GetDropDownList(${1:\$strSqlOrder="ORDER BY ID"})]]></content>
+	<tabTrigger>CModule::GetDropDownList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

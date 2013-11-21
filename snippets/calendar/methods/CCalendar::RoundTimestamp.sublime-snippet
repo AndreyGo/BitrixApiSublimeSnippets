@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::RoundTimestamp(${1:ts})]]></content>
+	<tabTrigger>CCalendar::RoundTimestamp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::GetSiteArray(${1:DICTIONARY_ID})]]></content>
+	<tabTrigger>CTicketDictionary::GetSiteArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

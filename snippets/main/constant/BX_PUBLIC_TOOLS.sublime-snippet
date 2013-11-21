@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_PUBLIC_TOOLS]]></content>
+	<tabTrigger>BX_PUBLIC_TOOLS</tabTrigger>
+	<description>Bitrix CMain::GetLang</description>
+	<scope>source.php</scope>
+</snippet>

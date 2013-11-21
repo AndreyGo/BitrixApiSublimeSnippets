@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCoursePackage::_GetResourceFiles(${1:res_id})]]></content>
+	<tabTrigger>CCoursePackage::_GetResourceFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

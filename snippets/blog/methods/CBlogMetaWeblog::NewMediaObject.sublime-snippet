@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogMetaWeblog::NewMediaObject(${1:params})]]></content>
+	<tabTrigger>CBlogMetaWeblog::NewMediaObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

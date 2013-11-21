@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::TransferBasket(${1:FROM_FUSER_ID},${2:TO_FUSER_ID})]]></content>
+	<tabTrigger>CSaleBasket::TransferBasket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

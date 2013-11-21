@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::ImportStoresAmount(${1:arElement},${2:elementID},${3:&\$counter})]]></content>
+	<tabTrigger>CIBlockCMLImport::ImportStoresAmount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

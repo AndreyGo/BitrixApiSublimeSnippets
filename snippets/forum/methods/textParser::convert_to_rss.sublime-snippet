@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[textParser::convert_to_rss(${1:text},${2:\$arImages = Array()},${3:\$arAllow = array("HTML" => "N"},${4:"ANCHOR" => "Y"},${5:"BIU" => "Y"},${6:"IMG" => "Y"},${7:"QUOTE" => "Y"},${8:"CODE" => "Y"},${9:"FONT" => "Y"},${10:"LIST" => "Y"},${11:"SMILES" => "Y"},${12:"NL2BR" => "N")},${13:\$arParams = array()})]]></content>
+	<tabTrigger>textParser::convert_to_rss</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

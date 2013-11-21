@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnFillSocNetFeaturesList]]></content>
+	<tabTrigger>OnFillSocNetFeaturesList</tabTrigger>
+	<description>Bitrix CWikiSocnet::IsEnabledSocnet</description>
+	<scope>source.php</scope>
+</snippet>

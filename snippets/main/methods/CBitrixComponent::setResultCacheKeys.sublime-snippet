@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::setResultCacheKeys(${1:arResultCacheKeys})]]></content>
+	<tabTrigger>CBitrixComponent::setResultCacheKeys</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

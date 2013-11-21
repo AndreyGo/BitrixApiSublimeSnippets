@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService::DeleteBucket(${1:arBucket})]]></content>
+	<tabTrigger>CCloudStorageService::DeleteBucket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::_update(${1:RIGHT_ID},${2:GROUP_CODE},${3:bInherit},${4:TASK_ID})]]></content>
+	<tabTrigger>CIBlockRights::_update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

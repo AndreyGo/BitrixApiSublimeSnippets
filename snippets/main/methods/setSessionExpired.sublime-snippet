@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setSessionExpired(${1:\$pIsExpired = true})]]></content>
+	<tabTrigger>setSessionExpired</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

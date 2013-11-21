@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumEventLog::Log(${1:object},${2:action},${3:id},${4:\$description = ""},${5:\$title = ""})]]></content>
+	<tabTrigger>CForumEventLog::Log</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

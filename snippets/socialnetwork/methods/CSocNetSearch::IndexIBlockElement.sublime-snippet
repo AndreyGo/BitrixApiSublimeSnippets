@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::IndexIBlockElement(${1:arFields},${2:entity_id},${3:entity_type},${4:feature},${5:operation},${6:path_template},${7:arFieldList})]]></content>
+	<tabTrigger>CSocNetSearch::IndexIBlockElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

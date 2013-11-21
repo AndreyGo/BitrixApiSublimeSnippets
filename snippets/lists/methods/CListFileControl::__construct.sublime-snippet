@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFileControl::__construct(${1:obFile},${2:input_name})]]></content>
+	<tabTrigger>CListFileControl::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetPhotoCommentEvent::AddComment_Photo_Blog(${1:arFields},${2:BLOG_ID},${3:arLog})]]></content>
+	<tabTrigger>CSocNetPhotoCommentEvent::AddComment_Photo_Blog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

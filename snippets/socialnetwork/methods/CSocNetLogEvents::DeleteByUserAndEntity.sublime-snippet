@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogEvents::DeleteByUserAndEntity(${1:userID},${2:entityType},${3:entityID})]]></content>
+	<tabTrigger>CSocNetLogEvents::DeleteByUserAndEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

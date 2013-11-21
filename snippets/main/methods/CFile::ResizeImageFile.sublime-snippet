@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ResizeImageFile(${1:sourceFile},${2:&\$destinationFile},${3:arSize},${4:\$resizeType = BX_RESIZE_IMAGE_PROPORTIONAL},${5:\$arWaterMark = array()},${6:\$jpgQuality=false},${7:\$arFilters=false})]]></content>
+	<tabTrigger>CFile::ResizeImageFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

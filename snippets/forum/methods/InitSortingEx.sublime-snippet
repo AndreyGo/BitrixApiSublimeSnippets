@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitSortingEx(${1:\$Path=false},${2:\$sByVar="by"},${3:\$sOrderVar="order"})]]></content>
+	<tabTrigger>InitSortingEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

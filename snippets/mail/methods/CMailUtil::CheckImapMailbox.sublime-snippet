@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailUtil::CheckImapMailbox(${1:server},${2:port},${3:use_tls},${4:login},${5:password},${6:&\$error},${7:\$timeout = 1})]]></content>
+	<tabTrigger>CMailUtil::CheckImapMailbox</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

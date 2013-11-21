@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetUserRejectRequestToBeMember]]></content>
+	<tabTrigger>OnSocNetUserRejectRequestToBeMember</tabTrigger>
+	<description>Bitrix CSocNetUserToGroup::UserRejectRequestToBeMember</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEvent::fieldencode(${1:s})]]></content>
+	<tabTrigger>CEvent::fieldencode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

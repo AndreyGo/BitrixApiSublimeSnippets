@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::SetError(${1:errnum},${2:\$errstr = ''})]]></content>
+	<tabTrigger>CBPCalc::SetError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

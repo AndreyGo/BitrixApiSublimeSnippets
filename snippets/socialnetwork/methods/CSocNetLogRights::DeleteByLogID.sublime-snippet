@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogRights::DeleteByLogID(${1:LOG_ID})]]></content>
+	<tabTrigger>CSocNetLogRights::DeleteByLogID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailError::GetErrorsText(${1:\$delim="<br>"})]]></content>
+	<tabTrigger>CMailError::GetErrorsText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServVKontakte::GetFormHtml(${1:arParams})]]></content>
+	<tabTrigger>CSocServVKontakte::GetFormHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

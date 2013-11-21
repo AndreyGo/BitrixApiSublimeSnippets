@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_a_draw_ellipse(${1:im},${2:x1},${3:y1},${4:x2},${5:y2},${6:fgcolors},${7:\$half=false})]]></content>
+	<tabTrigger>_a_draw_ellipse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::MarkMessageRead(${1:senderUserID},${2:messageID},${3:\$bRead = true})]]></content>
+	<tabTrigger>CSocNetMessages::MarkMessageRead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

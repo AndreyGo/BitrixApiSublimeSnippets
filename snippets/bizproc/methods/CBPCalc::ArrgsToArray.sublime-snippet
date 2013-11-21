@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPCalc::ArrgsToArray(${1:args})]]></content>
+	<tabTrigger>CBPCalc::ArrgsToArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::GetRuleExclIPs(${1:IPRULE_ID})]]></content>
+	<tabTrigger>CSecurityIPRule::GetRuleExclIPs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

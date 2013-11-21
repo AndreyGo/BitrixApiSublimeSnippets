@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::CleanUpFiles(${1:\$DOCUMENT_ID=false},${2:\$FILE_ID=false})]]></content>
+	<tabTrigger>CWorkflow::CleanUpFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

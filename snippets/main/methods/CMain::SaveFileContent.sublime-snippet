@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::SaveFileContent(${1:abs_path},${2:strContent})]]></content>
+	<tabTrigger>CMain::SaveFileContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

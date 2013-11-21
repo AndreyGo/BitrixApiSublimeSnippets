@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::__InitUserTmp(${1:userID})]]></content>
+	<tabTrigger>CSocNetLog::__InitUserTmp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

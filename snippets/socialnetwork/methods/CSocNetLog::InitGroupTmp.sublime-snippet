@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::InitGroupTmp(${1:groupID},${2:arParams},${3:\$bRSS = false})]]></content>
+	<tabTrigger>CSocNetLog::InitGroupTmp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

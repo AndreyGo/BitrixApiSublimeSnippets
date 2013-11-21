@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileDetail::addUpperButton(${1:arButton})]]></content>
+	<tabTrigger>CAdminMobileDetail::addUpperButton</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

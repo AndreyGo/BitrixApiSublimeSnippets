@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::buildSaleAdminMobileMenu()]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::buildSaleAdminMobileMenu</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::GetComponentProps(${1:componentName},${2:\$arCurrentValues = array()})]]></content>
+	<tabTrigger>CComponentUtil::GetComponentProps</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

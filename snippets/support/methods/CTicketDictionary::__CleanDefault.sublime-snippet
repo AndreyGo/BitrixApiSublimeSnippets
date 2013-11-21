@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::__CleanDefault(${1:&arFields})]]></content>
+	<tabTrigger>CTicketDictionary::__CleanDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

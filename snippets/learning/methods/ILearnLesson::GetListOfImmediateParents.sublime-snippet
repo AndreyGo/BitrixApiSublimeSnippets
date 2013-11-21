@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::GetListOfImmediateParents(${1:lessonId},${2:\$arOrder = array()},${3:\$arFilter = array()},${4:\$arSelectFields = array()})]]></content>
+	<tabTrigger>ILearnLesson::GetListOfImmediateParents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

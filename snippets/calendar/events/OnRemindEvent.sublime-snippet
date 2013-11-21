@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnRemindEvent]]></content>
+	<tabTrigger>OnRemindEvent</tabTrigger>
+	<description>Bitrix CCalendar::ReminderAgent</description>
+	<scope>source.php</scope>
+</snippet>

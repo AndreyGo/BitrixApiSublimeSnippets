@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::Disconnect()]]></content>
+	<tabTrigger>CDatabase::Disconnect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

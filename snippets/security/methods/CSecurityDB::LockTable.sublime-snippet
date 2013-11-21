@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityDB::LockTable(${1:table_name},${2:lock_id})]]></content>
+	<tabTrigger>CSecurityDB::LockTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

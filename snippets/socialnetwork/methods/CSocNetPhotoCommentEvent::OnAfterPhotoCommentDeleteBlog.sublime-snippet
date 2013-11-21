@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetPhotoCommentEvent::OnAfterPhotoCommentDeleteBlog(${1:ID})]]></content>
+	<tabTrigger>CSocNetPhotoCommentEvent::OnAfterPhotoCommentDeleteBlog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

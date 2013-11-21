@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetPhotoCommentEvent::NotifyIm(${1:arParams})]]></content>
+	<tabTrigger>CSocNetPhotoCommentEvent::NotifyIm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

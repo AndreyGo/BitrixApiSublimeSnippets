@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::SelectBoxName(${1:sFieldName},${2:sValue},${3:\$sDefaultValue=""},${4:\$sFuncName=""},${5:\$field="class=\"typeselect\""})]]></content>
+	<tabTrigger>CSite::SelectBoxName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

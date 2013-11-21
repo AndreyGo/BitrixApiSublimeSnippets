@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::isAuditorsTriggered()]]></content>
+	<tabTrigger>CSecurityFilter::isAuditorsTriggered</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

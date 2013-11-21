@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeInteger::CheckFields(${1:arUserField},${2:value})]]></content>
+	<tabTrigger>CUserTypeInteger::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

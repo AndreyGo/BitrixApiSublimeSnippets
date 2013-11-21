@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServEventHandlers::OnFillSocNetLogEvents(${1:&arSocNetLogEvents})]]></content>
+	<tabTrigger>CSocServEventHandlers::OnFillSocNetLogEvents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

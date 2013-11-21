@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::CheckTax(${1:title},${2:rate})]]></content>
+	<tabTrigger>CIBlockCMLImport::CheckTax</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

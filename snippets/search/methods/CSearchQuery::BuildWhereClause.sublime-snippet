@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchQuery::BuildWhereClause(${1:word})]]></content>
+	<tabTrigger>CSearchQuery::BuildWhereClause</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setTabsArray(${1:formId},${2:arCustomTabs},${3:\$common = false},${4:\$userID = false})]]></content>
+	<tabTrigger>setTabsArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

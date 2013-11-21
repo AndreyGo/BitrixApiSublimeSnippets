@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaOpensslProvider::Decrypt(${1:data})]]></content>
+	<tabTrigger>CRsaOpensslProvider::Decrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

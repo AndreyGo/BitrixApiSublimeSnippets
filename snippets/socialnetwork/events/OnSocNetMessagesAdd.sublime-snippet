@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetMessagesAdd]]></content>
+	<tabTrigger>OnSocNetMessagesAdd</tabTrigger>
+	<description>Bitrix CSocNetMessages::Add</description>
+	<scope>source.php</scope>
+</snippet>

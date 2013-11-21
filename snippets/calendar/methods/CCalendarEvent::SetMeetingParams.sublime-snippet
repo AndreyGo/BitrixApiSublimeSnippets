@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::SetMeetingParams(${1:userId},${2:eventId},${3:arFields})]]></content>
+	<tabTrigger>CCalendarEvent::SetMeetingParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

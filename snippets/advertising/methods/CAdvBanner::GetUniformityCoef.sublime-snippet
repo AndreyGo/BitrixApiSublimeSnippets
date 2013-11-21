@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetUniformityCoef(${1:arBanner})]]></content>
+	<tabTrigger>CAdvBanner::GetUniformityCoef</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPUnit_Util_Log_BX_Plain::addIncompleteTest(${1:PHPUnit_Framework_Test test},${2:Exception e},${3:time})]]></content>
+	<tabTrigger>PHPUnit_Util_Log_BX_Plain::addIncompleteTest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

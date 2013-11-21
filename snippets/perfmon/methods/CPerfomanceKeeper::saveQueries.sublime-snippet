@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::saveQueries(${1:HIT_ID},${2:COMP_ID},${3:arQueryDebug},${4:&\$NN})]]></content>
+	<tabTrigger>CPerfomanceKeeper::saveQueries</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

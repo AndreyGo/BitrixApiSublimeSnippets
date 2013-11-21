@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSendInvitationMessage]]></content>
+	<tabTrigger>OnSendInvitationMessage</tabTrigger>
+	<description>Bitrix CCalendar::SendMessage</description>
+	<scope>source.php</scope>
+</snippet>

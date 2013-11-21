@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarLiveFeed::AddComment_Calendar(${1:arFields})]]></content>
+	<tabTrigger>CCalendarLiveFeed::AddComment_Calendar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

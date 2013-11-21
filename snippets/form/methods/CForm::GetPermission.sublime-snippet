@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetPermission(${1:form_id},${2:\$arGroups=false},${3:\$get_from_database=""})]]></content>
+	<tabTrigger>CForm::GetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

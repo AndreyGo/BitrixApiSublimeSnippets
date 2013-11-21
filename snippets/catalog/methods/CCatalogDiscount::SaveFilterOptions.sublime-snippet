@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::SaveFilterOptions()]]></content>
+	<tabTrigger>CCatalogDiscount::SaveFilterOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

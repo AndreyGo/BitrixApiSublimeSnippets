@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePersonType::DoProcessOrder(${1:&arOrder},${2:personTypeId},${3:&\$arErrors})]]></content>
+	<tabTrigger>CSalePersonType::DoProcessOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

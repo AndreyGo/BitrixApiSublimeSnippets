@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmileSet::getByStringId(${1:id},${2:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CSmileSet::getByStringId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiSocnet::__ProcessPath(${1:arUrl},${2:user_id})]]></content>
+	<tabTrigger>CWikiSocnet::__ProcessPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

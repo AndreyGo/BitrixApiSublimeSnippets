@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSection::GetList(${1:\$arOrder=Array("SORT"=>"ASC")},${2:\$arFilter=Array()},${3:\$bIncCnt = false},${4:\$arSelect = array()},${5:\$arNavStartParams=false})]]></content>
+	<tabTrigger>CIBlockSection::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

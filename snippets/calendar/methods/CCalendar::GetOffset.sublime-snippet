@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetOffset(${1:\$userId = false})]]></content>
+	<tabTrigger>CCalendar::GetOffset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

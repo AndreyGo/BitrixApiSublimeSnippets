@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::SetTemplate(${1:obStepTemplate},${2:\$stepID = null})]]></content>
+	<tabTrigger>CWizardBase::SetTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

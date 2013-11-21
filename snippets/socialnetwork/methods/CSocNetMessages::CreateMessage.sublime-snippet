@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetMessages::CreateMessage(${1:senderUserID},${2:targetUserID},${3:message},${4:\$title = false})]]></content>
+	<tabTrigger>CSocNetMessages::CreateMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

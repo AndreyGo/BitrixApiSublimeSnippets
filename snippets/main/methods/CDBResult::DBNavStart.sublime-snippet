@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::DBNavStart()]]></content>
+	<tabTrigger>CDBResult::DBNavStart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

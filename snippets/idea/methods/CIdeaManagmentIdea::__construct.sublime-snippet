@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentIdea::__construct(${1:\$IdeaId = false})]]></content>
+	<tabTrigger>CIdeaManagmentIdea::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

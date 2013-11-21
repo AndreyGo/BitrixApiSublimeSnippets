@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::GetUserFriendsList(${1:ID},${2:\$userID = False},${3:\$bAuth = False},${4:\$limit = 20},${5:\$arGroup = Array()})]]></content>
+	<tabTrigger>CBlogUser::GetUserFriendsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

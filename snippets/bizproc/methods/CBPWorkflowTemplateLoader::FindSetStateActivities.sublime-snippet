@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::FindSetStateActivities(${1:arWorkflowTemplate})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::FindSetStateActivities</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

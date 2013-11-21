@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetUserRelationsUpdate]]></content>
+	<tabTrigger>OnSocNetUserRelationsUpdate</tabTrigger>
+	<description>Bitrix CSocNetUserRelations::Update</description>
+	<scope>source.php</scope>
+</snippet>

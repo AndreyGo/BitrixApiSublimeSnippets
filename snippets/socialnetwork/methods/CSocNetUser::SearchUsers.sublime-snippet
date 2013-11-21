@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::SearchUsers(${1:searchString},${2:\$groupId = 0},${3:\$numberOfUsers = 10})]]></content>
+	<tabTrigger>CSocNetUser::SearchUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

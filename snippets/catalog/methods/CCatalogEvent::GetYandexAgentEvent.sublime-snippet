@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogEvent::GetYandexAgentEvent()]]></content>
+	<tabTrigger>CCatalogEvent::GetYandexAgentEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

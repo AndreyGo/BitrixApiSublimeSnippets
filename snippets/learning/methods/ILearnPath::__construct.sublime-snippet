@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnPath::__construct()]]></content>
+	<tabTrigger>ILearnPath::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

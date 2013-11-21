@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::hmacsha256(${1:pData},${2:pKey})]]></content>
+	<tabTrigger>CSecurityUser::hmacsha256</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

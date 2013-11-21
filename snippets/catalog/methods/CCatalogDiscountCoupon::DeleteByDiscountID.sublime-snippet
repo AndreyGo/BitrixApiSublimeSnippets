@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountCoupon::DeleteByDiscountID(${1:ID},${2:\$bAffectDataFile = true})]]></content>
+	<tabTrigger>CCatalogDiscountCoupon::DeleteByDiscountID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

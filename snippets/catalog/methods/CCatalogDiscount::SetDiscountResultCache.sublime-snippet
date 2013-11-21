@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::SetDiscountResultCache(${1:arDiscountList},${2:arDiscountIDs},${3:strSiteID},${4:strRenewal})]]></content>
+	<tabTrigger>CCatalogDiscount::SetDiscountResultCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

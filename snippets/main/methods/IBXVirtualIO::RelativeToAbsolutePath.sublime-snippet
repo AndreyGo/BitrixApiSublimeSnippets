@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXVirtualIO::RelativeToAbsolutePath(${1:relativePath})]]></content>
+	<tabTrigger>IBXVirtualIO::RelativeToAbsolutePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketDictionary::GetList(${1:&by},${2:&\$order},${3:\$arFilter=Array()},${4:&\$isFiltered})]]></content>
+	<tabTrigger>CTicketDictionary::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

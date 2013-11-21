@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSubscriptionGeneral::GetRubricArray(${1:ID})]]></content>
+	<tabTrigger>CSubscriptionGeneral::GetRubricArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

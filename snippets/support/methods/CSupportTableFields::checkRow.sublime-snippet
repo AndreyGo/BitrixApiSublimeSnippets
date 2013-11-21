@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::checkRow(${1:row})]]></content>
+	<tabTrigger>CSupportTableFields::checkRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

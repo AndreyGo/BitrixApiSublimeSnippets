@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessenger::GetMessageCounter(${1:userId},${2:\$arMessages = Array()})]]></content>
+	<tabTrigger>CIMMessenger::GetMessageCounter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

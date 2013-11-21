@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::PostTaskForm(${1:arTask},${2:userId},${3:arRequest},${4:&\$arErrors},${5:\$userName = ""})]]></content>
+	<tabTrigger>CBPDocument::PostTaskForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

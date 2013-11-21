@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::Delete(${1:ID})]]></content>
+	<tabTrigger>CHotKeys::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

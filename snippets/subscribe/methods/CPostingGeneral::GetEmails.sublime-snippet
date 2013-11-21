@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingGeneral::GetEmails(${1:post_arr})]]></content>
+	<tabTrigger>CPostingGeneral::GetEmails</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

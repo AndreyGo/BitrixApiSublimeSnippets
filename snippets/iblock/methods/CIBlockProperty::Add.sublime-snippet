@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockProperty::Add(${1:arFields})]]></content>
+	<tabTrigger>CIBlockProperty::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

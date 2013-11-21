@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EndFilter(${1:\$sID=""})]]></content>
+	<tabTrigger>EndFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

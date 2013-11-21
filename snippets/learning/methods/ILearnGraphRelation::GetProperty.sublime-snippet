@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnGraphRelation::GetProperty(${1:parentNodeId},${2:childNodeId},${3:propertyName})]]></content>
+	<tabTrigger>ILearnGraphRelation::GetProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__struct_get_file_info(${1:abs_path},${2:file})]]></content>
+	<tabTrigger>__struct_get_file_info</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

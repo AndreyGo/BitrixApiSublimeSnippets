@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::GetSite(${1:iblock_id})]]></content>
+	<tabTrigger>CIBlock::GetSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHTTP::setRedirectMax(${1:n})]]></content>
+	<tabTrigger>CHTTP::setRedirectMax</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

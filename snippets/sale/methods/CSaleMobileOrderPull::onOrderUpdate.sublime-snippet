@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderPull::onOrderUpdate(${1:orderId},${2:arFields})]]></content>
+	<tabTrigger>CSaleMobileOrderPull::onOrderUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

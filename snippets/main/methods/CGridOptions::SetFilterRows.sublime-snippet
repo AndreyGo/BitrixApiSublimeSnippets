@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::SetFilterRows(${1:rows},${2:\$filter_id=''})]]></content>
+	<tabTrigger>CGridOptions::SetFilterRows</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

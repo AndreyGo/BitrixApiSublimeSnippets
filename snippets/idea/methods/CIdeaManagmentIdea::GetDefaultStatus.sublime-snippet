@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentIdea::GetDefaultStatus(${1:\$arStatusPriority = array()})]]></content>
+	<tabTrigger>CIdeaManagmentIdea::GetDefaultStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

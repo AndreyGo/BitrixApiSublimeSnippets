@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRubric::GetList(${1:\$aSort=array()},${2:\$aFilter=array()})]]></content>
+	<tabTrigger>CRubric::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

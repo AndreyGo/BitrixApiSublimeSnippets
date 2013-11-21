@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoCheck::CheckKernel(${1:arParams})]]></content>
+	<tabTrigger>CAutoCheck::CheckKernel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

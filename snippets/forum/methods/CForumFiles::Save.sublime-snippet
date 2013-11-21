@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::Save(${1:&arFields},${2:arParams},${3:\$bCheckFields = true})]]></content>
+	<tabTrigger>CForumFiles::Save</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

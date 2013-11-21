@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::reindexTicket(${1:ticket},${2:\$messages = null})]]></content>
+	<tabTrigger>CSupportSearch::reindexTicket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

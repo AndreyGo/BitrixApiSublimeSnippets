@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingsComponentsForum::ExceptionUserRatingForumActivity()]]></content>
+	<tabTrigger>CRatingsComponentsForum::ExceptionUserRatingForumActivity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

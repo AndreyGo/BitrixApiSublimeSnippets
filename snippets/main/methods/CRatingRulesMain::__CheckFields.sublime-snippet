@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingRulesMain::__CheckFields(${1:entityId},${2:arConfigs})]]></content>
+	<tabTrigger>CRatingRulesMain::__CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

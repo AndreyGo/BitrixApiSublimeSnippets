@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageUpload::Start(${1:bucket_id},${2:fileSize},${3:\$ContentType = 'binary/octet-stream'},${4:\$tmpFileName = false})]]></content>
+	<tabTrigger>CCloudStorageUpload::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

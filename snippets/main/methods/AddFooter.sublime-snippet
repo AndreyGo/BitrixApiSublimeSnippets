@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddFooter(${1:aFooter})]]></content>
+	<tabTrigger>AddFooter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

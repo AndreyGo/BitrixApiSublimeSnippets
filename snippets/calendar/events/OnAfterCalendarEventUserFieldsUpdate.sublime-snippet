@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterCalendarEventUserFieldsUpdate]]></content>
+	<tabTrigger>OnAfterCalendarEventUserFieldsUpdate</tabTrigger>
+	<description>Bitrix CCalendarEvent::UpdateUserFields</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailImap::authenticate(${1:login},${2:password})]]></content>
+	<tabTrigger>CMailImap::authenticate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

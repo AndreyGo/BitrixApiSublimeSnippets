@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[editArea(${1:area},${2:bSilent})]]></content>
+	<tabTrigger>editArea</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

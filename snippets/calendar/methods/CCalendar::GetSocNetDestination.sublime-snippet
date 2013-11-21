@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetSocNetDestination(${1:\$user_id = false},${2:\$selected = array()})]]></content>
+	<tabTrigger>CCalendar::GetSocNetDestination</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

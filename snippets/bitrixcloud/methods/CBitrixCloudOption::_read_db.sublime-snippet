@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudOption::_read_db()]]></content>
+	<tabTrigger>CBitrixCloudOption::_read_db</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::Confirm(${1:ID},${2:VALUE})]]></content>
+	<tabTrigger>CIMNotify::Confirm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

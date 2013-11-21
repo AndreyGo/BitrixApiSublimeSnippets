@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetResponsibleList(${1:userID},${2:\$CMGM = null},${3:\$CMUGM = null},${4:\$SG = null})]]></content>
+	<tabTrigger>CTicket::GetResponsibleList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

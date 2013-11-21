@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceSchema::GetChildren(${1:table_name})]]></content>
+	<tabTrigger>CPerfomanceSchema::GetChildren</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

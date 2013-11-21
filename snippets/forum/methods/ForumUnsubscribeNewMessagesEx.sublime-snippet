@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumUnsubscribeNewMessagesEx(${1:FID},${2:TID},${3:NEW_TOPIC_ONLY},${4:&\$strErrorMessage},${5:&\$strOKMessage},${6:\$strSite = false},${7:\$SOCNET_GROUP_ID = false})]]></content>
+	<tabTrigger>ForumUnsubscribeNewMessagesEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

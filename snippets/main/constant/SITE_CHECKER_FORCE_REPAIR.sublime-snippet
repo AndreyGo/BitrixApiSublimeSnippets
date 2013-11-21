@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SITE_CHECKER_FORCE_REPAIR]]></content>
+	<tabTrigger>SITE_CHECKER_FORCE_REPAIR</tabTrigger>
+	<description>Bitrix TableFieldCanBeAltered</description>
+	<scope>source.php</scope>
+</snippet>

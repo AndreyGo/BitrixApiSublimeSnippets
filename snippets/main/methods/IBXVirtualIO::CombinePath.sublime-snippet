@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXVirtualIO::CombinePath()]]></content>
+	<tabTrigger>IBXVirtualIO::CombinePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

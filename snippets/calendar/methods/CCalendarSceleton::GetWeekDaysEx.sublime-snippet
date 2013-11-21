@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::GetWeekDaysEx(${1:\$weekStart = 'MO'})]]></content>
+	<tabTrigger>CCalendarSceleton::GetWeekDaysEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

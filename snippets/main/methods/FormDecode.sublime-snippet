@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormDecode()]]></content>
+	<tabTrigger>FormDecode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

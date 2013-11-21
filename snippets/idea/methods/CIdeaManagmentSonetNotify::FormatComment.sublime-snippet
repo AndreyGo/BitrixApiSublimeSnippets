@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentSonetNotify::FormatComment(${1:arFields},${2:arParams},${3:\$bMail = false},${4:\$arLog = array()})]]></content>
+	<tabTrigger>CIdeaManagmentSonetNotify::FormatComment</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

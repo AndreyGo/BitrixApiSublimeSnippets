@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[htmlspecialcharsbx(${1:string},${2:\$flags=ENT_COMPAT})]]></content>
+	<tabTrigger>htmlspecialcharsbx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

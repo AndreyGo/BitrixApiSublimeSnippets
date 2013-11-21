@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::TimeStampInCurrTimeZone(${1:d},${2:\$fromUserTZ = false})]]></content>
+	<tabTrigger>CSupportTimetableCache::TimeStampInCurrTimeZone</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

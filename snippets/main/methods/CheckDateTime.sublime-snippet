@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CheckDateTime(${1:datetime},${2:\$format=false})]]></content>
+	<tabTrigger>CheckDateTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

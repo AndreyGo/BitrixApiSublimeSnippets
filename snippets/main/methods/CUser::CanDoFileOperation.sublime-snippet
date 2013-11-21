@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUser::CanDoFileOperation(${1:op_name},${2:arPath})]]></content>
+	<tabTrigger>CUser::CanDoFileOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeSendCouponEMail]]></content>
+	<tabTrigger>OnBeforeSendCouponEMail</tabTrigger>
+	<description>Bitrix CSupportSuperCoupon::UseCoupon</description>
+	<scope>source.php</scope>
+</snippet>

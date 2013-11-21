@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[setEditorEventHandlers(${1:name})]]></content>
+	<tabTrigger>setEditorEventHandlers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

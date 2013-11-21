@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::AddStep(${1:obStep},${2:\$stepID = null})]]></content>
+	<tabTrigger>CWizardBase::AddStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

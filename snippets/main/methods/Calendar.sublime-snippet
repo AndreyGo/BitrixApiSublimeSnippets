@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Calendar(${1:sFieldName},${2:\$sFromName=""},${3:\$sToName=""},${4:\$bTime=false})]]></content>
+	<tabTrigger>Calendar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

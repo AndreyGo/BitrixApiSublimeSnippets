@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::GetExactValueByRating(${1:user_id},${2:rating_type_id},${3:rating_entity_id})]]></content>
+	<tabTrigger>CSocNetLogFollow::GetExactValueByRating</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

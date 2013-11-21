@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCryptblowfish::__BlowfishDecrypt(${1:&Xl},${2:&\$Xr})]]></content>
+	<tabTrigger>CCryptblowfish::__BlowfishDecrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPWorkflowDocument::UnpublishDocument(${1:documentId})]]></content>
+	<tabTrigger>IBPWorkflowDocument::UnpublishDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubForm::__DeleteListPostParams(${1:mxKey})]]></content>
+	<tabTrigger>CAdminSubForm::__DeleteListPostParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

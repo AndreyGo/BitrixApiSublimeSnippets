@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::WriteWordsInTable(${1:M_ID},${2:SITE_ID},${3:s})]]></content>
+	<tabTrigger>CSupportSearch::WriteWordsInTable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

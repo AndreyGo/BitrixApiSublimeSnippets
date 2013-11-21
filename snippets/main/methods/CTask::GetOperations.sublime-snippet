@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::GetOperations(${1:ID},${2:\$return_names = false})]]></content>
+	<tabTrigger>CTask::GetOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::GetFileByID(${1:DOCUMENT_ID},${2:FILENAME})]]></content>
+	<tabTrigger>CWorkflow::GetFileByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::EndViewTarget()]]></content>
+	<tabTrigger>CBitrixComponentTemplate::EndViewTarget</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

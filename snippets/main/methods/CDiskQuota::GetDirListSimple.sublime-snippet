@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDiskQuota::GetDirListSimple(${1:path},${2:\$check_time = true},${3:\$skip_dir=false})]]></content>
+	<tabTrigger>CDiskQuota::GetDirListSimple</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFieldTypeList::_init()]]></content>
+	<tabTrigger>CListFieldTypeList::_init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

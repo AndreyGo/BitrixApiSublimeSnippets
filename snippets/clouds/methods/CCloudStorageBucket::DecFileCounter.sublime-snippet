@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageBucket::DecFileCounter(${1:\$file_size = 0.0})]]></content>
+	<tabTrigger>CCloudStorageBucket::DecFileCounter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

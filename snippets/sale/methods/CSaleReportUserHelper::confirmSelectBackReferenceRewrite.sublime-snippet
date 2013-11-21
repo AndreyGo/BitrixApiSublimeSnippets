@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportUserHelper::confirmSelectBackReferenceRewrite(${1:elem},${2:chain})]]></content>
+	<tabTrigger>CSaleReportUserHelper::confirmSelectBackReferenceRewrite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

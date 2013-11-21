@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::CanUserInitiate(${1:userID},${2:groupID})]]></content>
+	<tabTrigger>CSocNetGroup::CanUserInitiate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

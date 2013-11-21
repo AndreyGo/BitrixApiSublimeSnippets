@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFrameMask::Update(${1:arMasks})]]></content>
+	<tabTrigger>CSecurityFrameMask::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

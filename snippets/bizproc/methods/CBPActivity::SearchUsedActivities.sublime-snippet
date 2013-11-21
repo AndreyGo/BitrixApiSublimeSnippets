@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::SearchUsedActivities(${1:CBPActivity activity},${2:&\$arUsedActivities})]]></content>
+	<tabTrigger>CBPActivity::SearchUsedActivities</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

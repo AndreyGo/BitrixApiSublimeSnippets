@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityAntiVirus::rulescriptwhiterules()]]></content>
+	<tabTrigger>CSecurityAntiVirus::rulescriptwhiterules</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

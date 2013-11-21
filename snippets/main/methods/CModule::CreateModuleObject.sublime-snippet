@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::CreateModuleObject(${1:moduleId})]]></content>
+	<tabTrigger>CModule::CreateModuleObject</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

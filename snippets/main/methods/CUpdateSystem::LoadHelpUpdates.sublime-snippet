@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::LoadHelpUpdates(${1:arHelp},${2:&\$strError},${3:\$lang = false},${4:\$stableVersionsOnly = "Y"})]]></content>
+	<tabTrigger>CUpdateSystem::LoadHelpUpdates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

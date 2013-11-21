@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoFormatDate(${1:strDate},${2:\$format="DD.MM.YYYY HH:MI:SS"},${3:\$new_format="DD.MM.YYYY HH:MI:SS"})]]></content>
+	<tabTrigger>PhotoFormatDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

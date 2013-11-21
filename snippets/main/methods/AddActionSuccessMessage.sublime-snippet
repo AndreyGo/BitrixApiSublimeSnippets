@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddActionSuccessMessage(${1:strMessage})]]></content>
+	<tabTrigger>AddActionSuccessMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

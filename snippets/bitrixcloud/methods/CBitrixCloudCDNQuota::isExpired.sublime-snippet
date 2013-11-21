@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNQuota::isExpired()]]></content>
+	<tabTrigger>CBitrixCloudCDNQuota::isExpired</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

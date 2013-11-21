@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::_reducePath(${1:dir})]]></content>
+	<tabTrigger>CZip::_reducePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

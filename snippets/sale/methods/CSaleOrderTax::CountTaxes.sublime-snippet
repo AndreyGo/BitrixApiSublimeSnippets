@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderTax::CountTaxes(${1:Price},${2:&\$arTaxList},${3:DefCurrency})]]></content>
+	<tabTrigger>CSaleOrderTax::CountTaxes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

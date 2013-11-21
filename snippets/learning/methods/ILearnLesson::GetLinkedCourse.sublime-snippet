@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::GetLinkedCourse(${1:lessonId})]]></content>
+	<tabTrigger>ILearnLesson::GetLinkedCourse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

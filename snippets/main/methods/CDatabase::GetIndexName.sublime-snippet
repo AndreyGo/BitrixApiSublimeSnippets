@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::GetIndexName(${1:tableName},${2:arColumns},${3:\$bStrict = false})]]></content>
+	<tabTrigger>CDatabase::GetIndexName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dumpVars(${1:vars},${2:\$arExclusions = array()})]]></content>
+	<tabTrigger>dumpVars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

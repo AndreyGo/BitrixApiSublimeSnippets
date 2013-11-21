@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::PreGenerateRSS(${1:IBLOCK_ID},${2:\$yandex = true})]]></content>
+	<tabTrigger>CIBlockRSS::PreGenerateRSS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

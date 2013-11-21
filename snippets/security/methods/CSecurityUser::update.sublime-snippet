@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::update(${1:arFields})]]></content>
+	<tabTrigger>CSecurityUser::update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

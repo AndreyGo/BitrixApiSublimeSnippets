@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::InitImage(${1:\$width = false},${2:\$height = false})]]></content>
+	<tabTrigger>CCaptcha::InitImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

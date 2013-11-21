@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfAccelEAccel::GetParams()]]></content>
+	<tabTrigger>CPerfAccelEAccel::GetParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

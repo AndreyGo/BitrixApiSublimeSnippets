@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVData::SetWidthMap(${1:arMap})]]></content>
+	<tabTrigger>CCSVData::SetWidthMap</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

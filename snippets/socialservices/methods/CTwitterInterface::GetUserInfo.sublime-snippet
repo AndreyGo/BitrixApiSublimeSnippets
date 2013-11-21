@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::GetUserInfo(${1:user_id})]]></content>
+	<tabTrigger>CTwitterInterface::GetUserInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

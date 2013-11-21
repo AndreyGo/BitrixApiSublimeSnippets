@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::onBeforeUserLogin(${1:arParams})]]></content>
+	<tabTrigger>CSecurityUser::onBeforeUserLogin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

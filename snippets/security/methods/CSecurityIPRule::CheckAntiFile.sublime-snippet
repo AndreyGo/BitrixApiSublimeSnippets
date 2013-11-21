@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::CheckAntiFile(${1:\$retun_message = false})]]></content>
+	<tabTrigger>CSecurityIPRule::CheckAntiFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetArrSaveDecColor(${1:arr})]]></content>
+	<tabTrigger>GetArrSaveDecColor</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CATALOG_UNINSTALLED]]></content>
+	<tabTrigger>BX_CATALOG_UNINSTALLED</tabTrigger>
+	<description>Bitrix CCatalogAdmin::OnBuildSaleMenu</description>
+	<scope>source.php</scope>
+</snippet>

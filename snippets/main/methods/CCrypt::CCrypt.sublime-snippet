@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCrypt::CCrypt(${1:\$blockCipherMode = CRYPT_MODE_CBC},${2:\$cipher = "blowfish"},${3:\$key = ""},${4:\$iv = ""})]]></content>
+	<tabTrigger>CCrypt::CCrypt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

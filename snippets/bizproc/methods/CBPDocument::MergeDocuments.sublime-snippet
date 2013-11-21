@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::MergeDocuments(${1:firstDocumentId},${2:secondDocumentId})]]></content>
+	<tabTrigger>CBPDocument::MergeDocuments</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

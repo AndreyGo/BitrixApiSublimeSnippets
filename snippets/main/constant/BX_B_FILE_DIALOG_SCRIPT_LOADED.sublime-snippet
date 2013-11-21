@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_B_FILE_DIALOG_SCRIPT_LOADED]]></content>
+	<tabTrigger>BX_B_FILE_DIALOG_SCRIPT_LOADED</tabTrigger>
+	<description>Bitrix CAdminFileDialog::AttachJSScripts</description>
+	<scope>source.php</scope>
+</snippet>

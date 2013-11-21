@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ExtractValuesFromVariables(${1:ar},${2:arVars})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ExtractValuesFromVariables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

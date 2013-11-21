@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::CleanUpHistoryCopies_SE(${1:FILENAME},${2:\$HISTORY_COPIES=false})]]></content>
+	<tabTrigger>CWorkflow::CleanUpHistoryCopies_SE</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

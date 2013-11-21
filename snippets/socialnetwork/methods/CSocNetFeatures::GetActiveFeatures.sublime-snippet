@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetFeatures::GetActiveFeatures(${1:type},${2:id})]]></content>
+	<tabTrigger>CSocNetFeatures::GetActiveFeatures</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

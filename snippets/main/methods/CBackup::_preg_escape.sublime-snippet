@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBackup::_preg_escape(${1:str})]]></content>
+	<tabTrigger>CBackup::_preg_escape</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

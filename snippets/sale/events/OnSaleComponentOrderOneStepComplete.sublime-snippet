@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleComponentOrderOneStepComplete]]></content>
+	<tabTrigger>OnSaleComponentOrderOneStepComplete</tabTrigger>
+	<description>Bitrix CSaleOrder::DoSaveOrder</description>
+	<scope>source.php</scope>
+</snippet>

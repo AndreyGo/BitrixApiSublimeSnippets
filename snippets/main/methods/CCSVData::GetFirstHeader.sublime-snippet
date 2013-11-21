@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCSVData::GetFirstHeader()]]></content>
+	<tabTrigger>CCSVData::GetFirstHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

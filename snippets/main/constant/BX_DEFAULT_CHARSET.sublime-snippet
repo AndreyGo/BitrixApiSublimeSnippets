@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_DEFAULT_CHARSET]]></content>
+	<tabTrigger>BX_DEFAULT_CHARSET</tabTrigger>
+	<description>Bitrix CDataXML::Load</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTarBuilder::open(${1:file},${2:\$mode='r'})]]></content>
+	<tabTrigger>CTarBuilder::open</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

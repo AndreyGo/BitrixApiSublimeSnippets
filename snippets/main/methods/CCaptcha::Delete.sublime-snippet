@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::Delete(${1:sid})]]></content>
+	<tabTrigger>CCaptcha::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

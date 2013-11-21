@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeFullReindexClear]]></content>
+	<tabTrigger>OnBeforeFullReindexClear</tabTrigger>
+	<description>Bitrix CSearch::ReIndexAll</description>
+	<scope>source.php</scope>
+</snippet>

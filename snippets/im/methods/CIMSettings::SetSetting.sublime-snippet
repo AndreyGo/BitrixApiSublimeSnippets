@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMSettings::SetSetting(${1:type},${2:value},${3:\$userId = false})]]></content>
+	<tabTrigger>CIMSettings::SetSetting</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

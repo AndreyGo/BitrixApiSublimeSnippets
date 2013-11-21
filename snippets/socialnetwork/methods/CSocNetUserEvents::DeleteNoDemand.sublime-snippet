@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserEvents::DeleteNoDemand(${1:userID})]]></content>
+	<tabTrigger>CSocNetUserEvents::DeleteNoDemand</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

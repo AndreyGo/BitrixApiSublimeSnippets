@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSceleton::GetWeekDays()]]></content>
+	<tabTrigger>CCalendarSceleton::GetWeekDays</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

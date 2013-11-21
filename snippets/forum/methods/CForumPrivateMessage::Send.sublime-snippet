@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPrivateMessage::Send(${1:\$arFields = array()})]]></content>
+	<tabTrigger>CForumPrivateMessage::Send</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

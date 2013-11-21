@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::GetEditorToolbarConfig(${1:editorType})]]></content>
+	<tabTrigger>CFileMan::GetEditorToolbarConfig</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

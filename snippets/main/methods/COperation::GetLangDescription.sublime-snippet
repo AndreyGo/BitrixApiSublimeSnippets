@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COperation::GetLangDescription(${1:name},${2:desc})]]></content>
+	<tabTrigger>COperation::GetLangDescription</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

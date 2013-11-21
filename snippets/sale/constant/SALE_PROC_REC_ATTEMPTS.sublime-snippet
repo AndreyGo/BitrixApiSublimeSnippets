@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_PROC_REC_ATTEMPTS]]></content>
+	<tabTrigger>SALE_PROC_REC_ATTEMPTS</tabTrigger>
+	<description>Bitrix CSaleBasket::OrderDelivery</description>
+	<scope>source.php</scope>
+</snippet>

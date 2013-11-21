@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[dumpVar(${1:varName},${2:varValue},${3:\$varStack = array()})]]></content>
+	<tabTrigger>dumpVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

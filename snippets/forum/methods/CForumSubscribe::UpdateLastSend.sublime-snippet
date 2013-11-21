@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumSubscribe::UpdateLastSend(${1:MID},${2:sIDs})]]></content>
+	<tabTrigger>CForumSubscribe::UpdateLastSend</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheMemcache::close()]]></content>
+	<tabTrigger>CPHPCacheMemcache::close</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

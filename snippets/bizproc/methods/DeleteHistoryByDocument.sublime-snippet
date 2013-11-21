@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteHistoryByDocument(${1:documentId})]]></content>
+	<tabTrigger>DeleteHistoryByDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

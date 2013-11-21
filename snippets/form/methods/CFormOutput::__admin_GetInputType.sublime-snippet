@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput::__admin_GetInputType(${1:FIELD_SID})]]></content>
+	<tabTrigger>CFormOutput::__admin_GetInputType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

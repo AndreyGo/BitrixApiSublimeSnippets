@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleReportSaleOrderHelper::formatResultsTotal(${1:&total},${2:&\$columnInfo},${3:\$bFormatOnly = false})]]></content>
+	<tabTrigger>CSaleReportSaleOrderHelper::formatResultsTotal</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

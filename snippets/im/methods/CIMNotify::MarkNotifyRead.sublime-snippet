@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::MarkNotifyRead(${1:\$id = 0},${2:\$checkAll = false})]]></content>
+	<tabTrigger>CIMNotify::MarkNotifyRead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

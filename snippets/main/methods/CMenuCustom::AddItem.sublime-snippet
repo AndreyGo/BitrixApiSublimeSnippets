@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMenuCustom::AddItem(${1:\$type="left"},${2:\$arItem=array()})]]></content>
+	<tabTrigger>CMenuCustom::AddItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

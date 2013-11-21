@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::SetStat(${1:\$USER_ID = 0},${2:\$arParams = array()})]]></content>
+	<tabTrigger>CForumUser::SetStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

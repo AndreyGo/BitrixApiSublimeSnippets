@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPMFolder::Update(${1:ID},${2:\$arFields = array()})]]></content>
+	<tabTrigger>CForumPMFolder::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

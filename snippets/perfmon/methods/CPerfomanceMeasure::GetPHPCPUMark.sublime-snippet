@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceMeasure::GetPHPCPUMark()]]></content>
+	<tabTrigger>CPerfomanceMeasure::GetPHPCPUMark</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::OrderBasket(${1:orderID},${2:\$fuserID = 0},${3:\$strLang = LANG},${4:\$arDiscounts = False})]]></content>
+	<tabTrigger>CSaleBasket::OrderBasket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

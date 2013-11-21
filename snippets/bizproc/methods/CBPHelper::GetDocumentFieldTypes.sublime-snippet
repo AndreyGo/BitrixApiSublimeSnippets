@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::GetDocumentFieldTypes()]]></content>
+	<tabTrigger>CBPHelper::GetDocumentFieldTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

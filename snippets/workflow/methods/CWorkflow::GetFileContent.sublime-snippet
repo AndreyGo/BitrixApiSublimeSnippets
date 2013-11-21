@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWorkflow::GetFileContent(${1:did},${2:fname},${3:\$wf_path=""},${4:\$site=false})]]></content>
+	<tabTrigger>CWorkflow::GetFileContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

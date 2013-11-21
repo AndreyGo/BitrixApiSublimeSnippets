@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetArrayY(${1:arrY},${2:&\$MinY},${3:&\$MaxY},${4:\$max_grid=15},${5:\$first_null="Y"},${6:\$integers=false})]]></content>
+	<tabTrigger>GetArrayY</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

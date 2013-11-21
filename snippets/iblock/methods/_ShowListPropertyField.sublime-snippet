@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_ShowListPropertyField(${1:name},${2:property_fields},${3:values},${4:\$bInitDef = false},${5:\$def_text = false})]]></content>
+	<tabTrigger>_ShowListPropertyField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

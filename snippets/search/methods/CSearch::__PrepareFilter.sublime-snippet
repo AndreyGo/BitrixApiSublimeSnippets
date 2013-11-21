@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::__PrepareFilter(${1:arFilter},${2:&\$bIncSites},${3:\$strSearchContentAlias="sc."})]]></content>
+	<tabTrigger>CSearch::__PrepareFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

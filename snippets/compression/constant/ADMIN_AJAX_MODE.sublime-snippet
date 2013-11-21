@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ADMIN_AJAX_MODE]]></content>
+	<tabTrigger>ADMIN_AJAX_MODE</tabTrigger>
+	<description>Bitrix CCompress::OnAfterEpilog</description>
+	<scope>source.php</scope>
+</snippet>

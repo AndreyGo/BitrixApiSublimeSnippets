@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::GetOwnershipTimeout()]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::GetOwnershipTimeout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

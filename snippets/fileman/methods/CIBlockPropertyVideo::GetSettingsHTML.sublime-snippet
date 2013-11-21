@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyVideo::GetSettingsHTML(${1:arProperty},${2:strHTMLControlName},${3:arPropertyFields})]]></content>
+	<tabTrigger>CIBlockPropertyVideo::GetSettingsHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

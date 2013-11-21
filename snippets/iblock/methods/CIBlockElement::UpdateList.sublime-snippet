@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::UpdateList(${1:arFields},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CIBlockElement::UpdateList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

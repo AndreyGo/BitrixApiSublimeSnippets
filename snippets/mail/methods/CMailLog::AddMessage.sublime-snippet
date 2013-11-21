@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailLog::AddMessage(${1:arFields})]]></content>
+	<tabTrigger>CMailLog::AddMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

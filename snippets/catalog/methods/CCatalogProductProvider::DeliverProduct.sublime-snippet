@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogProductProvider::DeliverProduct(${1:arParams})]]></content>
+	<tabTrigger>CCatalogProductProvider::DeliverProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

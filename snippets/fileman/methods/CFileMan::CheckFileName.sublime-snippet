@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::CheckFileName(${1:str})]]></content>
+	<tabTrigger>CFileMan::CheckFileName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

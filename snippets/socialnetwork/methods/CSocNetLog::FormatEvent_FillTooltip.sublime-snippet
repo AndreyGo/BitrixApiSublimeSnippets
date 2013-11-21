@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::FormatEvent_FillTooltip(${1:arFields},${2:arParams})]]></content>
+	<tabTrigger>CSocNetLog::FormatEvent_FillTooltip</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::GetIdForCacheByName(${1:iBlockId},${2:iSocCatId},${3:elementName})]]></content>
+	<tabTrigger>CWiki::GetIdForCacheByName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

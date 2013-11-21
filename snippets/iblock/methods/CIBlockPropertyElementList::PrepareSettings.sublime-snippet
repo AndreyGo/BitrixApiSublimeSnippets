@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyElementList::PrepareSettings(${1:arProperty})]]></content>
+	<tabTrigger>CIBlockPropertyElementList::PrepareSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

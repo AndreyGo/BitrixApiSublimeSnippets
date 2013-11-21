@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IsModuleInstalled(${1:module_id})]]></content>
+	<tabTrigger>IsModuleInstalled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

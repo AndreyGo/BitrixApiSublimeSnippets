@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::FormatDate(${1:strDate},${2:\$format="DD.MM.YYYY HH:MI:SS"},${3:\$new_format="DD.MM.YYYY HH:MI:SS"})]]></content>
+	<tabTrigger>CDatabase::FormatDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

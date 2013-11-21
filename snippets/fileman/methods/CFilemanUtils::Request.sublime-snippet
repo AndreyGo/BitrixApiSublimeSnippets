@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtils::Request(${1:action},${2:site})]]></content>
+	<tabTrigger>CFilemanUtils::Request</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

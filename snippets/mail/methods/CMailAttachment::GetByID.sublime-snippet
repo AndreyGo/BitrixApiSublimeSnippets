@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailAttachment::GetByID(${1:ID})]]></content>
+	<tabTrigger>CMailAttachment::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

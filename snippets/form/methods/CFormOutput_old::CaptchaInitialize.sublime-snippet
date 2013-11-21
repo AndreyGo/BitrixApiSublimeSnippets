@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormOutput_old::CaptchaInitialize()]]></content>
+	<tabTrigger>CFormOutput_old::CaptchaInitialize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

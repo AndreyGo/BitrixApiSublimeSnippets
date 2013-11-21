@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CACHE_SID]]></content>
+	<tabTrigger>BX_CACHE_SID</tabTrigger>
+	<description>Bitrix CPHPCacheXCache::CPHPCacheXCache</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMConvert::__construct()]]></content>
+	<tabTrigger>CIMConvert::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

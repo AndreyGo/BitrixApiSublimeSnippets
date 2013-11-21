@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetEventUserView::Entity2UserAdd(${1:entityType},${2:entityID},${3:userID},${4:role})]]></content>
+	<tabTrigger>CSocNetEventUserView::Entity2UserAdd</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

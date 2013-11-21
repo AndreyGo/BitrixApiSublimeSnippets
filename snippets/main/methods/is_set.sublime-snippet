@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[is_set(${1:&a},${2:\$k=false})]]></content>
+	<tabTrigger>is_set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityFilter::showAjaxForm()]]></content>
+	<tabTrigger>CSecurityFilter::showAjaxForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

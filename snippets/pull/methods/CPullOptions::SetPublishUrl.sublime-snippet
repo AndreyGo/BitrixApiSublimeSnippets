@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SetPublishUrl(${1:\$path = ""})]]></content>
+	<tabTrigger>CPullOptions::SetPublishUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

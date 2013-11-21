@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmile::add(${1:arFields})]]></content>
+	<tabTrigger>CSmile::add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

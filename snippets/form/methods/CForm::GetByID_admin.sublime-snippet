@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetByID_admin(${1:WEB_FORM_ID},${2:\$current_section = false})]]></content>
+	<tabTrigger>CForm::GetByID_admin</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

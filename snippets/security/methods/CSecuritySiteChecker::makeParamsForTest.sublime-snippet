@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::makeParamsForTest(${1:pTestName},${2:pParams})]]></content>
+	<tabTrigger>CSecuritySiteChecker::makeParamsForTest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

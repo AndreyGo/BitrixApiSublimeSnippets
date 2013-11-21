@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CModule::IncludeModule(${1:module_name})]]></content>
+	<tabTrigger>CModule::IncludeModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetStatus(${1:ticketID})]]></content>
+	<tabTrigger>CTicket::GetStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlog::GetFilterOperation(${1:key})]]></content>
+	<tabTrigger>CBlog::GetFilterOperation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

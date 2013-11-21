@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::SetLabelsBeRead(${1:ID},${2:arUserGroups})]]></content>
+	<tabTrigger>CForumNew::SetLabelsBeRead</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

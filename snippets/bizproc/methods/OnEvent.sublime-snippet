@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnEvent(${1:workflowId},${2:eventName},${3:\$arEventParameters = array()})]]></content>
+	<tabTrigger>OnEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

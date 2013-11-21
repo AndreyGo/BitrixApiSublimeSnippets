@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormValidator::Set(${1:WEB_FORM_ID},${2:FIELD_ID},${3:sValSID},${4:\$arParams = array()},${5:\$C_SORT = 100})]]></content>
+	<tabTrigger>CFormValidator::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

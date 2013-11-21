@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::UnSetVar(${1:varName})]]></content>
+	<tabTrigger>CWizardBase::UnSetVar</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

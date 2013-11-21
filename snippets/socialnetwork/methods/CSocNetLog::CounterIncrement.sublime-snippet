@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::CounterIncrement(${1:log_id},${2:\$event_id = false},${3:\$arOfEntities = false},${4:\$type = "L"})]]></content>
+	<tabTrigger>CSocNetLog::CounterIncrement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

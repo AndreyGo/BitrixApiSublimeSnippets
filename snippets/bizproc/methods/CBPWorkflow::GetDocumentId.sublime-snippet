@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::GetDocumentId()]]></content>
+	<tabTrigger>CBPWorkflow::GetDocumentId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

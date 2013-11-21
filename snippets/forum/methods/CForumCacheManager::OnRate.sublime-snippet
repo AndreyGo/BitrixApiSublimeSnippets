@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumCacheManager::OnRate(${1:rateID},${2:arData})]]></content>
+	<tabTrigger>CForumCacheManager::OnRate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

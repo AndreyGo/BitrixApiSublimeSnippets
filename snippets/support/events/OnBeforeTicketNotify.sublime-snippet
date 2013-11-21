@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeTicketNotify]]></content>
+	<tabTrigger>OnBeforeTicketNotify</tabTrigger>
+	<description>Bitrix CTicketReminder::SupportDeadlineNotify</description>
+	<scope>source.php</scope>
+</snippet>

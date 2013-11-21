@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::OnFileDelete(${1:arFile})]]></content>
+	<tabTrigger>CForumFiles::OnFileDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

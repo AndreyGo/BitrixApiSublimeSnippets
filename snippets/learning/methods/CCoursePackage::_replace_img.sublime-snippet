@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCoursePackage::_replace_img(${1:m0},${2:m1},${3:m2},${4:m3},${5:m4},${6:m5},${7:res_id})]]></content>
+	<tabTrigger>CCoursePackage::_replace_img</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

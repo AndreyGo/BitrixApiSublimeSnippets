@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLFileStream::startElement(${1:bMB},${2:xmlChunk},${3:origChunk})]]></content>
+	<tabTrigger>CXMLFileStream::startElement</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

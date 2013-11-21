@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleCalculateOrderShoppingCartTax]]></content>
+	<tabTrigger>OnSaleCalculateOrderShoppingCartTax</tabTrigger>
+	<description>Bitrix CSaleOrder::DoCalculateOrder</description>
+	<scope>source.php</scope>
+</snippet>

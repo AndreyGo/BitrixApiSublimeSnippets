@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnOrderRecurringCancelSendEmail]]></content>
+	<tabTrigger>OnOrderRecurringCancelSendEmail</tabTrigger>
+	<description>Bitrix CSaleRecurring::CancelRecurring</description>
+	<scope>source.php</scope>
+</snippet>

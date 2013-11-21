@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Process()]]></content>
+	<tabTrigger>Process</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

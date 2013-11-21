@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileMenu::getDefaultUrl(${1:arParams})]]></content>
+	<tabTrigger>CAdminMobileMenu::getDefaultUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

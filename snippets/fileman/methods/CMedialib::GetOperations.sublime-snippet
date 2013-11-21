@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::GetOperations(${1:collectionId})]]></content>
+	<tabTrigger>CMedialib::GetOperations</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

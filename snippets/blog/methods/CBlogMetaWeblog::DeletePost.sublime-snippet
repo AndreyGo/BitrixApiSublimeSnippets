@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogMetaWeblog::DeletePost(${1:params})]]></content>
+	<tabTrigger>CBlogMetaWeblog::DeletePost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

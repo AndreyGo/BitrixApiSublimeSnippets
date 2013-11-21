@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::extractContent()]]></content>
+	<tabTrigger>CArchiver::extractContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

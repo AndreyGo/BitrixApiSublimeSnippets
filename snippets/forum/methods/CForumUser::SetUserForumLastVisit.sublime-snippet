@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::SetUserForumLastVisit(${1:USER_ID},${2:\$FORUM_ID = 0},${3:\$LAST_VISIT = false})]]></content>
+	<tabTrigger>CForumUser::SetUserForumLastVisit</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

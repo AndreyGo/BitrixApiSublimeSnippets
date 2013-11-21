@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_DISABLE_INDEX_PAGE]]></content>
+	<tabTrigger>BX_DISABLE_INDEX_PAGE</tabTrigger>
+	<description>Bitrix CMain::GetCurPage</description>
+	<scope>source.php</scope>
+</snippet>

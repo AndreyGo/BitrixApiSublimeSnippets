@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[EndNote()]]></content>
+	<tabTrigger>EndNote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

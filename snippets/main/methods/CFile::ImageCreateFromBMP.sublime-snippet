@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ImageCreateFromBMP(${1:filename})]]></content>
+	<tabTrigger>CFile::ImageCreateFromBMP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

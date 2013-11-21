@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::DeleteAll(${1:\$FUSER_ID = 0},${2:\$bIncOrdered = false})]]></content>
+	<tabTrigger>CSaleBasket::DeleteAll</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

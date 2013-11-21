@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteQuestion::Reset(${1:ID},${2:\$VOTE_ID = false})]]></content>
+	<tabTrigger>CVoteQuestion::Reset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

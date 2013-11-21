@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm_old::GetFieldByID(${1:ID})]]></content>
+	<tabTrigger>CForm_old::GetFieldByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::UpdateBasketPrices(${1:fuserID},${2:siteID})]]></content>
+	<tabTrigger>CSaleBasket::UpdateBasketPrices</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BeginCustomContent()]]></content>
+	<tabTrigger>BeginCustomContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

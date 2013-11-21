@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetAccessibilityForMeetingRoom(${1:Params})]]></content>
+	<tabTrigger>CCalendar::GetAccessibilityForMeetingRoom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

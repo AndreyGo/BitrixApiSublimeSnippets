@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ShowImage(${1:strImage},${2:\$iMaxW=0},${3:\$iMaxH=0},${4:\$sParams=null},${5:\$strImageUrl=""},${6:\$bPopup=false},${7:\$sPopupTitle=false},${8:\$iSizeWHTTP=0},${9:\$iSizeHHTTP=0},${10:\$strImageUrlTemplate=""})]]></content>
+	<tabTrigger>CFile::ShowImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

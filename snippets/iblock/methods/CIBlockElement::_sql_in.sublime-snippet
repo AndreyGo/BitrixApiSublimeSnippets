@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::_sql_in(${1:strField},${2:cOperationType})]]></content>
+	<tabTrigger>CIBlockElement::_sql_in</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

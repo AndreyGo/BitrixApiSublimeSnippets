@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleProduct::GetProductList(${1:ID},${2:minCNT},${3:limit})]]></content>
+	<tabTrigger>CSaleProduct::GetProductList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::PrepareFields(${1:arFields},${2:table},${3:id})]]></content>
+	<tabTrigger>CTicket::PrepareFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

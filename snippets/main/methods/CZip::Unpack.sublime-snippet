@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CZip::Unpack(${1:strPath})]]></content>
+	<tabTrigger>CZip::Unpack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchSuggest::SetResultCount(${1:result_count})]]></content>
+	<tabTrigger>CSearchSuggest::SetResultCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

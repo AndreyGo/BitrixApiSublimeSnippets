@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteAnswer::GetGroupAnswers(${1:ANSWER_ID})]]></content>
+	<tabTrigger>CVoteAnswer::GetGroupAnswers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

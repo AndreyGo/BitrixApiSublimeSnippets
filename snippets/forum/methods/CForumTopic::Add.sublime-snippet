@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumTopic::Add(${1:arFields})]]></content>
+	<tabTrigger>CForumTopic::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

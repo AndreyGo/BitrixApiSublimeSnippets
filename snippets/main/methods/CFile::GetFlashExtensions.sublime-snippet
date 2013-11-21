@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetFlashExtensions()]]></content>
+	<tabTrigger>CFile::GetFlashExtensions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

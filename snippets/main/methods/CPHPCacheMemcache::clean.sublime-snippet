@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPHPCacheMemcache::clean(${1:basedir},${2:\$initdir = false},${3:\$filename = false})]]></content>
+	<tabTrigger>CPHPCacheMemcache::clean</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterCommentAddAfter]]></content>
+	<tabTrigger>onAfterCommentAddAfter</tabTrigger>
+	<description>Bitrix CSocNetForumComments::onAfterCommentAdd</description>
+	<scope>source.php</scope>
+</snippet>

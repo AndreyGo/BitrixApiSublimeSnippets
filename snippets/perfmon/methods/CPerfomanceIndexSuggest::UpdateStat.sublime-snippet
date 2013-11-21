@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceIndexSuggest::UpdateStat(${1:sql_md5},${2:count},${3:query_time},${4:sql_id})]]></content>
+	<tabTrigger>CPerfomanceIndexSuggest::UpdateStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXAllShortUri::GetHttpStatusCodeText(${1:code})]]></content>
+	<tabTrigger>CBXAllShortUri::GetHttpStatusCodeText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

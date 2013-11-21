@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::__unserialize_callback(${1:match})]]></content>
+	<tabTrigger>CIBlockCMLImport::__unserialize_callback</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_writeFooter()]]></content>
+	<tabTrigger>CArchiver::_writeFooter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

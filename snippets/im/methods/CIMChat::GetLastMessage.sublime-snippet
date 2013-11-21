@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMChat::GetLastMessage(${1:toChatId},${2:\$fromUserId = false},${3:\$loadExtraData = false},${4:\$bTimeZone = true},${5:\$limit = true})]]></content>
+	<tabTrigger>CIMChat::GetLastMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

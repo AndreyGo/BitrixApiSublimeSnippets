@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumRank::GetByID(${1:ID})]]></content>
+	<tabTrigger>CForumRank::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

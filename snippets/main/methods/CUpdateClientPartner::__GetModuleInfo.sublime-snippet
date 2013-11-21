@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::__GetModuleInfo(${1:path})]]></content>
+	<tabTrigger>CUpdateClientPartner::__GetModuleInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminPopup::Show(${1:\$bReturnValue=false})]]></content>
+	<tabTrigger>CAdminPopup::Show</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

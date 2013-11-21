@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponentTemplate::InitTemplateEngines(${1:\$arTemplateEngines = array()})]]></content>
+	<tabTrigger>CBitrixComponentTemplate::InitTemplateEngines</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

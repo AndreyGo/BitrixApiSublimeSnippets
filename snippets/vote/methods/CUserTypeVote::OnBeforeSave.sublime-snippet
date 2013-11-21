@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVote::OnBeforeSave(${1:arUserField},${2:value})]]></content>
+	<tabTrigger>CUserTypeVote::OnBeforeSave</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

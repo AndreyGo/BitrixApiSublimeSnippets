@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnForumDelete]]></content>
+	<tabTrigger>OnForumDelete</tabTrigger>
+	<description>Bitrix CForumNew::Delete</description>
+	<scope>source.php</scope>
+</snippet>

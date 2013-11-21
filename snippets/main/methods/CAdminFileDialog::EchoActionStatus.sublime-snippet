@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::EchoActionStatus(${1:\$strWarning = ''})]]></content>
+	<tabTrigger>CAdminFileDialog::EchoActionStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

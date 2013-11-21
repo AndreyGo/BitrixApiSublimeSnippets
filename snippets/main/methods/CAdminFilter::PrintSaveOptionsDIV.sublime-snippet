@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::PrintSaveOptionsDIV()]]></content>
+	<tabTrigger>CAdminFilter::PrintSaveOptionsDIV</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

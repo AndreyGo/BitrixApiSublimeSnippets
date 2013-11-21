@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubForm::CAdminSubForm(${1:name},${2:tabs},${3:\$bCanExpand = true},${4:\$bDenyAutosave = false},${5:\$list_url = ''},${6:\$boolShowSettings = false})]]></content>
+	<tabTrigger>CAdminSubForm::CAdminSubForm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

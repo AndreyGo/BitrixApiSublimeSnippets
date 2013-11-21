@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_IMG_SERVER]]></content>
+	<tabTrigger>BX_IMG_SERVER</tabTrigger>
+	<description>Bitrix CFile::GetFileSRC</description>
+	<scope>source.php</scope>
+</snippet>

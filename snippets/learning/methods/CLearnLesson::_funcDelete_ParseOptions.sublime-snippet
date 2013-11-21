@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::_funcDelete_ParseOptions(${1:lesson_id})]]></content>
+	<tabTrigger>CLearnLesson::_funcDelete_ParseOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

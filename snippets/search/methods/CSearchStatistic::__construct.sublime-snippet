@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchStatistic::__construct(${1:\$phrase = ""},${2:\$tags = ""})]]></content>
+	<tabTrigger>CSearchStatistic::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

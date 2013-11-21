@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_CUSTOM_TO_UPPER_FUNC]]></content>
+	<tabTrigger>BX_CUSTOM_TO_UPPER_FUNC</tabTrigger>
+	<description>Bitrix ToUpper</description>
+	<scope>source.php</scope>
+</snippet>

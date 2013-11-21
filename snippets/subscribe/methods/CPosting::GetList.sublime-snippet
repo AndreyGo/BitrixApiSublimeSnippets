@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPosting::GetList(${1:\$aSort=Array()},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CPosting::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

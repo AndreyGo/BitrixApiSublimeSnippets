@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::SaveFile(${1:arFile},${2:strSavePath},${3:\$bForceMD5=false},${4:\$bSkipExt=false})]]></content>
+	<tabTrigger>CFile::SaveFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

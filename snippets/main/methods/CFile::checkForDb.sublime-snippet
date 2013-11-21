@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::checkForDb(${1:arFields},${2:field})]]></content>
+	<tabTrigger>CFile::checkForDb</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

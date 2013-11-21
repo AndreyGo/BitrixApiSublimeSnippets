@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPRuntime::__construct()]]></content>
+	<tabTrigger>CBPRuntime::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

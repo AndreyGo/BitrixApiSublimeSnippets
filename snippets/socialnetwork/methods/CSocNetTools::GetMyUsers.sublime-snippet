@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetTools::GetMyUsers(${1:\$user_id = false})]]></content>
+	<tabTrigger>CSocNetTools::GetMyUsers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

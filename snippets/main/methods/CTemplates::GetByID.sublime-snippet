@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTemplates::GetByID(${1:id},${2:\$arCurrentValues = array()},${3:\$templateID = array()})]]></content>
+	<tabTrigger>CTemplates::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

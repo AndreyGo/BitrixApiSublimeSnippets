@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnIBlockPropertyBuildList]]></content>
+	<tabTrigger>OnIBlockPropertyBuildList</tabTrigger>
+	<description>Bitrix CIBlockProperty::GetUserType</description>
+	<scope>source.php</scope>
+</snippet>

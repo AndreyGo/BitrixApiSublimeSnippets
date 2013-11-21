@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::findCaller(${1:trace},${2:&\$module_id},${3:&\$comp_id})]]></content>
+	<tabTrigger>CPerfomanceKeeper::findCaller</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

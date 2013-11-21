@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetVoteList(${1:\$GROUP_SID = ""},${2:\$strSqlOrder = "ORDER BY C.C_SORT},${3:C.ID},${4:V.C_SORT},${5:V.DATE_START desc"},${6:\$site_id = SITE_ID})]]></content>
+	<tabTrigger>GetVoteList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

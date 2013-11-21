@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPRuntime::ExecuteResourceFile(${1:activityPath},${2:filePath},${3:\$arParameters = array()})]]></content>
+	<tabTrigger>CBPRuntime::ExecuteResourceFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

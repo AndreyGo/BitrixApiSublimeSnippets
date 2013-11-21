@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::StrangeUrlEncode(${1:url})]]></content>
+	<tabTrigger>CImageUploader::StrangeUrlEncode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

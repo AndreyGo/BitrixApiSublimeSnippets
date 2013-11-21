@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::ImageRotate(${1:sourceFile},${2:angle})]]></content>
+	<tabTrigger>CFile::ImageRotate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStudent::Add(${1:arFields})]]></content>
+	<tabTrigger>CStudent::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

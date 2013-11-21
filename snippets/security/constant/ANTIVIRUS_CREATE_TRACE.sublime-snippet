@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ANTIVIRUS_CREATE_TRACE]]></content>
+	<tabTrigger>ANTIVIRUS_CREATE_TRACE</tabTrigger>
+	<description>Bitrix CSecurityAntiVirus::dolog</description>
+	<scope>source.php</scope>
+</snippet>

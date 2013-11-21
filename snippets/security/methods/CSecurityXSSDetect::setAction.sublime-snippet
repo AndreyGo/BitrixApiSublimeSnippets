@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::setAction(${1:pAction})]]></content>
+	<tabTrigger>CSecurityXSSDetect::setAction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

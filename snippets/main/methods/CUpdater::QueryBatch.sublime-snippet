@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdater::QueryBatch(${1:queryPath},${2:\$tableName = ""})]]></content>
+	<tabTrigger>CUpdater::QueryBatch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

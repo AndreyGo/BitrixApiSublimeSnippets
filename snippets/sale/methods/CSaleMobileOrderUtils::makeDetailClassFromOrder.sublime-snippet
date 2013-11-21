@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleMobileOrderUtils::makeDetailClassFromOrder(${1:arOrder})]]></content>
+	<tabTrigger>CSaleMobileOrderUtils::makeDetailClassFromOrder</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

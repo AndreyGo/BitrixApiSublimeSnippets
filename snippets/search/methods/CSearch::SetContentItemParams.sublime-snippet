@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::SetContentItemParams(${1:index_id},${2:arParams})]]></content>
+	<tabTrigger>CSearch::SetContentItemParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

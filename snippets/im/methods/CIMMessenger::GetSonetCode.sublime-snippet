@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessenger::GetSonetCode(${1:user_id},${2:\$site_id = SITE_ID})]]></content>
+	<tabTrigger>CIMMessenger::GetSonetCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::ChangeParents(${1:arOldParents},${2:arNewParents})]]></content>
+	<tabTrigger>CIBlockRights::ChangeParents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

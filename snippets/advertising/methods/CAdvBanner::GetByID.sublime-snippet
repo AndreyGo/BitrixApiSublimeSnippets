@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::GetByID(${1:BANNER_ID},${2:\$CHECK_RIGHTS="Y"})]]></content>
+	<tabTrigger>CAdvBanner::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

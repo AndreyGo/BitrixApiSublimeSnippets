@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflowTemplateLoader::ConvertArrayCharset(${1:value},${2:\$direction = BP_EI_DIRECTION_EXPORT})]]></content>
+	<tabTrigger>CBPWorkflowTemplateLoader::ConvertArrayCharset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

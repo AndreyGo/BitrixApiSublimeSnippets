@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeBlogUpdate]]></content>
+	<tabTrigger>OnBeforeBlogUpdate</tabTrigger>
+	<description>Bitrix CBlog::Update</description>
+	<scope>source.php</scope>
+</snippet>

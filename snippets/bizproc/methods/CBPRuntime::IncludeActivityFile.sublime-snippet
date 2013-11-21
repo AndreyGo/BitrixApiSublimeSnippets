@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPRuntime::IncludeActivityFile(${1:code})]]></content>
+	<tabTrigger>CBPRuntime::IncludeActivityFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

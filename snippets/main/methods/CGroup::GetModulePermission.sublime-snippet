@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetModulePermission(${1:group_id},${2:module_id})]]></content>
+	<tabTrigger>CGroup::GetModulePermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

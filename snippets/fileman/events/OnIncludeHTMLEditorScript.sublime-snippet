@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnIncludeHTMLEditorScript]]></content>
+	<tabTrigger>OnIncludeHTMLEditorScript</tabTrigger>
+	<description>Bitrix CFileMan::ShowHTMLEditControl</description>
+	<scope>source.php</scope>
+</snippet>

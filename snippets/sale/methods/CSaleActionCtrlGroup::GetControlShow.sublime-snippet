@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleActionCtrlGroup::GetControlShow(${1:arParams})]]></content>
+	<tabTrigger>CSaleActionCtrlGroup::GetControlShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

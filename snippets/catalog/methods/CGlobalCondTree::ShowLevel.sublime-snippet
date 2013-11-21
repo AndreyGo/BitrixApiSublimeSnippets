@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::ShowLevel(${1:&arLevel},${2:\$boolFirst = false})]]></content>
+	<tabTrigger>CGlobalCondTree::ShowLevel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

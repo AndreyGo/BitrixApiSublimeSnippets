@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::OnAfterUserLogout(${1:arParams})]]></content>
+	<tabTrigger>CPullChannel::OnAfterUserLogout</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

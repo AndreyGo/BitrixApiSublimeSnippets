@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubMessage::ShowOldStyleError(${1:message})]]></content>
+	<tabTrigger>CAdminSubMessage::ShowOldStyleError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPackageCancel::CPackageCancel(${1:package})]]></content>
+	<tabTrigger>CPackageCancel::CPackageCancel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

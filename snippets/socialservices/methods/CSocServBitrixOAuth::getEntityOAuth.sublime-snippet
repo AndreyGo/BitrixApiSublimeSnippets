@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServBitrixOAuth::getEntityOAuth()]]></content>
+	<tabTrigger>CSocServBitrixOAuth::getEntityOAuth</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::MkPropertyFilter(${1:res},${2:cOperationType},${3:propVAL},${4:db_prop},${5:&\$arJoinProps},${6:&\$arSqlSearch})]]></content>
+	<tabTrigger>CIBlockElement::MkPropertyFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

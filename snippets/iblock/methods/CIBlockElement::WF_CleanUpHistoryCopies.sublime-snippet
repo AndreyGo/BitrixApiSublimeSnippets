@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::WF_CleanUpHistoryCopies(${1:\$ELEMENT_ID=false},${2:\$HISTORY_COPIES=false})]]></content>
+	<tabTrigger>CIBlockElement::WF_CleanUpHistoryCopies</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

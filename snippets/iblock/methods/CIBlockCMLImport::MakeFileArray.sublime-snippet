@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::MakeFileArray(${1:file})]]></content>
+	<tabTrigger>CIBlockCMLImport::MakeFileArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockFindTools::GetSectionID(${1:section_id},${2:section_code},${3:arFilter})]]></content>
+	<tabTrigger>CIBlockFindTools::GetSectionID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

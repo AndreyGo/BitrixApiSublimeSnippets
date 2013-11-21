@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMP(${1:a},${2:\$b){if(\$a['TOTAL']==\$b['TOTAL'])return 0;return (\$a['TOTAL']<\$b['TOTAL']})]]></content>
+	<tabTrigger>CMP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

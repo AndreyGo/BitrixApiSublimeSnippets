@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagment::IsAvailable()]]></content>
+	<tabTrigger>CIdeaManagment::IsAvailable</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

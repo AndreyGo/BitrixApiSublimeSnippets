@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrimEx(${1:str},${2:symbol},${3:\$side="both"})]]></content>
+	<tabTrigger>TrimEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

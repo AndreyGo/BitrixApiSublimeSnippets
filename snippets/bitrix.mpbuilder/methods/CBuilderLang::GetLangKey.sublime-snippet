@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBuilderLang::GetLangKey(${1:strMess})]]></content>
+	<tabTrigger>CBuilderLang::GetLangKey</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

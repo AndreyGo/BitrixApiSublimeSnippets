@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::__UpdateComponents(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CRatings::__UpdateComponents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

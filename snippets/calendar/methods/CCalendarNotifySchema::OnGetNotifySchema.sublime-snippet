@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarNotifySchema::OnGetNotifySchema()]]></content>
+	<tabTrigger>CCalendarNotifySchema::OnGetNotifySchema</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

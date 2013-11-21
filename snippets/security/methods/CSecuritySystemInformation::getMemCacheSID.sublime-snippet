@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySystemInformation::getMemCacheSID()]]></content>
+	<tabTrigger>CSecuritySystemInformation::getMemCacheSID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ShowAddFavorite(${1:\$filterName=false},${2:\$btnName="set_filter"},${3:\$module="statistic"},${4:\$alt=false})]]></content>
+	<tabTrigger>ShowAddFavorite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

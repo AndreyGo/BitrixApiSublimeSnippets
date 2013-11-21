@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteByDocument(${1:documentId})]]></content>
+	<tabTrigger>DeleteByDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

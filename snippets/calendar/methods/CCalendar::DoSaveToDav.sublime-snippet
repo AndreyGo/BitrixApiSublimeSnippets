@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::DoSaveToDav(${1:\$Params = array()},${2:&\$arFields},${3:\$oCurEvent = false})]]></content>
+	<tabTrigger>CCalendar::DoSaveToDav</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

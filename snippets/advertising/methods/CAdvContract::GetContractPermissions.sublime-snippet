@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetContractPermissions(${1:CONTRACT_ID})]]></content>
+	<tabTrigger>CAdvContract::GetContractPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

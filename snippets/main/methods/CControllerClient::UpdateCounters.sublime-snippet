@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::UpdateCounters()]]></content>
+	<tabTrigger>CControllerClient::UpdateCounters</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

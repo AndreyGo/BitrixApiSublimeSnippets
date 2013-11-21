@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogActionCtrlBasketProductProps::GetClassName()]]></content>
+	<tabTrigger>CCatalogActionCtrlBasketProductProps::GetClassName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

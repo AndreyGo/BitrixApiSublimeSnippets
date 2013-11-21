@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setDebug(${1:debug})]]></content>
+	<tabTrigger>WindowsLiveLogin::setDebug</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

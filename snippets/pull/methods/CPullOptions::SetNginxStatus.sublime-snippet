@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullOptions::SetNginxStatus(${1:\$flag = "N"})]]></content>
+	<tabTrigger>CPullOptions::SetNginxStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetIBlockElementList(${1:IBLOCK},${2:\$SECTION_ID = false},${3:\$arOrder = array("sort"=>"asc")},${4:\$cnt = 0},${5:\$arFilter = array()},${6:\$arSelect = array()})]]></content>
+	<tabTrigger>GetIBlockElementList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

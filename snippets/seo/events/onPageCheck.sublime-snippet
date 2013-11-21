@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onPageCheck]]></content>
+	<tabTrigger>onPageCheck</tabTrigger>
+	<description>Bitrix CSeoPageChecker::_PrepareData</description>
+	<scope>source.php</scope>
+</snippet>

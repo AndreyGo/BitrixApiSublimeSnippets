@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[forumTextParser::convert(${1:text},${2:\$allow = array()},${3:\$type = "html"},${4:\$arFiles = false})]]></content>
+	<tabTrigger>forumTextParser::convert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

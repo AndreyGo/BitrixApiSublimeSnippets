@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountCoupon::GetList(${1:\$arOrder = array()},${2:\$arFilter = array()},${3:\$arGroupBy = false},${4:\$arNavStartParams = false},${5:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CCatalogDiscountCoupon::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

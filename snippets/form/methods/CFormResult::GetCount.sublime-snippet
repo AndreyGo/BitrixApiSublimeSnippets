@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormResult::GetCount(${1:WEB_FORM_ID})]]></content>
+	<tabTrigger>CFormResult::GetCount</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

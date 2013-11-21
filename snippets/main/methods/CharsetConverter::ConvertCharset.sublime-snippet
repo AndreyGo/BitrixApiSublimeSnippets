@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CharsetConverter::ConvertCharset(${1:string},${2:charset_in},${3:charset_out},${4:&\$errorMessage = ""})]]></content>
+	<tabTrigger>CharsetConverter::ConvertCharset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

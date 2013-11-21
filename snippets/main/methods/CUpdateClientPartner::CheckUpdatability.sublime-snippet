@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::CheckUpdatability(${1:updatesDir},${2:&\$strError})]]></content>
+	<tabTrigger>CUpdateClientPartner::CheckUpdatability</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

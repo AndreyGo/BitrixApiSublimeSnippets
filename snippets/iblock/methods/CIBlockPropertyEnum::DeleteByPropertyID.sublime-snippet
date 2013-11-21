@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyEnum::DeleteByPropertyID(${1:PROPERTY_ID},${2:\$bIgnoreError=false})]]></content>
+	<tabTrigger>CIBlockPropertyEnum::DeleteByPropertyID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUserPoints::CanUserUpdateUserPoints(${1:iUserID})]]></content>
+	<tabTrigger>CForumUserPoints::CanUserUpdateUserPoints</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

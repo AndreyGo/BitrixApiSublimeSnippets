@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::CheckUserCodes(${1:provider},${2:USER_ID})]]></content>
+	<tabTrigger>CAccess::CheckUserCodes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

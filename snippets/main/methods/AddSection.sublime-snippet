@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddSection(${1:id},${2:content},${3:\$required = false})]]></content>
+	<tabTrigger>AddSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

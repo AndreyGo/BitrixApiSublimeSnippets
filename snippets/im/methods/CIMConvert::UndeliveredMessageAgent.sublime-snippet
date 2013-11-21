@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMConvert::UndeliveredMessageAgent()]]></content>
+	<tabTrigger>CIMConvert::UndeliveredMessageAgent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

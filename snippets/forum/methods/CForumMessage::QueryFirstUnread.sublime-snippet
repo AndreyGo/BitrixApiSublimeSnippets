@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::QueryFirstUnread(${1:arFilter})]]></content>
+	<tabTrigger>CForumMessage::QueryFirstUnread</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

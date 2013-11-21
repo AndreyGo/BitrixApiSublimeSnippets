@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListFieldTypeList::IsField(${1:type_id})]]></content>
+	<tabTrigger>CListFieldTypeList::IsField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

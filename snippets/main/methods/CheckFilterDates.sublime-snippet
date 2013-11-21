@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CheckFilterDates(${1:date1},${2:date2},${3:&\$date1_wrong},${4:&\$date2_wrong},${5:&\$date2_less_date1})]]></content>
+	<tabTrigger>CheckFilterDates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

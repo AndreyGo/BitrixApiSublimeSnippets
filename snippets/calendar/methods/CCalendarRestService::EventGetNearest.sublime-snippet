@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarRestService::EventGetNearest(${1:\$arParams = array()},${2:\$nav = null},${3:\$server = null})]]></content>
+	<tabTrigger>CCalendarRestService::EventGetNearest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

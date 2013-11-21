@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::RunCommand(${1:command},${2:oRequest},${3:oResponse})]]></content>
+	<tabTrigger>CControllerClient::RunCommand</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

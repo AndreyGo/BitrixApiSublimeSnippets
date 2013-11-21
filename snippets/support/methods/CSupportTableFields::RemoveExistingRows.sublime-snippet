@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::RemoveExistingRows()]]></content>
+	<tabTrigger>CSupportTableFields::RemoveExistingRows</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

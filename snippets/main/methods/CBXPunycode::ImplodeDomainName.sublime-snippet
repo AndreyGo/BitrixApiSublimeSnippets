@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::ImplodeDomainName(${1:arDomainNameUcs4})]]></content>
+	<tabTrigger>CBXPunycode::ImplodeDomainName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

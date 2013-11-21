@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MarkCompleted(${1:id},${2:userId})]]></content>
+	<tabTrigger>MarkCompleted</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

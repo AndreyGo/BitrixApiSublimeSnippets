@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormStatus::GetDropdown(${1:FORM_ID},${2:\$PERMISSION = array("MOVE")},${3:\$OWNER_ID=0})]]></content>
+	<tabTrigger>CFormStatus::GetDropdown</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchTags::CleanCache(${1:\$arTags = ""},${2:\$content_id = false})]]></content>
+	<tabTrigger>CSearchTags::CleanCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

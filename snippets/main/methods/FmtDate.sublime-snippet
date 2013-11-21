@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FmtDate(${1:str_date},${2:\$format=false},${3:\$site=false},${4:\$bSearchInSitesOnly = false})]]></content>
+	<tabTrigger>FmtDate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

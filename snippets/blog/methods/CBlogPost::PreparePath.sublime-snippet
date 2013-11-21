@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::PreparePath(${1:blogUrl},${2:\$postID = 0},${3:\$siteID = False},${4:\$is404 = True},${5:\$userID = 0},${6:\$groupID = 0})]]></content>
+	<tabTrigger>CBlogPost::PreparePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

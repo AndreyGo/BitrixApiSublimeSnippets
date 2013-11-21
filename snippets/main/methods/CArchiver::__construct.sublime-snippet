@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::__construct(${1:strArchiveName},${2:\$bCompress = false},${3:\$start_time = -1},${4:\$max_exec_time = -1},${5:\$pos = 0},${6:\$stepped = false})]]></content>
+	<tabTrigger>CArchiver::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

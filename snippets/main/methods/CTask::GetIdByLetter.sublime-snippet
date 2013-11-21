@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::GetIdByLetter(${1:letter},${2:module},${3:\$binding='module'})]]></content>
+	<tabTrigger>CTask::GetIdByLetter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

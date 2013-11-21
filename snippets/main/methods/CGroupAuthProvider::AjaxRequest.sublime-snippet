@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroupAuthProvider::AjaxRequest(${1:\$arParams=false})]]></content>
+	<tabTrigger>CGroupAuthProvider::AjaxRequest</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

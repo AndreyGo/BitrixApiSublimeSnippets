@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSticker::AppendLangMessages()]]></content>
+	<tabTrigger>CSticker::AppendLangMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

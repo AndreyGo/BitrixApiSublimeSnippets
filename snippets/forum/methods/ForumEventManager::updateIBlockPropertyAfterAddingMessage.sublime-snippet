@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumEventManager::updateIBlockPropertyAfterAddingMessage(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>ForumEventManager::updateIBlockPropertyAfterAddingMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

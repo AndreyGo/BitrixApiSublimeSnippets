@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::CheckDynamicFilter(${1:arFilter})]]></content>
+	<tabTrigger>CAdvBanner::CheckDynamicFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

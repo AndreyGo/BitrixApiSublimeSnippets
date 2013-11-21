@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTask::UpdateModuleRights(${1:id},${2:moduleId},${3:letter},${4:\$site_id = false})]]></content>
+	<tabTrigger>CTask::UpdateModuleRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

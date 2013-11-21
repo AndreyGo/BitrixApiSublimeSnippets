@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTableSchema::__construct()]]></content>
+	<tabTrigger>CTableSchema::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

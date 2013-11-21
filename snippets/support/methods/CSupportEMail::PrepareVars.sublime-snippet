@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportEMail::PrepareVars()]]></content>
+	<tabTrigger>CSupportEMail::PrepareVars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

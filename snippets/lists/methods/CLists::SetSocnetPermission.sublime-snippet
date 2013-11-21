@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLists::SetSocnetPermission(${1:iblock_id},${2:arRoles})]]></content>
+	<tabTrigger>CLists::SetSocnetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

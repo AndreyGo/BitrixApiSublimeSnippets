@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullChannel::UpdateLastId(${1:channelId},${2:lastId})]]></content>
+	<tabTrigger>CPullChannel::UpdateLastId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TrimArr(${1:&arr},${2:\$trim_value=false})]]></content>
+	<tabTrigger>TrimArr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

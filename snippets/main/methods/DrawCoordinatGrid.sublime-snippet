@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DrawCoordinatGrid(${1:arrayX},${2:arrayY},${3:width},${4:height},${5:ImageHandle},${6:\$bgColor="FFFFFF"},${7:\$gColor='B1B1B1'},${8:\$Color="000000"},${9:\$dD=15},${10:\$FontWidth=2},${11:\$arrTTF_FONT=false})]]></content>
+	<tabTrigger>DrawCoordinatGrid</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

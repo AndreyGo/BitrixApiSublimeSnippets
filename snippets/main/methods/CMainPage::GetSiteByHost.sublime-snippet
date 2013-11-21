@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMainPage::GetSiteByHost()]]></content>
+	<tabTrigger>CMainPage::GetSiteByHost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

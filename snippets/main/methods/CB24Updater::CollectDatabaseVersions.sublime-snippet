@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CB24Updater::CollectDatabaseVersions(${1:type},${2:\$moduleId = null},${3:\$version = null})]]></content>
+	<tabTrigger>CB24Updater::CollectDatabaseVersions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

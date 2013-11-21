@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleGroupAccessToFlag::Update(${1:ID},${2:&\$arFields})]]></content>
+	<tabTrigger>CSaleGroupAccessToFlag::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[HTMLToTxt(${1:str},${2:\$strSiteUrl=""},${3:\$aDelete=array()},${4:\$maxlen=70})]]></content>
+	<tabTrigger>HTMLToTxt</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

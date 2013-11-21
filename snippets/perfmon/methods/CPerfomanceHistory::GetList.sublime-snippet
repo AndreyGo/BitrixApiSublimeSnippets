@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceHistory::GetList(${1:arOrder},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CPerfomanceHistory::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

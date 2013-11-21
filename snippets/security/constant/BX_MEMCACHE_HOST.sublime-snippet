@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_MEMCACHE_HOST]]></content>
+	<tabTrigger>BX_MEMCACHE_HOST</tabTrigger>
+	<description>Bitrix CSecuritySystemInformation::getMemCacheInfoFromConstants</description>
+	<scope>source.php</scope>
+</snippet>

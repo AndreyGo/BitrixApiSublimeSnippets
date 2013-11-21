@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceKeeper::countCache(${1:arCacheDebug},${2:&\$cache_count})]]></content>
+	<tabTrigger>CPerfomanceKeeper::countCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

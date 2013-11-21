@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatings::Delete(${1:ID})]]></content>
+	<tabTrigger>CRatings::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

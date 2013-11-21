@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::isFoundInString(${1:pString},${2:pPatterns})]]></content>
+	<tabTrigger>CSecurityXSSDetect::isFoundInString</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

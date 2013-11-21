@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateClientPartner::RegisterModules(${1:&strError},${2:\$lang = false},${3:\$stableVersionsOnly = false})]]></content>
+	<tabTrigger>CUpdateClientPartner::RegisterModules</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::__InsertWorkflowHack(${1:id},${2:buffer})]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::__InsertWorkflowHack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_PROC_REC_FREQUENCY]]></content>
+	<tabTrigger>SALE_PROC_REC_FREQUENCY</tabTrigger>
+	<description>Bitrix CSaleRecurring::AgentCheckRecurring</description>
+	<scope>source.php</scope>
+</snippet>

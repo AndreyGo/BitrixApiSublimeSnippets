@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumCacheManager::OnTopicUpdate(${1:ID},${2:arFields})]]></content>
+	<tabTrigger>CForumCacheManager::OnTopicUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

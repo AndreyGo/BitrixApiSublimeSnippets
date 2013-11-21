@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::GetList(${1:\$arOrder = array()},${2:\$arFilter = array()},${3:\$arSelect = array()},${4:\$arNavStartParams = Array()})]]></content>
+	<tabTrigger>CPullPush::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

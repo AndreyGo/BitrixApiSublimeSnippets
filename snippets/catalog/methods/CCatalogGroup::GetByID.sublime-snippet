@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogGroup::GetByID(${1:ID},${2:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CCatalogGroup::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

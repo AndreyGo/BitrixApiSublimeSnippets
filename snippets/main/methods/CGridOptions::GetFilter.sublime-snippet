@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGridOptions::GetFilter(${1:arFilter})]]></content>
+	<tabTrigger>CGridOptions::GetFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

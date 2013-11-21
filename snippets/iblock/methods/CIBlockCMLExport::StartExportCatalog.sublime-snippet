@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::StartExportCatalog(${1:\$with_metadata = true},${2:\$changes_only = false})]]></content>
+	<tabTrigger>CIBlockCMLExport::StartExportCatalog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

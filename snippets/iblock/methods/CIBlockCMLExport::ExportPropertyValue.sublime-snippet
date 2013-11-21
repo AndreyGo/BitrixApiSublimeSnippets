@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLExport::ExportPropertyValue(${1:xml_id},${2:value},${3:\$type = null})]]></content>
+	<tabTrigger>CIBlockCMLExport::ExportPropertyValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

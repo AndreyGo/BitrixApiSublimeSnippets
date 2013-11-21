@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderTax::DeleteEx(${1:ORDER_ID})]]></content>
+	<tabTrigger>CSaleOrderTax::DeleteEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRSS::XMLDate2Dec(${1:date_XML},${2:\$dateFormat = "DD.MM.YYYY"})]]></content>
+	<tabTrigger>CIBlockRSS::XMLDate2Dec</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

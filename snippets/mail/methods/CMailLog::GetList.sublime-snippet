@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailLog::GetList(${1:\$arOrder=Array()},${2:\$arFilter=Array()})]]></content>
+	<tabTrigger>CMailLog::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

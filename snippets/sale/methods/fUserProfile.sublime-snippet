@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fUserProfile(${1:USER_ID},${2:\$BUYER_TYPE = ''},${3:\$default = ''})]]></content>
+	<tabTrigger>fUserProfile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

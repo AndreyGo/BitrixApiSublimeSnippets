@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::GetAdvertiserRoleID()]]></content>
+	<tabTrigger>CAdvContract::GetAdvertiserRoleID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

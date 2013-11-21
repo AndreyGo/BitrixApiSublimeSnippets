@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBackup::GetTableColumns(${1:TableName})]]></content>
+	<tabTrigger>CBackup::GetTableColumns</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

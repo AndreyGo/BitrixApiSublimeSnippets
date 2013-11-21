@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePdf::prepareToPdf(${1:string})]]></content>
+	<tabTrigger>CSalePdf::prepareToPdf</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

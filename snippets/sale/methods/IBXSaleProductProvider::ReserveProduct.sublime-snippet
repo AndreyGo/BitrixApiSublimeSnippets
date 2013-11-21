@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXSaleProductProvider::ReserveProduct(${1:arFields})]]></content>
+	<tabTrigger>IBXSaleProductProvider::ReserveProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::UpdateSocNetPerms(${1:ID},${2:\$perms = false},${3:\$arPost = array()})]]></content>
+	<tabTrigger>CBlogPost::UpdateSocNetPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

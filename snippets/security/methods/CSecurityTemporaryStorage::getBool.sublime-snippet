@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityTemporaryStorage::getBool(${1:key})]]></content>
+	<tabTrigger>CSecurityTemporaryStorage::getBool</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

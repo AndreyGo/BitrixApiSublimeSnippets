@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::ClearExchangeHtml(${1:\$html = ""})]]></content>
+	<tabTrigger>CCalendar::ClearExchangeHtml</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

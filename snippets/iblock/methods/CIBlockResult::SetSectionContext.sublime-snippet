@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockResult::SetSectionContext(${1:arSection})]]></content>
+	<tabTrigger>CIBlockResult::SetSectionContext</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

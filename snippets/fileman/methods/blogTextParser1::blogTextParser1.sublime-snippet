@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::blogTextParser1(${1:\$strLang = False},${2:\$pathToSmile = false})]]></content>
+	<tabTrigger>blogTextParser1::blogTextParser1</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTwitterInterface::GetDefParams()]]></content>
+	<tabTrigger>CTwitterInterface::GetDefParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

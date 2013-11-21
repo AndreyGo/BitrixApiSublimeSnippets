@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SiteRelativeToAbsolutePath(${1:relativePath},${2:\$site = null})]]></content>
+	<tabTrigger>SiteRelativeToAbsolutePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

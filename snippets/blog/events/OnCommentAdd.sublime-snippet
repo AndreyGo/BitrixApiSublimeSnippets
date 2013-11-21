@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCommentAdd]]></content>
+	<tabTrigger>OnCommentAdd</tabTrigger>
+	<description>Bitrix CBlogComment::Add</description>
+	<scope>source.php</scope>
+</snippet>

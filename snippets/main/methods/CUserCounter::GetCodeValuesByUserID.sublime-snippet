@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserCounter::GetCodeValuesByUserID(${1:user_id},${2:\$site_id = SITE_ID})]]></content>
+	<tabTrigger>CUserCounter::GetCodeValuesByUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

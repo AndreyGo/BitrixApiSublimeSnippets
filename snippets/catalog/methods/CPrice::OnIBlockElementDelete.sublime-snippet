@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::OnIBlockElementDelete(${1:ProductID})]]></content>
+	<tabTrigger>CPrice::OnIBlockElementDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

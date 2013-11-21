@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::Set(${1:name},${2:value},${3:\$notNull = array()},${4:\$row = null},${5:\$isModified = true})]]></content>
+	<tabTrigger>CSupportTableFields::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

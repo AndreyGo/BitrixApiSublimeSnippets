@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringWebService::actionGetInfo()]]></content>
+	<tabTrigger>CBitrixCloudMonitoringWebService::actionGetInfo</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

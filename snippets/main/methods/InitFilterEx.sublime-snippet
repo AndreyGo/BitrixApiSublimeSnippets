@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[InitFilterEx(${1:arName},${2:varName},${3:\$action="set"},${4:\$session=true},${5:\$FilterLogic="FILTER_logic"})]]></content>
+	<tabTrigger>InitFilterEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

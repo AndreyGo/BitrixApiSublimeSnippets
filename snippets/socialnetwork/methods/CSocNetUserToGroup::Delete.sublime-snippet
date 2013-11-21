@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::Delete(${1:ID},${2:\$bSendExclude = false})]]></content>
+	<tabTrigger>CSocNetUserToGroup::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

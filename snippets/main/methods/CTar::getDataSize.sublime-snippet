@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::getDataSize(${1:file})]]></content>
+	<tabTrigger>CTar::getDataSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

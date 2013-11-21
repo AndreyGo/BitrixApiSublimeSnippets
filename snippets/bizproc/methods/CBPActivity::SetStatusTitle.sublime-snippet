@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::SetStatusTitle(${1:\$title = ''})]]></content>
+	<tabTrigger>CBPActivity::SetStatusTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

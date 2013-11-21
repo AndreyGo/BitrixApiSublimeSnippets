@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumGroup::GetListEx(${1:\$arOrder = array("SORT"=>"ASC")},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CForumGroup::GetListEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

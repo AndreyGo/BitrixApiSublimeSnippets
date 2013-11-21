@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::UpdateLog(${1:postID},${2:arPost},${3:arBlog},${4:arParams})]]></content>
+	<tabTrigger>CBlogPost::UpdateLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

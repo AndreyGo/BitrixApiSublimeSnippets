@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeCatalogDelete]]></content>
+	<tabTrigger>OnBeforeCatalogDelete</tabTrigger>
+	<description>Bitrix CCatalog::OnBeforeCatalogDelete</description>
+	<scope>source.php</scope>
+</snippet>

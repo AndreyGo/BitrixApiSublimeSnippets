@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatalogPayOrderCallback(${1:productID},${2:userID},${3:bPaid},${4:orderID})]]></content>
+	<tabTrigger>CatalogPayOrderCallback</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::GetUserTasksForWorkflow(${1:userId},${2:workflowId})]]></content>
+	<tabTrigger>CBPDocument::GetUserTasksForWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

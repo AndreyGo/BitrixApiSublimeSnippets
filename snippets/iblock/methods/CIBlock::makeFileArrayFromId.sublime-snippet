@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::makeFileArrayFromId(${1:file_id},${2:\$description = null},${3:\$options = array()})]]></content>
+	<tabTrigger>CIBlock::makeFileArrayFromId</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::SetDefault(${1:userID})]]></content>
+	<tabTrigger>CHotKeys::SetDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

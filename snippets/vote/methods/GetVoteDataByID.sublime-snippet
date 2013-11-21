@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetVoteDataByID(${1:VOTE_ID},${2:&\$arChannel},${3:&\$arVote},${4:&\$arQuestions},${5:&\$arAnswers},${6:&\$arDropDown},${7:&\$arMultiSelect},${8:&\$arGroupAnswers},${9:\$arAddParams = "N"})]]></content>
+	<tabTrigger>GetVoteDataByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

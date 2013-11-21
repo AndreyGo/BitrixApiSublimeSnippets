@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleViewedProduct::_ClearViewed()]]></content>
+	<tabTrigger>CSaleViewedProduct::_ClearViewed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

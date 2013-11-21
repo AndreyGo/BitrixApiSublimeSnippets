@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyDateTime::ConvertFromDB(${1:arProperty},${2:value})]]></content>
+	<tabTrigger>CIBlockPropertyDateTime::ConvertFromDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

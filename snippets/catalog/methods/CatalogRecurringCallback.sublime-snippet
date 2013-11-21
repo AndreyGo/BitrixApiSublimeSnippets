@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CatalogRecurringCallback(${1:productID},${2:userID})]]></content>
+	<tabTrigger>CatalogRecurringCallback</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

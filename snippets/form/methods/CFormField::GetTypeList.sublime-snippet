@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormField::GetTypeList()]]></content>
+	<tabTrigger>CFormField::GetTypeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

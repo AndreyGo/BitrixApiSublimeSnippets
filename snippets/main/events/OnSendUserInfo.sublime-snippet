@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSendUserInfo]]></content>
+	<tabTrigger>OnSendUserInfo</tabTrigger>
+	<description>Bitrix CUser::SendUserInfo</description>
+	<scope>source.php</scope>
+</snippet>

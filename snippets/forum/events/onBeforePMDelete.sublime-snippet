@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onBeforePMDelete]]></content>
+	<tabTrigger>onBeforePMDelete</tabTrigger>
+	<description>Bitrix CForumPrivateMessage::Delete</description>
+	<scope>source.php</scope>
+</snippet>

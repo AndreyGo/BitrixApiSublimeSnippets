@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[bpdump(${1:var},${2:\$name = ""},${3:\$tofile = true})]]></content>
+	<tabTrigger>bpdump</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

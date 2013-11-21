@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockDocument::GetVersion()]]></content>
+	<tabTrigger>CIBlockDocument::GetVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

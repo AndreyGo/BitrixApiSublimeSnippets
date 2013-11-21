@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetTaskList(${1:\$Params = array()},${2:&\$arTaskIds})]]></content>
+	<tabTrigger>CCalendar::GetTaskList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

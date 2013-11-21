@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSectionPropertyLink::_sort(${1:a},${2:b})]]></content>
+	<tabTrigger>CIBlockSectionPropertyLink::_sort</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

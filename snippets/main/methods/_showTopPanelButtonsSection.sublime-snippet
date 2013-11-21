@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_showTopPanelButtonsSection(${1:arPanelButtons},${2:hkInstance},${3:\$section = null})]]></content>
+	<tabTrigger>_showTopPanelButtonsSection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

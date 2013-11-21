@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetSelect(${1:arSelect})]]></content>
+	<tabTrigger>SetSelect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

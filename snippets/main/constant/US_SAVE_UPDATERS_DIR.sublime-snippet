@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[US_SAVE_UPDATERS_DIR]]></content>
+	<tabTrigger>US_SAVE_UPDATERS_DIR</tabTrigger>
+	<description>Bitrix CUpdateClientPartner::UpdateStepModules</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotify::SetUnreadCounter(${1:userId})]]></content>
+	<tabTrigger>CIMNotify::SetUnreadCounter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

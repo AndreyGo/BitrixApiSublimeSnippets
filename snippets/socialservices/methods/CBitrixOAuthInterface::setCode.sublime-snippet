@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixOAuthInterface::setCode(${1:code})]]></content>
+	<tabTrigger>CBitrixOAuthInterface::setCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

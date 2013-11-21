@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COpenIDClient::GetOpenIDServerTags(${1:url})]]></content>
+	<tabTrigger>COpenIDClient::GetOpenIDServerTags</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::Add(${1:arFields})]]></content>
+	<tabTrigger>CWiki::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

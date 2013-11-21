@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IncludeModuleLangFile(${1:filepath},${2:\$lang=false},${3:\$bReturnArray=false})]]></content>
+	<tabTrigger>IncludeModuleLangFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

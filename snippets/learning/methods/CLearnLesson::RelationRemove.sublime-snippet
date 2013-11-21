@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::RelationRemove(${1:parentLessonId},${2:childLessonId})]]></content>
+	<tabTrigger>CLearnLesson::RelationRemove</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

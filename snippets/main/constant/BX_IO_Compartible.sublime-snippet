@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_IO_Compartible]]></content>
+	<tabTrigger>BX_IO_Compartible</tabTrigger>
+	<description>Bitrix ConvertCharset</description>
+	<scope>source.php</scope>
+</snippet>

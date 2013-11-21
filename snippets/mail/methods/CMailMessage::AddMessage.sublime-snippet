@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailMessage::AddMessage(${1:mailbox_id},${2:message},${3:charset})]]></content>
+	<tabTrigger>CMailMessage::AddMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

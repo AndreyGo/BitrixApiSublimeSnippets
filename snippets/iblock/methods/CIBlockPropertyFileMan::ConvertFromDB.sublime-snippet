@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyFileMan::ConvertFromDB(${1:arProperty},${2:value})]]></content>
+	<tabTrigger>CIBlockPropertyFileMan::ConvertFromDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

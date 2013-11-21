@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMNotifySchema::__construct()]]></content>
+	<tabTrigger>CIMNotifySchema::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

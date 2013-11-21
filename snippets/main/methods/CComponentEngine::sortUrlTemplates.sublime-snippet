@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentEngine::sortUrlTemplates(${1:arUrlTemplates},${2:&\$bHasGreedyPartsInTemplates})]]></content>
+	<tabTrigger>CComponentEngine::sortUrlTemplates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

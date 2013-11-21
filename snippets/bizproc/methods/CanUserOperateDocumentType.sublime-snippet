@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CanUserOperateDocumentType(${1:operation},${2:userId},${3:documentType},${4:\$arParameters = array()})]]></content>
+	<tabTrigger>CanUserOperateDocumentType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

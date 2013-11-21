@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPopupOptions(${1:wnd_id},${2:arOptions})]]></content>
+	<tabTrigger>SetPopupOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

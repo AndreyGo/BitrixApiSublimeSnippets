@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLFileStream::setPosition(${1:position})]]></content>
+	<tabTrigger>CXMLFileStream::setPosition</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

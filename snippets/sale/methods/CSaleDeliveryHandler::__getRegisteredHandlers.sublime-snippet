@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDeliveryHandler::__getRegisteredHandlers()]]></content>
+	<tabTrigger>CSaleDeliveryHandler::__getRegisteredHandlers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetFeaturesPerms::GetOperationPerm(${1:type},${2:id},${3:feature},${4:operation})]]></content>
+	<tabTrigger>CSocNetFeaturesPerms::GetOperationPerm</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiParser::BrToN(${1:text})]]></content>
+	<tabTrigger>CWikiParser::BrToN</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

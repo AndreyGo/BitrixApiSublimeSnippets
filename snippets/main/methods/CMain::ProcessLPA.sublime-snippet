@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ProcessLPA(${1:\$filesrc = false},${2:\$old_filesrc = false})]]></content>
+	<tabTrigger>CMain::ProcessLPA</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

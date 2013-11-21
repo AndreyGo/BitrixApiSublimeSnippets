@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDocument(${1:parameterDocumentId})]]></content>
+	<tabTrigger>GetDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

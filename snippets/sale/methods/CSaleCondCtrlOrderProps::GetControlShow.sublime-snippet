@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleCondCtrlOrderProps::GetControlShow(${1:arParams})]]></content>
+	<tabTrigger>CSaleCondCtrlOrderProps::GetControlShow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

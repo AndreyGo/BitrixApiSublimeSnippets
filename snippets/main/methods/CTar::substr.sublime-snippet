@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTar::substr(${1:s},${2:a},${3:\$b = null})]]></content>
+	<tabTrigger>CTar::substr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

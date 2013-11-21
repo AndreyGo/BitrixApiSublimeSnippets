@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiParser::parseForSearch(${1:text})]]></content>
+	<tabTrigger>CWikiParser::parseForSearch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

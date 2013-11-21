@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvContract::DeletePageLink(${1:CONTRACT_ID},${2:\$where=""})]]></content>
+	<tabTrigger>CAdvContract::DeletePageLink</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

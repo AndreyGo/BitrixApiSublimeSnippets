@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::FindLogEventByID(${1:event_id},${2:\$entity_type = false})]]></content>
+	<tabTrigger>CSocNetLogTools::FindLogEventByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

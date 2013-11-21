@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PhotoShowError(${1:arError},${2:\$arShowFields = array("ID"},${3:"NAME")},${4:\$bShowErrorCode = false})]]></content>
+	<tabTrigger>PhotoShowError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

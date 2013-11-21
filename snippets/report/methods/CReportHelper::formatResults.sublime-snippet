@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CReportHelper::formatResults(${1:&rows},${2:&\$columnInfo},${3:total})]]></content>
+	<tabTrigger>CReportHelper::formatResults</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

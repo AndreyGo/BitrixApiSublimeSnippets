@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::GetValueAtom(${1:arValue})]]></content>
+	<tabTrigger>CGlobalCondCtrl::GetValueAtom</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

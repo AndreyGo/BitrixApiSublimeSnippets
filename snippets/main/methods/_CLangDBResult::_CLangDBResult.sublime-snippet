@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_CLangDBResult::_CLangDBResult(${1:res})]]></content>
+	<tabTrigger>_CLangDBResult::_CLangDBResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

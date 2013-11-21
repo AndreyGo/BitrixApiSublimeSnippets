@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::CheckProperty(${1:IBLOCK_ID},${2:code},${3:xml_name})]]></content>
+	<tabTrigger>CIBlockCMLImport::CheckProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

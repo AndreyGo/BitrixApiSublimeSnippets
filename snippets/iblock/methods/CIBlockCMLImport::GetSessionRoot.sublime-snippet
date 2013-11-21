@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockCMLImport::GetSessionRoot()]]></content>
+	<tabTrigger>CIBlockCMLImport::GetSessionRoot</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

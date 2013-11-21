@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockPropertyResult::initPropertiesValues(${1:IBLOCK_ELEMENT_ID})]]></content>
+	<tabTrigger>CIBlockPropertyResult::initPropertiesValues</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

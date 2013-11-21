@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogEvents::GetSQLForEvent(${1:entity_type},${2:entity_id},${3:event_id},${4:user_id},${5:\$transport = false},${6:\$visible = true},${7:\$arOfEntities = array()})]]></content>
+	<tabTrigger>CSocNetLogEvents::GetSQLForEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

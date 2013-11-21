@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::IsExistsDiscountFilterCacheByKey(${1:strCacheKey})]]></content>
+	<tabTrigger>CCatalogDiscount::IsExistsDiscountFilterCacheByKey</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

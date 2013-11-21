@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileInput::DisplayControl(${1:\$inputs = array()})]]></content>
+	<tabTrigger>CFileInput::DisplayControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

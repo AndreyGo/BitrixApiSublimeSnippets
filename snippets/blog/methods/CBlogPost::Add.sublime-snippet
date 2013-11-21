@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::Add(${1:arFields})]]></content>
+	<tabTrigger>CBlogPost::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPrice::ReCalculate(${1:TYPE},${2:ID},${3:VAL})]]></content>
+	<tabTrigger>CPrice::ReCalculate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

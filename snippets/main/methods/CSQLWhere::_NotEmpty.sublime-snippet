@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSQLWhere::_NotEmpty(${1:field})]]></content>
+	<tabTrigger>CSQLWhere::_NotEmpty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

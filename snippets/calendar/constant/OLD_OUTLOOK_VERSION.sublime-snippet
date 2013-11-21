@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OLD_OUTLOOK_VERSION]]></content>
+	<tabTrigger>OLD_OUTLOOK_VERSION</tabTrigger>
+	<description>Bitrix CCalendarWebService::GetListItemChangesSinceToken</description>
+	<scope>source.php</scope>
+</snippet>

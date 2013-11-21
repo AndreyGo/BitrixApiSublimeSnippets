@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterUserAdd]]></content>
+	<tabTrigger>onAfterUserAdd</tabTrigger>
+	<description>Bitrix CForumUser::Add</description>
+	<scope>source.php</scope>
+</snippet>

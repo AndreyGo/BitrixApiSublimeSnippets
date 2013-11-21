@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SelectBox(${1:strBoxName},${2:a},${3:\$strDetText = ""},${4:\$strSelectedVal = ""},${5:\$field1="class=\"typeselect\""})]]></content>
+	<tabTrigger>SelectBox</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

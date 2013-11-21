@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::Delete(${1:id})]]></content>
+	<tabTrigger>ILearnLesson::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

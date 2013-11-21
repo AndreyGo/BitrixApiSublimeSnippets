@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityRedirect::BeforeLocalRedirect(${1:&url},${2:skip_security_check})]]></content>
+	<tabTrigger>CSecurityRedirect::BeforeLocalRedirect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

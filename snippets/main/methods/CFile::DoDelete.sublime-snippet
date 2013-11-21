@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::DoDelete(${1:ID})]]></content>
+	<tabTrigger>CFile::DoDelete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

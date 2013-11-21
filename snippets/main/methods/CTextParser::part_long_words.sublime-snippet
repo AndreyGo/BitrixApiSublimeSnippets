@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTextParser::part_long_words(${1:str})]]></content>
+	<tabTrigger>CTextParser::part_long_words</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

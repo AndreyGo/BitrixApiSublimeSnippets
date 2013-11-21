@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMMessage::GetUnsendMessage(${1:\$order = "ASC"})]]></content>
+	<tabTrigger>CIMMessage::GetUnsendMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setDevice(${1:device})]]></content>
+	<tabTrigger>CMobile::setDevice</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

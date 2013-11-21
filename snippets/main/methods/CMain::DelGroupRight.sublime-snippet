@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::DelGroupRight(${1:\$module_id=''},${2:\$arGroups=array()},${3:\$site_id=false})]]></content>
+	<tabTrigger>CMain::DelGroupRight</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

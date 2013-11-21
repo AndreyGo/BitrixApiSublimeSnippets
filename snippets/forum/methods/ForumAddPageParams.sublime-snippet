@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumAddPageParams(${1:\$page_url=""},${2:\$params=array()},${3:\$addIfNull = false},${4:\$htmlSpecialChars = true})]]></content>
+	<tabTrigger>ForumAddPageParams</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

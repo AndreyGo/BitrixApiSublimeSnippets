@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUserCards::Withdraw(${1:sum},${2:currency},${3:arUserCard},${4:\$orderID = 0})]]></content>
+	<tabTrigger>CSaleUserCards::Withdraw</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

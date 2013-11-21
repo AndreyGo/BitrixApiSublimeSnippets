@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminViewTabControl(${1:name},${2:tabs})]]></content>
+	<tabTrigger>CAdminViewTabControl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

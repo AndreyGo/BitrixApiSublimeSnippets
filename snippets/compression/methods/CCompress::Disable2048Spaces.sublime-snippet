@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCompress::Disable2048Spaces()]]></content>
+	<tabTrigger>CCompress::Disable2048Spaces</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

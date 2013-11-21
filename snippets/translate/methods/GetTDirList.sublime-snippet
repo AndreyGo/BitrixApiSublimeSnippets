@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetTDirList(${1:path},${2:\$subDirs = false})]]></content>
+	<tabTrigger>GetTDirList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

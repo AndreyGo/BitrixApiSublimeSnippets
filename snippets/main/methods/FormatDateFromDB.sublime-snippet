@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FormatDateFromDB(${1:date},${2:\$format = 'FULL'},${3:\$phpFormat = false})]]></content>
+	<tabTrigger>FormatDateFromDB</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

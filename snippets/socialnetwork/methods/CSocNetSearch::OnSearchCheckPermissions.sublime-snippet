@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::OnSearchCheckPermissions(${1:FIELD})]]></content>
+	<tabTrigger>CSocNetSearch::OnSearchCheckPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

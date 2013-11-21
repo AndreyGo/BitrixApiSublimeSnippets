@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CHotKeys::PrintTPButton(${1:&arPanelButton},${2:\$parent = ""})]]></content>
+	<tabTrigger>CHotKeys::PrintTPButton</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

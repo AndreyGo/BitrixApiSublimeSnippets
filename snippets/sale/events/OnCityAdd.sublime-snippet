@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnCityAdd]]></content>
+	<tabTrigger>OnCityAdd</tabTrigger>
+	<description>Bitrix CSaleLocation::AddCity</description>
+	<scope>source.php</scope>
+</snippet>

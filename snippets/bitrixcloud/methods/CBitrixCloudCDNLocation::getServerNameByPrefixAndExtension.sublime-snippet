@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocation::getServerNameByPrefixAndExtension(${1:p_prefix},${2:p_extension},${3:p_link})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocation::getServerNameByPrefixAndExtension</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

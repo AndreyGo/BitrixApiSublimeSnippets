@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterCalendarEventDelete]]></content>
+	<tabTrigger>OnAfterCalendarEventDelete</tabTrigger>
+	<description>Bitrix CCalendarEvent::Delete</description>
+	<scope>source.php</scope>
+</snippet>

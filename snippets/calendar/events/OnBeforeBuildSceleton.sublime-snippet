@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeBuildSceleton]]></content>
+	<tabTrigger>OnBeforeBuildSceleton</tabTrigger>
+	<description>Bitrix CCalendarSceleton::Build</description>
+	<scope>source.php</scope>
+</snippet>

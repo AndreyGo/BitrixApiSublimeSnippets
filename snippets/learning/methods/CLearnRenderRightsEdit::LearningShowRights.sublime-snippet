@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnRenderRightsEdit::LearningShowRights(${1:lessonId},${2:variable_name},${3:arBaseRights},${4:arPossibleRights},${5:arActualRights},${6:\$arSelected = array()},${7:\$arHighLight = array()},${8:readOnly})]]></content>
+	<tabTrigger>CLearnRenderRightsEdit::LearningShowRights</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

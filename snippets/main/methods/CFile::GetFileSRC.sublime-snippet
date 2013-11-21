@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetFileSRC(${1:arFile},${2:\$upload_dir = false},${3:\$external = true})]]></content>
+	<tabTrigger>CFile::GetFileSRC</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

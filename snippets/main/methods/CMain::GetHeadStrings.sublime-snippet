@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::GetHeadStrings(${1:\$additional=false})]]></content>
+	<tabTrigger>CMain::GetHeadStrings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

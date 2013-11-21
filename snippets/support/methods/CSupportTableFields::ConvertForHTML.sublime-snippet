@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTableFields::ConvertForHTML(${1:type},${2:place},${3:value},${4:op})]]></content>
+	<tabTrigger>CSupportTableFields::ConvertForHTML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

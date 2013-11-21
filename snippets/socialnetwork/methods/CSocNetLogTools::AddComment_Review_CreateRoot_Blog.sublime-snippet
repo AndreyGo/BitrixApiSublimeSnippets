@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::AddComment_Review_CreateRoot_Blog(${1:arElement},${2:blogID})]]></content>
+	<tabTrigger>CSocNetLogTools::AddComment_Review_CreateRoot_Blog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

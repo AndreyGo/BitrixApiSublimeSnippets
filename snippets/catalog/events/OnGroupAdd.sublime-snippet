@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnGroupAdd]]></content>
+	<tabTrigger>OnGroupAdd</tabTrigger>
+	<description>Bitrix CCatalogGroup::Add</description>
+	<scope>source.php</scope>
+</snippet>

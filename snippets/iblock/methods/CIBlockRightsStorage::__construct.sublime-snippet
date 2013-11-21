@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRightsStorage::__construct(${1:IBLOCK_ID},${2:SECTION_ID},${3:ELEMENT_ID})]]></content>
+	<tabTrigger>CIBlockRightsStorage::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

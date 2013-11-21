@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogPost::DeleteSocNetPostPerms(${1:postId})]]></content>
+	<tabTrigger>CBlogPost::DeleteSocNetPostPerms</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

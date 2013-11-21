@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::LoadKeys()]]></content>
+	<tabTrigger>CRsaBcmathProvider::LoadKeys</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

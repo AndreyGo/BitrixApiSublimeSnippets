@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::OrderReservation(${1:orderID},${2:\$bUndoReservation = false})]]></content>
+	<tabTrigger>CSaleBasket::OrderReservation</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

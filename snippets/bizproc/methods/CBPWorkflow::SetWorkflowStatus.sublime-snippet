@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::SetWorkflowStatus(${1:newStatus})]]></content>
+	<tabTrigger>CBPWorkflow::SetWorkflowStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

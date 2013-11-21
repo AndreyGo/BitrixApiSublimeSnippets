@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::Insert(${1:table},${2:arFields},${3:\$error_position=""},${4:\$DEBUG=false},${5:\$EXIST_ID=""},${6:\$ignore_errors=false})]]></content>
+	<tabTrigger>CDatabase::Insert</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoPageChecker::_PrepareData()]]></content>
+	<tabTrigger>CSeoPageChecker::_PrepareData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

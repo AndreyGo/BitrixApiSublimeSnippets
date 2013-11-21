@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPHelper::PrepareSql(${1:&arFields},${2:arOrder},${3:arFilter},${4:arGroupBy},${5:arSelectFields})]]></content>
+	<tabTrigger>CBPHelper::PrepareSql</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

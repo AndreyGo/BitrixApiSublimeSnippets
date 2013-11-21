@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[&AddRow(${1:\$id = false},${2:\$arRes = Array()},${3:\$link = false},${4:\$title = false})]]></content>
+	<tabTrigger>&AddRow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

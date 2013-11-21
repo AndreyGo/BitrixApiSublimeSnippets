@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetDirList(${1:path},${2:&\$arDirs},${3:&\$arFiles},${4:\$arFilter=array()},${5:\$sort=array()},${6:\$type="DF"},${7:\$bLogical=false},${8:\$task_mode=false})]]></content>
+	<tabTrigger>GetDirList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

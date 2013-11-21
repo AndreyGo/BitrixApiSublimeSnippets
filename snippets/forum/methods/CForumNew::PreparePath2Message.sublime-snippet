@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::PreparePath2Message(${1:strPath},${2:\$arVals = array()})]]></content>
+	<tabTrigger>CForumNew::PreparePath2Message</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

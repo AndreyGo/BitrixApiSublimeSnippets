@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWiki::GetDefaultPage(${1:IBLOCK_ID})]]></content>
+	<tabTrigger>CWiki::GetDefaultPage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

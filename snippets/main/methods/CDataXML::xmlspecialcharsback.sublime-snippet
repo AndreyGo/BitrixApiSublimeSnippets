@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXML::xmlspecialcharsback(${1:str})]]></content>
+	<tabTrigger>CDataXML::xmlspecialcharsback</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

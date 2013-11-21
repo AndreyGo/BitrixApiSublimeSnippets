@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumMoveMessage(${1:FID},${2:TID},${3:Message},${4:\$NewTID = 0},${5:arFields},${6:&\$strErrorMessage},${7:&\$strOKMessage},${8:\$iFileSize = false})]]></content>
+	<tabTrigger>ForumMoveMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

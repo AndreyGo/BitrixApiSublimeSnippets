@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::__ValidateID(${1:ID})]]></content>
+	<tabTrigger>CSocNetGroup::__ValidateID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

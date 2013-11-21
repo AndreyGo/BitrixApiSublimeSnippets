@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMenu::_get_menu_item_padding(${1:level})]]></content>
+	<tabTrigger>CAdminMenu::_get_menu_item_padding</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySiteChecker::clearTemporaryData()]]></content>
+	<tabTrigger>CSecuritySiteChecker::clearTemporaryData</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

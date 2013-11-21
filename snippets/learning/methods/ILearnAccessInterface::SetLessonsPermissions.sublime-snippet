@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnAccessInterface::SetLessonsPermissions(${1:in_arPermissions})]]></content>
+	<tabTrigger>ILearnAccessInterface::SetLessonsPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetGroup::CreateGroup(${1:ownerID},${2:arFields},${3:\$bAutoSubscribe = true})]]></content>
+	<tabTrigger>CSocNetGroup::CreateGroup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::PreHandleEvent(${1:item})]]></content>
+	<tabTrigger>CCalendarEvent::PreHandleEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

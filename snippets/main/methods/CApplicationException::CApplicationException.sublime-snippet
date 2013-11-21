@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CApplicationException::CApplicationException(${1:msg},${2:\$id = false})]]></content>
+	<tabTrigger>CApplicationException::CApplicationException</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

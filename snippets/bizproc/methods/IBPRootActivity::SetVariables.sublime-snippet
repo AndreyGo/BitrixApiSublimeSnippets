@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBPRootActivity::SetVariables(${1:\$arVariables = array()})]]></content>
+	<tabTrigger>IBPRootActivity::SetVariables</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

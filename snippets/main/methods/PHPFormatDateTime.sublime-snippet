@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PHPFormatDateTime(${1:strDateTime},${2:\$format="d.m.Y H:i:s"})]]></content>
+	<tabTrigger>PHPFormatDateTime</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

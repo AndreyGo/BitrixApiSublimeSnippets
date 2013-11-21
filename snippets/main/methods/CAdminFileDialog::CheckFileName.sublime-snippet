@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::CheckFileName(${1:str})]]></content>
+	<tabTrigger>CAdminFileDialog::CheckFileName</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

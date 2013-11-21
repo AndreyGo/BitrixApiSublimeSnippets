@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLog::InitUserTmp(${1:userID},${2:arParams},${3:\$bCurrentUserIsAdmin = "unknown"},${4:\$bRSS = false})]]></content>
+	<tabTrigger>CSocNetLog::InitUserTmp</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

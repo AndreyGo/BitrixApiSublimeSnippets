@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnPageStart]]></content>
+	<tabTrigger>OnPageStart</tabTrigger>
+	<description>Bitrix </description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DisableSonetLogVisibleSubscr]]></content>
+	<tabTrigger>DisableSonetLogVisibleSubscr</tabTrigger>
+	<description>Bitrix CSocNetLogEvents::GetSQL</description>
+	<scope>source.php</scope>
+</snippet>

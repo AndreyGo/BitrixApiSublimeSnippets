@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::AutoClose()]]></content>
+	<tabTrigger>CTicket::AutoClose</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

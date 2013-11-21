@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogSoNetPost::CanUserDeletePost(${1:ID},${2:userID},${3:blogOwnerID},${4:groupOwnerID})]]></content>
+	<tabTrigger>CBlogSoNetPost::CanUserDeletePost</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

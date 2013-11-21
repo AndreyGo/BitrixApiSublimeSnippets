@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityUser::HOTP(${1:pSecret},${2:pCount},${3:\$pDigits = 6})]]></content>
+	<tabTrigger>CSecurityUser::HOTP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

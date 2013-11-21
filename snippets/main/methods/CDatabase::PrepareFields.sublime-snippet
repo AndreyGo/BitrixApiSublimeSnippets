@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::PrepareFields(${1:strTableName},${2:\$strPrefix = "str_"},${3:\$strSuffix = ""})]]></content>
+	<tabTrigger>CDatabase::PrepareFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

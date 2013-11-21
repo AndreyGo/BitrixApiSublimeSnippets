@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::__check_PushError(${1:&container},${2:MESSAGE},${3:\$key = false})]]></content>
+	<tabTrigger>CForm::__check_PushError</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

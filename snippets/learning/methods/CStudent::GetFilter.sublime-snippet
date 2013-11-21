@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStudent::GetFilter(${1:arFilter})]]></content>
+	<tabTrigger>CStudent::GetFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

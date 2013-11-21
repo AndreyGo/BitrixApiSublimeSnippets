@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeVote::CheckFields(${1:arUserField},${2:value})]]></content>
+	<tabTrigger>CUserTypeVote::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

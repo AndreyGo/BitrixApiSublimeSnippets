@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumFiles::CheckFields(${1:&arFields},${2:&\$arParams},${3:\$ACTION = "ADD"},${4:\$extParams = array()})]]></content>
+	<tabTrigger>CForumFiles::CheckFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

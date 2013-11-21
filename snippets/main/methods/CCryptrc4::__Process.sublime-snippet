@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCryptrc4::__Process(${1:block})]]></content>
+	<tabTrigger>CCryptrc4::__Process</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

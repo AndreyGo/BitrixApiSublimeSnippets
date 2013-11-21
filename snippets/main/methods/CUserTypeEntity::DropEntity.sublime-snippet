@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeEntity::DropEntity(${1:entity_id})]]></content>
+	<tabTrigger>CUserTypeEntity::DropEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

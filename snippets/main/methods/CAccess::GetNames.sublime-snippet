@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::GetNames(${1:arCodes},${2:\$bSort=false})]]></content>
+	<tabTrigger>CAccess::GetNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

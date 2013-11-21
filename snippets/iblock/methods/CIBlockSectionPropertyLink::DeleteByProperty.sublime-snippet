@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockSectionPropertyLink::DeleteByProperty(${1:PROPERTY_ID})]]></content>
+	<tabTrigger>CIBlockSectionPropertyLink::DeleteByProperty</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetAbsentEvents(${1:Params})]]></content>
+	<tabTrigger>CCalendar::GetAbsentEvents</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

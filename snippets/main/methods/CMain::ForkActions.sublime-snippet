@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ForkActions(${1:\$func = false},${2:\$args = array()})]]></content>
+	<tabTrigger>CMain::ForkActions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

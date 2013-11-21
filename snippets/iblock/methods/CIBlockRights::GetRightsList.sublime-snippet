@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::GetRightsList(${1:\$bTitle = true})]]></content>
+	<tabTrigger>CIBlockRights::GetRightsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumPrintIconsList(${1:num_cols},${2:varField},${3:varValue},${4:defValue},${5:\$strLang = False},${6:\$strPath2Icons = False})]]></content>
+	<tabTrigger>ForumPrintIconsList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

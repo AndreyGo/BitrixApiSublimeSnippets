@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_OpenStackStorage::GetLastRequestStatus()]]></content>
+	<tabTrigger>CCloudStorageService_OpenStackStorage::GetLastRequestStatus</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

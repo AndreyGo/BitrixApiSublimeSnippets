@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormResult::SetField(${1:RESULT_ID},${2:FIELD_SID},${3:\$VALUE=false})]]></content>
+	<tabTrigger>CFormResult::SetField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

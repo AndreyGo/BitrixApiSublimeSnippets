@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudException::getErrorCode()]]></content>
+	<tabTrigger>CBitrixCloudException::getErrorCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

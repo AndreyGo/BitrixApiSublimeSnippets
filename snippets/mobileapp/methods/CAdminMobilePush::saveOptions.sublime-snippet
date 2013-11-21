@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobilePush::saveOptions(${1:\$path = ""},${2:arOpts})]]></content>
+	<tabTrigger>CAdminMobilePush::saveOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

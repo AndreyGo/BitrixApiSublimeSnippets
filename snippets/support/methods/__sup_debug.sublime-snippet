@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__sup_debug(${1:v},${2:\$name = false})]]></content>
+	<tabTrigger>__sup_debug</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

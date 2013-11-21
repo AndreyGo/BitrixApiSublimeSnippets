@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumAutosave::GetInstance()]]></content>
+	<tabTrigger>CForumAutosave::GetInstance</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

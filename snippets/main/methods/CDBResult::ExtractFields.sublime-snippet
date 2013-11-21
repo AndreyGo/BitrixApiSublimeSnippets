@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::ExtractFields(${1:\$strPrefix="str_"},${2:\$bDoEncode=true})]]></content>
+	<tabTrigger>CDBResult::ExtractFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[JSEscape(${1:s})]]></content>
+	<tabTrigger>JSEscape</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

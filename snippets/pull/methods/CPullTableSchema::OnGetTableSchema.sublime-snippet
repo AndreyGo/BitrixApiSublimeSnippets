@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullTableSchema::OnGetTableSchema()]]></content>
+	<tabTrigger>CPullTableSchema::OnGetTableSchema</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

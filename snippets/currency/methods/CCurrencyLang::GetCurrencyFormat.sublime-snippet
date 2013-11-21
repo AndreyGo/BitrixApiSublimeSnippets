@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrencyLang::GetCurrencyFormat(${1:currency},${2:\$lang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CCurrencyLang::GetCurrencyFormat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::UpdateSearch(${1:ID},${2:\$bOverWrite=false})]]></content>
+	<tabTrigger>CIBlockElement::UpdateSearch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySystemInformation::getDBHostsFromCluster()]]></content>
+	<tabTrigger>CSecuritySystemInformation::getDBHostsFromCluster</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

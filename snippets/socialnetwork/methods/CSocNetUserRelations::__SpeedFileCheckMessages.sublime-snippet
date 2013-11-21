@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserRelations::__SpeedFileCheckMessages(${1:userID})]]></content>
+	<tabTrigger>CSocNetUserRelations::__SpeedFileCheckMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

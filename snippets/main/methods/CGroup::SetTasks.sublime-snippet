@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::SetTasks(${1:ID},${2:arr})]]></content>
+	<tabTrigger>CGroup::SetTasks</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

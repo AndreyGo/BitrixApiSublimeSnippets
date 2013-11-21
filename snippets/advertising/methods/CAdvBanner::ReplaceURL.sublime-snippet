@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdvBanner::ReplaceURL(${1:text},${2:arBanner})]]></content>
+	<tabTrigger>CAdvBanner::ReplaceURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

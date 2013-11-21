@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::CheckCalDavUrl(${1:url},${2:username},${3:password})]]></content>
+	<tabTrigger>CCalendar::CheckCalDavUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

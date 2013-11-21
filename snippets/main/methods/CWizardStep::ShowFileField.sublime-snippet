@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardStep::ShowFileField(${1:name},${2:\$arAttributes = Array()})]]></content>
+	<tabTrigger>CWizardStep::ShowFileField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

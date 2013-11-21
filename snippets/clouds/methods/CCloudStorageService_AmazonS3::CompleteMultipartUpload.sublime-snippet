@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService_AmazonS3::CompleteMultipartUpload(${1:arBucket},${2:&\$NS})]]></content>
+	<tabTrigger>CCloudStorageService_AmazonS3::CompleteMultipartUpload</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

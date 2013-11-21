@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDiskQuota::CAllDiskQuota(${1:\$params = array()})]]></content>
+	<tabTrigger>CDiskQuota::CAllDiskQuota</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

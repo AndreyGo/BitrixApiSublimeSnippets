@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CControllerPacketResponse::GetResponseBody(${1:\$log = false})]]></content>
+	<tabTrigger>__CControllerPacketResponse::GetResponseBody</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

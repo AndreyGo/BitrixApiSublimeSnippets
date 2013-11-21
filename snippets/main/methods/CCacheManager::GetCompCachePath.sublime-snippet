@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCacheManager::GetCompCachePath(${1:relativePath})]]></content>
+	<tabTrigger>CCacheManager::GetCompCachePath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

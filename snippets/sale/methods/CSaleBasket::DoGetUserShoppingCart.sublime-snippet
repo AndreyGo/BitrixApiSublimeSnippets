@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleBasket::DoGetUserShoppingCart(${1:siteId},${2:userId},${3:shoppingCart},${4:&\$arErrors},${5:\$arCoupons = array()},${6:\$tmpOrderId = 0})]]></content>
+	<tabTrigger>CSaleBasket::DoGetUserShoppingCart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

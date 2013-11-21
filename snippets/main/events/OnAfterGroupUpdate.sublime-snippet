@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterGroupUpdate]]></content>
+	<tabTrigger>OnAfterGroupUpdate</tabTrigger>
+	<description>Bitrix CGroup::Update</description>
+	<scope>source.php</scope>
+</snippet>

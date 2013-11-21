@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEventMessageFormatter::format(${1:auditType},${2:itemName},${3:itemDescription})]]></content>
+	<tabTrigger>CSecurityEventMessageFormatter::format</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogCandidate::GetList(${1:\$arOrder = Array("ID" => "DESC")},${2:\$arFilter = Array()},${3:\$arGroupBy = false},${4:\$arNavStartParams = false},${5:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CBlogCandidate::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVariable::newDeclare(${1:id},${2:line},${3:start},${4:end},${5:tokens},${6:comment},${7:dependencies},${8:tainted_vars})]]></content>
+	<tabTrigger>CVariable::newDeclare</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

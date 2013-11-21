@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDBResult::NavPrint(${1:title},${2:\$show_allways=false},${3:\$StyleText="text"},${4:\$template_path=false})]]></content>
+	<tabTrigger>CDBResult::NavPrint</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

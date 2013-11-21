@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentIdea::GetSubCategoryList(${1:CategoryCode})]]></content>
+	<tabTrigger>CIdeaManagmentIdea::GetSubCategoryList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

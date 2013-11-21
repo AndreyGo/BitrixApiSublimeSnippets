@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageService::CheckSettings(${1:arBucket},${2:&\$arSettings})]]></content>
+	<tabTrigger>CCloudStorageService::CheckSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

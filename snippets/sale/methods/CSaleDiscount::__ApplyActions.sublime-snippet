@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleDiscount::__ApplyActions(${1:&arOrder},${2:strActions})]]></content>
+	<tabTrigger>CSaleDiscount::__ApplyActions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

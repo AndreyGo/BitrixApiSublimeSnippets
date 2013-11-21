@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfomanceTable::GetIndexes(${1:\$TABLE_NAME = false})]]></content>
+	<tabTrigger>CPerfomanceTable::GetIndexes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

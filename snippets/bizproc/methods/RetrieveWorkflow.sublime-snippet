@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RetrieveWorkflow(${1:instanceId})]]></content>
+	<tabTrigger>RetrieveWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

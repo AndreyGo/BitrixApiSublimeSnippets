@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnOrderDeliverSendEmail]]></content>
+	<tabTrigger>OnOrderDeliverSendEmail</tabTrigger>
+	<description>Bitrix CSaleOrder::DeliverOrder</description>
+	<scope>source.php</scope>
+</snippet>

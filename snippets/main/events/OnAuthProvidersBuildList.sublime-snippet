@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAuthProvidersBuildList]]></content>
+	<tabTrigger>OnAuthProvidersBuildList</tabTrigger>
+	<description>Bitrix CAccess::__construct</description>
+	<scope>source.php</scope>
+</snippet>

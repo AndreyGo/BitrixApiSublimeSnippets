@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__GetNewStructure(${1:structureID},${2:&\$arStructure})]]></content>
+	<tabTrigger>CWizard::__GetNewStructure</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

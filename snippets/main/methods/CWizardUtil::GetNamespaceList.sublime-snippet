@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardUtil::GetNamespaceList()]]></content>
+	<tabTrigger>CWizardUtil::GetNamespaceList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::RunQueuedItem(${1:CBPActivity activity},${2:activityOperation},${3:Exception \$exception = null})]]></content>
+	<tabTrigger>CBPWorkflow::RunQueuedItem</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

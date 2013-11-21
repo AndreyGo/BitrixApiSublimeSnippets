@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogFollow::DeleteByLogID(${1:log_id},${2:\$type = false},${3:\$bUseSmartLogic = false})]]></content>
+	<tabTrigger>CSocNetLogFollow::DeleteByLogID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

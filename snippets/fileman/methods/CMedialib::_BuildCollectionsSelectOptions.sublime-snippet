@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::_BuildCollectionsSelectOptions(${1:\$Collections = false},${2:\$arColTree = false},${3:\$level = 0},${4:\$selected = false})]]></content>
+	<tabTrigger>CMedialib::_BuildCollectionsSelectOptions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

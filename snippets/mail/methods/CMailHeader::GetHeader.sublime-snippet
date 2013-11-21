@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailHeader::GetHeader(${1:type})]]></content>
+	<tabTrigger>CMailHeader::GetHeader</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

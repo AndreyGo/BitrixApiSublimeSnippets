@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStackCacheManager::Save(${1:entity})]]></content>
+	<tabTrigger>CStackCacheManager::Save</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

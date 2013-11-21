@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::GetCancelButtonID()]]></content>
+	<tabTrigger>CWizardBase::GetCancelButtonID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

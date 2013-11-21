@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecuritySystemInformation::getBitrixVMVersion()]]></content>
+	<tabTrigger>CSecuritySystemInformation::getBitrixVMVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

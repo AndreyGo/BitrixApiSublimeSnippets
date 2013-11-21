@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourse::GetPermission(${1:courseId})]]></content>
+	<tabTrigger>CCourse::GetPermission</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::ChangeSite(${1:MODULE_ID},${2:arSite},${3:\$ITEM_ID=false},${4:\$PARAM1=false},${5:\$PARAM2=false},${6:\$SITE_ID=false})]]></content>
+	<tabTrigger>CSearch::ChangeSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

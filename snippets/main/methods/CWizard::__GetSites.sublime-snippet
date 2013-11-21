@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__GetSites()]]></content>
+	<tabTrigger>CWizard::__GetSites</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

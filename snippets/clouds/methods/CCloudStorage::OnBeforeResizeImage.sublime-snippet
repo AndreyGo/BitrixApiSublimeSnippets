@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorage::OnBeforeResizeImage(${1:arFile},${2:arResizeParams},${3:&\$callbackData},${4:&\$bNeedResize},${5:&\$sourceImageFile},${6:&\$cacheImageFileTmp})]]></content>
+	<tabTrigger>CCloudStorage::OnBeforeResizeImage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

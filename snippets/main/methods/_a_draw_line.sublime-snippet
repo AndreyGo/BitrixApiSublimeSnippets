@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_a_draw_line(${1:im},${2:x1},${3:y1},${4:x2},${5:y2},${6:fgcolors},${7:\$dashed="N"},${8:\$dash=5},${9:\$white=2})]]></content>
+	<tabTrigger>_a_draw_line</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

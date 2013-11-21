@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMContactList::__construct(${1:\$user_id = false})]]></content>
+	<tabTrigger>CIMContactList::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::Delete(${1:\$ID = false})]]></content>
+	<tabTrigger>CPullPush::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::DeletePropertySQL(${1:property},${2:iblock_element_id})]]></content>
+	<tabTrigger>CIBlockElement::DeletePropertySQL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

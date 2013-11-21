@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::__GetComponentsTree(${1:\$filterNamespace = false},${2:\$arNameFilter = false})]]></content>
+	<tabTrigger>CComponentUtil::__GetComponentsTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::FileAction()]]></content>
+	<tabTrigger>CMain::FileAction</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

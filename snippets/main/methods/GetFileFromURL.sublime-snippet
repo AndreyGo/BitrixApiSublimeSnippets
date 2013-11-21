@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetFileFromURL(${1:page},${2:\$get_index_page=null})]]></content>
+	<tabTrigger>GetFileFromURL</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

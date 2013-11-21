@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ILearnLesson::RelationUpdate(${1:parentLessonId},${2:childLessonId},${3:arProperties})]]></content>
+	<tabTrigger>ILearnLesson::RelationUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

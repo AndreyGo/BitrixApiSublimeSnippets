@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::Hidden(${1:userId},${2:\$ar = false})]]></content>
+	<tabTrigger>CCalendarSect::Hidden</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

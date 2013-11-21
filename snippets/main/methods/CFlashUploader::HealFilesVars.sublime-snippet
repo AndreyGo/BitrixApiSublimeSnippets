@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFlashUploader::HealFilesVars(${1:\$bKill = false})]]></content>
+	<tabTrigger>CFlashUploader::HealFilesVars</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteAnswer::Delete(${1:ID},${2:\$QUESTION_ID = false},${3:\$VOTE_ID = false})]]></content>
+	<tabTrigger>CVoteAnswer::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

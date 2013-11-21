@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMenu::Init(${1:InitDir},${2:\$bMenuExt=false},${3:\$template=false},${4:\$onlyCurrentDir=false})]]></content>
+	<tabTrigger>CMenu::Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

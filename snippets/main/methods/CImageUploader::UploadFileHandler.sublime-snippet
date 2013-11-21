@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CImageUploader::UploadFileHandler(${1:callback},${2:Params})]]></content>
+	<tabTrigger>CImageUploader::UploadFileHandler</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

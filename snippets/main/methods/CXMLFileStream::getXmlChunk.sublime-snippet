@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLFileStream::getXmlChunk(${1:\$bMB = false})]]></content>
+	<tabTrigger>CXMLFileStream::getXmlChunk</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

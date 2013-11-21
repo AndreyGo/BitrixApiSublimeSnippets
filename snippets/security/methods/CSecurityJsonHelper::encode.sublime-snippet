@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityJsonHelper::encode(${1:content},${2:\$options = null})]]></content>
+	<tabTrigger>CSecurityJsonHelper::encode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

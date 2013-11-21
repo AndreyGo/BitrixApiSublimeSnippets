@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanCopy::SaveConfig(${1:arConfig})]]></content>
+	<tabTrigger>CFilemanCopy::SaveConfig</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

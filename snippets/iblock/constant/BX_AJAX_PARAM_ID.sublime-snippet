@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_AJAX_PARAM_ID]]></content>
+	<tabTrigger>BX_AJAX_PARAM_ID</tabTrigger>
+	<description>Bitrix CIBlock::GetPanelButtons</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixOAuthInterface::__construct(${1:appID},${2:appSecret},${3:portalURI},${4:\$code = false})]]></content>
+	<tabTrigger>CBitrixOAuthInterface::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

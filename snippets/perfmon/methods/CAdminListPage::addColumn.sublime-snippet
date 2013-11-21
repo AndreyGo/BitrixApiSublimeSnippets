@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminListPage::addColumn(${1:CAdminListColumn column})]]></content>
+	<tabTrigger>CAdminListPage::addColumn</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

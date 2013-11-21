@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnQuoteEx(${1:&str},${2:key},${3:params})]]></content>
+	<tabTrigger>UnQuoteEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

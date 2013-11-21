@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSaleOrderSumm]]></content>
+	<tabTrigger>OnSaleOrderSumm</tabTrigger>
+	<description>Bitrix CCatalogDiscountSave::__SaleOrderSumm</description>
+	<scope>source.php</scope>
+</snippet>

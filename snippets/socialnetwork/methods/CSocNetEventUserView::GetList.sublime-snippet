@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetEventUserView::GetList(${1:\$arOrder = Array("ENTITY_ID" => "DESC")},${2:\$arFilter = Array()},${3:\$arGroupBy = false},${4:\$arNavStartParams = false},${5:\$arSelectFields = array()})]]></content>
+	<tabTrigger>CSocNetEventUserView::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

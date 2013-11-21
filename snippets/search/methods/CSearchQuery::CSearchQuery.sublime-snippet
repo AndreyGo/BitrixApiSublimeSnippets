@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchQuery::CSearchQuery(${1:\$default_query_type = "and"},${2:\$rus_bool_lang = "yes"},${3:\$m_casematch = 0},${4:\$site_id = ""})]]></content>
+	<tabTrigger>CSearchQuery::CSearchQuery</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

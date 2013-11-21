@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDirScan::ProcessDirAfter(${1:f})]]></content>
+	<tabTrigger>CDirScan::ProcessDirAfter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

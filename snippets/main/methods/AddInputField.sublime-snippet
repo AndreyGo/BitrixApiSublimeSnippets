@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[AddInputField(${1:id},${2:\$arAttributes = Array()})]]></content>
+	<tabTrigger>AddInputField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

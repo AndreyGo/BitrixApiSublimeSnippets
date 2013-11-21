@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogComments::GetByID(${1:ID})]]></content>
+	<tabTrigger>CSocNetLogComments::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

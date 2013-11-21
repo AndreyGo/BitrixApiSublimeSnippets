@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetCrmFlagFilter(${1:FID},${2:\$field="class=\"inputselect\""})]]></content>
+	<tabTrigger>CForm::GetCrmFlagFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

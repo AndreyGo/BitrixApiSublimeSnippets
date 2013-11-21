@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumUser::Update(${1:ID},${2:arFields},${3:\$strUploadDir = false},${4:\$UpdateByUserId = false})]]></content>
+	<tabTrigger>CForumUser::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

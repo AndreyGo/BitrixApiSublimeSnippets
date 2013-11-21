@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDatabase::Update(${1:table},${2:arFields},${3:\$WHERE=""},${4:\$error_position=""},${5:\$DEBUG=false},${6:\$ignore_errors=false},${7:\$additional_check=true})]]></content>
+	<tabTrigger>CDatabase::Update</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

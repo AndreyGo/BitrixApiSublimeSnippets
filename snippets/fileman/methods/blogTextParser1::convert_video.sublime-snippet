@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::convert_video(${1:params},${2:path})]]></content>
+	<tabTrigger>blogTextParser1::convert_video</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

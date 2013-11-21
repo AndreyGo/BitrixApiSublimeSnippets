@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::GetGroups(${1:\$arOperations = false},${2:\$opMode = false})]]></content>
+	<tabTrigger>CIBlockRights::GetGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

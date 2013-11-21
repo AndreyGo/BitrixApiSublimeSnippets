@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[LearnException::learning_log_exception(${1:message},${2:code},${3:line},${4:file},${5:backtrace})]]></content>
+	<tabTrigger>LearnException::learning_log_exception</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

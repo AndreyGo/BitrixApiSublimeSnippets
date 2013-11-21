@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUserTypeFile::__GetFileContent(${1:FILE_ID})]]></content>
+	<tabTrigger>CUserTypeFile::__GetFileContent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

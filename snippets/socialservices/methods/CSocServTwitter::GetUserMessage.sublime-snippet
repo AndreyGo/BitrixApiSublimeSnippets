@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServTwitter::GetUserMessage(${1:socServUserArray},${2:\$sinceId = '1'})]]></content>
+	<tabTrigger>CSocServTwitter::GetUserMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

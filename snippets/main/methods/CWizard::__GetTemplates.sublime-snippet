@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizard::__GetTemplates()]]></content>
+	<tabTrigger>CWizard::__GetTemplates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

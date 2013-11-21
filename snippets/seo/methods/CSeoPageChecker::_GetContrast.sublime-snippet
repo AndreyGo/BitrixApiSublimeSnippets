@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSeoPageChecker::_GetContrast(${1:word})]]></content>
+	<tabTrigger>CSeoPageChecker::_GetContrast</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

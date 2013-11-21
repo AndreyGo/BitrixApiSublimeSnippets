@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketReminder::RecalculateLastMessageDeadline(${1:\$RSD = true})]]></content>
+	<tabTrigger>CTicketReminder::RecalculateLastMessageDeadline</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPullPush::Add(${1:\$arFields = Array()})]]></content>
+	<tabTrigger>CPullPush::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CUpdateSystem::IsGzipInstalled()]]></content>
+	<tabTrigger>CUpdateSystem::IsGzipInstalled</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

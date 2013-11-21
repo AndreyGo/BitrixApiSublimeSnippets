@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlock::MkOperationFilter(${1:key})]]></content>
+	<tabTrigger>CIBlock::MkOperationFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

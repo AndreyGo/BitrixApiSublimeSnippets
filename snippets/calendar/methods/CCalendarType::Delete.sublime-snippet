@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarType::Delete(${1:XML_ID})]]></content>
+	<tabTrigger>CCalendarType::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

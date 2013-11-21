@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetable::GetList(${1:\$arSort = null},${2:\$arFilter = null})]]></content>
+	<tabTrigger>CSupportTimetable::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

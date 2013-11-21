@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetShowSettings(${1:v})]]></content>
+	<tabTrigger>SetShowSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogLoad::SetLastUsed(${1:NAME},${2:TYPE})]]></content>
+	<tabTrigger>CCatalogLoad::SetLastUsed</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

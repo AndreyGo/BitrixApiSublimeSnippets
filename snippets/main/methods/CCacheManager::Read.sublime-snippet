@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCacheManager::Read(${1:ttl},${2:uniqid},${3:\$table_id=false})]]></content>
+	<tabTrigger>CCacheManager::Read</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarEvent::__GetUFForParseText(${1:\$eventId = 0},${2:\$arUFWDValue = array()})]]></content>
+	<tabTrigger>CCalendarEvent::__GetUFForParseText</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

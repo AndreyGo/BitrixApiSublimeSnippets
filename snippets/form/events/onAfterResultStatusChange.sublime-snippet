@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterResultStatusChange]]></content>
+	<tabTrigger>onAfterResultStatusChange</tabTrigger>
+	<description>Bitrix CFormResult::SetStatus</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormValidator::SetBatch(${1:WEB_FORM_ID},${2:FIELD_ID},${3:arValidators})]]></content>
+	<tabTrigger>CFormValidator::SetBatch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

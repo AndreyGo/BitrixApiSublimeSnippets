@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockResult::SetUrlTemplates(${1:\$DetailUrl = ""},${2:\$SectionUrl = ""},${3:\$ListUrl = ""})]]></content>
+	<tabTrigger>CIBlockResult::SetUrlTemplates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

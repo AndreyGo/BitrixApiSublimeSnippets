@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::GetNumberOfWorkflowTemplatesForDocumentType(${1:documentType})]]></content>
+	<tabTrigger>CBPDocument::GetNumberOfWorkflowTemplatesForDocumentType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

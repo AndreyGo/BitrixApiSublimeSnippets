@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[convert_to_href(${1:url},${2:\$link_class=""},${3:\$event1=""},${4:\$event2=""},${5:\$event3=""},${6:\$script=""},${7:\$link_target="_self"})]]></content>
+	<tabTrigger>convert_to_href</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

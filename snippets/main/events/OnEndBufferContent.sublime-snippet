@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnEndBufferContent]]></content>
+	<tabTrigger>OnEndBufferContent</tabTrigger>
+	<description>Bitrix CMain::EndBufferContent</description>
+	<scope>source.php</scope>
+</snippet>

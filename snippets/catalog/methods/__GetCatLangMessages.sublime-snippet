@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__GetCatLangMessages(${1:strBefore},${2:strAfter},${3:MessID},${4:\$strDefMess = false},${5:\$arLangList = array()})]]></content>
+	<tabTrigger>__GetCatLangMessages</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

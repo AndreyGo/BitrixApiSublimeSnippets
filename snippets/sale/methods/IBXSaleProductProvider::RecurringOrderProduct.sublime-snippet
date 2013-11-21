@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXSaleProductProvider::RecurringOrderProduct(${1:arFields})]]></content>
+	<tabTrigger>IBXSaleProductProvider::RecurringOrderProduct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

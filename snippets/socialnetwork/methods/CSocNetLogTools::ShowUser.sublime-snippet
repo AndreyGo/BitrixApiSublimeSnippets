@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::ShowUser(${1:arEntityDesc},${2:strEntityURL},${3:arParams})]]></content>
+	<tabTrigger>CSocNetLogTools::ShowUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

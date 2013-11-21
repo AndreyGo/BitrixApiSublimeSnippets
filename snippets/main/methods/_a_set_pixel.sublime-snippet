@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[_a_set_pixel(${1:im},${2:x},${3:y},${4:filled},${5:fgcolors})]]></content>
+	<tabTrigger>_a_set_pixel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

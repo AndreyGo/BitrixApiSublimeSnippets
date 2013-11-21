@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::setConsentBaseUrl(${1:consenturl})]]></content>
+	<tabTrigger>WindowsLiveLogin::setConsentBaseUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

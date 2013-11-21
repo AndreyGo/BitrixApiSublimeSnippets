@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogUser::IsLocked(${1:userID})]]></content>
+	<tabTrigger>CBlogUser::IsLocked</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

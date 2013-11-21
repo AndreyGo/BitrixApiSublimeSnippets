@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRsaBcmathProvider::powmod(${1:n},${2:p},${3:m})]]></content>
+	<tabTrigger>CRsaBcmathProvider::powmod</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

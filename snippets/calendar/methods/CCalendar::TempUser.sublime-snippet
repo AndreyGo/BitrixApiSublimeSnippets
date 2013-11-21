@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::TempUser(${1:\$TmpUser = false},${2:\$create = true},${3:\$ID = false})]]></content>
+	<tabTrigger>CCalendar::TempUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

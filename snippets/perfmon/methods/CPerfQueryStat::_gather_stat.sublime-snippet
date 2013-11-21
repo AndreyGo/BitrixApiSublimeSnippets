@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQueryStat::_gather_stat(${1:table},${2:column},${3:value},${4:\$max_size = -1})]]></content>
+	<tabTrigger>CPerfQueryStat::_gather_stat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

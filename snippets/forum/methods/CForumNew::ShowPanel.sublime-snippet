@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNew::ShowPanel(${1:FID},${2:\$TID=0},${3:\$bGetIcons=false})]]></content>
+	<tabTrigger>CForumNew::ShowPanel</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeOrderAccountNumberSet]]></content>
+	<tabTrigger>OnBeforeOrderAccountNumberSet</tabTrigger>
+	<description>Bitrix CSaleOrder::SetAccountNumber</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWizardBase::GetFinishStepID()]]></content>
+	<tabTrigger>CWizardBase::GetFinishStepID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

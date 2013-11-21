@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketReminder::RecalculateSupportDeadlineForOneTicket(${1:arTicket},${2:\$arFields = array()},${3:\$dateType = array("EVENT"=>array(CTicket::IGNORE))})]]></content>
+	<tabTrigger>CTicketReminder::RecalculateSupportDeadlineForOneTicket</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

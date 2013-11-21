@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscountConvert::SaveStep()]]></content>
+	<tabTrigger>CCatalogDiscountConvert::SaveStep</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

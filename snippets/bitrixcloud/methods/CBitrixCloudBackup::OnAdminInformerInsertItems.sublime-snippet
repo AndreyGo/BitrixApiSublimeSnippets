@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudBackup::OnAdminInformerInsertItems()]]></content>
+	<tabTrigger>CBitrixCloudBackup::OnAdminInformerInsertItems</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

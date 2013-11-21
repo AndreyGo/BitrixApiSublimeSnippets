@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnLesson::GetFilter(${1:\$arFilter = array()},${2:mode})]]></content>
+	<tabTrigger>CLearnLesson::GetFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

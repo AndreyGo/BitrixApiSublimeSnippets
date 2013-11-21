@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForm::GetDropDownField(${1:FIELD_NAME},${2:arDropDown},${3:VALUE},${4:\$PARAM=""})]]></content>
+	<tabTrigger>CForm::GetDropDownField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

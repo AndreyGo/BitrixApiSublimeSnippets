@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetSearch::BeforeIndex(${1:arFields})]]></content>
+	<tabTrigger>CSocNetSearch::BeforeIndex</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

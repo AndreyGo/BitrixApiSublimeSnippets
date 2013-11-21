@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::GetRealParameterValue(${1:objectName},${2:fieldName},${3:&\$result})]]></content>
+	<tabTrigger>CBPActivity::GetRealParameterValue</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminSubList::AddFieldNames(${1:strFieldName},${2:strFieldType})]]></content>
+	<tabTrigger>CAdminSubList::AddFieldNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

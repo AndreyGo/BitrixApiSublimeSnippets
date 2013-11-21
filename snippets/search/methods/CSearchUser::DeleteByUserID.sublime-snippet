@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearchUser::DeleteByUserID(${1:USER_ID})]]></content>
+	<tabTrigger>CSearchUser::DeleteByUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

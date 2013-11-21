@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocServAuth::Delete(${1:id})]]></content>
+	<tabTrigger>CSocServAuth::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

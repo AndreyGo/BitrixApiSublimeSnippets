@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::NavStart(${1:\$nPageSize=0},${2:\$bShowAll=true},${3:\$iNumPage=false})]]></content>
+	<tabTrigger>CSearch::NavStart</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

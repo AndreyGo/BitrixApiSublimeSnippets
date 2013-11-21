@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CControllerClient::SetBackup(${1:arBackup})]]></content>
+	<tabTrigger>CControllerClient::SetBackup</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetType()]]></content>
+	<tabTrigger>CCalendar::GetType</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

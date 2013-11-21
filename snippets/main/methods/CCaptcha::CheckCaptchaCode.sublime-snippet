@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::CheckCaptchaCode(${1:userCode},${2:sid},${3:\$bUpperCode = true})]]></content>
+	<tabTrigger>CCaptcha::CheckCaptchaCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

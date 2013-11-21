@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormCrm::_addField(${1:FORM_ID},${2:CRM_ID},${3:crm_field})]]></content>
+	<tabTrigger>CFormCrm::_addField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

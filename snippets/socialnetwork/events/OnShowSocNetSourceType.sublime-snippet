@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnShowSocNetSourceType]]></content>
+	<tabTrigger>OnShowSocNetSourceType</tabTrigger>
+	<description>Bitrix CSocNetLogTools::ShowSourceType</description>
+	<scope>source.php</scope>
+</snippet>

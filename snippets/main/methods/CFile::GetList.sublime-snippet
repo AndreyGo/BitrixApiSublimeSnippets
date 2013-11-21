@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFile::GetList(${1:\$arOrder = array()},${2:\$arFilter = array()})]]></content>
+	<tabTrigger>CFile::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

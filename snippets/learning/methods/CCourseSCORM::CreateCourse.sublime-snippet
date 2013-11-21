@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCourseSCORM::CreateCourse()]]></content>
+	<tabTrigger>CCourseSCORM::CreateCourse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

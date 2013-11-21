@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetNotifySchema::OnGetNotifySchema()]]></content>
+	<tabTrigger>CSocNetNotifySchema::OnGetNotifySchema</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

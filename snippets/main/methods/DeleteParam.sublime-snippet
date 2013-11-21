@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DeleteParam(${1:ParamNames})]]></content>
+	<tabTrigger>DeleteParam</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

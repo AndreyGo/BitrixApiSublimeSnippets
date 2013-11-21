@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNLocation::addService(${1:file_class},${2:server_group})]]></content>
+	<tabTrigger>CBitrixCloudCDNLocation::addService</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

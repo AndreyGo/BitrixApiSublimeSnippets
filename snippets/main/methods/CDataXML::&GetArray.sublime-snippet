@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDataXML::&GetArray()]]></content>
+	<tabTrigger>CDataXML::&GetArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

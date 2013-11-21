@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBlogCandidate::GetByID(${1:ID})]]></content>
+	<tabTrigger>CBlogCandidate::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

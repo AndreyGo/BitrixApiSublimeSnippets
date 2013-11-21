@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAjax::GetFormEvent(${1:container_id})]]></content>
+	<tabTrigger>CAjax::GetFormEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

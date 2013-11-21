@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMEvent::OnGetDependentModule()]]></content>
+	<tabTrigger>CIMEvent::OnGetDependentModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

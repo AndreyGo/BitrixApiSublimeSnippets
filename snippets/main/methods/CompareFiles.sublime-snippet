@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CompareFiles(${1:f1},${2:f2},${3:\$sort=array()})]]></content>
+	<tabTrigger>CompareFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

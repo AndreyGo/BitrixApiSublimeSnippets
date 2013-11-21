@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ini_get_bool(${1:param})]]></content>
+	<tabTrigger>ini_get_bool</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

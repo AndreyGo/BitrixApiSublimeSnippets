@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondTree::Parse(${1:\$arData = ''},${2:\$arParams = false})]]></content>
+	<tabTrigger>CGlobalCondTree::Parse</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TR_BACKUP(${1:file})]]></content>
+	<tabTrigger>TR_BACKUP</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

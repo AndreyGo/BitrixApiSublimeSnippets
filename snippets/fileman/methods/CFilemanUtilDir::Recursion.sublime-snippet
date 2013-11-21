@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFilemanUtilDir::Recursion(${1:dir})]]></content>
+	<tabTrigger>CFilemanUtilDir::Recursion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

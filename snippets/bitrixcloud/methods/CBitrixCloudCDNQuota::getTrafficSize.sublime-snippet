@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudCDNQuota::getTrafficSize()]]></content>
+	<tabTrigger>CBitrixCloudCDNQuota::getTrafficSize</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTimetableCache::MergeIntervals(${1:arr})]]></content>
+	<tabTrigger>CSupportTimetableCache::MergeIntervals</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

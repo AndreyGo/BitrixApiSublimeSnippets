@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAutoCheck::CheckPerfomance(${1:arParams})]]></content>
+	<tabTrigger>CAutoCheck::CheckPerfomance</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

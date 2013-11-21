@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::InitCaptchaCode(${1:sid})]]></content>
+	<tabTrigger>CCaptcha::InitCaptchaCode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

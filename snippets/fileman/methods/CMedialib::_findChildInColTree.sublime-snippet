@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMedialib::_findChildInColTree(${1:&arr},${2:id},${3:colId})]]></content>
+	<tabTrigger>CMedialib::_findChildInColTree</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

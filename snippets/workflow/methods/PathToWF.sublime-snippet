@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[PathToWF(${1:text},${2:DOCUMENT_ID})]]></content>
+	<tabTrigger>PathToWF</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

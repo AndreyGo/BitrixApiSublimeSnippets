@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRights::_get_parent_object(${1:id})]]></content>
+	<tabTrigger>CIBlockRights::_get_parent_object</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

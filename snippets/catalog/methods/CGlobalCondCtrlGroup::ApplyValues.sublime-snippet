@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrlGroup::ApplyValues(${1:arOneCondition},${2:arControl})]]></content>
+	<tabTrigger>CGlobalCondCtrlGroup::ApplyValues</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[blogTextParser1::convert_font_attr(${1:attr},${2:\$value = ""},${3:\$text = ""})]]></content>
+	<tabTrigger>blogTextParser1::convert_font_attr</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

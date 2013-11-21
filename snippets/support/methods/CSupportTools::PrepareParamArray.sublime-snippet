@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportTools::PrepareParamArray(${1:param},${2:\$res = array()})]]></content>
+	<tabTrigger>CSupportTools::PrepareParamArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CWikiDocument::CanUserOperateDocument(${1:operation},${2:userId},${3:documentId},${4:\$arParameters = array()})]]></content>
+	<tabTrigger>CWikiDocument::CanUserOperateDocument</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteCheckerTest::check_pcre_recursion()]]></content>
+	<tabTrigger>CSiteCheckerTest::check_pcre_recursion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

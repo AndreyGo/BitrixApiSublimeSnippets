@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::__ShowInlineCssIE(${1:filename},${2:css_path},${3:ruleCount})]]></content>
+	<tabTrigger>CMain::__ShowInlineCssIE</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

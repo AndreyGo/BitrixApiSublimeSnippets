@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::UpdateVoteUserID(${1:VOTE_USER_ID})]]></content>
+	<tabTrigger>CVote::UpdateVoteUserID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

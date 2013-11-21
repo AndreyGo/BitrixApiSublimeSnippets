@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_ICONV_DISABLE]]></content>
+	<tabTrigger>BX_ICONV_DISABLE</tabTrigger>
+	<description>Bitrix CharsetConverter::ConvertCharset</description>
+	<scope>source.php</scope>
+</snippet>

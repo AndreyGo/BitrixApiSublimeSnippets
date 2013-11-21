@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::GetSiteByFullPath(${1:path},${2:\$bOneResult = true})]]></content>
+	<tabTrigger>CSite::GetSiteByFullPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

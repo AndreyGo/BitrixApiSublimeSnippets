@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCryptrc4::__Init(${1:key})]]></content>
+	<tabTrigger>CCryptrc4::__Init</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BX_FORK_AGENTS_AND_EVENTS_FUNCTION_STARTED]]></content>
+	<tabTrigger>BX_FORK_AGENTS_AND_EVENTS_FUNCTION_STARTED</tabTrigger>
+	<description>Bitrix CMain::ForkActions</description>
+	<scope>source.php</scope>
+</snippet>

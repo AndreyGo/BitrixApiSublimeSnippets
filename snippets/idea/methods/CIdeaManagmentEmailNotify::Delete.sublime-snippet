@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIdeaManagmentEmailNotify::Delete(${1:Entity},${2:\$UserId = false})]]></content>
+	<tabTrigger>CIdeaManagmentEmailNotify::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

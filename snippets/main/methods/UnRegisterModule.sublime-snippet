@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UnRegisterModule(${1:id})]]></content>
+	<tabTrigger>UnRegisterModule</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

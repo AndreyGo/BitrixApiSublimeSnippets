@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumPrivateMessage::GetNewPM(${1:\$FOLDER_ID = false})]]></content>
+	<tabTrigger>CForumPrivateMessage::GetNewPM</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

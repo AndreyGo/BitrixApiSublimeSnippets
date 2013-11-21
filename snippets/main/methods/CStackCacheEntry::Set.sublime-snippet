@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CStackCacheEntry::Set(${1:id},${2:value})]]></content>
+	<tabTrigger>CStackCacheEntry::Set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

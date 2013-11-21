@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleTaxRate::Delete(${1:ID})]]></content>
+	<tabTrigger>CSaleTaxRate::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

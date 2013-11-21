@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPServerHost::RemoveConnection(${1:id})]]></content>
+	<tabTrigger>CSMTPServerHost::RemoveConnection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

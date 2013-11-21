@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBaseSaleReportHelper::isCatalogCorrespondsDefSite(${1:catalogId})]]></content>
+	<tabTrigger>CBaseSaleReportHelper::isCatalogCorrespondsDefSite</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

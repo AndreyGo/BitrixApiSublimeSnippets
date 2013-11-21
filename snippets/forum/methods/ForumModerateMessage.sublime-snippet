@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ForumModerateMessage(${1:message},${2:TYPE},${3:&\$strErrorMessage},${4:&\$strOKMessage},${5:\$arAddParams = array()})]]></content>
+	<tabTrigger>ForumModerateMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

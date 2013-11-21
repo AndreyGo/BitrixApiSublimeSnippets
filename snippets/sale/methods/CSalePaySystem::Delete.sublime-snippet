@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSalePaySystem::Delete(${1:ID})]]></content>
+	<tabTrigger>CSalePaySystem::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

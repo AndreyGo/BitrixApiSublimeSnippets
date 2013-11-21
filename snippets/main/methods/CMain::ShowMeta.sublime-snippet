@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMain::ShowMeta(${1:id},${2:\$meta_name=false},${3:\$bXhtmlStyle=true})]]></content>
+	<tabTrigger>CMain::ShowMeta</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

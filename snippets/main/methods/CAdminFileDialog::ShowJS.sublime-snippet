@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFileDialog::ShowJS(${1:Params})]]></content>
+	<tabTrigger>CAdminFileDialog::ShowJS</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

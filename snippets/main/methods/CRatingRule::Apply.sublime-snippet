@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CRatingRule::Apply(${1:ID})]]></content>
+	<tabTrigger>CRatingRule::Apply</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

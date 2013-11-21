@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::FormatNameEx(${1:name},${2:secondName},${3:lastName},${4:login},${5:email},${6:id})]]></content>
+	<tabTrigger>CSocNetUser::FormatNameEx</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

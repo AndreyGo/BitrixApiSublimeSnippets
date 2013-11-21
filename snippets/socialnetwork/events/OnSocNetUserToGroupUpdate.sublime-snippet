@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnSocNetUserToGroupUpdate]]></content>
+	<tabTrigger>OnSocNetUserToGroupUpdate</tabTrigger>
+	<description>Bitrix CSocNetUserToGroup::Update</description>
+	<scope>source.php</scope>
+</snippet>

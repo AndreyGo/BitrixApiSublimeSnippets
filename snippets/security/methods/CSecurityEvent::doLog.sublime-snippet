@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityEvent::doLog(${1:severity},${2:auditType},${3:itemName},${4:itemDescription})]]></content>
+	<tabTrigger>CSecurityEvent::doLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFileMan::SetPropstypes(${1:\$arPT = Array()},${2:\$desc = false},${3:\$site = ""})]]></content>
+	<tabTrigger>CFileMan::SetPropstypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

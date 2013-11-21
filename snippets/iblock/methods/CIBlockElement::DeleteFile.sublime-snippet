@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockElement::DeleteFile(${1:FILE_ID},${2:ELEMENT_ID},${3:\$TYPE = false},${4:\$PARENT_ID = -1},${5:\$IBLOCK_ID = false},${6:\$bCheckOnly = false})]]></content>
+	<tabTrigger>CIBlockElement::DeleteFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

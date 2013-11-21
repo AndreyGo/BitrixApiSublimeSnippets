@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXFeatures::ModifyFeaturesSettings(${1:arEditions},${2:arFeatures})]]></content>
+	<tabTrigger>CBXFeatures::ModifyFeaturesSettings</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

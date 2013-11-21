@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSupportSearch::performAllTicketsIndexing(${1:\$startFromId = 0},${2:\$timeLimit = 10},${3:\$removeOldIndex = false})]]></content>
+	<tabTrigger>CSupportSearch::performAllTicketsIndexing</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onAfterUserUpdate]]></content>
+	<tabTrigger>onAfterUserUpdate</tabTrigger>
+	<description>Bitrix CForumUser::Update</description>
+	<scope>source.php</scope>
+</snippet>

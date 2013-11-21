@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPTaskResult::Fetch()]]></content>
+	<tabTrigger>CBPTaskResult::Fetch</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

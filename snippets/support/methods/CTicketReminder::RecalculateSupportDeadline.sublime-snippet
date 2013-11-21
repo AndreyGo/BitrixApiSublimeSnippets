@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicketReminder::RecalculateSupportDeadline(${1:\$arFilter = array()})]]></content>
+	<tabTrigger>CTicketReminder::RecalculateSupportDeadline</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

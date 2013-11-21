@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CArchiver::_writeBlock(${1:v_binary_data},${2:\$iLen = false})]]></content>
+	<tabTrigger>CArchiver::_writeBlock</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

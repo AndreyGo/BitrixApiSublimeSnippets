@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__InsertStateHack(${1:id},${2:moduleId},${3:entity},${4:documentId},${5:templateId},${6:state},${7:stateTitle},${8:stateParameters},${9:arStatePermissions})]]></content>
+	<tabTrigger>__InsertStateHack</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCurrencyRates::_get_last_rates(${1:valDate},${2:cur})]]></content>
+	<tabTrigger>CCurrencyRates::_get_last_rates</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

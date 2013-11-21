@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetGroupMembers(${1:groupId})]]></content>
+	<tabTrigger>CCalendar::GetGroupMembers</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

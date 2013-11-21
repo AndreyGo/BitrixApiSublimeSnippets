@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnTaskUpdate]]></content>
+	<tabTrigger>OnTaskUpdate</tabTrigger>
+	<description>Bitrix Update</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGroup::GetDropDownList(${1:\$strSqlSearch="and ACTIVE='Y'"},${2:\$strSqlOrder="ORDER BY C_SORT},${3:NAME},${4:ID"})]]></content>
+	<tabTrigger>CGroup::GetDropDownList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

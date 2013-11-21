@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendarSect::CreateDefault(${1:\$Params = array()})]]></content>
+	<tabTrigger>CCalendarSect::CreateDefault</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

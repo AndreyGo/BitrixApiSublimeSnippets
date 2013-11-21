@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CLearnGraphNode::Remove(${1:id})]]></content>
+	<tabTrigger>CLearnGraphNode::Remove</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onFormValidatorBuildList]]></content>
+	<tabTrigger>onFormValidatorBuildList</tabTrigger>
+	<description>Bitrix CFormValidator::GetAllList</description>
+	<scope>source.php</scope>
+</snippet>

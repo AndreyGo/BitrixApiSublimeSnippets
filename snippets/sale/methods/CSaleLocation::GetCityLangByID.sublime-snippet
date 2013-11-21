@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleLocation::GetCityLangByID(${1:ID},${2:\$strLang = LANGUAGE_ID})]]></content>
+	<tabTrigger>CSaleLocation::GetCityLangByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

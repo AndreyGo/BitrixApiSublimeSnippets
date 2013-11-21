@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogDiscount::__ConvertOldOneEntity(${1:&arFields},${2:strEntityID})]]></content>
+	<tabTrigger>CCatalogDiscount::__ConvertOldOneEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

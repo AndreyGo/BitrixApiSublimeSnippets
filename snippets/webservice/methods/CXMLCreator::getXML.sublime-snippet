@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CXMLCreator::getXML()]]></content>
+	<tabTrigger>CXMLCreator::getXML</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

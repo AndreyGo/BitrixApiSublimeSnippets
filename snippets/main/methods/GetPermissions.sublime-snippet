@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GetPermissions()]]></content>
+	<tabTrigger>GetPermissions</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

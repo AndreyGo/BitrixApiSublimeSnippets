@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMHistory::GetMoreChatMessage(${1:pageId},${2:chatId},${3:\$bTimeZone = true})]]></content>
+	<tabTrigger>CIMHistory::GetMoreChatMessage</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

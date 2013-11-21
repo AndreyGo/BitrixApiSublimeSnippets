@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::GetACNames()]]></content>
+	<tabTrigger>CBPActivity::GetACNames</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

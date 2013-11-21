@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminFilter::GetList(${1:\$aSort=array()},${2:\$arFilter=Array()},${3:\$getCommon=true})]]></content>
+	<tabTrigger>CAdminFilter::GetList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

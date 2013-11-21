@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUser::OnBeforeUserUpdate(${1:&arFields})]]></content>
+	<tabTrigger>CSocNetUser::OnBeforeUserUpdate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnAfterContactListGetList]]></content>
+	<tabTrigger>OnAfterContactListGetList</tabTrigger>
+	<description>Bitrix CIMContactList::GetList</description>
+	<scope>source.php</scope>
+</snippet>

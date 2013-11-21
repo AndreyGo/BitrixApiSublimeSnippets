@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleOrderUserProps::DoSaveUserProfile(${1:userId},${2:profileId},${3:profileName},${4:personTypeId},${5:orderProps},${6:&\$arErrors})]]></content>
+	<tabTrigger>CSaleOrderUserProps::DoSaveUserProfile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

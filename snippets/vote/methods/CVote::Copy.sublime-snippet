@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVote::Copy(${1:ID})]]></content>
+	<tabTrigger>CVote::Copy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

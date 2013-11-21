@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CDebugInfo::Start()]]></content>
+	<tabTrigger>CDebugInfo::Start</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

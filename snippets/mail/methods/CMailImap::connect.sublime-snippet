@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailImap::connect(${1:host},${2:port},${3:\$timeout = 1})]]></content>
+	<tabTrigger>CMailImap::connect</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

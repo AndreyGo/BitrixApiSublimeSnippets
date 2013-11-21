@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[COdnoklassnikiInterface::GetAuthUrl(${1:redirect_uri},${2:\$state=''})]]></content>
+	<tabTrigger>COdnoklassnikiInterface::GetAuthUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

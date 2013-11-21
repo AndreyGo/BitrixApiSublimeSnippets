@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPActivity::ValidateChild(${1:childActivity},${2:\$bFirstChild = false})]]></content>
+	<tabTrigger>CBPActivity::ValidateChild</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

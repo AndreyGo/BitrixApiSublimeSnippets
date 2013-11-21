@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMailLog::Delete(${1:ID})]]></content>
+	<tabTrigger>CMailLog::Delete</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

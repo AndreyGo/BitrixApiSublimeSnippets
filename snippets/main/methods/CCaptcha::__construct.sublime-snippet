@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCaptcha::__construct()]]></content>
+	<tabTrigger>CCaptcha::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

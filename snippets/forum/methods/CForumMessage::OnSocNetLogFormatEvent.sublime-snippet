@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumMessage::OnSocNetLogFormatEvent(${1:arEvent},${2:arParams})]]></content>
+	<tabTrigger>CForumMessage::OnSocNetLogFormatEvent</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

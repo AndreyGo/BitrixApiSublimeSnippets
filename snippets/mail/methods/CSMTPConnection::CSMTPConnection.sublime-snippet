@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::CSMTPConnection(${1:id},${2:sock},${3:serv})]]></content>
+	<tabTrigger>CSMTPConnection::CSMTPConnection</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

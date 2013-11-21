@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCatalogEvent::GetAuditTypes()]]></content>
+	<tabTrigger>CCatalogEvent::GetAuditTypes</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

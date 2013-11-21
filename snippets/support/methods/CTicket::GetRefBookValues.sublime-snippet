@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetRefBookValues(${1:type},${2:\$site_id=false})]]></content>
+	<tabTrigger>CTicket::GetRefBookValues</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

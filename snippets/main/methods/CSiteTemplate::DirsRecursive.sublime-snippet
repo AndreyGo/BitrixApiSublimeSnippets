@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSiteTemplate::DirsRecursive(${1:ID},${2:\$path=""},${3:\$depth=0},${4:\$maxDepth=1})]]></content>
+	<tabTrigger>CSiteTemplate::DirsRecursive</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

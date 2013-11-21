@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPAllWorkflowPersister::SaveWorkflow(${1:CBPActivity rootActivity},${2:bUnlocked})]]></content>
+	<tabTrigger>CBPAllWorkflowPersister::SaveWorkflow</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

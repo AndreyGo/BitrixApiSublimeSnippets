@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTimeZone::GetOffset(${1:\$USER_ID = null})]]></content>
+	<tabTrigger>CTimeZone::GetOffset</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

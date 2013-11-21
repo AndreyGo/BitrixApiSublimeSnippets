@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[__CatalogSetTimeMark(${1:text},${2:\$startStop = ""})]]></content>
+	<tabTrigger>__CatalogSetTimeMark</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

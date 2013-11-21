@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CEditArea::IncludeStringBefore()]]></content>
+	<tabTrigger>CEditArea::IncludeStringBefore</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

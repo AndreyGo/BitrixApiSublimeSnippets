@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::Check(${1:arOneCondition},${2:arParams},${3:arControl},${4:boolShow})]]></content>
+	<tabTrigger>CGlobalCondCtrl::Check</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

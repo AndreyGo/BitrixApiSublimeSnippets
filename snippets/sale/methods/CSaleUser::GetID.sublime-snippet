@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSaleUser::GetID(${1:\$bSkipFUserInit = False})]]></content>
+	<tabTrigger>CSaleUser::GetID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

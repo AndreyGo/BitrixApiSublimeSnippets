@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIMSettings::GetPrivacy(${1:type},${2:\$userId = false})]]></content>
+	<tabTrigger>CIMSettings::GetPrivacy</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

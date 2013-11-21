@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetLogTools::GetDataFromRatingEntity(${1:rating_entity_type_id},${2:rating_entity_id})]]></content>
+	<tabTrigger>CSocNetLogTools::GetDataFromRatingEntity</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

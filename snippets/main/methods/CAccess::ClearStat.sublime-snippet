@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAccess::ClearStat(${1:\$provider=false},${2:\$USER_ID=false})]]></content>
+	<tabTrigger>CAccess::ClearStat</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

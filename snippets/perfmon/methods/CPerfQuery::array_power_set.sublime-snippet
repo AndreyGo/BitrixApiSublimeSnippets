@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPerfQuery::array_power_set(${1:array})]]></content>
+	<tabTrigger>CPerfQuery::array_power_set</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

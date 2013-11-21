@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[IBXVirtualIO::OpenFile(${1:path},${2:mode})]]></content>
+	<tabTrigger>IBXVirtualIO::OpenFile</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

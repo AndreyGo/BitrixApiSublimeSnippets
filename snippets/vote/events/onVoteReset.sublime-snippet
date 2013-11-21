@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[onVoteReset]]></content>
+	<tabTrigger>onVoteReset</tabTrigger>
+	<description>Bitrix CVote::Reset</description>
+	<scope>source.php</scope>
+</snippet>

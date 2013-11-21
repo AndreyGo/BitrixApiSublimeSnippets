@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSearch::PrepareSearchResult(${1:str})]]></content>
+	<tabTrigger>CSearch::PrepareSearchResult</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

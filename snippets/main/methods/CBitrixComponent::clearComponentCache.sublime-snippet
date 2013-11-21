@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::clearComponentCache(${1:componentName},${2:\$siteId = ""})]]></content>
+	<tabTrigger>CBitrixComponent::clearComponentCache</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

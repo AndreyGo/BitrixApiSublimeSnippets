@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityIPRule::UpdateRuleIPs(${1:IPRULE_ID},${2:\$arInclIPs=false},${3:\$arExclIPs=false})]]></content>
+	<tabTrigger>CSecurityIPRule::UpdateRuleIPs</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

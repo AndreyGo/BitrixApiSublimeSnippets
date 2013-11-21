@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CAdminMobileDetail::setTitle(${1:strTitle})]]></content>
+	<tabTrigger>CAdminMobileDetail::setTitle</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSMTPConnection::WriteToLog(${1:txt},${2:level})]]></content>
+	<tabTrigger>CSMTPConnection::WriteToLog</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

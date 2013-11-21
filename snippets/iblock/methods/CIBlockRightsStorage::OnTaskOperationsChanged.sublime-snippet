@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CIBlockRightsStorage::OnTaskOperationsChanged(${1:TASK_ID},${2:arOld},${3:arNew})]]></content>
+	<tabTrigger>CIBlockRightsStorage::OnTaskOperationsChanged</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

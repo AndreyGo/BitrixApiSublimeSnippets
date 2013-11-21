@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoring::setInterval(${1:interval})]]></content>
+	<tabTrigger>CBitrixCloudMonitoring::setInterval</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

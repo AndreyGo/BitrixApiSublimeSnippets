@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CListField::Add(${1:iblock_id},${2:arFields})]]></content>
+	<tabTrigger>CListField::Add</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

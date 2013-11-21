@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WFToPath(${1:text})]]></content>
+	<tabTrigger>WFToPath</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

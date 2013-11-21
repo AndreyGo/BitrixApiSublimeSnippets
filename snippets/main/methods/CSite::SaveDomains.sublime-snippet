@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSite::SaveDomains(${1:LID},${2:domains})]]></content>
+	<tabTrigger>CSite::SaveDomains</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

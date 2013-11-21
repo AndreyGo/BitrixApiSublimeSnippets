@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CComponentUtil::GetDateFormatField(${1:\$name=""},${2:\$parent=""},${3:\$no_year = false})]]></content>
+	<tabTrigger>CComponentUtil::GetDateFormatField</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

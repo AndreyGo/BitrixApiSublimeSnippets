@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CPostingGeneral::UpdateGroups(${1:ID},${2:aGroup})]]></content>
+	<tabTrigger>CPostingGeneral::UpdateGroups</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

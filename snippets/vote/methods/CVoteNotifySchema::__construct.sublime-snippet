@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CVoteNotifySchema::__construct()]]></content>
+	<tabTrigger>CVoteNotifySchema::__construct</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBXPunycode::ComposeKorean(${1:input})]]></content>
+	<tabTrigger>CBXPunycode::ComposeKorean</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

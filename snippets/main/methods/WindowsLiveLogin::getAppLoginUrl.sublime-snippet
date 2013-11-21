@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[WindowsLiveLogin::getAppLoginUrl(${1:\$siteid=null},${2:\$ip=null},${3:\$js=null})]]></content>
+	<tabTrigger>WindowsLiveLogin::getAppLoginUrl</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

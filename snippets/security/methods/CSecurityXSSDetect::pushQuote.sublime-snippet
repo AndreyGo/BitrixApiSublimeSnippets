@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSecurityXSSDetect::pushQuote(${1:pQuote})]]></content>
+	<tabTrigger>CSecurityXSSDetect::pushQuote</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OnBeforeUserLoginByHash]]></content>
+	<tabTrigger>OnBeforeUserLoginByHash</tabTrigger>
+	<description>Bitrix CUser::LoginByHash</description>
+	<scope>source.php</scope>
+</snippet>

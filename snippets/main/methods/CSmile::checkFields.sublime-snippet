@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSmile::checkFields(${1:&arFields},${2:\$actionType = self::CHECK_TYPE_ADD})]]></content>
+	<tabTrigger>CSmile::checkFields</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

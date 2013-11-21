@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPWorkflow::Terminate(${1:Exception \$e = null})]]></content>
+	<tabTrigger>CBPWorkflow::Terminate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SetPublicMode(${1:\$jsObject = false})]]></content>
+	<tabTrigger>SetPublicMode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

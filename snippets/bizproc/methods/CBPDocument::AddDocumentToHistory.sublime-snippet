@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBPDocument::AddDocumentToHistory(${1:parameterDocumentId},${2:name},${3:userId})]]></content>
+	<tabTrigger>CBPDocument::AddDocumentToHistory</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[T_INCLUDE_RESULT_MODIFIER]]></content>
+	<tabTrigger>T_INCLUDE_RESULT_MODIFIER</tabTrigger>
+	<description>Bitrix CQAACheckListTests::defineScanParams</description>
+	<scope>source.php</scope>
+</snippet>

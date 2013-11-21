@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SALE_PROC_REC_NUM]]></content>
+	<tabTrigger>SALE_PROC_REC_NUM</tabTrigger>
+	<description>Bitrix CSaleRecurring::CheckRecurring</description>
+	<scope>source.php</scope>
+</snippet>

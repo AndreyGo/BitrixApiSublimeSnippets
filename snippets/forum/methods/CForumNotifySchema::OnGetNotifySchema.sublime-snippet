@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumNotifySchema::OnGetNotifySchema()]]></content>
+	<tabTrigger>CForumNotifySchema::OnGetNotifySchema</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

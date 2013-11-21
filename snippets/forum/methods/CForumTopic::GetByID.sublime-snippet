@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CForumTopic::GetByID(${1:ID},${2:\$arAddParams = array()})]]></content>
+	<tabTrigger>CForumTopic::GetByID</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

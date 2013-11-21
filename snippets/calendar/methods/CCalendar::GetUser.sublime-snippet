@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCalendar::GetUser(${1:userId},${2:\$bPhoto = false})]]></content>
+	<tabTrigger>CCalendar::GetUser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

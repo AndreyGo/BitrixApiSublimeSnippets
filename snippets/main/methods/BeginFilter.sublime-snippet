@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BeginFilter(${1:sID},${2:bFilterSet},${3:\$bShowStatus=true})]]></content>
+	<tabTrigger>BeginFilter</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

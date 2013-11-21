@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixCloudMonitoringTest::fromXMLNode(${1:CDataXMLNode node})]]></content>
+	<tabTrigger>CBitrixCloudMonitoringTest::fromXMLNode</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

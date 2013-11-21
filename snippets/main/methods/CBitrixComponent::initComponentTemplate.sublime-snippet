@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CBitrixComponent::initComponentTemplate(${1:\$templatePage = ""},${2:\$siteTemplate = false},${3:\$customTemplatePath = ""})]]></content>
+	<tabTrigger>CBitrixComponent::initComponentTemplate</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

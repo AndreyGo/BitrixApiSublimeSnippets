@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CMobile::setPgVersion(${1:pgVersion})]]></content>
+	<tabTrigger>CMobile::setPgVersion</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

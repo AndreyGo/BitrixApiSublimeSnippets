@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[logTextParser::logTextParser(${1:\$strLang = False},${2:\$pathToSmile = false})]]></content>
+	<tabTrigger>logTextParser::logTextParser</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

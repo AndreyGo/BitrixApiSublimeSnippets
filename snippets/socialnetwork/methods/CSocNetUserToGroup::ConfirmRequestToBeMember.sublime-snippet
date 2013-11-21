@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CSocNetUserToGroup::ConfirmRequestToBeMember(${1:userID},${2:groupID},${3:arRelationID},${4:\$bAutoSubscribe = true})]]></content>
+	<tabTrigger>CSocNetUserToGroup::ConfirmRequestToBeMember</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

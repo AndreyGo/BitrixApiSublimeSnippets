@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CGlobalCondCtrl::CheckLogic(${1:strValue},${2:arLogic},${3:\$boolShow = false})]]></content>
+	<tabTrigger>CGlobalCondCtrl::CheckLogic</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

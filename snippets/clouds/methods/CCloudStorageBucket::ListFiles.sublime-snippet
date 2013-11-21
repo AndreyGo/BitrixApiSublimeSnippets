@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CCloudStorageBucket::ListFiles(${1:\$filePath = "/"},${2:\$bRecursive = false})]]></content>
+	<tabTrigger>CCloudStorageBucket::ListFiles</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

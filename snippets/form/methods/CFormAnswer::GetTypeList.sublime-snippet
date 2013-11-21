@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CFormAnswer::GetTypeList()]]></content>
+	<tabTrigger>CFormAnswer::GetTypeList</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>

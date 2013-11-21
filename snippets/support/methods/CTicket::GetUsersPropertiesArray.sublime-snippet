@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CTicket::GetUsersPropertiesArray(${1:\$arUserIDs = array()},${2:\$arGuestIDs = array()})]]></content>
+	<tabTrigger>CTicket::GetUsersPropertiesArray</tabTrigger>
+	<description>Bitrix API</description>
+	<scope>source.php</scope>
+</snippet>
