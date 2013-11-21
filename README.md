@@ -7,5 +7,5 @@ BitrixApiSublimeSnippets
 Проект содержит сниппеты для констант, событий и методов.
 
 Есть так же снипптеы для компонентов
-https://github.com/AndreyGo/BitrixApiSublimeSnippets
+https://github.com/AndreyGo/SublimeBitrixSnippets
 
